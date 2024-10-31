@@ -17,6 +17,7 @@ router.get('/:name', async (req, res) => {
     const fileName = v2rayFiles.find(file => (file === req.params.name) || (file.split('.')[0] === req.params.name));
     const fileContent = fs.readFileSync(`proxies/v2ray/${fileName}`, { encoding: 'utf8' });
     const configs = fileContent.split('\n');
+    const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
     const amount = Number(req.query.amount) || Number(req.query.limit) || Number(req.query.count) || -1;
     const sliced = configs.slice(0, amount);
     const joined = sliced.join('\n');
@@ -24,7 +25,7 @@ router.get('/:name', async (req, res) => {
     if (req.query.decrypted == '') {
         res.status(200).send(joined);
     } else {
-        const encrypted = btoa(joined);
+        const encrypted = btoa(unescape(encodeURIComponent(joined)));
         res.status(200).send(encrypted);
     }
 })
