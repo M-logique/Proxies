@@ -37,10 +37,9 @@ jobs:
     
       
         
-        git add proxies
+        git add -A
     
         # Commit the changes
-        commit=$(python3 "${{ github.workspace }}/stuff/commit.py")
         (git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty)
     
         git push --force 
