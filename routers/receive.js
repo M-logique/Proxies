@@ -18,6 +18,7 @@ router.get('/:name', async (req, res) => {
     const fileContent = fs.readFileSync(`proxies/v2ray/${fileName}`, { encoding: 'utf8' });
     const configs = fileContent.split('\n');
     const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
+    console.log(protocolFiltered.length)
     const amount = Number(req.query.amount) || Number(req.query.limit) || Number(req.query.count) || -1;
     const sliced = protocolFiltered.slice(0, amount);
     const joined = sliced.join('\n');
