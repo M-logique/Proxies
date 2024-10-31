@@ -1,4 +1,4 @@
-name: Update balls
+name: Update proxies
 
 on:
   workflow_dispatch:
