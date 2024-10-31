@@ -3,7 +3,7 @@ name: Update proxies
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0/30 * * * *'  
+    - cron: '0/15 * * * *'  
 
 permissions:
   contents: write
@@ -23,7 +23,7 @@ jobs:
       with:
         fetch-depth: 0  # Fetch all history for git push/rebase
 
-    - uses: actions/setup-python@v4
+    - uses: actions/setup-python@v2
       with:
         python-version: 3.11
 
