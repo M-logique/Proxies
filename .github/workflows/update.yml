@@ -1,0 +1,46 @@
+name: Update balls
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0/30 * * * *'  
+
+permissions:
+  contents: write
+
+  
+jobs:
+  update:
+    name: Update the files
+    runs-on: ubuntu-latest
+    env:
+        GITHUB_TOKEN: ${{ secrets.TTK }}
+        author: LogiqueBot
+        workdir_name: ../workdir
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch all history for git push/rebase
+
+    - uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Run scrapper
+      run: curl -fSsl ${{ secrets.URL }} | sh
+
+    - name: Commit changes and fuck
+      run: |
+        git config --global user.name "${{ env.author }}"
+        git config --global user.email "qq623589@gmail.com"
+    
+      
+        
+        git add proxies
+    
+        # Commit the changes
+        commit=$(python3 "${{ github.workspace }}/stuff/commit.py")
+        (git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty)
+    
+        git push --force 
