@@ -22,7 +22,7 @@ router.get('/:channel', async (req, res) => {
         msgs = [...msgs, ...widgets.map(item => item.innerText).reverse()]
     }
     const pattern = /(?:vless|vmess|ss|trojan):\/\/[^\s#]+(?:#[^\s]*)?/g;
-    const configs = msgs.map(str => str.match(pattern)[0])
+    const configs = msgs.flatMap(str => str.match(pattern)).filter(item => item).map(str => str.replaceAll('&amp;', '&'))
     const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
     const sliced = protocolFiltered.slice(0, Number(requested));
     const joined = 'vless://discord@discord.server:0000?type=tcp#1oi.xyz/discord\n\n' + sliced.join('\n\n');
