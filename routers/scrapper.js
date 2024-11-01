@@ -27,7 +27,7 @@ router.get('/:channel', async (req, res) => {
     const sliced = protocolFiltered.slice(0, Number(requested));
     const joined = 'vless://discord@discord.server:0000?type=tcp#1oi.xyz/discord\n' + sliced.join('\n');
     res.set('Content-Type', 'text/plain')
-    if (req.query.decrypted == '') {
+    if (req.query.decrypted == '' || req.query.decrypted) {
         res.status(200).send(joined);
     } else {
         const encrypted = btoa(unescape(encodeURIComponent(joined)));
