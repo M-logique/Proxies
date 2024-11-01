@@ -27,17 +27,25 @@ jobs:
       with:
         python-version: 3.11
 
-    - name: Run scrapper
-      run: curl -fSsl ${{ secrets.URL }} | sh
+    - name: Run updater
+      run: |
+        cp ./updater/* .
 
-    - name: Commit changes and fuck
+        pip install -r requirements.txt
+        python3 main.py --logLevel INFO -t 5
+
+        # Not required but i prefer a cleanup
+        rm -rf main.py
+        rm -rf requirements.txt
+
+
+    - name: Commit changes
       run: |
         git config --global user.name "${{ env.author }}"
         git config --global user.email "qq623589@gmail.com"
         
         git add -A
     
-        # Commit the changes
-        (git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty)
+        git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
     
         git push --force 
