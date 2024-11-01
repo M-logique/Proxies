@@ -2,15 +2,6 @@ const express = require('express')
 const fs = require('node:fs');
 const router = express.Router()
 
-/*
-    Example usage:
-
-    /receive/mahsa-normal
-    returns all
-
-    /receive/mahsa-normal?amount=100
-    returns first 100 configs
-*/
 router.get('/:name', async (req, res) => {
     const v2rayFiles = fs.readdirSync('proxies/v2ray');
     const fileName = v2rayFiles.find(file => (file === req.params.name) || (file.split('.')[0] === req.params.name));
