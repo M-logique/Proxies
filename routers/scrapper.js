@@ -4,7 +4,7 @@ const { parse } = require('node-html-parser')
 const router = express.Router()
 
 router.get('/:channel', async (req, res) => {
-    let requested = req.query.count || req.query.limit || req.query.amount || 100
+    let requested = req.query.count || req.query.limit || req.query.amount || 20
     if (Number(requested) > 200) requested = 200
     const count = Math.ceil(Number(requested) / 20)
     console.log(count)
