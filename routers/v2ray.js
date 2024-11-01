@@ -28,6 +28,6 @@ router.get('/', async (req,res) => {
 });
 
 module.exports = {
-    path: '/receive',
+    path: '/proxies/v2ray',
     router: router
 }
