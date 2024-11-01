@@ -3,14 +3,16 @@ const fs = require('node:fs');
 const router = express.Router()
 
 router.get('/:name', async (req, res) => {
-    const v2rayFiles = fs.readdirSync('proxies/v2ray');
+    const folderPath = path.join(process.cwd(), 'proxies', 'v2ray')
+    const v2rayFiles = fs.readdirSync(folderPath);
     const fileName = v2rayFiles.find(file => (file === req.params.name) || (file.split('.')[0] === req.params.name));
-    const fileContent = fs.readFileSync(`proxies/v2ray/${fileName}`, { encoding: 'utf8' });
+    const filePath = path.join(folderPath, fileName)
+    const fileContent = fs.readFileSync(filePath, { encoding: 'utf8' });
     const configs = fileContent.split('\n');
     const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
     const amount = Number(req.query.amount) || Number(req.query.limit) || Number(req.query.count) || -1;
     const sliced = protocolFiltered.slice(0, amount);
-    const joined = 'vless://discord@discord.server:0000?type=tcp#1oi.xyz/discord\n\n' + sliced.join('\n');
+    const joined = 'vless://discord@discord.server:0000?type=tcp#1oi.xyz/discord\n\n' + sliced.join('\n\n');
     res.set('Content-Type', 'text/plain');
     if (req.query.decrypted == '') {
         res.status(200).send(joined);
