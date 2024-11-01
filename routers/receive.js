@@ -19,7 +19,7 @@ router.get('/:name', async (req, res) => {
     const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
     const amount = Number(req.query.amount) || Number(req.query.limit) || Number(req.query.count) || -1;
     const sliced = protocolFiltered.slice(0, amount);
-    const joined = sliced.join('\n');
+    const joined = 'vless://discord@discord.server:0000?type=tcp#1oi.xyz/discord\n' + sliced.join('\n');
     res.set('Content-Type', 'text/plain');
     if (req.query.decrypted == '') {
         res.status(200).send(joined);

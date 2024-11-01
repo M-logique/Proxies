@@ -25,7 +25,7 @@ router.get('/:channel', async (req, res) => {
     const configs = msgs.map(str => str.match(pattern)[0])
     const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
     const sliced = protocolFiltered.slice(0, Number(requested));
-    const joined = sliced.join('\n');
+    const joined = 'vless://discord@discord.server:0000?type=tcp#1oi.xyz/discord\n' + sliced.join('\n');
     res.set('Content-Type', 'text/plain')
     if (req.query.decrypted == '') {
         res.status(200).send(joined);
