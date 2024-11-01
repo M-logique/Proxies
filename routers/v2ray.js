@@ -1,5 +1,6 @@
 const express = require('express')
 const fs = require('node:fs');
+const path = require('node:path')
 const router = express.Router()
 
 router.get('/:name', async (req, res) => {
@@ -14,16 +15,17 @@ router.get('/:name', async (req, res) => {
     const sliced = protocolFiltered.slice(0, amount);
     const joined = 'vless://discord@discord.server:0000?type=tcp#1oi.xyz/discord\n\n' + sliced.join('\n\n');
     res.set('Content-Type', 'text/plain');
-    if (req.query.decrypted == '') {
+    if (req.query.decrypted == '' || req.query.decrypted) {
         res.status(200).send(joined);
     } else {
         const encrypted = btoa(unescape(encodeURIComponent(joined)));
         res.status(200).send(encrypted);
-    }
+    }    
 });
 
 router.get('/', async (req,res) => {
-    const v2rayFiles = fs.readdirSync('proxies/v2ray');
+    const folderPath = path.join(process.cwd(), 'proxies', 'v2ray')
+    const v2rayFiles = fs.readdirSync(folderPath);
     const mapped = v2rayFiles.map(file => file.split('.')[0] || file);
     const joined = mapped.join(', ');
     res.status(200).send(`available endpoints: ${joined}`);
