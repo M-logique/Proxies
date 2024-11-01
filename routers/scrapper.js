@@ -7,7 +7,6 @@ router.get('/:channel', async (req, res) => {
     let requested = req.query.count || req.query.limit || req.query.amount || 20
     if (Number(requested) > 200) requested = 200
     const count = Math.ceil(Number(requested) / 20)
-    console.log(count)
     const { body } = await request(`https://t.me/s/${req.params.channel}`)
     const text = await body.text()
     const html = parse(text)
