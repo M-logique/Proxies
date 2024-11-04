@@ -37,7 +37,7 @@ class CustomLogger(Logger):
             self.addHandler(console_handler)
 
 
-logger = CustomLogger("iwp")
+logger = CustomLogger("PPP")
 
 def parse_text(prefix: str, pattern: str, text: str) -> List[str]:
     """
