@@ -3,7 +3,7 @@ const { port } = require('./config.json')
 const fs = require('node:fs');
 const http = require('http');
 const express = require('express');
-const logger = require('./functions/logger.js')
+const logger = require('./server/functions/logger.js')
 const compression = require('compression')
 const session = require('express-session')
 const app = express();
@@ -24,19 +24,19 @@ app.use(express.static('public'))
 app.set('view engine', 'hbs');
 app.set('views', './views');
 
-const routers = fs.readdirSync('./routers');
-const middlewares = fs.readdirSync('./middlewares');
+const routers = fs.readdirSync('./server/routers');
+const middlewares = fs.readdirSync('./server/middlewares');
 
 logger.log('Started loading middlewares ...')
 for (const middleware of middlewares) {
-    const mw = require(`./middlewares/${middleware}`);
+    const mw = require(`./server/middlewares/${middleware}`);
     app.use(mw)
     logger.success(`('${middleware}') middleware loaded!`)
 }
 
 logger.log('Started loading routers ...')
 for (const router of routers) {
-    const r = require(`./routers/${router}`);
+    const r = require(`./server/routers/${router}`);
     app.use(r.path, r.router)
     logger.success(`('${router}' - '${r.path}') router loaded!`)
 }
