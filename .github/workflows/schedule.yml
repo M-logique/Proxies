@@ -21,7 +21,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Fetch all history for git push/rebase
+        fetch-depth: 1  # Fetch all history for git push/rebase
 
     - uses: actions/setup-python@v2
       with:
