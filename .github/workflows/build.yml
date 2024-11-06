@@ -45,6 +45,8 @@ jobs:
           git config --global user.name "Github Actions"
           git config --global user.email "username@users.noreply.github.com"
           git pull --rebase
+
+          git add checker
           commit_hash=$(git rev-parse --short HEAD)
           if ! git diff --cached --quiet; then
             git commit -a -m "Built go files for commit: $commit_hash"
