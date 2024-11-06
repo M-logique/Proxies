@@ -1,0 +1,52 @@
+name: Go Build for Linux
+
+on:
+  push:
+    branches:
+      - main
+
+jobs: 
+  build: 
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Get latest commit message
+        id: get_commit_message
+        run: |
+          echo "commit_message=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
+      
+        
+      - name: Install go
+        if: ${{ contains(env.commit_message, '--build') }}
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.19'
+      
+      - name: Install gcc
+        if: ${{ contains(env.commit_message, '--build') }}
+        run: |
+          sudo apt update
+          sudo apt install gcc -y
+
+
+      - name: Build go files
+        if: ${{ contains(env.commit_message, '--build') }}
+        run: |
+          cd checker 
+          go build -o checker .
+
+      - name: Commit changes
+        if: ${{ contains(env.commit_message, '--build') }}
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "username@users.noreply.github.com"
+          git pull --rebase
+          commit_hash=$(git rev-parse --short HEAD)
+          if ! git diff --cached --quiet; then
+            git commit -a -m "Built go files for commit: $commit_hash"
+            git push
+          fi
