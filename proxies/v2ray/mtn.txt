@@ -1,5 +1,5 @@
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mahdiv2.pages.dev&fp=randomized&type=ws&sni=mahdiv2.pages.dev#%40VmessProtocol+%F0%9F%9B%B8
 vless://Tel-Daily-Configs@104.17.97.5:80?encryption=none&security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#[
-vless://Tel-Daily-Configs@172.66.47.146:80?encryption=none&security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#[
 vless://Tel-Daily-Configs@www.speedtest.net:80?encryption=none&security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#[
 vless://Tel-Daily-Configs@151.101.3.8:80?encryption=none&security=none&type=ws&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs#[
 vless://TELEGRAM-EXPRESSVPN_420@151.101.194.133:80?type=ws&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&host=Bimeh.irgps.net&security=none#[
