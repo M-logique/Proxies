@@ -40,6 +40,8 @@ jobs:
       - name: Build files
         if: ${{ contains(env.commit_message, '--build') }}
         uses: ./.github/custom/build_from_json
+        with:
+          workdir: ${{github.workspace}}
 
       - name: Commit changes
         if: ${{ contains(env.commit_message, '--build') }}
