@@ -19,6 +19,6 @@ runs:
         sudo apt install gcc -y  
     - name: Run build commands
       shell: bash
-      run: ../../../scripts/build.sh ${{ inputs.workdir }}
+      run: ${{ inputs.workdir }}/scripts/build.sh ${{ inputs.workdir }}
 
   
