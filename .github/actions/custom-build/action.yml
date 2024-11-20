@@ -13,11 +13,13 @@ runs:
         go-version: '1.19'
     
     - name: Install gcc
+      shell: bash
       run: |
         sudo apt update
         sudo apt install gcc -y  
     
     - name: Run build commands
+      shell: bash
       run: |
         ls -R
         // sh ${{ inputs.workdir }}/scripts/build.sh ${{ inputs.workdir }}
