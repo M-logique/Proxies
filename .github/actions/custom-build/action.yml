@@ -6,7 +6,6 @@ inputs:
     required: true
 runs:
   using: 'composite'
-
   steps:
     - name: Install go
       uses: actions/setup-go@v4
@@ -17,8 +16,6 @@ runs:
       run: |
         sudo apt update
         sudo apt install gcc -y  
+    
     - name: Run build commands
-      shell: bash
-      run: ${{ inputs.workdir }}/scripts/build.sh ${{ inputs.workdir }}
-
-  
+      run: sh ${{ inputs.workdir }}/scripts/build.sh ${{ inputs.workdir }}
