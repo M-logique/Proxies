@@ -1,0 +1,12 @@
+name: 'Custom Build Action'
+description: 'Run build commands from a JSON file'
+inputs:
+  workdir:
+    description: 'The working directory path'
+    required: true
+runs:
+  using: 'composite'
+  steps:
+    - name: Run build commands
+      shell: bash
+      run: ../../scripts/build.sh ${{ inputs.workdir }}

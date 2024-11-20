@@ -1,0 +1,8 @@
+{
+    "toBuild": [
+        {
+            "path": "{{workdir}}/updater",
+            "cmd": "go build -o updater.so -buildmode=c-shared . "
+        }
+    ]
+}

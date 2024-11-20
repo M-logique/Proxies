@@ -37,11 +37,9 @@ jobs:
           sudo apt install gcc -y
 
 
-      - name: Build go files
+      - name: Build files
         if: ${{ contains(env.commit_message, '--build') }}
-        run: |
-          cd checker 
-          go build -o checker .
+        uses: ./.github/custom/build_from_json
 
       - name: Commit changes
         if: ${{ contains(env.commit_message, '--build') }}
