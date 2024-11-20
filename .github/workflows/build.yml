@@ -24,22 +24,12 @@ jobs:
           echo "commit_message=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
       
         
-      - name: Install go
-        if: ${{ contains(env.commit_message, '--build') }}
-        uses: actions/setup-go@v4
-        with:
-          go-version: '1.19'
-      
-      - name: Install gcc
-        if: ${{ contains(env.commit_message, '--build') }}
-        run: |
-          sudo apt update
-          sudo apt install gcc -y
+
 
 
       - name: Build files
         if: ${{ contains(env.commit_message, '--build') }}
-        uses: ./.github/custom/build_from_json
+        uses: ./.github/actions/custom-build
         with:
           workdir: ${{github.workspace}}
 
