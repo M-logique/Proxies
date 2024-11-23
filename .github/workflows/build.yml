@@ -41,6 +41,7 @@ jobs:
           
           git add proxies
       
-          git commit -a -m "Built go files for commit: $commit_hash"
-      
-          git push --force 
+          if ! git diff --cached --quiet; then
+                git commit -a -m "Built go files for commit: $commit_hash"
+                git push
+            fi

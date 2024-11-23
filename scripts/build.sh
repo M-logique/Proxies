@@ -4,7 +4,7 @@
 WORKDIR=$1
 
 # Load build.json
-BUILD_JSON="$WORKDIR/data/build.json"
+BUILD_JSON="$WORKDIR/data/builds.json"
 
 # Parse the JSON and execute the commands
 jq -c '.toBuild[]' $BUILD_JSON | while IFS= read -r item; do
