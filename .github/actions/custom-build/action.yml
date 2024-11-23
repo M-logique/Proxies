@@ -21,5 +21,4 @@ runs:
     - name: Run build commands
       shell: bash
       run: |
-        ls -R
-        // sh ${{ inputs.workdir }}/scripts/build.sh ${{ inputs.workdir }}
+        sh ${{ inputs.workdir }}/scripts/build.sh ${{ inputs.workdir }}

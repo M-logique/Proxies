@@ -134,12 +134,3 @@ package-lock.json
 
 .venv/
 
-**updater.so**
-**updater.h**
-updater/go.mod
-updater/go.sum
-updater/main.go
-updater/main.py
-updater/updater.py
-updater/utils.py
-updater/__pycache__/utils.cpython-310.pyc
