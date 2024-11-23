@@ -29,15 +29,12 @@ jobs:
 
     - name: Run updater
       run: |
-        cp ./updater/* .
+        cp -r ./updater/* .
 
-        pip install -r requirements.txt
         python3 main.py --logLevel INFO -t 5
 
         # Not required but i prefer a cleanup
         rm -rf main.py
-        rm -rf requirements.txt
-
 
     - name: Commit changes
       run: |
