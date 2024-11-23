@@ -31,10 +31,7 @@ jobs:
       run: |
         cp -r ./updater/* .
 
-        python3 main.py --logLevel INFO -t 5
-
-        # Not required but i prefer a cleanup
-        rm -rf main.py
+        python3 updater.py
 
     - name: Commit changes
       run: |
