@@ -36,7 +36,7 @@ jobs:
       - name: Commit changes
         if: ${{ contains(env.commit_message, '--build') }}
         run: |
-          git config --global user.name "${{ env.author }}"
+          git config --global user.name "LogiqueBot"
           git config --global user.email "qq623589@gmail.com"
           
           git add proxies
