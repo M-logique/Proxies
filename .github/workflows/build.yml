@@ -32,7 +32,22 @@ jobs:
 
       - name: Build files
         run: |
-          sh ${{ github.workspace }}/scripts/build.sh ${{ github.workspace }}
+          #!/bin/bash
+
+          WORKDIR=${{github.workspace}}
+
+          BUILD_JSON="$WORKDIR/data/builds.json"
+
+          jq -c '.toBuild[]' $BUILD_JSON | while IFS= read -r item; do
+            CMD=$(echo "$item" | jq -r '.cmd')
+            PATH=$(echo "$item" | jq -r '.path' | sed "s|{{workdir}}|$WORKDIR|")
+
+            echo "Executing: cd $PATH && $CMD"
+
+            # Execute the build command
+            cd $PATH && $CMD
+          done
+
 
 
 
