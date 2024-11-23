@@ -25,13 +25,16 @@ jobs:
       
         
 
-
+      - name: Install golang
+        uses: actions/setup-go@v2
+        with: 
+          go-version: 1.19
 
       - name: Build files
-        if: ${{ contains(env.commit_message, '--build') }}
-        uses: ./.github/actions/custom-build
-        with:
-          workdir: ${{github.workspace}}
+        run: |
+          sh ${{ github.workspace }}/scripts/build.sh ${{ github.workspace }}
+
+
 
       - name: Commit changes
         if: ${{ contains(env.commit_message, '--build') }}
@@ -39,9 +42,9 @@ jobs:
           git config --global user.name "LogiqueBot"
           git config --global user.email "qq623589@gmail.com"
           
-          git add proxies
+          git add -A
       
           if ! git diff --cached --quiet; then
-                git commit -a -m "Built go files for commit: $commit_hash"
+                git commit -a -m "Built files for commit: $commit_hash"
                 git push
             fi
