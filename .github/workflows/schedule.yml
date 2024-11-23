@@ -38,7 +38,7 @@ jobs:
         git config --global user.name "${{ env.author }}"
         git config --global user.email "qq623589@gmail.com"
         
-        git add -A
+        git add proxies
     
         git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
     

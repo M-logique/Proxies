@@ -146,17 +146,17 @@ func fetchAdditionalData(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 
 	// Send results to channel
 	resourceChan <- Resource{
-		FilePath:   "/v2ray/mci.txt",
+		FilePath:   "/proxies/v2ray/mci.txt",
 		RawResults: strings.Join(mciData, "\n"),
 		Name:       "MCI",
 	}
 	resourceChan <- Resource{
-		FilePath:   "/v2ray/mtn.txt",
+		FilePath:   "/proxies/v2ray/mtn.txt",
 		RawResults: strings.Join(mtnData, "\n"),
 		Name:       "MTN",
 	}
 	resourceChan <- Resource{
-		FilePath:   "/v2ray/warp.txt",
+		FilePath:   "/proxies/v2ray/warp.txt",
 		RawResults: strings.Join(warpData, "\n"),
 		Name:       "Warp",
 	}
@@ -168,7 +168,7 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 
 	// Define the URL, key, and IV
 	url := "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/app/sub.txt"
-	filePath := "/v2ray/mahsa-normal.txt"
+	filePath := "/proxies/v2ray/mahsa-normal.txt"
 	key := []byte("ca815ecfdb1f153a")
 	iv := []byte("lvcas56410c97lpb")
 
@@ -546,10 +546,4 @@ func fetchTGMessages(channelID string, requested int) []string {
 }
 
 
-func main() {
-	messages := fetchTGMessages("configshub", 20)
-
-	for i, message := range messages {
-		fmt.Println("Message: ", i+1, message)
-	}
-}
+func main() {}
