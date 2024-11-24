@@ -30,6 +30,8 @@ jobs:
         with: 
           go-version: 1.23
     
+      - name: LS
+        run: ls -R ./updater
       - name: Build files
         if: ${{ contains(env.commit_message, '--build') }}
         run: |
