@@ -2,7 +2,7 @@
     "toBuild": [
         {
             "path": "{{workdir}}/updater",
-            "cmd": "{{go}} clean -cache && {{go}} mod vendor && {{go}} mod download && {{go}} build -o updater.so -buildmode=c-shared . "
+            "cmd": "{{go}} clean -modcache && {{go}} mod download && {{go}} build -o updater.so -buildmode=c-shared main.go "
         }
     ]
 }
