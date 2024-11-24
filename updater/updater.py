@@ -2,7 +2,6 @@ import ctypes
 import json
 import os
 from threading import Thread
-from asyncio import run, gather
 from os import makedirs, path as _path
 from logging import Logger, INFO, Formatter, StreamHandler
 
