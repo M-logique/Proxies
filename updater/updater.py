@@ -66,14 +66,7 @@ def fetch_resources_and_dump():
 def fetch_tg_channels():
     ...
 
-# async def main():
-#     thread = Thread(target=fetch_resources_and_dump)
-#     thread.start()
 
-#     obj = SpecialResources(".")
-
-#     await gather(obj.mci_mtn(), obj.mahsa_normal())
-#     thread.join()
 
 def dump(filepath: str, text: str):
     """
