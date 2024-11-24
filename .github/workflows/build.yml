@@ -48,15 +48,17 @@ jobs:
             exit 1
           fi
 
-          jq -c '.toBuild[]' $BUILD_JSON | while IFS= read -r item; do
-            CMD=$(echo "$item" | jq -r '.cmd' | sed "s|{{go}}|$GO_PATH|g")
-            PATH=$(echo "$item" | jq -r '.path' | sed "s|{{workdir}}|$WORKDIR|g")
+          # Parse JSON and execute commands
+          jq -c '.toBuild[]' "$BUILD_JSON" | while IFS= read -r item; do
+            # Extract name and command
+            NAME=$(echo "$item" | jq -r '.name')
+            CMD=$(echo "$item" | jq -r '.cmd' | sed "s|{{go}}|$GO_PATH|g" | sed "s|{{workdir}}|$WORKDIR|g")
 
-            echo "Executing: cd $PATH && $CMD"
+            # Print the task being executed
+            echo "building $NAME"
 
             # Execute the build command
-            cd "$PATH" || { echo "Error: Directory $PATH does not exist."; exit 1; } && eval "$CMD"
-            
+            eval "$CMD" || { echo "Error: Failed to build $NAME."; exit 1; }
           done
 
 
