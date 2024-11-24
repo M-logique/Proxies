@@ -55,8 +55,8 @@ jobs:
             echo "Executing: cd $PATH && $CMD"
 
             # Execute the build command
-            cd "$PATH" || { echo "Error: Directory $PATH does not exist."; exit 1; }
-            eval "$CMD"
+            cd "$PATH" || { echo "Error: Directory $PATH does not exist."; exit 1; } && eval "$CMD"
+            
           done
 
 
