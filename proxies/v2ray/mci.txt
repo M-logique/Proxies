@@ -36,7 +36,6 @@ trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcsprin
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.54:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#[
 vless://c8127c55-420b-5801-966b-a0e0dc237032@199.232.5.66:443?security=tls&allowInsecure=1&host=ELiV2RaY-0.cOm&fp=qq&type=ws&sni=ELiV2RaY-0.cOm#@meli_proxyy
 vless://80772220-3e7d-5f06-ae29-96672b8fa6df@151.101.66.219:80?security=none&encryption=none&host=ELiV2RAY-JOIN.COM.&type=ws#[
-vmess://eyJhZGQiOiIyLjE4OS41OS43IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJCYWNrLk1zVjJyYXkub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4eo8J+HpvCfjI8gQGN1c3RvbXYycmF5INqp2KfZhtmB24zaryDZh9in24wg2KjbjNi02KrYsSDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYWhma2poYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://80772220-3e7d-5f06-ae29-96672b8fa6df@speedtest.net:80?host=ELiV2RAY-JOIN.COM.&type=ws#[
 vless://feb6f54a-1c99-4281-b0d4-113765e70c61@93.185.163.238:8082/?type=http&encryption=none&path=media%2Fdownload%3Ffile_id%3D12345%26ReturnUrl%3D%2Fmedia%2Fdownload%2Fcallback%3Fresponse_type%3Ddownload%26client_id%3DmediaClient%26redirect_uri%3Dhttps%3A%2F%2Fyourapp.com%2Fsuccess&sni=use.fontawesome.com&fp=chrome&security=reality&pbk=1wsuGvwHBl4upMnlmg3ehyqL-CgRpK9g4XZXkUX-B3k&sid=6a69d0c3821da542#[
@@ -86,6 +85,7 @@ vless://d7a6de6c-28ae-4074-87a8-c1efef623275@104.27.0.136:443?path=%2FTELEGRAM-M
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#%F0%9F%86%9964%40oneclickvpnkeys
 vless://531a0a29-8221-414f-8861-9b336ec9481e@104.21.90.210:80?path=%2FTel%3A%40VPN_VIP_NOR%3Fed%3D2048&security=none&encryption=none&host=cdn-hk.bestup.eu.org&type=ws#%F0%9F%87%AE%F0%9F%87%B3telegram+%E2%9E%A0+%40v2rayNG_Matsuri
 vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhpQgQPCdkIDwnZCR8J2Qk/CdkITwnZCM8J2QiPCdkJLwnZCV8J2Qj/CdkI0xIPCfposiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://531a0a29-8221-414f-8861-9b336ec9481e@104.21.90.210:80/?type=ws&encryption=none&host=cdn-hk.bestup.eu.org&path=%2FTel%3A%40VPN_VIP_NOR%3Fed%3D2048#%F0%9F%86%8E23%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%E2%9D%976%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5601#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.26:8009#%40Artemisvpn1
