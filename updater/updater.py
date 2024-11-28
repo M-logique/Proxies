@@ -65,7 +65,7 @@ def fetch_resources_and_dump():
         logger.error("Error decoding JSON:", e)
 
 def fetch_tg_channels():
-    with open(f"{root_dir}/../data/tgchannels.json") as fp:
+    with open(f"{root_dir}/data/tgchannels.json") as fp:
         channels = json.load(fp)
     
     encoded_json = str(json.dumps(channels)).encode("utf-8")
