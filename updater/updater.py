@@ -4,6 +4,7 @@ import os
 from threading import Thread
 from os import makedirs, path as _path
 from logging import Logger, INFO, Formatter, StreamHandler
+from re import findall
 
 class CustomLogger(Logger):
     """Custom logger with a console handler and specific formatting."""
@@ -22,7 +23,6 @@ class CustomLogger(Logger):
             self.addHandler(console_handler)
 
 
-logger = CustomLogger("PPP")
 
 def remove_duplicates(lst):
     seen = set()  
@@ -34,11 +34,12 @@ def remove_duplicates(lst):
     return result
 
 
+logger = CustomLogger("PPP")
 root_dir = os.path.dirname(os.path.abspath(__file__))
+updater = ctypes.CDLL(f'{root_dir}/updater.so')
 
 
 def fetch_resources_and_dump():
-    updater = ctypes.CDLL(f'{root_dir}/updater.so')
     updater.FetchResources.restype = ctypes.c_char_p
     result = updater.FetchResources()
 
@@ -64,7 +65,38 @@ def fetch_resources_and_dump():
         logger.error("Error decoding JSON:", e)
 
 def fetch_tg_channels():
-    ...
+    with open(f"{root_dir}/../data/tgchannels.json") as fp:
+        channels = json.load(fp)
+    
+    encoded_json = str(json.dumps(channels)).encode("utf-8")
+    char_p_json = ctypes.c_char_p(encoded_json)
+
+    updater.FetchTGChannels.argtypes = (ctypes.c_char_p, )
+    updater.FetchTGChannels.restype = ctypes.c_char_p
+
+    data = updater.FetchTGChannels(char_p_json)
+
+    parsed_data = json.loads(data)
+    pattern = r'(?:vless|vmess|ss|trojan)://[^\s#]+(?:#[^\s]*)?'
+
+    for item in parsed_data:
+
+        raw_content = item.get("rawResults")
+        filepath = "."+item.get("filepath")
+        name = item.get("name")
+
+
+        urls = findall(pattern, raw_content)[::-1]
+        joined_urls = '\n'.join(urls)
+        
+        if joined_urls.strip() != "":
+            dump(
+                filepath=filepath,
+                text=joined_urls
+            )
+            logger.info("Dump successfull for %s", name)
+        else:
+            logger.warning("Unsuccessfull dump for %s due to empty result in scrapping", name)
 
 
 
@@ -80,8 +112,10 @@ def dump(filepath: str, text: str):
 
 if __name__ == "__main__":
 
-    thread = Thread(target=fetch_resources_and_dump)
-    thread.start()
+    fetch_tg_channels()
+
+    # thread = Thread(target=fetch_resources_and_dump)
+    # thread.start()
 
 
-    thread.join()
+    # thread.join()

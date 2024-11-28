@@ -28,6 +28,11 @@ type Resource struct {
 	Name       string `json:"name"`
 }
 
+type Channel struct {
+	ChannelID string
+	Limit     int
+}
+
 var client = &http.Client{}
 
 func parseText(prefix, pattern, text string) []string {
@@ -545,6 +550,61 @@ func fetchTGMessages(channelID string, requested int) []string {
     return messages
 }
 
+//export FetchTGChannels
+func FetchTGChannels(data *C.char) *C.char {
+	resourcesChan := make(chan Resource, 100)
+	goData := C.GoString(data)
 
+	var wg sync.WaitGroup
+
+	fetchAndSend := func(channelID string, amount int, filepath string) {
+		defer wg.Done()
+		fmt.Println("Fetching", channelID)
+		tgMessages := fetchTGMessages(channelID, amount)
+
+		rawContents := strings.Join(tgMessages, "\n")
+
+		resourcesChan <- Resource{
+			FilePath:  filepath,
+			RawResults: rawContents,
+			Name:      channelID,
+		}
+	}
+
+	var rawData map[string]struct {
+		Limit int `json:"limit"`
+	}
+
+	err := json.Unmarshal([]byte(goData), &rawData)
+	if err != nil {
+		log.Fatalf("Failed to read json: %v", err)
+	}
+
+	for channelID, data := range rawData {
+		wg.Add(1)
+		go fetchAndSend(
+			channelID,
+			data.Limit,
+			fmt.Sprintf("/proxies/tvc/%s.txt", channelID),
+		)
+	}
+
+	go func() {
+		wg.Wait()
+		close(resourcesChan)
+	}()
+
+	var allResources []Resource
+	for resource := range resourcesChan {
+		allResources = append(allResources, resource)
+	}
+
+	jsonData, err := json.Marshal(allResources)
+	if err != nil {
+		return C.CString("{}") // Return empty JSON if error occurs
+	}
+
+	return C.CString(string(jsonData))
+}
 
 func main() {}
