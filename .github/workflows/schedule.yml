@@ -27,6 +27,9 @@ jobs:
       with:
         python-version: 3.11
 
+    - name: Clean proxies folder
+      run: rm -rf ${{github.workspace}}/proxies 
+
     - name: Run updater
       run: |
         cp -r ./updater/* .
