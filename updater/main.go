@@ -559,7 +559,6 @@ func FetchTGChannels(data *C.char) *C.char {
 
 	fetchAndSend := func(channelID string, amount int, filepath string) {
 		defer wg.Done()
-		fmt.Println("Fetching", channelID)
 		tgMessages := fetchTGMessages(channelID, amount)
 
 		rawContents := strings.Join(tgMessages, "\n")
