@@ -3,6 +3,14 @@
 🚧 **Under Construction** 🚧  
 This project is still incomplete and is in active development and alpha stage.
 
+- [x] GitHub Actions: Build and run scraper  
+- [x] Scraper Script  
+- [x] Initial version of the Web Server  
+- [ ] Connect the domain  
+- [ ] Add checker and categorize by location  
+- [ ] Complete the web server and add some UI 
+
+
 ## What's the Idea?  
 Since I'm a lazy person and almost every task I worked on required proxies, I created this repository to save myself from constantly searching for proxies.
 
