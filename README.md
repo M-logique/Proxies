@@ -1,5 +1,8 @@
 # PROXY PROXY PROXY!
 
+🚧 **Under Construction** 🚧  
+This project is still incomplete and is in active development and alpha stage.
+
 ## What's the Idea?  
 Since I'm a lazy person and almost every task I worked on required proxies, I created this repository to save myself from constantly searching for proxies.
 
