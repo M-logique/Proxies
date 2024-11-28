@@ -112,10 +112,31 @@ def dump(filepath: str, text: str):
 
 if __name__ == "__main__":
 
-    fetch_tg_channels()
+    jobs = (
+        fetch_tg_channels,
+        fetch_resources_and_dump
+    )
 
-    # thread = Thread(target=fetch_resources_and_dump)
-    # thread.start()
+    threads = list(
+        map(
+            lambda job: Thread(target=job),
+            jobs
+        )
+    )
+
+    list(
+        map(
+            lambda thread: thread.start(),
+            threads
+        )
+    )
+
+    list(
+        map(
+            lambda thread: thread.join(),
+            threads
+        )
+    )
 
 
     # thread.join()
