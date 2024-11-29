@@ -8,7 +8,8 @@ from os import makedirs
 from os import path as _path
 from re import findall
 from sysconfig import get_config_var
-from threading import Thread
+from asyncio import gather, create_task, run
+
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
 workflow_dir = sys.argv[1]
@@ -44,11 +45,13 @@ class CustomLogger(Logger):
 
 def remove_duplicates(lst):
     seen = set()  
-    result = []   
+    result = []
+
     for item in lst:
         if item not in seen:
-            result.append(item)
+            result.append(result)
             seen.add(item)
+
     return result
 
 
@@ -61,8 +64,7 @@ def fetch_resources_and_dump():
 
     try:
         parsed_data = json.loads(json_data)
-        
-        for data in parsed_data:
+        def dump_data(data):
             name = data.get("name")
             raw_results = data.get("rawResults").splitlines()
             joined_results = "\n".join(remove_duplicates(raw_results))
@@ -71,6 +73,14 @@ def fetch_resources_and_dump():
             dump(filepath=filepath, text=joined_results)
 
             logger.info("Dump success for %s", name)
+
+        
+        list(
+            map(
+                dump_data,
+                parsed_data
+            )
+        )
 
 
 
@@ -87,7 +97,7 @@ def fetch_tg_channels():
     parsed_data = json.loads(data)
     pattern = r'(?:vless|vmess|ss|trojan)://[^\s#]+(?:#[^\s]*)?'
 
-    for item in parsed_data:
+    def dump_item(item):
 
         raw_content = item.get("rawResults")
         filepath = "."+item.get("filepath")
@@ -106,6 +116,13 @@ def fetch_tg_channels():
         else:
             logger.warning("Unsuccessfull dump for %s due to empty result in scraping", name)
 
+    list(
+        map(
+            dump_item,
+            parsed_data
+        )
+    )
+
 
 
 def dump(filepath: str, text: str):
@@ -116,35 +133,21 @@ def dump(filepath: str, text: str):
     with open(filepath, "w") as fp:
         logger.debug("Writing to file: %s", filepath)
         fp.write(str(text))
-        
 
-if __name__ == "__main__":
-
+async def main():
     jobs = (
         fetch_tg_channels,
         fetch_resources_and_dump
     )
 
-    threads = list(
-        map(
-            lambda job: Thread(target=job),
+    await gather(
+        *map(
+            create_task, 
             jobs
         )
     )
 
-    list(
-        map(
-            lambda thread: thread.start(),
-            threads
-        )
-    )
 
-    list(
-        map(
-            lambda thread: thread.join(),
-            threads
-        )
-    )
+if __name__ == "__main__":
 
-
-    # thread.join()
+    run(main())
