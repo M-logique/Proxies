@@ -11,7 +11,7 @@ from sysconfig import get_config_var
 from threading import Thread
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
-workflow_dir = sys.argv[0]
+workflow_dir = sys.argv[1]
 
 # Importing resources module that built using pybind11
 module_name = 'resources'
