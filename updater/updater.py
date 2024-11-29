@@ -104,7 +104,7 @@ def fetch_tg_channels():
             )
             logger.info("Dump successfull for %s", name)
         else:
-            logger.warning("Unsuccessfull dump for %s due to empty result in scrapping", name)
+            logger.warning("Unsuccessfull dump for %s due to empty result in scraping", name)
 
 
 
