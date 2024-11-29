@@ -1,13 +1,14 @@
 
+import importlib.util
 import json
 import os
-from threading import Thread
-from os import makedirs, path as _path
-from logging import Logger, INFO, Formatter, StreamHandler
-from re import findall
 import sys
-import importlib.util
+from logging import INFO, Formatter, Logger, StreamHandler
+from os import makedirs
+from os import path as _path
+from re import findall
 from sysconfig import get_config_var
+from threading import Thread
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
 
