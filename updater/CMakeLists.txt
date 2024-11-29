@@ -14,7 +14,7 @@ target_include_directories(resources PRIVATE ${Python3_INCLUDE_DIRS})
 target_link_libraries(resources PRIVATE pybind11::module)
 target_link_libraries(resources PRIVATE ${CMAKE_SOURCE_DIR}/updater.a)
 
-# Finding python SOABI
+# Finding python SOABI for the name of the output
 execute_process(
     COMMAND ${Python3_EXECUTABLE} -c "import sysconfig; print(sysconfig.get_config_var('SOABI'))"
     OUTPUT_VARIABLE PYTHON_SOABI
