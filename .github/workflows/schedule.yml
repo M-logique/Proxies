@@ -33,9 +33,10 @@ jobs:
     - name: Run updater
       run: |
         export PYTHONPATH=$(pwd):$PYTHONPATH
+        pip install pybind11
         cp -r ./updater/* .
         ls -R
-
+        
         python3 ./updater/updater.py
 
     - name: Commit changes
