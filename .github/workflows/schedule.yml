@@ -33,6 +33,7 @@ jobs:
     - name: Run updater
       run: |
         cp -r ./updater/* .
+        ls -R
 
         python3 updater.py
 
