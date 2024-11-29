@@ -10,13 +10,9 @@ import sys
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
 
-module_name = 'resources'
-module_path = f'{root_dir}/resources.cpython-310-x86_64-linux-gnu.so'
 
-spec = importlib.util.spec_from_file_location(module_name, module_path)
-resources = importlib.util.module_from_spec(spec)
-sys.modules[module_name] = resources
-spec.loader.exec_module(resources)
+# Importing resources module that built using pybind11 
+import resources
 
 class CustomLogger(Logger):
     """Custom logger with a console handler and specific formatting."""
