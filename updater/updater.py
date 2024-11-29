@@ -11,6 +11,7 @@ from sysconfig import get_config_var
 from threading import Thread
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
+workflow_dir = sys.argv[0]
 
 # Importing resources module that built using pybind11
 module_name = 'resources'
@@ -77,7 +78,7 @@ def fetch_resources_and_dump():
         logger.error("Error decoding JSON:", e)
 
 def fetch_tg_channels():
-    with open(f"{root_dir}/data/tgchannels.json") as fp:
+    with open(f"{workflow_dir}/data/tgchannels.json") as fp:
         channels = json.load(fp)
     
     json_data = str(json.dumps(channels))
