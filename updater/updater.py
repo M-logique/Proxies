@@ -8,6 +8,10 @@ from re import findall
 import sys
 
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+print(sys.path)
+print(os.path.abspath(os.path.dirname(__file__)))
+
+
 
 import resources
 
