@@ -1,18 +1,26 @@
-import ctypes
+
 import json
 import os
 from threading import Thread
 from os import makedirs, path as _path
 from logging import Logger, INFO, Formatter, StreamHandler
 from re import findall
-import importlib.util
 import sys
+import importlib.util
+from sysconfig import get_config_var
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
 
+# Importing resources module that built using pybind11
+module_name = 'resources'
+system_soabi = get_config_var('SOABI')
+module_path = f'{root_dir}/{module_name}.{system_soabi}.so'
 
-# Importing resources module that built using pybind11 
-import resources
+spec = importlib.util.spec_from_file_location(module_name, module_path)
+resources = importlib.util.module_from_spec(spec)
+sys.modules[module_name] = resources
+spec.loader.exec_module(resources)
+
 
 class CustomLogger(Logger):
     """Custom logger with a console handler and specific formatting."""
