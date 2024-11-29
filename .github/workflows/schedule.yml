@@ -23,9 +23,10 @@ jobs:
       with:
         fetch-depth: 1  # Fetch all history for git push/rebase
 
-    - uses: actions/setup-python@v2
+    - uses: actions/setup-python@v4
       with:
-        python-version: 3.13
+        python-version: '3.10'
+      
 
     - name: Clean proxies folder
       run: rm -rf ${{github.workspace}}/proxies 
