@@ -5,6 +5,10 @@ from threading import Thread
 from os import makedirs, path as _path
 from logging import Logger, INFO, Formatter, StreamHandler
 from re import findall
+import sys
+
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+
 import resources
 
 class CustomLogger(Logger):
