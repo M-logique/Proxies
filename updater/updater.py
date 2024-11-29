@@ -5,16 +5,18 @@ from threading import Thread
 from os import makedirs, path as _path
 from logging import Logger, INFO, Formatter, StreamHandler
 from re import findall
+import importlib.util
 import sys
 
 root_dir = os.path.dirname(os.path.abspath(__file__))
-so_file_path = os.path.join(root_dir, '.')
-sys.path.append(so_file_path)
-print(os.path.abspath(os.path.dirname(__file__)))
 
+module_name = 'resources'
+module_path = f'{root_dir}/resources.cpython-310-x86_64-linux-gnu.so'
 
-
-import resources
+spec = importlib.util.spec_from_file_location(module_name, module_path)
+resources = importlib.util.module_from_spec(spec)
+sys.modules[module_name] = resources
+spec.loader.exec_module(resources)
 
 class CustomLogger(Logger):
     """Custom logger with a console handler and specific formatting."""
