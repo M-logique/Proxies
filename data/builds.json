@@ -11,6 +11,11 @@
       {
         "name": "Updater cleanup",
         "cmd": "rm -rf {{workdir}}/updater/updater.a && rm -rf {{workdir}}/updater/build"
+      },
+
+      {
+        "name": "Ls -R",
+        "cmd": "ls -R {{workdir}}/updater"
       }
     ]
   }
