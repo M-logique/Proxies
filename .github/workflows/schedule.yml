@@ -34,7 +34,7 @@ jobs:
     - name: Run updater
       run: |
 
-        python3 updater/updater.py
+        python3 updater/updater.py "${{github.workspace}}"
 
     - name: Commit changes
       run: |
