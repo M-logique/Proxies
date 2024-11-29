@@ -26,6 +26,6 @@ string fetch_tg_channels(const string& data) {
 PYBIND11_MODULE(resources, m) {
     m.doc() = "Python bindings for resource-fetching functions";
 
-    m.def("fetch_resources", &fetch_resources, "Fetches resources and returns them as a JSON string");
-    m.def("fetch_tg_channels", &fetch_tg_channels, py::arg("data"), "Fetches Telegram channels using input data");
+    m.def("fetch_resources", &fetch_resources, "Fetches resources and returns them as a JSON string.");
+    m.def("fetch_tg_channels", &fetch_tg_channels, py::arg("data"), "Fetches Telegram channels using input data.");
 }
