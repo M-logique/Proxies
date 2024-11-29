@@ -7,8 +7,9 @@ from logging import Logger, INFO, Formatter, StreamHandler
 from re import findall
 import sys
 
-sys.path.append(os.path.abspath(os.path.dirname(__file__)))
-print(sys.path)
+root_dir = os.path.dirname(os.path.abspath(__file__))
+so_file_path = os.path.join(root_dir, '.')
+sys.path.append(so_file_path)
 print(os.path.abspath(os.path.dirname(__file__)))
 
 
@@ -44,7 +45,6 @@ def remove_duplicates(lst):
 
 
 logger = CustomLogger("PPP")
-root_dir = os.path.dirname(os.path.abspath(__file__))
 
 
 def fetch_resources_and_dump():

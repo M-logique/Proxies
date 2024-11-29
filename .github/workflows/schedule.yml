@@ -32,10 +32,11 @@ jobs:
 
     - name: Run updater
       run: |
+        export PYTHONPATH=$(pwd):$PYTHONPATH
         cp -r ./updater/* .
         ls -R
 
-        python3 updater.py
+        python3 ./updater/updater.py
 
     - name: Commit changes
       run: |
