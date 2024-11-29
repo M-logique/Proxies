@@ -187,7 +187,7 @@ def extract_urls(raw_content: str) -> str:
 	pattern = r'(?:vless|vmess|ss|trojan)://[^\s#]+(?:#[^\s]*)?'
 	
 	# Find all matches of the pattern in the 'raw_content' and reverse their order
-	urls = re.findall(pattern, raw_content)[::-1]
+	urls = findall(pattern, raw_content)[::-1]
 	
 	# Join the extracted URLs into a single string, each separated by a newline
 	return '\n'.join(urls)
