@@ -2,7 +2,15 @@
     "toBuild": [
       {
         "name": "Build updater",
-        "cmd": "cd {{workdir}}/updater && {{go}} clean -modcache && {{go}} mod download && {{go}} build -o updater.so -buildmode=c-shared main.go"
+        "cmd": "cd {{workdir}}/updater && {{go}} clean -modcache && {{go}} mod download && {{go}} build -o updater.a -buildmode=c-archive main.go"
+      },
+      {
+        "name": "Build resources module",
+        "cmd": "cd {{workdir}}/updater && mkdir -p build && cd build && cmake .. && make"
+      },
+      {
+        "name": "Updater cleanup",
+        "cmd": "rm -rf {{workdir}}/updater/updater.a && rm -rf {{workdir}}/updater/build"
       }
     ]
   }

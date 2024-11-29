@@ -5,6 +5,7 @@ from threading import Thread
 from os import makedirs, path as _path
 from logging import Logger, INFO, Formatter, StreamHandler
 from re import findall
+import resources
 
 class CustomLogger(Logger):
     """Custom logger with a console handler and specific formatting."""
@@ -36,15 +37,11 @@ def remove_duplicates(lst):
 
 logger = CustomLogger("PPP")
 root_dir = os.path.dirname(os.path.abspath(__file__))
-updater = ctypes.CDLL(f'{root_dir}/updater.so')
 
 
 def fetch_resources_and_dump():
-    updater.FetchResources.restype = ctypes.c_char_p
-    result = updater.FetchResources()
+    json_data = resources.fetch_resources()
 
-
-    json_data = result.decode('utf-8')
 
     try:
         parsed_data = json.loads(json_data)
@@ -68,13 +65,8 @@ def fetch_tg_channels():
     with open(f"{root_dir}/data/tgchannels.json") as fp:
         channels = json.load(fp)
     
-    encoded_json = str(json.dumps(channels)).encode("utf-8")
-    char_p_json = ctypes.c_char_p(encoded_json)
-
-    updater.FetchTGChannels.argtypes = (ctypes.c_char_p, )
-    updater.FetchTGChannels.restype = ctypes.c_char_p
-
-    data = updater.FetchTGChannels(char_p_json)
+    json_data = str(json.dumps(channels))
+    data = resources.fetch_tg_channels(json_data)
 
     parsed_data = json.loads(data)
     pattern = r'(?:vless|vmess|ss|trojan)://[^\s#]+(?:#[^\s]*)?'
