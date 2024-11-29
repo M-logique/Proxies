@@ -4,6 +4,7 @@
         "name": "Build updater",
         "cmd": "cd {{workdir}}/updater && {{go}} clean -modcache && {{go}} mod download && {{go}} build -o updater.a -buildmode=c-archive main.go"
       },
+      
       {
         "name": "Build resources module",
         "cmd": "cd {{workdir}}/updater && mkdir -p build && cd build && cmake .. && make"
