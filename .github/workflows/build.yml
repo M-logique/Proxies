@@ -27,15 +27,17 @@ jobs:
         
 
       - name: Install golang
+        if: ${{ contains(env.commit_message, '--build') }}
         uses: actions/setup-go@v2
         with: 
           go-version: 1.23
 
-      - name: Install cmake
-        run: sudo apt install cmake
-        
-      - name: Install pybind11
-        run: sudo apt install pybind11-dev
+      - name: Install depencies
+        if: ${{ contains(env.commit_message, '--build') }}
+        run: | 
+          sudo apt install cmake
+          sudo apt install pybind11-dev
+
     
       - name: Build files
         if: ${{ contains(env.commit_message, '--build') }}
