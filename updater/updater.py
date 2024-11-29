@@ -58,7 +58,7 @@ def remove_duplicates(lst):
 logger = CustomLogger("PPP")
 
 
-def fetch_resources_and_dump():
+async def fetch_resources_and_dump():
     json_data = resources.fetch_resources()
 
 
@@ -87,7 +87,7 @@ def fetch_resources_and_dump():
     except json.JSONDecodeError as e:
         logger.error("Error decoding JSON:", e)
 
-def fetch_tg_channels():
+async def fetch_tg_channels():
     with open(f"{workflow_dir}/data/tgchannels.json") as fp:
         channels = json.load(fp)
     
