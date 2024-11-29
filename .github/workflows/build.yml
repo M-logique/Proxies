@@ -32,11 +32,11 @@ jobs:
         with: 
           go-version: 1.23
           
-      - name: Install python3.13
-        if: ${{ contains(env.commit_message, '--build') }}
-        uses: actions/setup-python@v2
-        with: 
-            python-version: 3.13
+      # - name: Install python3.13
+      #   if: ${{ contains(env.commit_message, '--build') }}
+      #   uses: actions/setup-python@v2
+      #   with: 
+      #       python-version: 3.13
 
       - name: Install depencies
         if: ${{ contains(env.commit_message, '--build') }}
