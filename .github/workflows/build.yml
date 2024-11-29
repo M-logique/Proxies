@@ -64,7 +64,7 @@ jobs:
             CMD=$(echo "$item" | jq -r '.cmd' | sed "s|{{go}}|$GO_PATH|g" | sed "s|{{workdir}}|$WORKDIR|g")
 
             # Print the task being executed
-            echo "building $NAME"
+            echo "JOB: $NAME"
 
             # Execute the build command
             eval "$CMD" || { echo "Error: Failed to build $NAME."; exit 1; }
