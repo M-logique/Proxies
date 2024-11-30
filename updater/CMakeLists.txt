@@ -7,7 +7,7 @@ find_package(pybind11 REQUIRED)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
-add_library(resources MODULE bind.cpp)
+add_library(resources MODULE ${CMAKE_SOURCE_DIR}/bind/bind.cpp)
 
 
 target_include_directories(resources PRIVATE ${Python3_INCLUDE_DIRS})
