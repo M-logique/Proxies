@@ -137,3 +137,4 @@ package-lock.json
 **.a**
 **.h**
 **build**
+.vscode
