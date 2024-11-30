@@ -21,9 +21,8 @@ jobs:
       - name: Get latest commit message and hash
         id: get_commit_info
         run: |
-          echo "commit_message=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
+          printf "commit_message<<EOF\n%s\nEOF\n" "$(git log -1 --pretty=%B)" >> $GITHUB_ENV
           echo "commit_hash=$(git log -1 --pretty=%H)" >> $GITHUB_ENV
-      
         
 
       - name: Install golang
