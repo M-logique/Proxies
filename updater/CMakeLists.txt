@@ -25,7 +25,7 @@ execute_process(
 set_target_properties(resources PROPERTIES
     PREFIX ""                                # Remove .lib prefix
     SUFFIX ".${PYTHON_SOABI}.so"             # using python SOABI
-    OUTPUT_NAME "resources"                  #filename
+    OUTPUT_NAME "resources"                  # output file name
 )
 
 # Output dir
