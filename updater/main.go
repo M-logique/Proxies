@@ -93,7 +93,7 @@ func fetchAndDecodeBase64(urls []string) []string {
 	for _, url := range urls {
 		resp, err := client.Get(url)
 		if err != nil {
-			fmt.Println("Error fetching URL:", err)
+			log.Println("Error fetching URL:", err)
 			continue
 		}
 		defer resp.Body.Close()
@@ -101,12 +101,12 @@ func fetchAndDecodeBase64(urls []string) []string {
 		if resp.StatusCode == 200 {
 			body, err := io.ReadAll(resp.Body)
 			if err != nil {
-				fmt.Println("Error reading response body:", err)
+				log.Println("Error reading response body:", err)
 				continue
 			}
 			decoded, err := base64.StdEncoding.DecodeString(string(body))
 			if err != nil {
-				fmt.Println("Error decoding Base64:", err)
+				log.Println("Error decoding Base64:", err)
 				continue
 			}
 			results = append(results, strings.Split(string(decoded), "\n")...)
@@ -180,38 +180,38 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 	// Fetch encrypted data
 	resp, err := client.Get(url)
 	if err != nil {
-		fmt.Println("Failed to fetch Mahsa configs:", err)
+		log.Println("Failed to fetch Mahsa configs:", err)
 		return
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != 200 {
-		fmt.Println("Failed to fetch Mahsa configs: non-200 status")
+		log.Println("Failed to fetch Mahsa configs: non-200 status")
 		return
 	}
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		fmt.Println("Failed to read response body:", err)
+		log.Println("Failed to read response body:", err)
 		return
 	}
 
 	// Decode the Base64-encoded encrypted data
 	encryptedData, err := base64.StdEncoding.DecodeString(string(body))
 	if err != nil {
-		fmt.Println("Failed to decode Base64 data:", err)
+		log.Println("Failed to decode Base64 data:", err)
 		return
 	}
 
 	// Decrypt the data using AES-CBC
 	block, err := aes.NewCipher(key)
 	if err != nil {
-		fmt.Println("Failed to create AES cipher:", err)
+		log.Println("Failed to create AES cipher:", err)
 		return
 	}
 
 	if len(encryptedData)%aes.BlockSize != 0 {
-		fmt.Println("Encrypted data is not a multiple of AES block size")
+		log.Println("Encrypted data is not a multiple of AES block size")
 		return
 	}
 
@@ -222,7 +222,7 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 	// Remove padding
 	decrypted, err = removePKCS7Padding(decrypted)
 	if err != nil {
-		fmt.Println("Failed to remove PKCS7 padding:", err)
+		log.Println("Failed to remove PKCS7 padding:", err)
 		return
 	}
 
@@ -234,7 +234,7 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 
 	err = json.Unmarshal(decrypted, &jsonData)
 	if err != nil {
-		fmt.Println("Failed to parse JSON:", err)
+		log.Println("Failed to parse JSON:", err)
 		return
 	}
 
@@ -256,7 +256,7 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 		RawResults: strings.Join(parsedResults, "\n"),
 		Name:       "MahsaNormal",
 	}
-	fmt.Println("Mahsa resources processed successfully")
+	log.Println("Mahsa resources processed successfully")
 }
 
 // fetchURLs fetches contents from multiple URLs concurrently
@@ -271,7 +271,7 @@ func fetchURLs(urls []string) []string {
 			if result, err := fetchAndRead(url); err == nil {
 				resultChan <- *result
 			} else {
-				fmt.Println("Error fetching URL:", err)
+				log.Println("Error fetching URL:", err)
 			}
 		}(url)
 	}
