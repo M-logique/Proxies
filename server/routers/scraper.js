@@ -45,6 +45,8 @@ router.get('/:channel', async (req, res) => {
     // Join the configs with double newlines
     const joined = sliced.join('\n\n');
 
+    const subname = String(req.query.params.charAt[0]).toUpperCase() + String(req.query.params).substring(1)
+
     // Set response headers
     res.set('Profile-Title', subname.toSubName())
     res.set('profile-update-interval', 6)
