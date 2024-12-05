@@ -12,7 +12,8 @@ module.exports = {
         res.redirect(targetUrl);
     },
     setHeaders: function (res, subName) {
-        res.set('profile-title', subName)
+        
+        res.set('profile-title', `base64:${atob(subName)}`);
         res.set("upload", 0);
         res.set("download", 0);
         res.set("expire", 0);
