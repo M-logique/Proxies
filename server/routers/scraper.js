@@ -1,8 +1,9 @@
 const express = require('express')
 const { request } = require('undici') // undici is used for making HTTP requests
-const { parse } = require('node-html-parser') // Used for parsing HTML
-const router = express.Router()
-const config = require('../../config.json')
+const { parse } = require('node-html-parser'); // Used for parsing HTML
+const router = express.Router();
+const utils = require('../functions/utils');
+
 
 router.get('/:channel', async (req, res) => {
     // Determine the number of configs to fetch, with a maximum of 200
