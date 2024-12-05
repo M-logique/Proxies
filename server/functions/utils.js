@@ -15,7 +15,8 @@ module.exports = {
         res.set('profile-title', subName)
         res.set("upload", 0);
         res.set("download", 0);
-        res.set("total", 10737418240000000)
+        res.set("expire", 0);
+        res.set("total", 10737418240000000);
         res.set('profile-update-interval', 6);
         res.set('profile-web-page-url', "https://github.com/M-logique/Proxies");
         res.set('support-url', "https://github.com/M-logique/Proxies");
