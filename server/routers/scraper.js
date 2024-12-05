@@ -45,14 +45,7 @@ router.get('/:channel', async (req, res) => {
     // Join the configs with double newlines
     const joined = sliced.join('\n\n');
 
-    const subname = String(req.query.params.charAt[0]).toUpperCase() + String(req.query.params).substring(1)
-
-    // Set response headers
-    res.set('Profile-Title', subname.toSubName())
-    res.set('profile-update-interval', 6)
-    res.set('profile-web-page-url', config.weburl)
-    res.set('support-url', config.support)
-    res.set('Content-Type', 'text/plain')
+    utils.setHeaders(res, `Git: M-logique/Proxies | ${req.params.name.toUpperCase()}`)
 
     // Check if decrypted output is requested
     if (req.query.decrypted == '' || req.query.decrypted) {
