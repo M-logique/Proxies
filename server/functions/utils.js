@@ -13,7 +13,7 @@ module.exports = {
     },
     setHeaders: function (res, subName) {
         
-        res.set('profile-title', `base64:${atob(subName)}`);
+        res.set('profile-title', `base64:${this.b64encode(subName)}`);
         res.set("upload", 0);
         res.set("download", 0);
         res.set("expire", 0);
@@ -22,5 +22,8 @@ module.exports = {
         res.set('profile-web-page-url', "https://github.com/M-logique/Proxies");
         res.set('support-url', "https://github.com/M-logique/Proxies");
         res.set('Content-Type', 'text/plain');
+    },
+    b64encode: function (t) {
+        return btoa(unescape(encodeURIComponent(t)));
     }
 };

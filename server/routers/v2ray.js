@@ -24,7 +24,7 @@ router.get('/:name', async (req, res) => {
     if (req.query.decrypted == '' || req.query.decrypted) {
         res.status(200).send(joined);
     } else {
-        const encrypted = btoa(unescape(encodeURIComponent(joined)));
+        const encrypted = utils.b64encode(joined);
         res.status(200).send(encrypted);
     }    
 });
