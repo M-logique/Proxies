@@ -6,7 +6,7 @@ This project is still incomplete and is in active development and alpha stage.
 - [x] GitHub Actions: Build and run scraper  
 - [x] Scraper Script  
 - [x] Initial version of the Web Server  
-- [ ] Connect the domain  
+- [x] Connect the domain  
 - [ ] Add checker and categorize by location  
 - [ ] Complete the web server and add some UI 
 
