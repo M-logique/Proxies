@@ -2,27 +2,181 @@ import json
 import os
 from dataclasses import asdict, dataclass
 from glob import iglob
-from typing import (TYPE_CHECKING, Any, Dict, Generator, List, Tuple, Type,
-                    TypeVar, Sequence, overload)
+from typing import (Generator, List, Tuple, Type,
+                    TypeVar, Sequence, Optional, Dict, Any)
 from string import ascii_letters, digits
 import secrets
+from concurrent.futures import ThreadPoolExecutor
 
+# Logging imports
+from logging import Logger, INFO, Formatter, StreamHandler, FileHandler, DEBUG
+from logging.handlers import RotatingFileHandler
 
+# The folder where the JSON files will be saved
 JSON_FILES_DIR: str = "./json_files"
 
-def generateConfig(config: str, dns_list = ["8.8.8.8"]) -> str: # type: ignore
-    ...
 
-if not TYPE_CHECKING:
-    from v2json import generateConfig
-
-
-
-folder_pathes: Tuple[str, ...] = (
+# The folders containing the configuration files of V2ray.
+folder_paths: Tuple[str, ...] = (
     "./proxies/v2ray",
     "./proxies/tvc"
 )
 
+value: int = "sex"
+
+T = TypeVar("T", bound='Payload')
+
+@dataclass
+class Payload:
+    """
+    Base class for data structures that can be serialized to JSON.
+    """
+
+    def to_json(self) -> str:
+        """
+        Converts the dataclass instance to a JSON string.
+
+        :return: The JSON string representation of the instance.
+        :rtype: str
+        """
+
+        return json.dumps(self.to_dict(), indent=4)
+    
+    def to_dict(self) -> dict:
+        """
+        Converts the dataclass instance to a dict.
+
+        :return: The dict representation of the instance.
+        :rtype: dict
+        """
+
+        return asdict(self)
+
+    @classmethod
+    def from_json(cls: Type[T], json_data: str) -> T:
+        """
+        Creates an instance of the dataclass from a JSON string.
+
+        :param json_data: JSON string representing the dataclass.
+        :type json_data: str
+        :return: An instance of the dataclass.
+        :rtype: T
+        """
+        data = json.loads(json_data)
+        return cls(**data)
+
+@dataclass
+class InputPayload(Payload):
+    """
+    Represents the input payload with configurations and metadata.
+
+    :param configs: List of configuration dictionaries.
+    :type configs: List[Dict]
+    """
+    configs: List[Dict[Any, Any]]
+
+@dataclass
+class ConfigPayload(Payload):
+    """
+    Represents the configuration payload for a specific proxy configuration.
+
+    This class holds information about a specific proxy configuration, including
+    the URL, the path to the associated JSON file, the configuration index, and the port number.
+
+    :param url: The URL associated with the configuration.
+    :type url: str
+    :param jsonFilePath: The file path to the JSON configuration file.
+    :type jsonFilePath: str
+    :param port: The port number assigned to the configuration.
+    :type port: int
+    """
+    url: str
+    jsonFilePath: str
+    port: int
+
+
+class CustomLogger(Logger):
+	"""Custom logger with console and file output, and formatted messages."""
+	def __init__(self,
+	             name: str,
+	             level: int = INFO,
+	             log_to_file: bool = False,
+	             log_file_path: Optional[str] = None,
+	             max_log_size: int = 10 * 1024 * 1024,  # Default: 10MB
+	             backup_count: int = 5):  # Default: 5 backups
+		"""
+		Initializes a custom logger with configurable handlers.
+
+		:param name: Name of the logger.
+		:param level: Logging level (e.g., INFO, DEBUG, ERROR).
+		:param log_to_file: Whether to log to a file (default: False).
+		:param log_file_path: Path to the log file (if logging to a file).
+		:param max_log_size: Maximum size of the log file before rotation (default: 10MB).
+		:param backup_count: Number of backup log files to keep (default: 5).
+		"""
+  
+		super().__init__(name, level)
+		
+		# Formatter for log messages
+		formatter = Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+		
+		# Console handler for standard output
+		console_handler = StreamHandler()
+		console_handler.setFormatter(formatter)
+		
+		# Add console handler if not already present
+		if not self.hasHandlers():
+			self.addHandler(console_handler)
+		
+		# File handler setup (if enabled)
+		if log_to_file and log_file_path:
+			# Ensure the directory exists
+			os.makedirs(os.path.dirname(log_file_path), exist_ok = True)
+			
+			# Use RotatingFileHandler to limit file size and rotate logs
+			file_handler = RotatingFileHandler(log_file_path,
+			                                   maxBytes = max_log_size,
+			                                   backupCount = backup_count)
+			file_handler.setFormatter(formatter)
+			
+			self.addHandler(file_handler)
+		
+		# Set the default logging level (INFO, DEBUG, etc.)
+		self.setLevel(level)
+		
+		# Avoid duplicate handlers (handled by `hasHandlers()` check above)
+	
+	def log_to_console(self, level: int = INFO) -> None:
+		"""Logs a message to the console."""
+		self.setLevel(level)
+		for handler in self.handlers:
+			if isinstance(handler, StreamHandler):
+				handler.setLevel(level)
+	
+	def log_to_file(self, level: int = INFO) -> None:
+		"""Logs a message to the file."""
+		self.setLevel(level)
+		for handler in self.handlers:
+			if isinstance(handler, FileHandler) or isinstance(handler, RotatingFileHandler):
+				handler.setLevel(level)
+
+
+# Initialize a custom logger named "PPP" with default logging level INFO
+# This logger will output logs with a specified format to the console
+logger = CustomLogger("PPP", level = DEBUG, log_to_file = True, log_file_path = "logs/checker.log")
+
+def yield_txt_files(folder_path: str) -> Generator[str, None, None]:
+    """
+    Yields .txt files from the given folder.
+
+    :param folder_path: Path to the folder to search for .txt files.
+    :type folder_path: str
+    :yield: Path to each .txt file in the folder.
+    :rtype: str
+    """
+    pattern = os.path.join(folder_path, "*.txt")
+    for file_path in iglob(pattern):
+        yield file_path
 
 def generate_random_string(length: int = 8) -> str:
     """
@@ -49,8 +203,8 @@ def save_json(url: str, port: int) -> str:
     :rtype: str
     """
     # Generate the raw JSON configuration and set the port
-    raw_json = json.loads(generateConfig(url))
-    # raw_json["inbounds"][0]["port"] = port
+    raw_json = json.loads(__import__("v2json").generateConfig(url)) # type: ignore
+    raw_json["inbounds"][0]["port"] = port
 
     # Generate a random file name and save the JSON file
     file_path: str = os.path.join(JSON_FILES_DIR, f"{generate_random_string(8)}.json")
@@ -61,155 +215,71 @@ def save_json(url: str, port: int) -> str:
     return os.path.abspath(file_path)
 
 
-
-T = TypeVar('T')
-T_P = TypeVar("T_P", bound='Payload')
-
-@dataclass
-class Payload:
+def generate_json_files() -> List[Dict[Any, Any]]:
     """
-    Base class for data structures that can be serialized to JSON.
+    Generates JSON configuration files from proxy URLs and assigns unique ports to each.
+
+    Iterates through all text files in predefined folder paths, processes each line to
+    create a configuration, and saves it as a JSON file.
+
+    :return: A list of JSON file paths.
+    :rtype: List[str]
     """
+    port: int = 1000  # Initialize the base port number
+    configs: List[Dict[Any, Any]] = []
 
-    def to_json(self) -> str:
-        """
-        Converts the dataclass instance to a JSON string.
-
-        :return: The JSON string representation of the instance.
-        :rtype: str
-        """
-        return json.dumps(asdict(self), indent=4)
-
-    @classmethod
-    def from_json(cls: Type[T_P], json_data: str) -> T_P:
-        """
-        Creates an instance of the dataclass from a JSON string.
-
-        :param json_data: JSON string representing the dataclass.
-        :type json_data: str
-        :return: An instance of the dataclass.
-        :rtype: T_P
-        """
-        data = json.loads(json_data)
-        return cls(**data)
-
-@dataclass
-class InputPayload(Payload):
-    """
-    Represents the input payload with configurations and metadata.
-
-    :param rootFilePath: Path to the root file.
-    :type rootFilePath: str
-    :param configs: List of configuration dictionaries.
-    :type configs: List[Dict]
-    """
-    rootFilePath: str
-    configs: List[str]
-
-@dataclass
-class ConfigPayload(Payload):
-    """
-    Represents the configuration payload for a specific proxy configuration.
-
-    This class holds information about a specific proxy configuration, including
-    the URL, the path to the associated JSON file, the configuration index, and the port number.
-
-    :param url: The URL associated with the configuration.
-    :type url: str
-    :param jsonFilePath: The file path to the JSON configuration file.
-    :type jsonFilePath: str
-    :param index: The index of the configuration in the list of configurations.
-    :type index: int
-    :param port: The port number assigned to the configuration.
-    :type port: int
-    """
-    url: str
-    jsonFilePath: str
-    index: int
-    port: int
-
-
-def yield_txt_files(folder_path: str) -> Generator[str, None, None]:
-    """
-    Yields .txt files from the given folder.
-
-    :param folder_path: Path to the folder to search for .txt files.
-    :type folder_path: str
-    :yield: Path to each .txt file in the folder.
-    :rtype: str
-    """
-    pattern = os.path.join(folder_path, "*.txt")
-    for file_path in iglob(pattern):
-        yield file_path
-
-def chunker(data: Sequence[T], chunk_size: int) -> Generator[Sequence[T], None, None]:
-    """
-    Splits the input sequence into chunks of the given size.
-
-    :param data: The input sequence to be split into chunks.
-    :type data: Sequence[T]
-    :param chunk_size: The size of each chunk.
-    :type chunk_size: int
-    :yield: A chunk of the input Sequence.
-    :rtype: Generator[Sequence[T], None, None]
-    """
-    for i in range(0, len(data), chunk_size):
-        yield data[i:i + chunk_size]
-
-failed = all = 0
-def process_txt_files() -> None:
-    global failed, all
-    port = 1000  # Initialize the base port number
-
-    # Iterate over the predefined folder paths containing proxy configuration files
-    for folder_path in folder_pathes:
-        
-        # Iterate over each .txt file found in the folder
-        for txt_file in yield_txt_files(folder_path):
-            
-            # Create an initial InputPayload to hold the root file and its configurations
-            input_payload: InputPayload = InputPayload(
-                rootFilePath=txt_file,
-                configs=list(),
+    def process_line(line: str) -> Optional[Dict[Any, Any]]:
+        nonlocal port # Access the shared port variable
+        port += 1
+        try:
+            json_file_path = save_json(line, port)
+            payload = ConfigPayload(
+                url=line,
+                jsonFilePath=json_file_path,
+                port=port
             )
 
-            # Open and read the lines from the current text file
+            return payload.to_dict()
+        except Exception as err:
+            logger.error(f"Error generating JSON for URL '{line}': {err}")
+            return None
+
+    for folder_path in folder_paths:
+        for txt_file in yield_txt_files(folder_path):
             with open(txt_file, "r") as fp:
-                lines = fp.readlines()
+                lines = [line.strip() for line in fp.readlines()]
 
-            # Iterate over each line in the text file and generate a ConfigPayload
-            for index, line in enumerate(lines):
-                
-                port += 1  # Increment the port for each new configuration
-                
-                # Generate the JSON file path for the current configuration line
-                all+=1
-                try:
-                    json_file_path = save_json(line, port)
-                except Exception as err:
-                    failed+=1
-                    print("Failed to sex for config:", line, "\nerr:", err)
-                    print("file:", txt_file)
-                
-                # Create a ConfigPayload instance for the current configuration
-                payload = ConfigPayload(
-                    index=index,
-                    jsonFilePath=json_file_path,
-                    port=port,
-                    url=line
-                )
+            with ThreadPoolExecutor() as executor:
+                results = list(executor.map(process_line, lines))
 
-                # Append the generated ConfigPayload as a JSON string to the input_payload's configs
-                input_payload.configs.append(
-                    payload.to_json()
-                )
+            configs.extend([result for result in results if result is not None])
 
-            # TODO: Continue the process for storing or handling the input_payload
+    return configs
 
+def generate_input_payload() -> InputPayload:
+    """
+    Generates an InputPayload object containing configurations for proxy servers.
+
+    Uses `generate_json_files` to create configuration files and wraps the resulting
+    JSON file paths into an InputPayload instance.
+
+    :return: An InputPayload object with all configurations.
+    :rtype: InputPayload
+    """
+    json_files = generate_json_files()
+    return InputPayload(
+        configs=json_files
+    )
 
 if __name__ == "__main__":
 
+
+    # Creating JSON_FILES_DIR if not exists
     if not os.path.exists(JSON_FILES_DIR): 
         os.makedirs(JSON_FILES_DIR)
-    process_txt_files()
-    print(failed, all)
+
+    
+    input_payload = generate_input_payload()
+
+    with open("result.json", "w") as fp:
+        json.dump(input_payload.to_dict(), fp, indent=4)
