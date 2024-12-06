@@ -138,3 +138,5 @@ package-lock.json
 **.h**
 **build**
 .vscode
+
+**__pycache__**
