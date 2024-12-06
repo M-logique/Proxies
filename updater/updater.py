@@ -111,7 +111,7 @@ class CustomLogger(Logger):
 
 # Initialize a custom logger named "PPP" with default logging level INFO
 # This logger will output logs with a specified format to the console
-logger = CustomLogger("PPP", level = DEBUG, log_to_file = True, log_file_path = "logs/app.log")
+logger = CustomLogger("PPP", level = DEBUG, log_to_file = True, log_file_path = "logs/updater.log")
 
 
 def remove_duplicates(items: List[str]) -> List[str]:
