@@ -22,8 +22,6 @@ folder_paths: Tuple[str, ...] = (
     "./proxies/tvc"
 )
 
-value: int = "sex"
-
 T = TypeVar("T", bound='Payload')
 
 @dataclass
