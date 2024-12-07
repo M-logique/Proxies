@@ -1414,6 +1414,7 @@ if __name__ == "__main__":
 
     option = parser.parse_args()
     config = option.config
-    with open("sex.json", "wb") as fp:
-        fp.write(json.dumps(json.loads(generateConfig(config)), indent=4).encode())
+    # with open("sex.json", "wb") as fp:
+    #     fp.write(json.dumps(json.loads(generateConfig(config)), indent=4).encode())
 
+    print(json.dumps(json.loads(generateConfig(config)), indent=4))
