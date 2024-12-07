@@ -116,7 +116,8 @@ logger = CustomLogger("PPP", level = DEBUG, log_to_file = True, log_file_path = 
 
 def remove_duplicates(items: List[str]) -> List[str]:
 	"""Removes duplicate entries while preserving order."""
-	seen_items = set(); return [item for item in items if not (item in seen_items or seen_items.add(item))]
+	seen_items = set()
+	return [item for item in items if not (item in seen_items or seen_items.add(item))]
 
 
 def dump(filepath: str, text: str) -> None:
