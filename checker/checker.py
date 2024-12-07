@@ -3,7 +3,7 @@ import os
 from dataclasses import asdict, dataclass
 from glob import iglob
 from typing import (Generator, List, Tuple, Type,
-                    TypeVar, Sequence, Optional, Dict, Any)
+                    TypeVar, Optional, Dict, Any)
 from string import ascii_letters, digits
 import secrets
 from concurrent.futures import ThreadPoolExecutor
@@ -203,6 +203,11 @@ def save_json(url: str, port: int) -> str:
     # Generate the raw JSON configuration and set the port
     raw_json = json.loads(__import__("v2json").generateConfig(url)) # type: ignore
     raw_json["inbounds"][0]["port"] = port
+    raw_json["inbounds"][0]["settings"] = {
+            "timeout": 300
+        }
+    raw_json["inbounds"][0]["protocol"] = "http"
+    del raw_json["inbounds"][0]["sniffing"]
 
     # Generate a random file name and save the JSON file
     file_path: str = os.path.join(JSON_FILES_DIR, f"{generate_random_string(8)}.json")
