@@ -90,6 +90,20 @@ class Payload:
         """
         data: Any = json.loads(json_data)
         return cls(**data) #type: ignore
+    
+    @classmethod
+    def from_dict(cls: Type[TP], dict_data: dict) -> TP:
+        """
+        Creates an instance of the dataclass from a dict.
+
+        :param dict_data: JSON string representing the dataclass.
+        :type dict_data: dict
+        :return: An instance of the dataclass.
+        :rtype: TP
+        """
+
+        return cls(**dict_data) #type: ignore
+
 
 @dataclass
 class InputPayload(Payload):
@@ -340,28 +354,32 @@ def main():
         os.makedirs(JSON_FILES_DIR)
 
     
-    input_payload = generate_input_payload()
+    input_payload: InputPayload = generate_input_payload()
 
-    outputs: List[Output] = list()
+    outputs: List[Output] = []
     for chunk in chunks(input_payload.configs, 300):
-        liter_input_payload = InputPayload(
+        liter_input_payload: InputPayload = InputPayload(
                 configs=list(chunk)
             )
         
-        result = proxies.process_proxies(
+        result: str = proxies.process_proxies(
             json_input=liter_input_payload.to_json(),
             xray_core_file_path=XRAY_CORE_PATH
         )
 
         
+        loaded_outputs: Any = json.loads(result)
+
         try:
-            for obj in json.loads(result):
+            for obj in loaded_outputs["outputs"]:
+
                 outputs.append(
                     Output(
                         url=obj.get("url"),
-                        location=Location.from_json(str(obj.get("location")))
+                        location=Location.from_dict(obj.get("location"))
                     )
                 )
+            
                 
             # outputs.extend(
             #     (
@@ -376,12 +394,41 @@ def main():
             logger.error("Failed to parse data: %s, exception: %s", err, type(err).__name__)
         
         logger.info("Current outputs: %d", len(outputs))
+
     else:
         print(len(outputs))
         input()
+        
+        locations_by_cc: set = set()
+        locations_by_names: set = set()
+
+        final_dict: Dict[str, Any] = {
+            "locations": {
+                "totalCountries": 0,
+                "byNames": [],
+                "byCountryCode": []
+            },
+            "profilesByCC": {}
+        }
+
         for output in outputs:
-            print("Location:", output.location)
-            print("URL:", output.url)
+            locations_by_cc.add(output.location.countryCode)
+            locations_by_names.add(output.location.country)
+
+            cc: str = output.location.countryCode
+            url: str = output.url
+
+            final_dict["profilesByCC"][cc] = (
+                final_dict["profilesByCC"].get(cc, []) + [url]
+            )
+
+        final_dict["locations"]["totalCountries"] = len(locations_by_cc)
+        final_dict["locations"]["byNames"] = list(locations_by_names)
+        final_dict["locations"]["byCountryCode"] = list(locations_by_cc)
+
+        with open(f"{workflow_dir}/result.json", "w") as fp:
+            json.dump(final_dict, fp, indent=4)
+
             
 
 
