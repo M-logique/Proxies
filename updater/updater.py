@@ -6,7 +6,6 @@ import os
 import sys
 import importlib.util
 from re import findall
-from sysconfig import get_config_var
 from typing import List, Dict, Optional
 
 # Logging imports
