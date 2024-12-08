@@ -435,7 +435,7 @@ def main():
                 "byNames": [],               # List of unique country names
                 "byCountryCode": []          # List of unique country codes
             },
-            "profilesByCC": {}               # URLs grouped by country code
+            "profilesByCountyCode": {}       # URLs grouped by country code
         }
 
         # Process each output to populate the final dictionary
@@ -449,8 +449,8 @@ def main():
             url: str = output.url
 
             # Group URLs by country code
-            final_dict["profilesByCC"][cc] = (
-                final_dict["profilesByCC"].get(cc, []) + [url]
+            final_dict["profilesByCountryCode"][cc] = (
+                final_dict["profilesByCountryCode"].get(cc, []) + [url]
             )
 
         # Populate the final dictionary with unique counts and data
