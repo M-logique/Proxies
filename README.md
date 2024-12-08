@@ -7,7 +7,7 @@ This project is still incomplete and is in active development and alpha stage.
 - [x] Scraper Script  
 - [x] Initial version of the Web Server  
 - [x] Connect the domain  
-- [ ] Add checker and categorize by location  
+- [X] Add checker and categorize by location  
 - [ ] Complete the web server and add some UI 
 
 
