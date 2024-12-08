@@ -435,7 +435,7 @@ def main():
                 "byNames": [],               # List of unique country names
                 "byCountryCode": []          # List of unique country codes
             },
-            "profilesByCountyCode": {}       # URLs grouped by country code
+            "profilesByCountryCode": {}       # URLs grouped by country code
         }
 
         # Process each output to populate the final dictionary
