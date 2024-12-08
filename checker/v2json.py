@@ -1,11 +1,9 @@
 # type: ignore
-import json
-import base64
 import argparse
+import base64
+import json
 import re
-from urllib.parse import urlparse
-from urllib.parse import parse_qs
-from urllib.parse import unquote
+from urllib.parse import parse_qs, unquote, urlparse
 
 DEFAULT_PORT = 443
 DEFAULT_SECURITY = "auto"
