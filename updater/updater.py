@@ -31,10 +31,9 @@ if not os.path.exists(workflow_dir):
 
 # Dynamically load the 'resources' module built with pybind11
 module_name = 'resources'
-system_soabi = get_config_var('SOABI')
 
-# Construct the module path dynamically based on root directory, module name, and SOABI
-module_path = f'{root_dir}/{module_name}.{system_soabi}.so'
+# Construct the module path dynamically based on root directory and module name
+module_path = f'{root_dir}/{module_name}.so'
 
 # Import 'resources' module into the system
 spec = importlib.util.spec_from_file_location(module_name, module_path)
