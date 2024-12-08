@@ -429,6 +429,7 @@ def main():
 
         # Final dictionary to store processed data
         final_dict: Dict[str, Any] = {
+            "totalProfiles": 0,         # Total number of profiles
             "locations": {
                 "totalCountries": 0,    # Total number of unique countries
                 "byNames": [],          # List of unique country names
@@ -458,7 +459,7 @@ def main():
         final_dict["locations"]["byCountryCode"] = list(locations_by_cc)
 
         # Write the final dictionary to a JSON file
-        with open(f"{workflow_dir}/byLocation.json", "w") as fp:
+        with open(f"{workflow_dir}/proxies/byLocation.json", "w") as fp:
             json.dump(final_dict, fp, indent=4)
 
             
