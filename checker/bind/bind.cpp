@@ -27,7 +27,7 @@ string process_proxies(const string& json_input, const string& xray_core_file_pa
     return output;
 }
 
-PYBIND11_MODULE(resources, m) {
+PYBIND11_MODULE(proxies, m) {
     m.doc() = "Python bindings for Go functions that perform proxy processing operations.";
 
     // Define the `process_proxies` function in the Python module.

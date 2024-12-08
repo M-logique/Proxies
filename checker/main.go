@@ -98,7 +98,7 @@ func getLocationByPort(proxyPort int) (*LocationResponse, error) {
 
 	var location LocationResponse
 	if err := json.Unmarshal(body, &location); err != nil {
-		return nil, fmt.Errorf("failed to parse response: %w", err)
+		return nil, fmt.Errorf("failed to parse response: %w, body: %s", err, body)
 	}
 
 	if location.Status != "success" {
@@ -124,7 +124,7 @@ func checkConfig(xrayCorePath string, jsonFilePath string, port int, url string)
 	log.Printf("Running XrayCore on port: %v, with the json: %s\n", port, jsonFilePath)
 
 	process := runXrayCore(jsonFilePath, xrayCorePath)
-	err := WaitForPort(port, 1 * time.Second)
+	err := WaitForPort(port, 5 * time.Second)
 	if err != nil {
 		return nil, fmt.Errorf("failed to wait for port: %s", err)
 	}
@@ -138,7 +138,6 @@ func checkConfig(xrayCorePath string, jsonFilePath string, port int, url string)
 	process.Kill()
 
 	if err != nil {
-		fmt.Println(err)
 		return nil, err
 	}
 
@@ -147,7 +146,6 @@ func checkConfig(xrayCorePath string, jsonFilePath string, port int, url string)
 		URL: url,
 	}
 
-	fmt.Println(location.Country)
 	return &output, nil
 
 }
@@ -179,7 +177,7 @@ func handleInputData(input InputData, xrayCorePath string) ([]*Output, error) {
 				defer wg.Done()
 				result, err := checkConfig(xrayCorePath, config.JsonFilePath, config.Port, config.URL)
 				if err != nil {
-					fmt.Printf("Error checking the config: %s\n", err)
+					log.Printf("Error checking the config: %s\n", err)
 					return
 				}
 				resultChan <- result

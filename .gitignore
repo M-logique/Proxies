@@ -134,9 +134,11 @@ package-lock.json
 
 .venv/
 
-**.a**
-**.h**
+**.a
+**.h
 **build**
 .vscode
 
 **__pycache__**
+
+json_files/

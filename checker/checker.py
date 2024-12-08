@@ -12,6 +12,10 @@ from logging.handlers import RotatingFileHandler
 from string import ascii_letters, digits
 from typing import (Any, Dict, Generator, List, Optional, Sequence, Tuple,
                     Type, TypeVar)
+import importlib.util
+from sysconfig import get_config_var
+from queue import Queue
+from uuid import uuid4
 
 # Setup directory paths
 # Get the root directory of the current script
@@ -31,6 +35,19 @@ folder_paths: Tuple[str, ...] = (
     "./proxies/v2ray",
     "./proxies/tvc"
 )
+
+# Dynamically load the 'resources' module built with pybind11
+module_name: str = 'proxies'
+system_soabi: str = get_config_var("SOABI")
+
+# Construct the module path dynamically based on root directory and module name
+module_path = f'{root_dir}/{module_name}.so'
+
+# Import 'proxies' module into the system
+spec = importlib.util.spec_from_file_location(module_name, module_path)
+proxies = importlib.util.module_from_spec(spec)
+sys.modules[module_name] = proxies
+spec.loader.exec_module(proxies)
 
 TP = TypeVar("TP", bound="Payload")
 T = TypeVar("T")
@@ -71,8 +88,8 @@ class Payload:
         :return: An instance of the dataclass.
         :rtype: TP
         """
-        data = json.loads(json_data)
-        return cls(**data)
+        data: Any = json.loads(json_data)
+        return cls(**data) #type: ignore
 
 @dataclass
 class InputPayload(Payload):
@@ -83,6 +100,22 @@ class InputPayload(Payload):
     :type configs: List[Dict]
     """
     configs: List[Dict[Any, Any]]
+
+
+@dataclass
+class Location(Payload):
+    query: str
+    country: str
+    countryCode: str
+    region: str
+    regionName: str
+    city: str
+    status: str
+
+@dataclass
+class Output(Payload):
+    url: str
+    location: Location
 
 @dataclass
 class ConfigPayload(Payload):
@@ -105,69 +138,71 @@ class ConfigPayload(Payload):
 
 
 class CustomLogger(Logger):
-	"""Custom logger with console and file output, and formatted messages."""
-	def __init__(self,
-	             name: str,
-	             level: int = INFO,
-	             log_to_file: bool = False,
-	             log_file_path: Optional[str] = None,
-	             max_log_size: int = 10 * 1024 * 1024,  # Default: 10MB
-	             backup_count: int = 5):  # Default: 5 backups
-		"""
-		Initializes a custom logger with configurable handlers.
+    """Custom logger with console and file output, and formatted messages."""
+    def __init__(self,
+                 name: str,
+                 level: int = INFO,
+                 log_to_file: bool = False,
+                 log_file_path: Optional[str] = None,
+                 max_log_size: int = 10 * 1024 * 1024,  # Default: 10MB
+                 backup_count: int = 5):  # Default: 5 backups
+        """
+        Initializes a custom logger with configurable handlers.
 
-		:param name: Name of the logger.
-		:param level: Logging level (e.g., INFO, DEBUG, ERROR).
-		:param log_to_file: Whether to log to a file (default: False).
-		:param log_file_path: Path to the log file (if logging to a file).
-		:param max_log_size: Maximum size of the log file before rotation (default: 10MB).
-		:param backup_count: Number of backup log files to keep (default: 5).
-		"""
+        :param name: Name of the logger.
+        :param level: Logging level (e.g., INFO, DEBUG, ERROR).
+        :param log_to_file: Whether to log to a file (default: False).
+        :param log_file_path: Path to the log file (if logging to a file).
+        :param max_log_size: Maximum size of the log file before rotation (default: 10MB).
+        :param backup_count: Number of backup log files to keep (default: 5).
+        """
   
-		super().__init__(name, level)
-		
-		# Formatter for log messages
-		formatter = Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
-		
-		# Console handler for standard output
-		console_handler = StreamHandler()
-		console_handler.setFormatter(formatter)
-		
-		# Add console handler if not already present
-		if not self.hasHandlers():
-			self.addHandler(console_handler)
-		
-		# File handler setup (if enabled)
-		if log_to_file and log_file_path:
-			# Ensure the directory exists
-			os.makedirs(os.path.dirname(log_file_path), exist_ok = True)
-			
-			# Use RotatingFileHandler to limit file size and rotate logs
-			file_handler = RotatingFileHandler(log_file_path,
-			                                   maxBytes = max_log_size,
-			                                   backupCount = backup_count)
-			file_handler.setFormatter(formatter)
-			
-			self.addHandler(file_handler)
-		
-		# Set the default logging level (INFO, DEBUG, etc.)
-		self.setLevel(level)
-		
-		# Avoid duplicate handlers (handled by `hasHandlers()` check above)
-	
-	def log_to_console(self, level: int = INFO) -> None:
-		"""Logs a message to the console."""
-		self.setLevel(level)
-		for handler in self.handlers:
-			if isinstance(handler, StreamHandler):
-				handler.setLevel(level)
-	
-	def log_to_file(self, level: int = INFO) -> None:
-		"""Logs a message to the file."""
-		self.setLevel(level)
-		for handler in self.handlers:
-			if isinstance(handler, FileHandler) or isinstance(handler, RotatingFileHandler):
-				handler.setLevel(level)
+        super().__init__(name, level)
+
+        # Formatter for log messages
+        formatter = Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+
+        # Console handler for standard output
+        console_handler = StreamHandler()
+        console_handler.setFormatter(formatter)
+
+        # Add console handler if not already present
+        if not self.hasHandlers():
+            self.addHandler(console_handler)
+
+        # File handler setup (if enabled)
+        if log_to_file and log_file_path:
+            # Ensure the directory exists
+            os.makedirs(os.path.dirname(log_file_path), exist_ok = True)
+
+            # Use RotatingFileHandler to limit file size and rotate logs
+            file_handler = RotatingFileHandler(log_file_path,
+                                               maxBytes = max_log_size,
+                                               backupCount = backup_count)
+            file_handler.setFormatter(formatter)
+
+            self.addHandler(file_handler)
+
+        # Set the default logging level (INFO, DEBUG, etc.)
+        self.setLevel(level)
+
+        # Avoid duplicate handlers (handled by `hasHandlers()` check above)
+
+    def log_to_console(self, level: int = INFO) -> None:
+        """Logs a message to the console."""
+        self.setLevel(level)
+        for handler in self.handlers:
+            if isinstance(handler, StreamHandler):
+                handler.setLevel(level)
+
+    def log_to_file(self, level: int = INFO) -> None:
+        """Logs a message to the file."""
+        self.setLevel(level)
+        for handler in self.handlers:
+            if isinstance(handler, FileHandler) or isinstance(handler, RotatingFileHandler):
+                handler.setLevel(level)
+
+generate_unique_port = lambda: int(uuid4().int & (1<<16) -1) + 1024 
 
 
 # Initialize a custom logger named "PPP" with default logging level INFO
@@ -175,8 +210,7 @@ class CustomLogger(Logger):
 logger = CustomLogger("PPP", level = DEBUG, log_to_file = True, log_file_path = "logs/checker.log")
 
 def yield_txt_files(folder_path: str) -> Generator[str, None, None]:
-    """
-    Yields .txt files from the given folder.
+    """Yields .txt files from the given folder.
 
     :param folder_path: Path to the folder to search for .txt files.
     :type folder_path: str
@@ -239,12 +273,10 @@ def generate_json_files() -> List[Dict[Any, Any]]:
     :return: A list of JSON file paths.
     :rtype: List[str]
     """
-    port: int = 1000  # Initialize the base port number
     configs: List[Dict[Any, Any]] = []
 
     def process_line(line: str) -> Optional[Dict[Any, Any]]:
-        nonlocal port # Access the shared port variable
-        port += 1
+        port = generate_unique_port()
         try:
             json_file_path = save_json(line, port)
             payload = ConfigPayload(
@@ -252,6 +284,8 @@ def generate_json_files() -> List[Dict[Any, Any]]:
                 jsonFilePath=json_file_path,
                 port=port
             )
+
+            # print(payload.port)
 
             return payload.to_dict()
         except Exception as err:
@@ -308,8 +342,49 @@ def main():
     
     input_payload = generate_input_payload()
 
-    with open("result.json", "w") as fp:
-        json.dump(input_payload.to_dict(), fp, indent=4)
+    outputs: List[Output] = list()
+    for chunk in chunks(input_payload.configs, 300):
+        liter_input_payload = InputPayload(
+                configs=list(chunk)
+            )
+        
+        result = proxies.process_proxies(
+            json_input=liter_input_payload.to_json(),
+            xray_core_file_path=XRAY_CORE_PATH
+        )
+
+        
+        try:
+            for obj in json.loads(result):
+                outputs.append(
+                    Output(
+                        url=obj.get("url"),
+                        location=Location.from_json(str(obj.get("location")))
+                    )
+                )
+                
+            # outputs.extend(
+            #     (
+            #         Output(
+            #             url=obj.get("url"),
+            #             location=Location.from_json(str(obj.get("location")))
+            #         )
+            #             for obj in json.loads(result)
+            #     )
+            # )
+        except (json.JSONDecodeError, TypeError, Exception) as err:
+            logger.error("Failed to parse data: %s, exception: %s", err, type(err).__name__)
+        
+        logger.info("Current outputs: %d", len(outputs))
+    else:
+        print(len(outputs))
+        input()
+        for output in outputs:
+            print("Location:", output.location)
+            print("URL:", output.url)
+            
+
+
 
 if __name__ == "__main__":
     
