@@ -45,7 +45,6 @@ jobs:
         git config --global user.email "qq623589@gmail.com"
         
         git add proxies
-        git add byLocation.json
     
         git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
     
