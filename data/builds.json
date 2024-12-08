@@ -10,7 +10,7 @@
         },
         {
             "name": "Build checker",
-            "cmd": "cd {{workdir}}/checker && {{go}} clean -modcache && {{go}} mod download && {{go}} build -o checker.a -buildmode=c-archive main.go"
+            "cmd": "cd {{workdir}}/checker && {{go}} clean -modcache && {{go}} build -o checker.a -buildmode=c-archive main.go"
         },
         {
             "name": "Build proxy_process module",
