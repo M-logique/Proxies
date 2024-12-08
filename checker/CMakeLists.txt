@@ -14,17 +14,10 @@ target_include_directories(proxy_process PRIVATE ${Python3_INCLUDE_DIRS})
 target_link_libraries(proxy_process PRIVATE pybind11::module)
 target_link_libraries(proxy_process PRIVATE ${CMAKE_SOURCE_DIR}/checker.a)
 
-# Finding python SOABI for the name of the output
-execute_process(
-    COMMAND ${Python3_EXECUTABLE} -c "import sysconfig; print(sysconfig.get_config_var('SOABI'))"
-    OUTPUT_VARIABLE PYTHON_SOABI
-    OUTPUT_STRIP_TRAILING_WHITESPACE
-)
 
 # Setting output
 set_target_properties(proxy_process PROPERTIES
     PREFIX ""                                # Remove .lib prefix
-    SUFFIX ".${PYTHON_SOABI}.so"             # using python SOABI
     OUTPUT_NAME "proxy_process"              # output file name
 )
 
