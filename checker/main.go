@@ -44,6 +44,10 @@ type InputData struct {
 	Configs []Config `json:"configs"`
 }
 
+type OutputData struct {
+	Outputs []*Output `json:"outputs"`
+}
+
 func WaitForPort(port int, timeout time.Duration) error {
 	address := fmt.Sprintf("127.0.0.1:%d", port)
 	start := time.Now()
@@ -216,7 +220,11 @@ func ProcessProxies(jsonInput *C.char, xrayCorePath *C.char) *C.char {
 		return C.CString(fmt.Sprintf("Error: %v", err))
 	}
 
-	jsonBytes, err := json.Marshal(output)
+
+
+	jsonBytes, err := json.Marshal(OutputData{
+		Outputs: output,
+	})
 	if err != nil {
 		return C.CString(fmt.Sprintf("Error: Error marshaling struct: %v", err))
  	}
