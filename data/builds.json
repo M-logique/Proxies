@@ -1,18 +1,20 @@
 {
     "toBuild": [
-      {
-        "name": "Build updater",
-        "cmd": "cd {{workdir}}/updater && {{go}} clean -modcache && {{go}} mod download && {{go}} build -o updater.a -buildmode=c-archive main.go"
-      },
-
-      {
-        "name": "Build resources module",
-        "cmd": "cd {{workdir}}/updater && mkdir -p build && cd build && cmake .. && make"
-      },
-      {
-        "name": "Updater cleanup",
-        "cmd": "rm -rf {{workdir}}/updater/updater.a && rm -rf {{workdir}}/updater/build"
-      }
+        {
+            "name": "Build updater",
+            "cmd": "cd {{workdir}}/updater && {{go}} clean -modcache && {{go}} mod download && {{go}} build -o updater.a -buildmode=c-archive main.go"
+        },
+        {
+            "name": "Build resources module",
+            "cmd": "cd {{workdir}}/updater && mkdir -p build && cd build && cmake .. && make"
+        },
+        {
+            "name": "Build checker",
+            "cmd": "cd {{workdir}}/checker && {{go}} clean -modcache && {{go}} mod download && {{go}} build -o checker.a -buildmode=c-archive main.go"
+        },
+        {
+            "name": "Build proxy_process module",
+            "cmd": "cd {{workdir}}/checker && mkdir -p build && cd build && cmake .. && make"
+        }
     ]
-  }
-  
+}
