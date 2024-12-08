@@ -3,7 +3,7 @@ name: Update proxies
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/45 * * * *'
+    - cron: '0 * * * *' # to run every hour
 
 permissions:
   contents: write
