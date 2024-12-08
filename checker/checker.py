@@ -45,9 +45,9 @@ module_path = f'{root_dir}/{module_name}.so'
 
 # Import 'proxies' module into the system
 spec = importlib.util.spec_from_file_location(module_name, module_path)
-proxies = importlib.util.module_from_spec(spec)
+proxies = importlib.util.module_from_spec(spec) #type: ignore
 sys.modules[module_name] = proxies
-spec.loader.exec_module(proxies)
+spec.loader.exec_module(proxies) #type: ignore
 
 TP = TypeVar("TP", bound="Payload")
 T = TypeVar("T")
@@ -116,8 +116,28 @@ class InputPayload(Payload):
     configs: List[Dict[Any, Any]]
 
 
+from dataclasses import dataclass
+
 @dataclass
 class Location(Payload):
+    """
+    Represents location details associated with a query.
+
+    :param query: The query string that resulted in this location (e.g., IP or hostname).
+    :type query: str
+    :param country: The name of the country for this location.
+    :type country: str
+    :param countryCode: The ISO 3166-1 alpha-2 country code (e.g., "US" for the United States).
+    :type countryCode: str
+    :param region: The region or state within the country.
+    :type region: str
+    :param regionName: The human-readable name of the region (e.g., "California").
+    :type regionName: str
+    :param city: The name of the city.
+    :type city: str
+    :param status: The status of the location resolution (e.g., "success" or "fail").
+    :type status: str
+    """
     query: str
     country: str
     countryCode: str
@@ -128,6 +148,14 @@ class Location(Payload):
 
 @dataclass
 class Output(Payload):
+    """
+    Represents an output entity containing a URL and its associated location data.
+
+    :param url: The URL associated with this output.
+    :type url: str
+    :param location: A Location object providing geographic details for the URL.
+    :type location: Location
+    """
     url: str
     location: Location
 
@@ -349,83 +377,87 @@ def generate_input_payload() -> InputPayload:
     )
 
 def main():
-    # Creating JSON_FILES_DIR if not exists
+    """
+    Main function to process proxies, collect outputs, and generate a final JSON result.
+    """
+    # Ensure the directory for storing JSON files exists
     if not os.path.exists(JSON_FILES_DIR): 
         os.makedirs(JSON_FILES_DIR)
 
-    
+    # Generate the input payload for processing
     input_payload: InputPayload = generate_input_payload()
 
+    # List to store processed outputs
     outputs: List[Output] = []
+
+    # Process the input payload in chunks of 300 configurations
     for chunk in chunks(input_payload.configs, 300):
+        # Create a smaller InputPayload object for the current chunk
         liter_input_payload: InputPayload = InputPayload(
-                configs=list(chunk)
-            )
+            configs=list(chunk)
+        )
         
+        # Process proxies using the given input and xray core file path
         result: str = proxies.process_proxies(
             json_input=liter_input_payload.to_json(),
             xray_core_file_path=XRAY_CORE_PATH
         )
 
-        
+        # Parse the JSON response from the proxy processor
         loaded_outputs: Any = json.loads(result)
 
         try:
+            # Extract and store output data
             for obj in loaded_outputs["outputs"]:
-
                 outputs.append(
                     Output(
                         url=obj.get("url"),
                         location=Location.from_dict(obj.get("location"))
                     )
                 )
-            
-                
-            # outputs.extend(
-            #     (
-            #         Output(
-            #             url=obj.get("url"),
-            #             location=Location.from_json(str(obj.get("location")))
-            #         )
-            #             for obj in json.loads(result)
-            #     )
-            # )
         except (json.JSONDecodeError, TypeError, Exception) as err:
+            # Log an error if data parsing fails
             logger.error("Failed to parse data: %s, exception: %s", err, type(err).__name__)
         
+        # Log the current count of collected outputs
         logger.info("Current outputs: %d", len(outputs))
 
     else:
-        print(len(outputs))
-        input()
-        
+        # Initialize sets to track unique country codes and names
         locations_by_cc: set = set()
         locations_by_names: set = set()
 
+        # Final dictionary to store processed data
         final_dict: Dict[str, Any] = {
             "locations": {
-                "totalCountries": 0,
-                "byNames": [],
-                "byCountryCode": []
+                "totalCountries": 0,    # Total number of unique countries
+                "byNames": [],          # List of unique country names
+                "byCountryCode": []     # List of unique country codes
             },
-            "profilesByCC": {}
+            "profilesByCC": {}         # URLs grouped by country code
         }
 
+        # Process each output to populate the final dictionary
         for output in outputs:
+            # Add country code and name to their respective sets
             locations_by_cc.add(output.location.countryCode)
             locations_by_names.add(output.location.country)
 
+            # Retrieve country code and URL for the current output
             cc: str = output.location.countryCode
             url: str = output.url
 
+            # Group URLs by country code
             final_dict["profilesByCC"][cc] = (
                 final_dict["profilesByCC"].get(cc, []) + [url]
             )
 
+        # Populate the final dictionary with unique counts and data
         final_dict["locations"]["totalCountries"] = len(locations_by_cc)
         final_dict["locations"]["byNames"] = list(locations_by_names)
         final_dict["locations"]["byCountryCode"] = list(locations_by_cc)
 
+        # Write the final dictionary to a JSON file
         with open(f"{workflow_dir}/result.json", "w") as fp:
             json.dump(final_dict, fp, indent=4)
 
