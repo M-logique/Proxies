@@ -429,13 +429,13 @@ def main():
 
         # Final dictionary to store processed data
         final_dict: Dict[str, Any] = {
-            "totalProfiles": 0,         # Total number of profiles
+            "totalProfiles": len(outputs),   # Total number of profiles
             "locations": {
-                "totalCountries": 0,    # Total number of unique countries
-                "byNames": [],          # List of unique country names
-                "byCountryCode": []     # List of unique country codes
+                "totalCountries": 0,         # Total number of unique countries
+                "byNames": [],               # List of unique country names
+                "byCountryCode": []          # List of unique country codes
             },
-            "profilesByCC": {}         # URLs grouped by country code
+            "profilesByCC": {}               # URLs grouped by country code
         }
 
         # Process each output to populate the final dictionary
