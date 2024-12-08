@@ -32,9 +32,12 @@ jobs:
       run: rm -rf ${{github.workspace}}/proxies 
 
     - name: Run updater
-      run: |
+      run: python3 updater/updater.py "${{github.workspace}}"
 
-        python3 updater/updater.py "${{github.workspace}}"
+
+    - name: Run checker
+      run: python3 checker/checker.py
+
 
     - name: Commit changes
       run: |
@@ -42,6 +45,7 @@ jobs:
         git config --global user.email "qq623589@gmail.com"
         
         git add proxies
+        git add byLocation.json
     
         git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
     
