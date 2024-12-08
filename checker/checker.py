@@ -1,19 +1,29 @@
 import json
 import os
+import secrets
+import sys
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, dataclass
 from glob import iglob
-from typing import (Generator, List, Tuple, Type,
-                    TypeVar, Optional, Dict, Any)
-from string import ascii_letters, digits
-import secrets
-from concurrent.futures import ThreadPoolExecutor
-
 # Logging imports
-from logging import Logger, INFO, Formatter, StreamHandler, FileHandler, DEBUG
+from logging import (DEBUG, INFO, FileHandler, Formatter, Logger,
+                     StreamHandler)
 from logging.handlers import RotatingFileHandler
+from string import ascii_letters, digits
+from typing import (Any, Dict, Generator, List, Optional, Sequence, Tuple,
+                    Type, TypeVar)
+
+# Setup directory paths
+# Get the root directory of the current script
+root_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Attempt to get the workflow directory from the command-line arguments, defaulting to "." if not provided
+workflow_dir = next((arg for i, arg in enumerate(sys.argv) if i == 1), ".")
+
 
 # The folder where the JSON files will be saved
-JSON_FILES_DIR: str = "./json_files"
+JSON_FILES_DIR: str = f"{workflow_dir}/json_files"
+XRAY_CORE_PATH: str = f"{root_dir}/xray"
 
 
 # The folders containing the configuration files of V2ray.
@@ -22,7 +32,8 @@ folder_paths: Tuple[str, ...] = (
     "./proxies/tvc"
 )
 
-T = TypeVar("T", bound='Payload')
+TP = TypeVar("TP", bound="Payload")
+T = TypeVar("T")
 
 @dataclass
 class Payload:
@@ -51,14 +62,14 @@ class Payload:
         return asdict(self)
 
     @classmethod
-    def from_json(cls: Type[T], json_data: str) -> T:
+    def from_json(cls: Type[TP], json_data: str) -> TP:
         """
         Creates an instance of the dataclass from a JSON string.
 
         :param json_data: JSON string representing the dataclass.
         :type json_data: str
         :return: An instance of the dataclass.
-        :rtype: T
+        :rtype: TP
         """
         data = json.loads(json_data)
         return cls(**data)
@@ -259,6 +270,21 @@ def generate_json_files() -> List[Dict[Any, Any]]:
 
     return configs
 
+def chunks(data: Sequence[T], chunk_size: int) -> Generator[Sequence[T], None, None]:
+    """
+    Splits the input sequence into chunks of the given size.
+
+    :param data: The input sequence to be split into chunks.
+    :type data: Sequence[T]
+    :param chunk_size: The size of each chunk.
+    :type chunk_size: int
+    :yield: A chunk of the input Sequence.
+    :rtype: Generator[Sequence[T], None, None]
+    """
+    for i in range(0, len(data), chunk_size):
+        yield data[i:i + chunk_size]
+
+
 def generate_input_payload() -> InputPayload:
     """
     Generates an InputPayload object containing configurations for proxy servers.
@@ -274,9 +300,7 @@ def generate_input_payload() -> InputPayload:
         configs=json_files
     )
 
-if __name__ == "__main__":
-
-
+def main():
     # Creating JSON_FILES_DIR if not exists
     if not os.path.exists(JSON_FILES_DIR): 
         os.makedirs(JSON_FILES_DIR)
@@ -286,3 +310,12 @@ if __name__ == "__main__":
 
     with open("result.json", "w") as fp:
         json.dump(input_payload.to_dict(), fp, indent=4)
+
+if __name__ == "__main__":
+    
+    # Check if the specified workflow directory exists
+    if not os.path.exists(workflow_dir):
+        logger.error(f"Error: Specified workflow directory does not exist: {workflow_dir}")
+        sys.exit(1)
+
+    main()
