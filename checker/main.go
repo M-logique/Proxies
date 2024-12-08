@@ -1,5 +1,8 @@
 package main
 
+/*
+#include <stdlib.h>
+*/
 import "C"
 
 import (
@@ -198,6 +201,8 @@ func handleInputData(input InputData, xrayCorePath string) ([]*Output, error) {
 //export ProcessProxies
 func ProcessProxies(jsonInput *C.char, xrayCorePath *C.char) *C.char {
 
+	// loading the input json by converting it into GoStrings
+	// and using json.Unmarshal
 	goJsonInput := C.GoString(jsonInput)
 	goXrayCorePath := C.GoString(xrayCorePath)
 	var input InputData
