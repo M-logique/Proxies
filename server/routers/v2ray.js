@@ -38,9 +38,13 @@ router.get('/location/:location', async (req, res) => {
     json["Netherlands"] = [...json["Netherlands"], ... json["The Netherlands"]]
     json = lowerize(json)
 
-    const loc = req.params.location;
+    const loc = req.params.location.toLowerCase();
 
     const configs = json[loc]
+
+    const name = utils.getName(req.params.location).replaceAll('-', '');
+
+    console.log(name)
 
     if (!configs) {
         return res.status(404).send({ error: 'File not found' });
@@ -51,7 +55,7 @@ router.get('/location/:location', async (req, res) => {
     const sliced = protocolFiltered.slice(0, amount);
     const joined = sliced.join('\n\n');
 
-    utils.setHeaders(res, `Github: M-logique/Proxies | ${req.params.location.toUpperCase().replaceAll("-", " ")}`);
+    utils.setHeaders(res, `Github: M-logique/Proxies | ${name}`);
 
     if (req.query.decrypted == '' || req.query.decrypted) {
         res.status(200).send(joined);
