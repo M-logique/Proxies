@@ -10,41 +10,49 @@ router.get('/:channel', async (req, res) => {
     let requested = req.query.count || req.query.limit || req.query.amount || 20
     if (Number(requested) > 200) requested = 200
     const count = Math.ceil(Number(requested) / 20)
-
-    // Fetch the initial page of the Telegram channel
-    const { body } = await request(`https://t.me/s/${req.params.channel}`)
-    const text = await body.text()
-    const html = parse(text)
-
-    // Extract message texts and the 'before' parameter for pagination
-    const widgets = html.querySelectorAll('.tgme_widget_message_text')
-    let before = html.querySelector('.tme_messages_more')['_attrs']['data-before']
-    let msgs = widgets.map(item => item.innerText).reverse()
-
-    // Fetch additional pages if needed
-    for (const i of new Array(count)) {
-        const { body } = await request(`https://t.me/s/${req.params.channel}?before=${before}`)
+    try {
+        // Fetch the initial page of the Telegram channel
+        const { body } = await request(`https://t.me/s/${req.params.channel}`)
         const text = await body.text()
         const html = parse(text)
+    
+        // Extract message texts and the 'before' parameter for pagination
         const widgets = html.querySelectorAll('.tgme_widget_message_text')
-        before = html.querySelector('.tme_messages_more')['_attrs']['data-before']
-        msgs = [...msgs, ...widgets.map(item => item.innerText).reverse()]
+        let before = html.querySelector('.tme_messages_more')['_attrs']['data-before']
+        let msgs = widgets.map(item => item.innerText).reverse()
+    
+        // Fetch additional pages if needed
+        for (const i of new Array(count)) {
+            const { body } = await request(`https://t.me/s/${req.params.channel}?before=${before}`)
+            const text = await body.text()
+            const html = parse(text)
+            const widgets = html.querySelectorAll('.tgme_widget_message_text')
+            before = html.querySelector('.tme_messages_more')['_attrs']['data-before']
+            msgs = [...msgs, ...widgets.map(item => item.innerText).reverse()]
+        }
+    
+        // Regular expression to match VPN configuration URLs
+        const pattern = /(?:vless|vmess|ss|trojan):\/\/[^\s#]+(?:#[^\s]*)?/g;
+    
+        // Extract VPN configs from messages, filter out null matches, and replace HTML entities
+        const configs = msgs.flatMap(str => str.match(pattern)).filter(item => item).map(str => str.replaceAll('&amp;', '&'))
+    
+        // Filter configs based on the protocol query parameter (if provided)
+        const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
+    
+        // Slice the filtered configs array to the requested number of items
+        const sliced = protocolFiltered.slice(0, Number(requested));
+    
+        // Join the configs with double newlines
+        var joined = sliced.join('\n\n');
+
+    } 
+    catch {
+        res.status(503).send(
+            {error: "Failed to scrap this channel"}
+        )
+        return;
     }
-
-    // Regular expression to match VPN configuration URLs
-    const pattern = /(?:vless|vmess|ss|trojan):\/\/[^\s#]+(?:#[^\s]*)?/g;
-
-    // Extract VPN configs from messages, filter out null matches, and replace HTML entities
-    const configs = msgs.flatMap(str => str.match(pattern)).filter(item => item).map(str => str.replaceAll('&amp;', '&'))
-
-    // Filter configs based on the protocol query parameter (if provided)
-    const protocolFiltered = configs.filter(config => !req.query.protocol || config.startsWith(req.query.protocol))
-
-    // Slice the filtered configs array to the requested number of items
-    const sliced = protocolFiltered.slice(0, Number(requested));
-
-    // Join the configs with double newlines
-    const joined = sliced.join('\n\n');
 
     utils.setHeaders(res, `Git: M-logique/Proxies | ${req.params.channel.toUpperCase()}`)
 
