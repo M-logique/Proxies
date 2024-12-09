@@ -131,6 +131,7 @@ dist
 
 yarn.lock
 package-lock.json
+pnpm-lock.yaml
 
 .venv/
 
@@ -142,3 +143,4 @@ package-lock.json
 **__pycache__**
 
 json_files/
+
