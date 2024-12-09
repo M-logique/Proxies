@@ -46,6 +46,7 @@ router.get('/location/:location', async (req, res) => {
     const configs = json[loc]
 
     const name = utils.getName(req.params.location).replaceAll('-', '');
+    const flag = utils.getFlag(req.params.location);
 
     if (!configs) {
         return res.status(404).send({ error: 'File not found' });
@@ -56,7 +57,7 @@ router.get('/location/:location', async (req, res) => {
     const sliced = protocolFiltered.slice(0, amount);
     const joined = sliced.join('\n\n');
 
-    utils.setHeaders(res, `Github: M-logique/Proxies | ${name}`);
+    utils.setHeaders(res, `${flag} Github: M-logique/Proxies | ${name}`);
 
     if (req.query.decrypted == '' || req.query.decrypted) {
         res.status(200).send(joined);
