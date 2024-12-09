@@ -12,7 +12,12 @@ router.get('/:channel', async (req, res) => {
     const count = Math.ceil(Number(requested) / 20)
 
     // Fetch the initial page of the Telegram channel
-    const { body } = await request(`https://t.me/s/${req.params.channel}`)
+    const { body, statusCode } = await request(`https://t.me/s/${req.params.channel}`)
+
+    if (statusCode === 302) {
+        return res.status(404).send({error: 'Channel didn\'t allow scraping'})
+    }
+
     const text = await body.text()
     const html = parse(text)
 
