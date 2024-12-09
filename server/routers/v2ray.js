@@ -35,7 +35,10 @@ router.get('/:name', async (req, res) => {
 router.get('/location/:location', async (req, res) => {
     let json = require('../../proxies/byLocation.json')
     json = Object.assign({}, json.profilesByCountryCode, json.profilesByCountryName)
-    json["Netherlands"] = [...json["Netherlands"], ... json["The Netherlands"]]
+    json["Netherlands"] = [].concat(
+        json["Netherlands"] || [],
+        json["The Netherlands"] || []
+      );
     json = lowerize(json)
 
     const loc = req.params.location.toLowerCase();
@@ -43,8 +46,6 @@ router.get('/location/:location', async (req, res) => {
     const configs = json[loc]
 
     const name = utils.getName(req.params.location).replaceAll('-', '');
-
-    console.log(name)
 
     if (!configs) {
         return res.status(404).send({ error: 'File not found' });
