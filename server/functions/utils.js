@@ -27,7 +27,13 @@ module.exports = {
     getName: (input="us") => {
         input = input.toLowerCase()
         const country = c.find(item => item.name === input || item.code === input)
+        return country.name.toUpperCase();
+    },
+    
+    getFlag: (input="us") => {
+        input = input.toLowerCase()
+        const country = c.find(item => item.name === input || item.code === input)
         const codePoints = country.code.toUpperCase().split('').map(char => 127397 + char.charCodeAt(0));
-        return String.fromCodePoint(...codePoints) + ' ' + country.name.toUpperCase();
+        return String.fromCodePoint(...codePoints);
     }
 };
