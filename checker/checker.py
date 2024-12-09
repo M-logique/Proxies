@@ -435,7 +435,8 @@ def main():
                 "byNames": [],               # List of unique country names
                 "byCountryCode": []          # List of unique country codes
             },
-            "profilesByCountryCode": {}       # URLs grouped by country code
+            "profilesByCountryCode": {},     # URLs grouped by country code
+            "profilesByCountryName": {}
         }
 
         # Process each output to populate the final dictionary
@@ -447,10 +448,18 @@ def main():
             # Retrieve country code and URL for the current output
             cc: str = output.location.countryCode
             url: str = output.url
+            country_name: str = output.location.country.replace("Türkiye", "Turkey") 
+            # Türkiye will showup in json like this: T\u00fcrkiye
+            # So we need to replace it with "Turkey"
 
             # Group URLs by country code
             final_dict["profilesByCountryCode"][cc] = (
                 final_dict["profilesByCountryCode"].get(cc, []) + [url]
+            )
+
+            # Group URLs by country name
+            final_dict["profilesByCountryName"][country_name] = (
+                final_dict["profilesByCountryName"].get(country_name, []) + [url]
             )
 
         # Populate the final dictionary with unique counts and data
