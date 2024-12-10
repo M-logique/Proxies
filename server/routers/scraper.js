@@ -51,7 +51,7 @@ router.get('/:channel', async (req, res) => {
     // Join the configs with double newlines
     const joined = sliced.join('\n\n');
 
-    utils.setHeaders(res, `Github: M-logique/Proxies | ${req.params.channel.toUpperCase()}`)
+    utils.setHeaders(res, `Github: M-logique/Proxies | ${req.params.channel.toUpperCase()}`, true);
 
     // Check if decrypted output is requested
     if (req.query.decrypted == '' || req.query.decrypted) {
