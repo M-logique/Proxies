@@ -464,19 +464,19 @@ func fetchTGMessages(channelID string, requested int) []string {
     channel := "https://t.me/s/" + channelID
     req, err := http.NewRequest("GET", channel, nil)
     if err != nil {
-        log.Fatalf("Error when requesting to: %s Error : %s", channel, err)
+        log.Printf("Error when requesting to: %s Error : %s", channel, err)
     }
 
     resp, err := client.Do(req)
     if err != nil {
-        log.Fatal(err)
+        log.Print(err)
     }
     defer resp.Body.Close()
 
     // Parse the initial HTML response
     doc, err := goquery.NewDocumentFromReader(resp.Body)
     if err != nil {
-        log.Fatal(err)
+        log.Print(err)
     }
 
     // Create a channel to collect messages
@@ -504,19 +504,21 @@ func fetchTGMessages(channelID string, requested int) []string {
             nextPageURL := fmt.Sprintf("https://t.me/s/%s?before=%s", channelID, before)
             req, err := http.NewRequest("GET", nextPageURL, nil)
             if err != nil {
-                log.Fatal(err)
+                log.Print(err)
             }
 
             resp, err := client.Do(req)
             if err != nil {
-                log.Fatal(err)
+                log.Print(err)
+				return
             }
             defer resp.Body.Close()
 
             // Parse the HTML response
             doc, err := goquery.NewDocumentFromReader(resp.Body)
             if err != nil {
-                log.Fatal(err)
+                log.Print(err)
+				return
             }
 
             // Extract and send messages through the channel
