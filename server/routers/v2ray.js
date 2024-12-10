@@ -22,7 +22,7 @@ router.get('/:name', async (req, res) => {
     const sliced = protocolFiltered.slice(0, amount);
     const joined = sliced.join('\n\n');
 
-    utils.setHeaders(res, `Github: M-logique/Proxies | ${req.params.name.toUpperCase().replaceAll("-", " ")}`);
+    utils.setHeaders(res, `Github: M-logique/Proxies | ${req.params.name.toUpperCase().replaceAll("-", " ")}`, true);
 
     if (req.query.decrypted == '' || req.query.decrypted) {
         res.status(200).send(joined);
