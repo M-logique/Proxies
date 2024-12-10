@@ -321,6 +321,7 @@ def generate_json_files() -> List[Dict[Any, Any]]:
         port = generate_unique_port()
         try:
             json_file_path = save_json(line, port)
+            logger.info("Generated JSON for URL: '%s', path: %s", line, json_file_path)
             payload = ConfigPayload(
                 url=line,
                 jsonFilePath=json_file_path,
