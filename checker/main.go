@@ -182,8 +182,10 @@ func handleInputData(input InputData, xrayCorePath string) ([]*Output, error) {
 				result, err := checkConfig(xrayCorePath, config.JsonFilePath, config.Port, config.URL)
 				if err != nil {
 					log.Printf("Error checking the config: %s\n", err)
-					return
-				}
+						// log.Printf("Error checking the config: %s\n", err)
+						return
+					}
+					log.Printf("Found location %s for config %s", result.Location.Country, result.URL)
 				resultChan <- result
 			}(config)
 		}
