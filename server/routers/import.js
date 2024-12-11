@@ -13,7 +13,7 @@ router.get("/import/:app/:pattern/", async (req, res) => {
         .status(400)
         .send("bad usage");
 
-    url = url.replace("@", req.headers.host);
+    url = url.replace("@", `http://${req.headers.host}`);
 
     return res.status(301).redirect(`${app}://${pattern}?url=${url}`);
 
@@ -27,7 +27,7 @@ router.get("/raw-import", async (req, res) => {
         .status(400)
         .send("bad usage");
 
-    url = url.replace("@", req.headers.host);
+    url = url.replace("@", `http://${req.headers.host}`);
 
     return res.status(301).redirect(url);
 
