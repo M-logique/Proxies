@@ -1,5 +1,6 @@
 vless://8fa898a3-789a-44d4-8bc5-d0c77e94fcc7@panel.seyyedmtmodidandansax.blog:2052?mode=gun&security=reality&encryption=none&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&fp=chrome&type=grpc&serviceName=2052vless&sni=wordpress.org&sid=4156caa9#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://848deb13-b86c-45fa-8108-e13c8dff0fa9@138.199.145.191:54443?path=%2Fservernett&security=none&encryption=none&type=ws#@meli_proxyy
+trojan://telegram-id-directvpn@63.176.17.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://0f7f55fe-262d-5cc6-a59e-8dd512791a98@davidlab.ucdavis.edu:443?path=%2Fvless%3Fed%3D443&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.j.z.x.jjjjjjjjj.netspeedtest.net.sewzx.iuyal.ir&fp=randomized&type=ws&sni=davidlab.ucdavis.edu#%40mehrosaboran
 vless://Biain--%5a%45%44%4d%4f%44%45%4f%4e@zmaoz.faculty.ucdavis.edu:443?path=%2F%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-TEL-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e%3Fed%3D2048&security=tls&encryption=none&host=irannsr.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#%40bored_vpn
 vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cdiuw86.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS3-ALL|@ArV2ray
@@ -97,7 +98,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:3306#[
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.122:7306#%F0%9F%86%9214%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#%F0%9F%86%9213%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#%40meli_proxyy
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5001#%40meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#%F0%9F%86%9964%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#%F0%9F%86%8E57%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%E2%9D%976%40oneclickvpnkeys
