@@ -1,3 +1,6 @@
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.173:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#@meli_proxyy
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.140:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#@meli_proxyy
+vless://Parsashonam-135@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@Parsashonam
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?path=%2F1jk0RN6A5M3aEMof&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=ClOuDflaReiRaN1.pAgeS.dev#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:95f7::1]:50081?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://b62853d6-b6ac-47ff-ec2d-4184f55a58b4@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
@@ -39,7 +42,6 @@ vless://TELEGRAM-NUFiLTER@hajlab.ucdavis.edu:443?path=%2Ftelegram-NUFiLTER%2Ctel
 vless://c10c176f-288d-53be-b5de-d60077a21e99@199.232.125.53:443?allowInsecure=1&security=tls&host=E-L-I-V-2-R-A-Y-0.COM&fp=qq&type=ws&sni=E-L-I-V-2-R-A-Y-0.COM#@meli_proxyy
 vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@70.34.222.150:443?path=%2Fwspath&security=tls&alpn=http%2F1.1&encryption=none&host=xraypsiphon.sassanidempire.com&fp=chrome&type=ws&sni=xraypsiphon.sassanidempire.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 vless://Joinin--%5a%45%44%4d%4f%44%45%4f%4e@zmaoz.faculty.ucdavis.edu:443?path=%2F%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-TEL-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e%3Fed%3D2048&security=tls&encryption=none&host=rmto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#%40mehrosaboran
-vless://tel--%5a%45%44%4d%4f%44%45%4f%4e@zmaoz.faculty.ucdavis.edu:443?path=%2F%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-TEL-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%5a%45%44%4d%4f%44%45%4f%4e-%40%5a%45%44%4d%4f%44%45%4f%4e%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#%40mehrosaboran
 vless://bca5c473-b731-55a3-b672-7e734b641fd0@clearcreditrepair.com:443?security=tls&host=Join-E.L.i.V.2.R.A.Y.net&fp=safari&type=ws&sni=clearcreditrepair.com#
 vless://bca5c473-b731-55a3-b672-7e734b641fd0@Fastly.net:80?host=Join-E.L.i.V.2.R.A.Y.net&type=ws#
 trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&headerType=none&type=tcp&sni=avianrecruit.com#@meli_proxyy
@@ -51,6 +53,7 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.108:2375#[
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#[
 vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjc2dvLm1vemlsbGEuNS4wLnhuLS0yYjViYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhLjEyNy4wLjAuMS5vZmZsaW5lc3BlZWR0ZXN0Lm5ldGRvd24udXNlci54bi0tMmI1YmFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEuMC4yLjEueG4tLWo5aDEwMjhtcW1hb3l0aWkwMGFoYTIxaGZqcmQueG4tLW0zOWgudG9yLnJ1YmlrYS5jbG91ZG5zLmNoLiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJmcmFua2Z1cnQwMy56Z2pvay5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyYW5rZnVydDAzLnpnam9rLmNvbSIsImlkIjoiNGY3YzIyNDMtYTM4YS00NjcyLTk4M2ItZjEzNzhhZWUwYTdmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YnksIEhlc3NlLCBGcmFua2Z1cnQgYW0gTWFpbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#[
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.203:2375#@meli_proxyy
@@ -64,7 +67,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#%40Artemisvpn1
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#%40Artemisvpn1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#@meli_proxyy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%F0%9F%93%8024%40oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.129:443#%F0%9F%93%8017%40oneclickvpnkeys
@@ -93,12 +95,10 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.39:9101#@meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#@meli_proxyy
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.152.112:5498#[
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#@meli_proxyy
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#[
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:3306#[
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.122:7306#%F0%9F%86%9214%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#%F0%9F%86%9213%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#%40meli_proxyy
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5001#%40meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#%F0%9F%86%9964%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#%F0%9F%86%8E57%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#%40Artemisvpn1
