@@ -16,6 +16,7 @@ vless://10801886-40e5-4d23-addd-3633274f5ef8@78a43af1d16387f5.speedtest.net:80?s
 trojan://638a2e00-c110-11ef-ab11-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.drlimit.net#[
 vless://1c53f77a-b689-4375-8d24-3c4f47969cca@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#[
+trojan://telegram-id-directvpn@15.222.216.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@34.254.209.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)
 trojan://telegram-id-privatevpns@18.184.36.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.43.236.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)
@@ -34,6 +35,7 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?path=%2F%3Fed%3D20
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.feadlenetwork19922d.net#@meli_proxyy
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.feadlenetwork19922d.net&sni=hajlab.ucdavis.edu&fp=chrome#@meli_proxyy
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.feadlenetwork19922d.net&sni=hajlab.ucdavis.edu&fp=chrome#@meli_proxyy
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@meli_proxyy
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net#@meli_proxyy
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net#@meli_proxyy
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@meli_proxyy
@@ -46,6 +48,7 @@ vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.drlimit.net#@meli_proxyy
 trojan://telegram-id-directvpn@35.176.133.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.237.233.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vmess://eyJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibXRuLnptIiwiaWQiOiJlNjk1MDBhMC1iZmIwLTExZWYtYjYzNS0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHduaDJwYmUiLCJwb3J0IjoiODAiLCJwcyI6IkBtZWxpX3Byb3h5ediz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://27d097c8-38b5-485d-8ecc-85fac6382fe7@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=api.nhl17.iR&type=ws#@meli_proxyy
 vless://Channel-VPNCUSTOMIZE@fishlab.ucdavis.edu:443?path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE%3Fed%3D2560&security=tls&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#[
 vless://--V2RAXX--@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#@meli_proxyy
@@ -53,7 +56,6 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram
 trojan://telegram-id-privatevpns@51.21.119.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-directvpn@52.47.148.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@3.77.181.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.191.218:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig
 trojan://telegram-id-privatevpns@51.20.245.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://44ab7429-dd2f-4a5f-8755-72695074000d@190.93.245.137:443?security=tls&sni=ftp.arashiphone.com.&type=ws&host=ftp.arashiphone.com.&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#[
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#[
@@ -99,7 +101,6 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&en
 trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.107:443?path=6b777a91&security=tls&alpn=http%2F1.1&host=jobscareertoday.com&fp=chrome&type=ws&sni=jobscareertoday.com#[
 vmess://eyJhZGQiOiIxOTMuMTYwLjEzMC4yNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJleW9uZGRzei5jZmQiLCJpZCI6IjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiYmV5b25kZHN6LmNmZCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#[
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#@meli_proxyy
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#[
