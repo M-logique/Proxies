@@ -5,7 +5,6 @@ vless://telegram-ArV2ray@151.101.2.216:80?path=%2Ftelegram-ArV2ry,telegram-ArV2r
 vless://Parsashonam-139@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam
 vless://668e2f3c-28d6-49d0-900e-511b1ef6fe8d@ns1.esfahansiman.com:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=WWW.tehrANSiman.coM.&type=httpupgrade#[
 vless://a4c03fbf-eaea-496f-c407-f2ec9d1be5c9@speedtest.net:80?path=%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%3Fed%3D2048&security=none&encryption=none&host=XpnTeam.ir&type=ws#%40mehrosaboran
-vless://a4c03fbf-eaea-496f-c407-f2ec9d1be5c9@151.101.2.165:80?path=%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40XpnTeam%2F%40%58pnTeam%3Fed%3D2048&security=none&encryption=none&host=XpnTeam.ir&type=ws#%40mehrosaboran
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:30546?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:29628?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=12.irfrn3sn.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS3-ALL|@ArV2ray
@@ -16,8 +15,8 @@ vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encryption=no
 vmess://eyJhZGQiOiIxNzYuMTIwLjY0LjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiODE5YjkxYjAtMjk0YS01MDY5LWE3MjEtNTIzYjM4YTYwYmY1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzI3QtbWUtRGFya1ZQTnBybz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IkBBcnRlbWlzdnBuMSAg8J+HqfCfh7AiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[
 vless://2d8497b5-23dd-46de-b654-717452302700@dailyconfigs.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=intenfomino1p1.com&path=%2F%3Fed%3D2048#[
+vless://2d8497b5-23dd-46de-b654-717452302700@DailyConfigs.fastly80-3.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=intenfomino1p1.com&type=ws#[
 vless://2d8497b5-23dd-46de-b654-717452302700@151.101.194.165:80?security=none&type=ws&host=intenfomino1p1.com&path=%2F%3Fed%3D2048#[
-vless://28db3a7c-637f-5b29-85c9-cce3cd1873c1@speedtest.net:80?security=none&encryption=none&host=MOSIV2-0.IR.&type=ws#@meli_proxyy
 vless://telegram-gozargah-azadi@persian--k2k.gamebaz98.ir:7870?security=reality&encryption=none&pbk=jM1gcVk2UnB4y8PimJ7FA4Y8gxLxBoxD-vg9YWH4jnM&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=wordpress.org&sid=5cebd3fd#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#[
 vmess://eyJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibXRuLnptIiwiaWQiOiJlNjk1MDBhMC1iZmIwLTExZWYtYjYzNS0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHduaDJwYmUiLCJwb3J0IjoiODAiLCJwcyI6IkBtZWxpX3Byb3h5ediz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -92,6 +91,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:3306#[
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#%40meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5001#%40meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#%F0%9F%86%9964%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F0%9F%86%9313%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#%F0%9F%86%8E57%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%E2%9D%976%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#%40Artemisvpn1
