@@ -30,6 +30,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c17:dd56::1]:43599?security=none&encryptio
 vless://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=eee.servernet.fun.&type=ws#%40SERVERNETT%20MTN%202vless://TELEGRAM-ServerNett@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=ncvb.servernet.fun.&type=ws#%40SERVERNETT%20MTN%201🦆
 vless://TELEGRAM…
 vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=weed.servernet.fun.&type=ws#%40SERVERNETT%20MTN%201
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
