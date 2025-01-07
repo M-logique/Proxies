@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@18.170.89.224:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@18.192.234.112:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@51.21.73.169:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
@@ -11,7 +12,7 @@ vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:80?security=none
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.150:443?security=tls&encryption=none&host=venom90.pages.dev&type=ws&sni=venom90.pages.dev#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82
 vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@190.93.245.137:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
-vless://2d37cb6c-3745-4cb1-9633-01c51a7debf1@SR.fastly80-3.hosting-ip.com:80?path=%2F%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@18.170.89.224:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
@@ -28,7 +29,7 @@ vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:80?security=none
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.150:443?security=tls&encryption=none&host=venom90.pages.dev&type=ws&sni=venom90.pages.dev#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82
 vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@190.93.245.137:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
-vless://2d37cb6c-3745-4cb1-9633-01c51a7debf1@SR.fastly80-3.hosting-ip.com:80?path=%2F%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@18.170.89.224:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
@@ -45,7 +46,7 @@ vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:80?security=none
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.150:443?security=tls&encryption=none&host=venom90.pages.dev&type=ws&sni=venom90.pages.dev#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82
 vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@190.93.245.137:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
-vless://2d37cb6c-3745-4cb1-9633-01c51a7debf1@SR.fastly80-3.hosting-ip.com:80?path=%2F%40proxy_mtm-%40proxy_mtm-%40proxy_mtm-%40proxy_mtm%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
+trojan://telegram-id-privatevpns@51.24.52.49:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@51.21.112.32:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@16.171.89.89:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@34.248.34.7:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
@@ -63,4 +64,3 @@ vless://528b1201-8b21-5bc2-bbce-5863731a4ac9@speedtest.net:80?security=none&encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
