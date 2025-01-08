@@ -1,5 +1,4 @@
 vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cdiuw109.net&type=ws#%40proxy_kafee%20ALL%20%7C%20%20%28%D8%BA%D8%AF%DB%8C%D8%B1%E2%80%8C%E2%80%8C%29
-vless://6883c49a-dcaf-4436-9546-4dbc4e1fd969@151.101.3.8:80?path=%2F%40VpnWedbaz-----%40VpnWedbaz%3Fed%3D2560&security=none&encryption=none&host=VpnWedbaz-VpnWedbaz.SS&type=ws#%40proxy_kafeeFamily%E2%9D%A4%EF%B8%8F
 vless://Parsashonam-145@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#@Parsashonam
 vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=12.irfrn14sn.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS2-ALL|@ArV2ray
 vless://4872d381-1cab-4b73-aa77-64a060c2a9ce@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
@@ -18,6 +17,7 @@ vmess://eyJhZGQiOiIxNTEuMTAxLjE5NC4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4x
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?security=none&type=ws&host=edge.validbv3528.ir#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80/?type=ws&encryption=none&host=teleirani.ir&path=%2F%3Fed%3D2048#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#@meli_proxyy
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=%2Folem%2Fws%3F&security=none&encryption=none&host=foffmelo.com&type=ws#@meli_proxyy
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#@meli_proxyy
 vless://telll--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#@meli_proxyy
 vless://telll--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#@meli_proxyy
@@ -31,7 +31,7 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.111:80?type=ws&host=teleir
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.119:80?sni=teleirani.ir&type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048&fp=random&alpn=h2%2Chttp%2F1.1#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048#[
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorCippyy%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.fi&fp=chrome&type=ws&sni=live.989bull.com#[
-vless://8160a5b8-74e3-5eff-a8a0-ecd4f72e81fe@coffeegenome.ucdavis.edu:443?path=%2Fvless%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.eng2.moiasl.ir&fp=randomized&type=ws&sni=coffeegenome.ucdavis.edu#[
+vless://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?security=none&sni=sk1.vless.sitespeedtest.net&type=ws&host=5.252.23.133.&path=/vless#[
 vless://1185a1af-2ad7-5abe-90fb-ca183a3abd96@speedtest.net:80?path=%2Fl%3Fed%3D443ed%3D2560&security=none&encryption=none&host=ELiV2RAY-0.iR.&type=ws#@meli_proxyy
 vless://SAVTEAM9@live.989bull.com:443?path=/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam%3Fed%3D443&security=tls&encryption=none&alpn=http/1.1&host=44446.ir&fp=chrome&type=ws&sni=live.989bull.com#[
 vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.0.223:80?path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=tg.ELiV2RaY.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
@@ -64,16 +64,15 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&en
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.134.94.168:3389#[
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.5:8091#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
-trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@meli_proxyy
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#[
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#@meli_proxyy
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.95:8008#[
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
 trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#@meli_proxyy
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.5:3389#[
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.92.55:9102#[
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#@meli_proxyy
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#@meli_proxyy
