@@ -8,7 +8,6 @@ vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.21.96.1:2083?security=tls&sni=g
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.21.80.1:2083?security=tls&sni=gErmaNHP.Pages.dEv&type=ws&host=germanhp.pages.dev&path=%2FTELEGRAM%3A%40AZARBAYJAB1%2CTELEGRAM%3A%40AZARBAYJAB1%2CTELEGRAM%3A%40AZARBAYJAB1%3Fed%3D2560#[
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.21.32.1:2083?security=tls&sni=gErmaNHP.Pages.dEv&type=ws&host=germanhp.pages.dev&path=%2FTELEGRAM%3A%40AZARBAYJAB1%2CTELEGRAM%3A%40AZARBAYJAB1%2CTELEGRAM%3A%40AZARBAYJAB1%3Fed%3D2560#[
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@zula.ir:2083?path=/smTmVvYcksJTignq/My4xMjYuMTU5LjEy&eh=Sec-WebSocket-Protocol&ed=2560&encryption=none&host=germanhp.pages.dev&type=ws&security=tls&sni=gErmaNHP.Pages.dEv&fp=randomized&alpn=http/1.1#@meli_proxyy
-vless://84a85f2c-8b8c-433f-94bb-e8f77e75cc45@5.104.107.135:10325?security=reality&encryption=none&pbk=gH1wDGHWOwSDsG_5HIgHWjeGjaQCZ6HxoliYi5LqczI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.nahadeh.co#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.103:80?type=ws&host=edge.validbv3528.ir#[
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@172.67.66.177:2083?security=tls&sni=GErMAnhp.Pages.DEV&type=ws&host=germanhp.pages.dev&path=%2F9tE1lXpBmCQDi0ki%2FMy4xMjYuMTU5LjEy&alpn=http%2F1.1#[
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?type=ws&host=edge.validbv3528.ir&path=%2F%3Fed%3D2560#[
@@ -69,6 +68,7 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8881#%40vmessprotocol
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:5601#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.203:2375#@meli_proxyy
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#@meli_proxyy
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#@meli_proxyy
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.55:7307#@meli_proxyy
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#@meli_proxyy
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#@meli_proxyy
