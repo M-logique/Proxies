@@ -1,5 +1,3 @@
-trojan://telegram-id-privatevpns@3.124.103.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
-trojan://telegram-id-privatevpns@18.175.78.252:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@3.124.72.124:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
@@ -12,6 +10,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
+trojan://telegram-id-privatevpns@16.171.89.89:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@34.248.34.7:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.224.58.74:1212?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a4844ba7#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@15.237.168.157:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
@@ -30,6 +29,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
+trojan://telegram-id-privatevpns@16.171.89.89:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@34.248.34.7:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.224.58.74:1212?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a4844ba7#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@15.237.168.157:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
@@ -48,6 +48,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40free_server_vpn%F0%9F%A7%A1%F0%9F%8D%82‌………………………………………………………………کانال
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@13.49.211.220:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 vmess://eyJhZGQiOiJ0ZS53b3JkY2xhc3MudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJURS53b3JkY2xhc3MudG9wIiwiaWQiOiIwNjNlMTMxYy0yNjBjLTQ3MzktYjRhMi00Y2RkZDkzNThkYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3Nwcm90b2NvbC12bWVzc3Byb3RvY29sLXZtZXNzcHJvdG9jb2wtdm1lc3Nwcm90b2NvbCIsInBvcnQiOiI4MCIsInBzIjoiQGZyZWVfc2VydmVyX3ZwbvCfkpYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=‌………………………………………………………………کانال
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@time.is:2083?path=%2FqqNNQTl6DJ5lIGLb%2FMy4xMjYuMTU5LjEy&security=tls&alpn=http%2F1.1&encryption=none&host=germanhp.pages.dev&fp=randomized&type=ws&sni=GERmAnHp.PAgES.dEv#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
@@ -65,4 +66,3 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?path=%2F%3Fed%3D204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@51.24.52.49:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
 trojan://telegram-id-privatevpns@51.21.112.32:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
-trojan://telegram-id-privatevpns@16.171.89.89:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40free_server_vpn%F0%9F%92%96‌………………………………………………………………کانال
