@@ -33,6 +33,7 @@ vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&alp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.1.108:443?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.158.1:443?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#@meli_proxyy
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?security=tls&sni=anchor.fm&type=ws&host=magdl.ir&path=%2Fstream%2F&fp=chrome&alpn=http%2F1.1#[
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.147:80?sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&allowInsecure=0#[
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147135010103.sec19org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.103:80?type=ws&host=edge.validbv3528.ir#[
 vless://a2a881b7-9f5f-499e-a166-55bb22df05c5@185.161.251.211:1633?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#[
@@ -104,7 +105,6 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&secu
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#@meli_proxyy
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#%40meli_proxyy
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5001#%40meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#%F0%9F%86%9964%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#%F0%9F%86%9313%40oneclickvpnkeys
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.87:7002#%40Artemisvpn1
