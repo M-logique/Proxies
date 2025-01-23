@@ -1,11 +1,15 @@
+vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRXHUwMDNkXHUwMDNkP2VkXHUwMDNkMjU2MCIsInBvcnQiOiIyMDk1IiwicHMiOiJAQXJ0ZW1pc3ZwbjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://ID-TELEGRAM-PROXY_MTM@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=AGJqBirLnXNaPZafTvgKKSRR14V83keXoXWUBDCqyGg&fp=randomized&spx=%2F&type=grpc&serviceName=ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM-ID-TELEGRAM-PROXY_MTM&sni=refersion.com&sid=caa6ba10e8654f5d#ID-TELEGRAM-%40PROXY_MTM
 vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cuiukn.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS-All|@ArV2ray
+vless://TELEGRAM-NUFiLTER-44c65251e4da@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=kazemi1211zerofun.com&type=ws#@meli_proxyy
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?path=%2F%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#%40mehrosaboran
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.145.23:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#%40Artemisvpn1
+vless://TELEGRAM-NUFiLTER-1f52c104722e@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.iR&type=ws#@meli_proxyy
+vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F&security=tls&encryption=none&host=magdl.ir&type=ws&sni=anchor.fm#%40Artemisvpn1
 vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 vless://c9682427-e6f8-5b96-844d-e5b9847e3dac@95.164.62.230:2052?mode=gun&security=none&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&type=grpc&serviceName=vless-grpc#%40mehrosaboran
 vless://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&encryption=none&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4d32acc962b47968#%40Freakconfig%20%F0%9F%87%A9%F0%9F%87%AA
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=%2Fvless-ws%2F%40proxy_mtm%2F%3Fed%3D2560&security=none&encryption=none&host=teleirani.ir&type=ws#ID-proxy_mtm
+vless://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&encryption=none&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=4d32acc962b47968#%40VmessProtocol
 vless://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd14.mehdit.ir&fp=chrome&type=ws&sni=dd14.mehdit.ir#@meli_proxyy
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=edge.validbv3528.ir&type=ws#%40mehrosaboran
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?path=%2Fvless-ws%2F%40Telegram-proxy_mtm%2F%3Fed%3D2560&security=none&encryption=none&host=teleirani.ir&type=ws#@meli_proxyy
@@ -17,7 +21,6 @@ vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#@meli_proxyy
 vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&headerType=none&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.92.72:8090#[
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D2560%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560%2F&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#@meli_proxyy
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?path=%2Fvless-ws%2F%40Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=teleirani.ir&type=ws#@meli_proxyy
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.76:80?path=%2Fvless-ws%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#@meli_proxyy
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.111:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=teleirani.ir&type=ws#@meli_proxyy
@@ -72,11 +75,7 @@ trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floors
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#@meli_proxyy
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#[
-trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#@meli_proxyy
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.95:8090#[
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.47:8882#@meli_proxyy
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#[
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#@meli_proxyy
@@ -101,6 +100,7 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#@meli_proxyy
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#%40meli_proxyy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AB%F0%9F%87%B7+%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87+%F0%9F%95%8A%EF%B8%8F%40Gozargah_Azadi
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#@meli_proxyy
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5601#@meli_proxyy
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.152.16:8091#[
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#[
