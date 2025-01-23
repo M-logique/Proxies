@@ -36,7 +36,6 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.76:80?security=none&type
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?security=none&type=ws&host=teleirani.ir&path=%2Fvless-ws%2F%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%3Fed%3D2560#[
 vless://c39d34d1-8723-42fd-a63d-1c857c76249a@80.240.112.94:443?security=reality&encryption=none&pbk=mD8V76JrLVJQrQXtyNVgcqwptE9PzcF8nEJe3MyhTDY&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=f0db85b11110c6#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.66.165:80?security=none&type=ws&host=teleirani.ir#[
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#[
 vless://5d101b3e-bcdd-487f-9f70-6de4cc21ef06@193.124.203.178:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=germany1.rsvpn.ru#@meli_proxyy
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vkvd127.mycdn.me#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.1.108:443?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#@meli_proxyy
@@ -53,11 +52,13 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.242:80?security=none&type=
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?security=none&type=ws&host=edge.validbv3528.ir#[
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?security=none&type=ws&host=edge.validbv3528.ir#[
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#@meli_proxyy
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#@meli_proxyy
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#[
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#[
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.228:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#[
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?security=none&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=%2F%3Fed%3D2560&fp=randomized#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?encryption=none&security=none&type=ws&host=teleirani.ir&path=%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#[
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.111:80?type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?type=ws&host=teleirani.ir&path=%2F%3Fed%3D2048#[
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@158.51.123.253:5003#[
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.85.155:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#[
@@ -67,7 +68,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#@meli_proxyy
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#@meli_proxyy
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.114:8118#[
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.134.94.168:3389#[
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
 trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&type=grpc&sni=Crunch.floorshoping22.com#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@meli_proxyy
