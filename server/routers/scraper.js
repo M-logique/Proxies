@@ -37,7 +37,7 @@ router.get('/:channel', async (req, res) => {
     }
 
     // Regular expression to match VPN configuration URLs
-    const pattern = /(?:vless|vmess|ss|trojan):\/\/[^\s#]+(?:#[^\s]*)?/g;
+    const pattern = /(?:vless|wireguard|vmess|ss|trojan):\/\/[^\s#]+(?:#[^\s]*)?/g;
 
     // Extract VPN configs from messages, filter out null matches, and replace HTML entities
     const configs = msgs.flatMap(str => str.match(pattern)).filter(item => item).map(str => str.replaceAll('&amp;', '&'))
