@@ -1,9 +1,9 @@
-vless://1538a7f7-28f1-4665-d5ff-71c929067d44@151.101.158.204:80?path=%2Folem%2Fws%3Fed%3D64&security=none&encryption=none&host=fatmelo.com&type=ws#[🏁]t.me/ConfigsHubϟ
-vmess://eyJhZGQiOiJvdmh3dXhpYW4ucGFpNTAyODgudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODY0NTViZmMtZGQwMi00YTNiLTlmMDMtNzY2OGYzOTM3NWQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9ϟ
-vless://59866431-7b5a-4dd9-a900-5091ae4021f1@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇬🇧]t.me/ConfigsHubϟ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880?security=none&encryption=none&type=grpc#[🇸🇪]t.me/ConfigsHubϟ
 vless://V2RAXX_@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#[🇺🇸]t.me/ConfigsHubϟ
+vless://SVNTEAM@cn.gisvn.ir:443?security=reality&encryption=none&pbk=PX3Iw8tKNRnG6_MqONvC96D7G1RWe_VvBJ99UGN150k&headerType=none&fp=chrome&type=tcp&sni=www.latimes.com#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 vless://Parsashonam-157@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHubϟ
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv2.cloudjetn.com:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=random&type=tcp&sni=stackoverflow.com&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHubϟ
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.90.77:443?security=reality&encryption=none&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#[🇦🇪]t.me/ConfigsHubϟ
 vless://58ffd0b0-538a-4578-a32d-7eb48250ca50@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHubϟ
 vless://Parsashonam-157@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/ConfigsHubϟ
@@ -53,6 +53,11 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_111b@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=ca1.v2vless.site&type=ws&sni=ca1.v2vless.site#[🇨🇦]t.me/ConfigsHubϟ
 trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@deliver.missionsec.io:28331?security=tls&headerType=none&type=tcp&sni=deliver.missionsec.io#[🇺🇸]t.me/ConfigsHubϟ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#[🇨🇦]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#[🇺🇸]t.me/ConfigsHubϟ
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHubϟ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+vless://SVNTEAM@cn.gisvn.ir:443?security=reality&encryption=none&pbk=PX3Iw8tKNRnG6_MqONvC96D7G1RWe_VvBJ99UGN150k&headerType=none&fp=chrome&type=tcp&sni=www.latimes.com#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv2.cloudjetn.com:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=random&type=tcp&sni=stackoverflow.com&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHubϟ
 vless://1538a7f7-28f1-4665-d5ff-71c929067d44@151.101.158.204:80?path=%2Folem%2Fws%3Fed%3D64&security=none&encryption=none&host=fatmelo.com&type=ws#[🏁]t.me/ConfigsHubϟ
 vmess://eyJhZGQiOiJvdmh3dXhpYW4ucGFpNTAyODgudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODY0NTViZmMtZGQwMi00YTNiLTlmMDMtNzY2OGYzOTM3NWQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9ϟ
 vless://59866431-7b5a-4dd9-a900-5091ae4021f1@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇬🇧]t.me/ConfigsHubϟ
@@ -68,11 +73,6 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_111b@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=ca1.v2vless.site&type=ws&sni=ca1.v2vless.site#[🇨🇦]t.me/ConfigsHubϟ
 trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@deliver.missionsec.io:28331?security=tls&headerType=none&type=tcp&sni=deliver.missionsec.io#[🇺🇸]t.me/ConfigsHubϟ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#[🇨🇦]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#[🇺🇸]t.me/ConfigsHubϟ
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHubϟ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
-vless://SVNTEAM@cn.gisvn.ir:443?security=reality&encryption=none&pbk=PX3Iw8tKNRnG6_MqONvC96D7G1RWe_VvBJ99UGN150k&headerType=none&fp=chrome&type=tcp&sni=www.latimes.com#[🇳🇱]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv2.cloudjetn.com:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=random&type=tcp&sni=stackoverflow.com&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHubϟ
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#[🇺🇸]t.me/ConfigsHubϟ
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHubϟ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
