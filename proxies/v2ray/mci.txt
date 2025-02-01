@@ -9,6 +9,7 @@ vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=%2F&sec
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ip.payexaye.my:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJhZGQiOiIxODguMjQ1LjEwMC4xNjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2ZmOWQxMTYtOTVhOS00MjcyLWFjYzgtMGRiODMxNjhmNGQwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODkyNiIsInBzIjoiQEFydGVtaXN2cG4xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#@meli_proxyy
+vless://6c198339-837d-4f61-940f-fa4f6776dc07@dd2.atelienaderr.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd2.atelienaderr.ir&fp=chrome&type=ws&sni=dd2.atelienaderr.ir#@meli_proxyy
 vless://420f44ae-ff46-47c3-ba43-36c9c61812ef@dd11.asalemaraghe.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd11.asalemaraghe.ir&fp=chrome&type=ws&sni=dd11.asalemaraghe.ir#@meli_proxyy
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv2.cloudjetn.com:2222?type=tcp&security=none#@meli_proxyy
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv1.cloudjetm.com:2222?type=tcp&security=none#@meli_proxyy
@@ -69,13 +70,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:80
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#[
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.95:8090#[
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.47:8882#@meli_proxyy
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#[
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#@meli_proxyy
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#@meli_proxyy
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9102#@meli_proxyy
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.150.152.16:443#@meli_proxyy
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#@meli_proxyy
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:9090#@meli_proxyy
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#@meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#%40Artemisvpn1
@@ -110,7 +111,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#رایگان | SS | 
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣2️⃣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5601#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣1️⃣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣2️⃣
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣1️⃣
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣3️⃣
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣2️⃣
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣3️⃣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣2️⃣
