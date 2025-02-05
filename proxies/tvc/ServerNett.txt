@@ -4,7 +4,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:49978?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202یکی
@@ -19,7 +19,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:49978?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202یکی
@@ -34,7 +34,6 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:13776?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
@@ -48,4 +47,3 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&encrypti
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:13776?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%204همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%203همراه
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:30562?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%202همراه
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&encryption=none&headerType=none&type=tcp#%40SERVERNETT%20MCI%201همراه
