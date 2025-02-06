@@ -1,7 +1,7 @@
 vless://Parsashonam-165@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@Parsashonam
 vless://5bfce67a-9175-4bba-b18b-1da3f11cc872@49.12.97.111:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#@meli_proxyy
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#@meli_proxyy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D25601&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:8443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=hasTI.freeAirlAineS.COm&fp=randomized&type=ws&sni=hAsTI.FreEAIRlaiNES.COM#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
@@ -15,7 +15,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/@mehrosa
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HaSTI.fReeAIrLAINes.COm&fp=randomized&type=ws&sni=hAsTi.frEEairLainEs.Com#@mehrosaboran
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp788Hg1Sy.AnA-sOfT.iR#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.79:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplR3FiT2s1U2QwcWQxRW5OT0NrbVE0@91.108.240.23:4619#@meli_proxyy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=HaSti.fReEaIRlAineS.coM&fp=chrome&type=ws&sni=HASti.FReeAirlAINEs.cOm#@meli_proxyy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:8443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HaSTi.FrEEAIrlaInES.cOM&fp=randomized&type=ws&sni=hAsTi.fREEaiRlAinEs.Com#@meli_proxyy
@@ -34,6 +33,7 @@ vless://82d1f01d-6efc-49e2-823c-01dcc69cf5a3@NUFiLTER.fastly80-3.hosting-ip.com:
 vless://TELEGRAM-NUFiLTER-2f8d103dfae6@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss2x.ir&type=ws#@meli_proxyy
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=%2F%3Fed%3Dtelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#@meli_proxyy
+vless://97250091-f0d1-5347-8edf-8b35ddef5677@www.speedtest.net:443?encryption=none&security=tls&sni=66711837855555553489.fastroot.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=66711837855555553489.fastroot.ir&path=%2Fvless#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://420f44ae-ff46-47c3-ba43-36c9c61812ef@dd11.asalemaraghe.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd11.asalemaraghe.ir&fp=chrome&type=ws&sni=dd11.asalemaraghe.ir#@meli_proxyy
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#@meli_proxyy
@@ -94,12 +94,11 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#%40Artemisvpn1
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8009#@meli_proxyy
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#@meli_proxyy
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#@meli_proxyy
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#%40meli_proxyy
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#@meli_proxyy
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.152.16:8091#[
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5601#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#[
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#[
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#%40meli_proxyy
@@ -116,4 +115,4 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.87:9101#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.87:5499#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#%40Artemisvpn1
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#رایگان | SS | @forwardv2ray | FR🇫🇷 | 0️⃣1️⃣
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#رایگان | SS | @V2rayCollectorDonate | FR🇫🇷 | 0️⃣3️⃣
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣2️⃣
