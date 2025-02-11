@@ -23,7 +23,6 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F&securit
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.129:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.107:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
@@ -115,4 +114,5 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#رایگان | SS |
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣2️⃣
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:8888#رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣2️⃣
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣2️⃣
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣3️⃣
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#رایگان | SS | @V2rayCollectorDonate | FR🇫🇷 | 0️⃣3️⃣
