@@ -5,7 +5,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1KbVpEZzNOR1JtTURGa1l6RTVaVEpsT0dRM05ERm1
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpsaU5EYzRPREExWVRSbU5ESTBOMk13TWpRMU5UVXpNRGhqTWpobVpUZz06WmpBelpUTmlaakl0WTJVMVlpMDBOV1ZtTFRnMlpXWXRNVE0yWVRkbE5UYz0=@cn02.crosswall.org:28837?type=tcp#@fnet00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag==@45.140.146.223:8388?type=tcp#@fnet00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.151:8080?type=tcp#@fnet00
-vless://f2fa2843-5614-4fa7-99fe-da22f7307ad8@137.175.84.77:32066?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-LeP2n_qttyDuBpYQA8a7q4AOYeQGOkkaxnyLlb8vgo&sid=4f27#@fnet00
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@mil-it.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@bru-be-01.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.10:8880?type=grpc&mode=gun#@fnet00
@@ -20,7 +20,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1KbVpEZzNOR1JtTURGa1l6RTVaVEpsT0dRM05ERm1
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpsaU5EYzRPREExWVRSbU5ESTBOMk13TWpRMU5UVXpNRGhqTWpobVpUZz06WmpBelpUTmlaakl0WTJVMVlpMDBOV1ZtTFRnMlpXWXRNVE0yWVRkbE5UYz0=@cn02.crosswall.org:28837?type=tcp#@fnet00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag==@45.140.146.223:8388?type=tcp#@fnet00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.151:8080?type=tcp#@fnet00
-vless://f2fa2843-5614-4fa7-99fe-da22f7307ad8@137.175.84.77:32066?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-LeP2n_qttyDuBpYQA8a7q4AOYeQGOkkaxnyLlb8vgo&sid=4f27#@fnet00
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@mil-it.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@bru-be-01.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.10:8880?type=grpc&mode=gun#@fnet00
@@ -35,7 +35,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1KbVpEZzNOR1JtTURGa1l6RTVaVEpsT0dRM05ERm1
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpsaU5EYzRPREExWVRSbU5ESTBOMk13TWpRMU5UVXpNRGhqTWpobVpUZz06WmpBelpUTmlaakl0WTJVMVlpMDBOV1ZtTFRnMlpXWXRNVE0yWVRkbE5UYz0=@cn02.crosswall.org:28837?type=tcp#@fnet00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag==@45.140.146.223:8388?type=tcp#@fnet00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.151:8080?type=tcp#@fnet00
-vless://f2fa2843-5614-4fa7-99fe-da22f7307ad8@137.175.84.77:32066?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=-LeP2n_qttyDuBpYQA8a7q4AOYeQGOkkaxnyLlb8vgo&sid=4f27#@fnet00
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA==@95.164.9.144:2927#Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram
@@ -45,4 +44,3 @@ vless://b1040ec3-3f38-4f85-9e0b-d7516c71d939@46.101.139.137:35479?mode=gun&secur
 vless://bb0e9bf0-500d-4247-d419-bba5a0d390ac@46.101.139.137:443?path=%2FTelegram-%40FNET00&security=none&encryption=none&host=Zula.ir&type=ws#Telegram
 vless://95ae7fd5-51cd-4fee-8123-faf46a717486@46.101.139.137:8443?security=none&encryption=none&headerType=none&type=tcp#Telegram
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@buh-ro-01.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@mil-it.fromblancwithlove.com:8443?type=tcp&security=tls&alpn=h2#@fnet00
