@@ -100,12 +100,12 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.32.196:443?path=%2FTELEGRAM-
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.80.43:443?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.82.33:443?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&fp=chrome&type=ws&sni=a.xn--i-sx6a60i.us.kg#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.158.1:443?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#@meli_proxyy
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?type=tcp#[
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?path=%2F%3Fd%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?path=%2F&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#[
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.228:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#[
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.44:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/#[
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8090#[
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.105:8080#[
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7001#[
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@67.220.95.102:3306#[
