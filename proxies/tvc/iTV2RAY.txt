@@ -8,10 +8,6 @@ vless://52d842bd-c366-4bda-9b86-f092a98e9d9a@mci-iTV2RAY.d…
 vless://d7506566-486b-4356-809a-d5fc17bcceec@mci-iTV2RAY.ddns.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MCI
 vless://68232963-d775-4fca-9837-d7c57e4a3ede@mtn-iTV2RAY.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MTNvless://3c18ee20-d542-4fec-804a-91e4988cb9de@mtn-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MTNایرانسل
 vless://d7506566-486b-4356-809a-d5fc17bcceec@mci-iTV2RAY.ddns.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MCIvless://52d842bd-c366-4bda-9b86-f092a98e9d9a@mci-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MCIهمراه
-vless://ITV2RAY@mtn.iTV2RAY.lol:8443?mode=multi&security…
-vless://ITV2RAY@mci.iTV2RAY.lol:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=⁪@iTV2RAY&sni=vip.iTV2RAY.lol#%40ITV2RAY+%2F+MCI
-vless://ITV2RAY@mtn.iTV2RAY.lol:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=⁪@iTV2RAY&sni=vip.iTV2RAY.lol#%40ITV2RAY+%2F+MTNایرانسل
-vless://ITV2RAY@mci.iTV2RAY.lol:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=⁪@iTV2RAY&sni=vip.iTV2RAY.lol#%40ITV2RAY+%2F+MCIهمراه
 vless://a6f1420b-4e01-44c8-ad73-439d87471665@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=tm.iTV2RAY.fun#%40iTV2RAY+%2F+MTNایرانسل
 vless://0081a47d-9396-48ac-a3e5-d4fce010e33f@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MCIهمراه
 vless://91911fc8-cfde-4cf4-8b89-e3e711cca586@mtn…
@@ -26,8 +22,12 @@ vless://8034b9fc-fcb8…
 vless://aebb56af-a960-4774-b23c-e21c2e75751f@mci-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=tm.iTV2RAY.lol#%40iTV2RAY+%2F+MCI
 vless://8034b9fc-fcb8-4ff1-92e1-856eb256840e@mtn-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MTNایرانسل
 vless://aebb56af-a960-4774-b23c-e21c2e75751f@mci-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=tm.iTV2RAY.lol#%40iTV2RAY+%2F+MCIهمراه
+vless://ITV2RAY@mtn.iTV2RAY.lol:8443?mode=multi&security…
+vless://ITV2RAY@mci.iTV2RAY.lol:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=⁪@iTV2RAY&sni=vip.iTV2RAY.lol#%40ITV2RAY+%2F+MCI
 vless://e52b2497-c609…
 vless://24b5a975-2d7e-4f51-82fc-420659698393@mci-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=tm.iTV2RAY.lol#%40iTV2RAY+%2F+MCI
+vless://ITV2RAY@mtn.iTV2RAY.lol:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=⁪@iTV2RAY&sni=vip.iTV2RAY.lol#%40ITV2RAY+%2F+MTNایرانسل
+vless://ITV2RAY@mci.iTV2RAY.lol:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=⁪@iTV2RAY&sni=vip.iTV2RAY.lol#%40ITV2RAY+%2F+MCIهمراه
 vless://e52b2497-c609-448b-938f-8b043df7cb94@mtn-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=ViP.iTV2RAY.lol#%40iTV2RAY+%2F+MTNایرانسل
 vless://24b5a975-2d7e-4f51-82fc-420659698393@mci-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=tm.iTV2RAY.lol#%40iTV2RAY+%2F+MCIهمراه
 vless://iTV2RAY@mtn-iTV2RAY.ddns.net:2087?mode=g…
