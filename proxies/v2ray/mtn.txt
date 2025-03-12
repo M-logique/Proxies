@@ -30,6 +30,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=%2F%3Fed%3DMAR
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:2083?path=%2FJoin-%7BMTMVPN%7DJoin-%7BMTMVPN%7D%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@meli_proxyy
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=%2F47.89.39.186-39251%23Telegram%40V2ray_Alpha&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#@meli_proxyy
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=join--bede-----mosiv2.ir&type=ws#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
@@ -104,7 +105,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3D25
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
