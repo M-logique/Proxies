@@ -53,9 +53,9 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3D25
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2FMTMVPN-MTMVPN-MTMVPN-MTMVPN%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=%2F%3Fed%3DMTMVPN-MTMVPN-MTMVPN-MTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2FMTMVPN-MTMVPN-MTMVPN-MTMVPN%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redw.pooriam.ir&fp=randomized&type=ws&sni=REDw.pOOriam.Ir#@meli_proxyy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@meli_proxyy
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#@meli_proxyy
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=%2F%40V2ray_Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redw.pooriam.ir&fp=chrome&type=ws#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2FTelegram%40proxy_mtm%3Fed%3D2560&security=tls&encryption=none&host=redw.pooriam.ir&type=ws&sni=REDw.pOOriam.Ir#@meli_proxyy
