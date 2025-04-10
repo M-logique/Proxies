@@ -50,7 +50,9 @@ async def main():
             with open("data/tgchannels.json", "w") as fp:
                 data = {}
                 for k in verified_channels:
-                    data[k] = 100
+                    data[k] = {
+                        "limit": 100
+                    }
                 
                 json.dump(data, fp, indent=4)
 
