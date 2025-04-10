@@ -43,7 +43,12 @@ async def main():
             verified_channels = set()
             
             async with aiohttp.ClientSession() as session:
-                await asyncio.gather(*(check_channel(channel, session, verified_channels) for channel in scraped))
+                chunk_size = 100
+                channel_chunks = [list(scraped)[i:i + chunk_size] for i in range(0, len(scraped), chunk_size)]
+
+                for chunk in channel_chunks:
+                    await asyncio.gather(*(check_channel(channel, session, verified_channels) for channel in chunk))
+                    await asyncio.sleep(2)
 
             print(f'found {len(verified_channels)} working channels')
 
