@@ -14,7 +14,6 @@ from typing import (Any, Dict, Generator, List, Optional, Sequence, Tuple,
                     Type, TypeVar)
 import importlib.util
 from sysconfig import get_config_var
-from queue import Queue
 from uuid import uuid4
 
 # Setup directory paths
@@ -470,7 +469,7 @@ def main():
 
         # Write the final dictionary to a JSON file
         with open(f"{workflow_dir}/proxies/byLocation.json", "w") as fp:
-            json.dump(final_dict, fp, indent=4)
+            json.dump(final_dict, fp, indent=4, ensure_ascii=False)
 
             
 

@@ -31,6 +31,18 @@ jobs:
     - name: Clean proxies folder
       run: rm -rf ${{github.workspace}}/proxies 
 
+    - name: refresh channels
+      run: |
+        pip install aiohttp telethon
+
+        python3 ${{github.workspace}}/.github/refresh_channels.py
+
+      env:
+        SESSION: ${{secrets.SESSION}}
+        API_ID: ${{secrets.API_ID}}
+        API_HASH: ${{secrets.API_HASH}}
+
+        
     - name: Run updater
       run: python3 updater/updater.py "${{github.workspace}}"
 
