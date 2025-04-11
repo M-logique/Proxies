@@ -469,7 +469,7 @@ def main():
 
         # Write the final dictionary to a JSON file
         with open(f"{workflow_dir}/proxies/byLocation.json", "w") as fp:
-            json.dump(final_dict, fp, indent=4, ensure_ascii=False)
+            json.dump(final_dict, fp, indent=4)
 
             
 
