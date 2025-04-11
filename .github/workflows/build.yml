@@ -83,5 +83,5 @@ jobs:
       
           if ! git diff --cached --quiet; then
                 git commit -a -m "Built files for commit: ${{ env.commit_hash }}"
-                git push
+                git push --force
             fi
