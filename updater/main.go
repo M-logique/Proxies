@@ -18,6 +18,7 @@ import (
 	"regexp"
 	"strings"
 	"sync"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -88,8 +89,11 @@ func removePKCS7Padding(data []byte) ([]byte, error) {
 }
 
 // fetchAndRead fetches content from a URL
+
 func fetchAndRead(url string) (*string, error) {
-	client := &http.Client{}
+	client := &http.Client{
+		Timeout: 3 * time.Second,
+	}
 
 	resp, err := client.Get(url)
 	if err != nil {
