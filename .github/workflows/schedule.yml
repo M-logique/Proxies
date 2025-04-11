@@ -48,7 +48,9 @@ jobs:
 
 
     - name: Run checker
-      run: python3 checker/checker.py
+      run: |
+        cp ${{github.workspace}}/.github/v2json.py ${{github.workspace}}/checker/
+        python3 checker/checker.py
 
 
     - name: Commit changes

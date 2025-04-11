@@ -260,6 +260,13 @@ async def main():
 			else:
 				logger.info("Task %d completed successfully.", index + 1)
 	
+		if os.path.exists("additional_configs.txt"):
+			with open("additional_configs.txt", "r") as fp:
+				configs = fp.readlines()
+
+			with open("proxies/v2ray/mixed.txt", "a") as fp:
+				fp.write("\n".join(configs))
+		
 	except asyncio.CancelledError:
 		# Handle cases where the tasks are cancelled
 		logger.warning("Tasks were cancelled before completion.")

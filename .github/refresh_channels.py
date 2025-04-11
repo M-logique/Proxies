@@ -17,6 +17,8 @@ CHATS = [
     -1001222417086
 ]
 
+configs = []
+sub_urls = []
 
 async def main():
     async with TelegramClient(StringSession(SESSION), API_ID, API_HASH) as client:
@@ -27,8 +29,18 @@ async def main():
             offset_date_filter = datetime.now() - timedelta(days=1)
 
             async for message in client.iter_messages(group, limit=3000, offset_date=offset_date_filter):
-                if not message.text or re.search(r'\b(vless|vmess|ss|trojan|hystria|wg)\b', message.text, re.IGNORECASE):
+                if not message.text:
+                    ...
+
+                if not re.search(r'https?://\S+|www\.\S+', message.text):
+                    url = re.findall(r'https?://\S+|www\.\S+', message.text)
+                    sub_urls.extend(url)
+
+                if not re.search(r'\b(vless|vmess|ss|trojan|hystria|wg)\b', message.text, re.IGNORECASE):
                     continue
+
+                configs.extend(re.findall(r"(?:vless|vmess|ss|trojan)://[^\s#]+(?:#[^\s]*)?", message.text))
+
                 if message.forward and hasattr(message.forward, 'chat') and hasattr(message.forward.chat, 'username') and message.forward.chat.broadcast:
                     scraped.add(message.forward.chat.username)
                 if message.text:
@@ -37,6 +49,9 @@ async def main():
                         scraped.add(match)
 
             print(f'found {len(scraped)} channels')
+            configs = list(set(configs))
+
+
 
             scraped = {channel.lower() for channel in scraped if channel is not None}
 
@@ -55,6 +70,14 @@ async def main():
                     }
                 
                 json.dump(data, fp, indent=4)
+            
+            print("Saving %d configs" % len(configs))
+            print("Saving %d sub urls" % len(sub_urls))
+
+            with open("additional_configs.txt", "w") as ac_fp, open("additional_urls.txt", "w") as au_fp:
+                ac_fp.write("\n".join(configs))
+                au_fp.write("\n".join(sub_urls))
+            
 
 
 async def check_channel(channel, session, verified_channels):

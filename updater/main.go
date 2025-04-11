@@ -14,6 +14,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"os"
 	"regexp"
 	"strings"
 	"sync"
@@ -35,7 +36,24 @@ type Channel struct {
 
 var client = &http.Client{}
 
+func loadAdditionalV2rayURLs(slice *[]string) {
+	fmt.Println("Loading additional urls")
+	data, err := os.ReadFile("additional_urls.txt")
+
+	if err != nil {
+		fmt.Println("Failed to load additional urls:", err)
+		return
+	}
+
+	*slice = append(*slice, strings.Split(string(data), "\n")...)
+}
+
 func parseText(prefix, pattern, text string) []string {
+
+	if data, err := base64.StdEncoding.DecodeString(text); err == nil {
+		text = string(data)
+	}
+
     re := regexp.MustCompile(pattern)
     matches := re.FindAllString(text, -1)
     
@@ -379,8 +397,26 @@ func FetchResources() *C.char {
 		"https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt",
 		"https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt",
 		"https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt",
+
+		"https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)",
+
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-0",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-1",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-2",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-3",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-4",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-5",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-6",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-7",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-8",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-9",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/no-match",
+		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/subscribe",
 	}
 
+
+	loadAdditionalV2rayURLs(&v2rayResources)
 
 	var allResources []Resource
 	var wg sync.WaitGroup
