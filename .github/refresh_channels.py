@@ -17,10 +17,10 @@ CHATS = [
     -1001222417086
 ]
 
-configs = []
-sub_urls = []
 
 async def main():
+    configs = []
+    sub_urls = []
     async with TelegramClient(StringSession(SESSION), API_ID, API_HASH) as client:
         scraped = load_previous_channels()
         for chat in CHATS:
