@@ -32,7 +32,7 @@ async def main():
                 if not message.text:
                     continue
 
-                if not re.search(r'https?://\S+|www\.\S+', message.text):
+                if re.search(r'https?://\S+|www\.\S+', message.text):
                     url = re.findall(r'https?://\S+|www\.\S+', message.text)
                     sub_urls.extend(url)
 
