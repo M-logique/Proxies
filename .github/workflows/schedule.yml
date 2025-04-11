@@ -52,6 +52,8 @@ jobs:
         cp ${{github.workspace}}/.github/v2json.py ${{github.workspace}}/checker/
         python3 checker/checker.py
 
+        rm -rf proxies/tvc/mixed.txt
+
 
     - name: Commit changes
       run: |

@@ -264,7 +264,7 @@ async def main():
 			with open("additional_configs.txt", "r") as fp:
 				configs = fp.readlines()
 
-			with open("proxies/v2ray/mixed.txt", "a") as fp:
+			with open("proxies/tvc/mixed.txt", "a") as fp:
 				fp.write("\n".join(configs))
 		
 	except asyncio.CancelledError:
