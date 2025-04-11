@@ -30,7 +30,7 @@ async def main():
 
             async for message in client.iter_messages(group, limit=3000, offset_date=offset_date_filter):
                 if not message.text:
-                    ...
+                    continue
 
                 if not re.search(r'https?://\S+|www\.\S+', message.text):
                     url = re.findall(r'https?://\S+|www\.\S+', message.text)
