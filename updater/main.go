@@ -403,7 +403,6 @@ func FetchResources() *C.char {
 		"https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt",
 
 		"https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)",
-
 		"https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link",
                 
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed",
