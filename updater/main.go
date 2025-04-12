@@ -404,6 +404,8 @@ func FetchResources() *C.char {
 
 		"https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)",
 
+		"https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link",
+                
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed",
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-0",
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-1",
@@ -417,6 +419,7 @@ func FetchResources() *C.char {
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-9",
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/no-match",
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/subscribe",
+		
 	}
 
 
