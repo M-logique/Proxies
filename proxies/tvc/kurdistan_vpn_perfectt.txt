@@ -46,14 +46,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255?type=tcp#Kurdistan_Vanکپی
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#Kurdistan_Vpnکپی
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#Kurdistan_Vpnکپی
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#Kurdistan_Vpnکپی
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.28.247:2052?type=ws&host=vkvd127.mycdn.me&path=/&security=none#Kurdistan_Vanکپی
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#Kurdistan_Vpnکپی
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?type=ws&host=redfree8.pooriashop.ir&path=/Telegram@V2ray_Alpha/?ed%3D2560&security=none#Kurdistan_Vpnکپی
 vless://616ad095-f4af-456e-845c-34d4ca492855@nvalman1.napsternet1.com:11011?type=tcp&headerType=http&host=varzesh3.com&path=/&security=none#Kurdistan_Vpnکپی
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?type=ws&host=redfree8.pooriashop.ir&path=/Telegram@V2ray_Alpha&security=none#Kurdistan_Vpnکپی
 vless://6b1a9ddf-6498-4a7f-84fe-3cd88650c584@nvalman1.napsternet1.com:11011?type=tcp&headerType=http&host=varzesh3.com&path=/&security=none#Kurdistan_Vpnکپی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#Kurdistan_Vpnکپی
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#Kurdistan_Vpnکپی
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#Kurdistan_Vpnکپی
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.29.37:59483?type=grpc&mode=gun&security=none#Kurdistan_Vanکپی
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?type=ws&host=5-55sfjslf.ifenxiang.cfd&security=tls&fp=chrome&sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Vanکپی
 trojan://AXpQXM4vNh@141.227.160.167:1935?type=tcp&headerType=none&security=tls&sni=x2swe-ovh.devefun.net&alpn=h3,h2,http/1.1#Kurdistan_Vanکپی
