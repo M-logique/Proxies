@@ -115,8 +115,6 @@ class InputPayload(Payload):
     configs: List[Dict[Any, Any]]
 
 
-from dataclasses import dataclass
-
 @dataclass
 class Location(Payload):
     """
