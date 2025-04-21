@@ -36,6 +36,7 @@ type Channel struct {
 }
 
 var client = &http.Client{}
+const V2rayRegex = `(?:vless|vmess|ss|trojan):\/\/[^\n#]+(?:#[^\n]*)?`
 
 func loadAdditionalV2rayURLs(slice *[]string) {
 	fmt.Println("Loading additional urls")
@@ -269,7 +270,7 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 	}
 
 	// Parse URLs using the regex pattern
-	pattern := regexp.MustCompile(`(?:vless|vmess|ss|trojan)://[^\s#]+(?:#[^\s]*)?`)
+	pattern := regexp.MustCompile(V2rayRegex)
 	parsedResults := pattern.FindAllString(strings.Join(urls, "\n"), -1)
 
 	// Send results to channel
@@ -468,7 +469,7 @@ func FetchResources() *C.char {
 		v2rayResources, 
 		"V2ray", 
 		"/proxies/v2ray/mixed.txt", 
-		`(?:vless|vmess|ss|trojan)://[^\s#]+(?:#[^\s]*)?`, 
+		V2rayRegex, 
 		"",
 	)
 	
@@ -500,98 +501,111 @@ func FetchResources() *C.char {
 
 
 func fetchTGMessages(channelID string, requested int) []string {
-    var messages []string
-    var before string
+	var messages []string
+	var before string
 
-    channel := "https://t.me/s/" + channelID
-    req, err := http.NewRequest("GET", channel, nil)
-    if err != nil {
-        log.Printf("Error when requesting to: %s Error : %s", channel, err)
-    }
+	channel := "https://t.me/s/" + channelID
+	req, err := http.NewRequest("GET", channel, nil)
+	if err != nil {
+		log.Printf("Error when requesting to: %s Error : %s", channel, err)
+		return messages
+	}
 
-    resp, err := client.Do(req)
-    if err != nil {
-        log.Print(err)
-    }
-    defer resp.Body.Close()
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Print(err)
+		return messages
+	}
+	defer resp.Body.Close()
 
-    // Parse the initial HTML response
-    doc, err := goquery.NewDocumentFromReader(resp.Body)
-    if err != nil {
-        log.Print(err)
-    }
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	if err != nil {
+		log.Print(err)
+		return messages
+	}
 
-    // Create a channel to collect messages
-    messageChan := make(chan string, 100)
+	messageChan := make(chan string, 200)
 
-    // Initial extraction of messages
-    doc.Find(".tgme_widget_message_text").Each(func(i int, s *goquery.Selection) {
-        messageText := s.Text()
-        messageChan <- messageText
-    })
+	doc.Find(".tgme_widget_message_text").Each(func(i int, s *goquery.Selection) {
+		if msg := extractFormattedText(s); msg != "" {
+			messageChan <- msg
+		}
+	})
 
-    // Get the initial "before" cursor for pagination
-    before = doc.Find(".tme_messages_more").AttrOr("data-before", "")
+	before = doc.Find(".tme_messages_more").AttrOr("data-before", "")
 
-    // Determine how many additional requests are needed to reach the requested count
-    count := (requested / 20) + 1  // Approximate number of additional pages
-    var wg sync.WaitGroup
+	count := (requested / 20) + 1
+	var wg sync.WaitGroup
 
-    // Use a goroutine for each additional page fetch
-    for i := 0; i < count && before != ""; i++ {
-        wg.Add(1)
-        go func(before string) {
-            defer wg.Done()
+	for i := 0; i < count && before != ""; i++ {
+		wg.Add(1)
+		go func(beforeVal string) {
+			defer wg.Done()
 
-            nextPageURL := fmt.Sprintf("https://t.me/s/%s?before=%s", channelID, before)
-            req, err := http.NewRequest("GET", nextPageURL, nil)
-            if err != nil {
-                log.Print(err)
-            }
-
-            resp, err := client.Do(req)
-            if err != nil {
-                log.Print(err)
+			nextPageURL := fmt.Sprintf("https://t.me/s/%s?before=%s", channelID, beforeVal)
+			req, err := http.NewRequest("GET", nextPageURL, nil)
+			if err != nil {
+				log.Print(err)
 				return
-            }
-            defer resp.Body.Close()
+			}
 
-            // Parse the HTML response
-            doc, err := goquery.NewDocumentFromReader(resp.Body)
-            if err != nil {
-                log.Print(err)
+			resp, err := client.Do(req)
+			if err != nil {
+				log.Print(err)
 				return
-            }
+			}
+			defer resp.Body.Close()
 
-            // Extract and send messages through the channel
-            doc.Find(".tgme_widget_message_text").Each(func(i int, s *goquery.Selection) {
-                messageText := s.Text()
-                messageChan <- messageText
-            })
+			doc, err := goquery.NewDocumentFromReader(resp.Body)
+			if err != nil {
+				log.Print(err)
+				return
+			}
 
-            // Update the "before" value for the next iteration
-            before = doc.Find(".tme_messages_more").AttrOr("data-before", "")
-        }(before)  // Pass before as an argument to the goroutine
-    }
+			doc.Find(".tgme_widget_message_text").Each(func(i int, s *goquery.Selection) {
+				if msg := extractFormattedText(s); msg != "" {
+					messageChan <- msg
+				}
+			})
+		}(before)
+	}
 
-    // Collect all the messages from the channel
-    go func() {
-        // Close the channel after all the goroutines finish
-        wg.Wait()
-        close(messageChan)
-    }()
+	go func() {
+		wg.Wait()
+		close(messageChan)
+	}()
 
-    // Receive messages from the channel
-    for message := range messageChan {
-        messages = append(messages, message)
-    }
+	for msg := range messageChan {
+		messages = append(messages, msg)
+	}
 
-    // Trim the result to the requested number of messages
-    if len(messages) > requested {
-        messages = messages[:requested]
-    }
+	if len(messages) > requested {
+		messages = messages[:requested]
+	}
 
-    return messages
+	return messages
+}
+
+func extractFormattedText(s *goquery.Selection) string {
+	html, err := s.Html()
+	if err != nil {
+		log.Print(err)
+		return ""
+	}
+
+	html = strings.ReplaceAll(html, "<br>", "\n")
+	html = strings.ReplaceAll(html, "<br/>", "\n")
+	html = strings.ReplaceAll(html, "<br />", "\n")
+	html = strings.ReplaceAll(html, "</p>", "\n")
+	html = strings.ReplaceAll(html, "<p>", "")
+
+	text := stripHTML(html)
+	return strings.TrimSpace(text)
+}
+
+func stripHTML(input string) string {
+	re := regexp.MustCompile(`<.*?>`)
+	return re.ReplaceAllString(input, "")
 }
 
 //export FetchTGChannels
