@@ -2,7 +2,8 @@ const express = require('express')
 const router = express.Router()
 
 router.all('/', (req, res) => {
-    res.sendFile('index.html', { root: '../static/' })
+    const filePath = path.join(__dirname, '..', 'static', 'index.html');
+    res.sendFile(filePath);
 })
 
 module.exports = {
