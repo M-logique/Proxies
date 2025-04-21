@@ -102,7 +102,7 @@ window.addEventListener("load", async () => {
 		const option = document.createElement("option");
 		const name = data.locations.byNames[i];
 		const cc = getCodeFromCountryName(name)
-		option.value = cc;
+		option.value = name;
 		option.text = `${countryCodeToFlag(cc)} ${name}`;
 		select.appendChild(option);
 	}
@@ -112,12 +112,11 @@ window.addEventListener("load", async () => {
 
 	select.addEventListener('change', function() {
 		configs.innerHTML = '';
-		const value = select.options[select.selectedIndex].value;
 
-		sub.querySelector(".config-url").textContent = "https://1oi.xyz/proxies/v2ray/location/" + value;
+		sub.querySelector(".config-url").textContent = "https://1oi.xyz/proxies/v2ray/location/" + getCodeFromCountryName(select.options[select.selectedIndex].value);
 
 		let i = 1;
-		data.profilesByCountryCode[value].forEach(item => {
+		data.profilesByCountryCode[select.options[select.selectedIndex].value].forEach(item => {
 			const template = document.querySelector('#config-template');
 			const clone = template.cloneNode(true);
 			clone.removeAttribute('id');
