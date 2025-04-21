@@ -1,4 +1,3 @@
-vless://b3d0f314-9387-4643-8a25-71737aa9d643@11.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=add%20your%20sni#@v2Source✈️🇸🇬🌍
 vless://9a3492db-9ff4-4a3c-b48f-0993230a96e0@51.89.119.99:26528?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#@v2Source✈️🇬🇧🌍
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@v2Source✈️🇳🇱🌍
 vless://796e6454-a292-4752-af25-b28a14c47f00@premium.vkehi.shop:443?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=ADD%20YOUR%20HOST&alpn=h3%2Ch2%2Chttp%2F1.1#@v2Source✈️🇸🇬🌍
@@ -17,8 +16,8 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#@v2Source✈️🇺🇸🌍
 vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#@v2Source✈️🇨🇦🌍
 vless://d1ae66ce-1f3e-4394-87c1-4b31e499310a@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#@v2Source✈️🇺🇸🌍
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?path=%2F&security=tls&encryption=none&host=vc.ylka.dpdns.org&type=ws&sni=vc.ylka.dpdns.org#@v2Source✈️🇺🇸🌍
-vless://b3d0f314-9387-4643-8a25-71737aa9d643@11.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=add%20your%20sni#@v2Source✈️🇸🇬🌍
+vless://75c69cd4-e32f-4e61-b9e0-f52e0c8ee989@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=facebook.com#@v2Source✈️🇸🇬🌍
+trojan://b19c4375-d847-4c40-9824-4767c88b5f38@84.8.130.153:10870/?type=tcp&security=tls&sni=www.jucer001.click#@v2Source✈️🇿🇦🌍
 vless://9a3492db-9ff4-4a3c-b48f-0993230a96e0@51.89.119.99:26528?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#@v2Source✈️🇬🇧🌍
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@v2Source✈️🇳🇱🌍
 vless://796e6454-a292-4752-af25-b28a14c47f00@premium.vkehi.shop:443?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=ADD%20YOUR%20HOST&alpn=h3%2Ch2%2Chttp%2F1.1#@v2Source✈️🇸🇬🌍
@@ -37,8 +36,8 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#@v2Source✈️🇺🇸🌍
 vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#@v2Source✈️🇨🇦🌍
 vless://d1ae66ce-1f3e-4394-87c1-4b31e499310a@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#@v2Source✈️🇺🇸🌍
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?path=%2F&security=tls&encryption=none&host=vc.ylka.dpdns.org&type=ws&sni=vc.ylka.dpdns.org#@v2Source✈️🇺🇸🌍
-vless://b3d0f314-9387-4643-8a25-71737aa9d643@11.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=add%20your%20sni#@v2Source✈️🇸🇬🌍
+vless://75c69cd4-e32f-4e61-b9e0-f52e0c8ee989@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=facebook.com#@v2Source✈️🇸🇬🌍
+trojan://b19c4375-d847-4c40-9824-4767c88b5f38@84.8.130.153:10870/?type=tcp&security=tls&sni=www.jucer001.click#@v2Source✈️🇿🇦🌍
 vless://9a3492db-9ff4-4a3c-b48f-0993230a96e0@51.89.119.99:26528?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#@v2Source✈️🇬🇧🌍
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@v2Source✈️🇳🇱🌍
 vless://796e6454-a292-4752-af25-b28a14c47f00@premium.vkehi.shop:443?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=ADD%20YOUR%20HOST&alpn=h3%2Ch2%2Chttp%2F1.1#@v2Source✈️🇸🇬🌍
@@ -57,8 +56,8 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#@v2Source✈️🇺🇸🌍
 vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#@v2Source✈️🇨🇦🌍
 vless://d1ae66ce-1f3e-4394-87c1-4b31e499310a@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#@v2Source✈️🇺🇸🌍
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?path=%2F&security=tls&encryption=none&host=vc.ylka.dpdns.org&type=ws&sni=vc.ylka.dpdns.org#@v2Source✈️🇺🇸🌍
-vless://b3d0f314-9387-4643-8a25-71737aa9d643@11.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=add%20your%20sni#@v2Source✈️🇸🇬🌍
+vless://75c69cd4-e32f-4e61-b9e0-f52e0c8ee989@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=facebook.com#@v2Source✈️🇸🇬🌍
+trojan://b19c4375-d847-4c40-9824-4767c88b5f38@84.8.130.153:10870/?type=tcp&security=tls&sni=www.jucer001.click#@v2Source✈️🇿🇦🌍
 vless://9a3492db-9ff4-4a3c-b48f-0993230a96e0@51.89.119.99:26528?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#@v2Source✈️🇬🇧🌍
 vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@v2Source✈️🇳🇱🌍
 vless://796e6454-a292-4752-af25-b28a14c47f00@premium.vkehi.shop:443?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=ADD%20YOUR%20HOST&alpn=h3%2Ch2%2Chttp%2F1.1#@v2Source✈️🇸🇬🌍
@@ -77,6 +76,8 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#@v2Source✈️🇺🇸🌍
 vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#@v2Source✈️🇨🇦🌍
 vless://d1ae66ce-1f3e-4394-87c1-4b31e499310a@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#@v2Source✈️🇺🇸🌍
+vless://75c69cd4-e32f-4e61-b9e0-f52e0c8ee989@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=facebook.com#@v2Source✈️🇸🇬🌍
+trojan://b19c4375-d847-4c40-9824-4767c88b5f38@84.8.130.153:10870/?type=tcp&security=tls&sni=www.jucer001.click#@v2Source✈️🇿🇦🌍
 vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@uk.darkteam.vipt-t.info:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#@v2Source✈️🇬🇧🌍
 trojan://telegram-id-directvpn@3.66.82.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2Source✈️🇩🇪🌍
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&security=none&encryption=none&type=grpc#@v2Source✈️🇱🇹🌍
@@ -94,3 +95,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.22.116.80:2095?type=ws&host=fuck
 trojan://telegram-id-directvpn@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2Source✈️🇸🇪🌍
 vless://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?security=&encryption=none&headerType=none&type=tcp#@v2Source✈️🇮🇷🌍
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#@v2Source✈️🇫🇷🌍
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?path=%2F&security=tls&encryption=none&host=vc.ylka.dpdns.org&type=ws&sni=vc.ylka.dpdns.org#@v2Source✈️🇺🇸🌍
+vless://b3d0f314-9387-4643-8a25-71737aa9d643@11.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=add%20your%20sni#@v2Source✈️🇸🇬🌍
