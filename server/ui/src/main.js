@@ -109,25 +109,6 @@ window.addEventListener("load", async () => {
 
 	const toaster = new Toaster();
 
-	let i = 1;
-	Object.values(data.profilesByCountryName).flat().forEach(item => {
-		const template = document.querySelector('#config-template');
-		const clone = template.cloneNode(true);
-		clone.removeAttribute('id');
-		clone.classList.remove('hidden');
-		clone.querySelector('.config-url').textContent = item;
-		clone.querySelector('.config-num').textContent = i;
-		configs.appendChild(clone);
-		i++;
-	});
-	document.querySelectorAll('.copy-config').forEach(button => {
-		button.addEventListener('click', () => {
-			const url = button.parentElement.querySelector('.config-url').textContent;
-			navigator.clipboard.writeText(url);
-			toaster.show("Successfully copied to clipboard.");
-		});
-	});
-
 
 	select.addEventListener('change', function() {
 		configs.innerHTML = '';
