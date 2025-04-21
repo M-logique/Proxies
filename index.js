@@ -21,8 +21,9 @@ app.use(session({
 
 
 app.use(express.static('public'))
-app.set('view engine', 'hbs');
 app.set('views', './views');
+app.set("assests", "./server/static/assets");
+
 
 const routers = fs.readdirSync('./server/routers');
 const middlewares = fs.readdirSync('./server/middlewares');
