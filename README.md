@@ -1,14 +1,4 @@
-# PROXY PROXY PROXY!
-
-🚧 **Under Construction** 🚧  
-This project is still incomplete and is in active development and alpha stage.
-
-- [x] GitHub Actions: Build and run scraper  
-- [x] Scraper Script  
-- [x] Initial version of the Web Server  
-- [x] Connect the domain  
-- [X] Add checker and categorize by location  
-- [ ] Complete the web server and add some UI 
+# PROXY PROXY PROXY! 
 
 
 ## What's the Idea?  
