@@ -22,7 +22,8 @@ app.use(session({
 
 app.use(express.static('public'))
 app.set('views', './views');
-app.set("assests", "./server/static/assets");
+app.use('/assets', express.static(path.join(__dirname, 'server/static/assets')));
+
 
 
 const routers = fs.readdirSync('./server/routers');
