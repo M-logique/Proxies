@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'ui/**'
+      - 'server/ui/**'
       - '.github/workflows/build-ui.yml'
 
 
