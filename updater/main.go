@@ -422,7 +422,7 @@ func FetchResources() *C.char {
 	}
 
 
-	loadAdditionalV2rayURLs(&v2rayResources)
+	// loadAdditionalV2rayURLs(&v2rayResources)
 
 	var allResources []Resource
 	var wg sync.WaitGroup
