@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<!--<link rel="icon" type="image/svg+xml" href="/vite.svg" />-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Proxies</title>
+  <script type="module" crossorigin src="/assets/index-CJ-EWDxi.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-D2b5K0iB.css">
+</head>
+
+<body>
+	<div id="toast-container" class="z-50"></div>
+	<div class="toast hidden" id="toast-template">
+		<div class="alert alert-success">
+		  <span class="toast-content"></span>
+		</div>
+	  </div>
+	<div id="config-template" class="w-full border-b border-base-content/10 px-4 py-2 flex flex-row-reverse gap-4 hidden">
+		<button class="copy-config btn btn-square btn-primary">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-[1.2rem]">
+				<path fill-rule="evenodd" d="M13.887 3.182c.396.037.79.08 1.183.128C16.194 3.45 17 4.414 17 5.517V16.75A2.25 2.25 0 0 1 14.75 19h-9.5A2.25 2.25 0 0 1 3 16.75V5.517c0-1.103.806-2.068 1.93-2.207.393-.048.787-.09 1.183-.128A3.001 3.001 0 0 1 9 1h2c1.373 0 2.531.923 2.887 2.182ZM7.5 4A1.5 1.5 0 0 1 9 2.5h2A1.5 1.5 0 0 1 12.5 4v.5h-5V4Z" clip-rule="evenodd" />
+			  </svg>						  
+		</button>
+		<span class="flex-1 bg-black font-mono px-2 overflow-y-auto break-all rounded config-url"></span>
+		<div class="config-num aspect-ratio-1/1 my-auto"><span>1</span></div>
+	</div>
+	<div id="app" class="bg-base-300 flex items-center justify-center p-10 h-screen">
+		<div class="bg-base-100 h-full w-full shadow rounded-2xl p-10 flex flex-col">
+
+			<h1 class="text-4xl font-bold leading-20">PROXIES</h1>
+
+			<div class="flex gap-4" id="subscription">
+				<select class="select select-primary" id="country-select">
+					<option disabled selected>Pick a country.</option>
+				</select>
+				<span class="flex-1 bg-black font-mono px-2 overflow-y-auto break-all rounded config-url"></span>
+				<button class="copy-config btn btn-square btn-primary">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-[1.2rem]">
+						<path fill-rule="evenodd" d="M13.887 3.182c.396.037.79.08 1.183.128C16.194 3.45 17 4.414 17 5.517V16.75A2.25 2.25 0 0 1 14.75 19h-9.5A2.25 2.25 0 0 1 3 16.75V5.517c0-1.103.806-2.068 1.93-2.207.393-.048.787-.09 1.183-.128A3.001 3.001 0 0 1 9 1h2c1.373 0 2.531.923 2.887 2.182ZM7.5 4A1.5 1.5 0 0 1 9 2.5h2A1.5 1.5 0 0 1 12.5 4v.5h-5V4Z" clip-rule="evenodd" />
+					  </svg>						  
+				</button>
+			</div>
+
+			<div id="configs" class="flex-1 mt-4 overflow-y-auto">
+				
+				<div id="empty" class="flex items-center justify-center h-full">
+					<span class="text-base-content/50">Nothing to show here</span>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</body>
+
+</html>
