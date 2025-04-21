@@ -84,7 +84,14 @@ window.addEventListener("load", async () => {
 	function getCodeFromCountryName(name) {
 		const match = convert.find(c => c.name.toLowerCase() === name.toLowerCase());
 		return match ? match.code : null;
-	}  
+	}
+	function countryCodeToFlag(countryCode) {
+		return countryCode
+			.toUpperCase()
+			.split('')
+			.map(char => String.fromCharCode(0x1F1E6 - 65 + char.charCodeAt(0)))
+			.join('');
+	}
 	
 	const select = document.querySelector("#country-select");
 	const configs = document.querySelector("#configs");
@@ -93,20 +100,43 @@ window.addEventListener("load", async () => {
 	let total = data.locations.totalCountries;
 	for (let i = 0; i < total; i++) {
 		const option = document.createElement("option");
-		option.value = data.locations.byNames[i];
-		option.text = data.locations.byNames[i];
+		const name = data.locations.byNames[i];
+		const cc = getCodeFromCountryName(name)
+		option.value = cc;
+		option.text = `${countryCodeToFlag(cc)} ${name}`;
 		select.appendChild(option);
 	}
 
 	const toaster = new Toaster();
 
+	let i = 1;
+	Object.values(data.profilesByCountryName).flat().forEach(item => {
+		const template = document.querySelector('#config-template');
+		const clone = template.cloneNode(true);
+		clone.removeAttribute('id');
+		clone.classList.remove('hidden');
+		clone.querySelector('.config-url').textContent = item;
+		clone.querySelector('.config-num').textContent = i;
+		configs.appendChild(clone);
+		i++;
+	});
+	document.querySelectorAll('.copy-config').forEach(button => {
+		button.addEventListener('click', () => {
+			const url = button.parentElement.querySelector('.config-url').textContent;
+			navigator.clipboard.writeText(url);
+			toaster.show("Successfully copied to clipboard.");
+		});
+	});
+
+
 	select.addEventListener('change', function() {
 		configs.innerHTML = '';
+		const value = select.options[select.selectedIndex].value;
 
-		sub.querySelector(".config-url").textContent = "https://1oi.xyz/proxies/v2ray/location/" + getCodeFromCountryName(select.options[select.selectedIndex].value).toUpperCase();
+		sub.querySelector(".config-url").textContent = "https://1oi.xyz/proxies/v2ray/location/" + value;
 
 		let i = 1;
-		data.profilesByCountryName[select.options[select.selectedIndex].value].forEach(item => {
+		data.profilesByCountryCode[value].forEach(item => {
 			const template = document.querySelector('#config-template');
 			const clone = template.cloneNode(true);
 			clone.removeAttribute('id');
