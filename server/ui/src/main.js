@@ -84,14 +84,7 @@ window.addEventListener("load", async () => {
 	function getCodeFromCountryName(name) {
 		const match = convert.find(c => c.name.toLowerCase() === name.toLowerCase());
 		return match ? match.code : null;
-	}
-	function countryCodeToFlag(countryCode) {
-		return countryCode
-			.toUpperCase()
-			.split('')
-			.map(char => String.fromCharCode(0x1F1E6 - 65 + char.charCodeAt(0)))
-			.join('');
-	}
+	}  
 	
 	const select = document.querySelector("#country-select");
 	const configs = document.querySelector("#configs");
@@ -100,23 +93,20 @@ window.addEventListener("load", async () => {
 	let total = data.locations.totalCountries;
 	for (let i = 0; i < total; i++) {
 		const option = document.createElement("option");
-		const name = data.locations.byNames[i];
-		const cc = getCodeFromCountryName(name)
-		option.value = name;
-		option.text = `${countryCodeToFlag(cc)} ${name}`;
+		option.value = data.locations.byNames[i];
+		option.text = data.locations.byNames[i];
 		select.appendChild(option);
 	}
 
 	const toaster = new Toaster();
 
-
 	select.addEventListener('change', function() {
 		configs.innerHTML = '';
 
-		sub.querySelector(".config-url").textContent = "https://1oi.xyz/proxies/v2ray/location/" + getCodeFromCountryName(select.options[select.selectedIndex].value);
+		sub.querySelector(".config-url").textContent = "https://1oi.xyz/proxies/v2ray/location/" + getCodeFromCountryName(select.options[select.selectedIndex].value).toUpperCase();
 
 		let i = 1;
-		data.profilesByCountryCode[select.options[select.selectedIndex].value].forEach(item => {
+		data.profilesByCountryName[select.options[select.selectedIndex].value].forEach(item => {
 			const template = document.querySelector('#config-template');
 			const clone = template.cloneNode(true);
 			clone.removeAttribute('id');
