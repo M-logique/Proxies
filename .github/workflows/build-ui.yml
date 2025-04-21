@@ -27,4 +27,19 @@ jobs:
             cd server/ui
             npm install
             npm run build
+
+        - name: Commit changes
+          run: |
+              git config --global user.name 'github-actions[bot]'
+              git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+              git add server/static
       
+              if ! git diff --cached --quiet; then
+                git commit -m "Built files for commit: ${{ github.sha }}"
+              fi
+        
+        - name: push changes
+          uses: ad-m/github-push-action@v0.8.0
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: main
