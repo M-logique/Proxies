@@ -137,7 +137,7 @@ pnpm-lock.yaml
 
 **.a
 **.h
-**build**
+**/build
 .vscode
 
 **__pycache__**
