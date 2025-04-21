@@ -30,5 +30,3 @@ Finally, the proxies are deployed on **Vercel** via an **Express.js** server.
 
 - **Web Server**  
   An Express-based web server deployed on Vercel, providing features like limiting proxies or fetching configurations directly from Telegram.
-# 🔗 Discord
-[![Discord server](https://discordapp.com/api/guilds/1039243284863795312/embed.png?style=banner3)](https://discord.gg/gCkUyjKE6g)
