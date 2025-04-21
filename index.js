@@ -8,6 +8,7 @@ const compression = require('compression')
 const session = require('express-session')
 const app = express();
 const server = http.createServer(app);
+const path = require('path');
 
 app.use(compression())
 app.use(express.json())
