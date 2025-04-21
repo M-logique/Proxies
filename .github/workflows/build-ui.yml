@@ -1,0 +1,30 @@
+name: Build UI
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'ui/**'
+      - '.github/workflows/build-ui.yml'
+
+jobs: 
+  build:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout code
+          uses: actions/checkout@v3
+          with:
+            fetch-depth: 1
+        
+        - name: Install nodejs
+          uses: actions/setup-node@v3
+          with:
+            node-version: '22.14.0'
+
+        - name: Install dependencies
+          run: |
+            cd server/ui
+            npm install
+            npm run build
+      
