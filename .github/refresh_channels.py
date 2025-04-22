@@ -22,7 +22,7 @@ async def main():
     configs = []
     sub_urls = []
     async with TelegramClient(StringSession(SESSION), API_ID, API_HASH) as client:
-        scraped = load_previous_channels()
+        scraped = await load_previous_channels()
         for chat in CHATS:
             print('getting messages from group', chat) 
             group = await client.get_entity(chat)
@@ -92,9 +92,18 @@ async def check_channel(channel, session, verified_channels):
     except Exception as e:
         print(f'error checking channel {channel}: {e}')
 
-def load_previous_channels():
+async def load_previous_channels():
     with open("data/tgchannels.json", "r") as fp:
         data = json.load(fp)
+
+    channels = {i.lower() for i in data.keys()}
+    
+    async with aiohttp.ClientSession() as session:
+        async with session.get("https://raw.githubusercontent.com/M-logique/V2ray-Channel-Submit/refs/heads/main/channels.txt") as resp:
+            text = await resp.text()
+
+            for channel_id in text.splitlines():
+                channels.add(channel_id.lower())
 
     return set(data.keys())
 
