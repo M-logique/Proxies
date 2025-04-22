@@ -56,10 +56,10 @@ trojan://telegram-id-vlessconfig@108.128.9.74:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-vlessconfig@13.134.21.134:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@3.11.248.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@13.36.215.194:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-trojan://telegram-id-vlessconfig@18.153.216.181:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-trojan://telegram-id-vlessconfig@13.36.224.26:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@34.253.177.132:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+trojan://telegram-id-vlessconfig@18.153.216.181:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@18.132.108.242:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+trojan://telegram-id-vlessconfig@13.36.224.26:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@18.168.170.0:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@35.180.108.13:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@15.237.163.212:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@VlessConfig
