@@ -64,4 +64,4 @@ jobs:
     
         git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
     
-        git push --force 
+        git push

@@ -1,0 +1,49 @@
+name: Build UI
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'server/ui/**'
+      - '.github/workflows/build-ui.yml'
+
+
+permissions:
+  contents: write
+
+jobs: 
+  build:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout code
+          uses: actions/checkout@v3
+          with:
+            fetch-depth: 1
+        
+        - name: Install nodejs
+          uses: actions/setup-node@v3
+          with:
+            node-version: '22.14.0'
+
+        - name: Install dependencies
+          run: |
+            cd server/ui
+            npm install
+            npm run build
+
+        - name: Commit changes
+          run: |
+              git config --global user.name 'github-actions[bot]'
+              git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+              git add server/static
+      
+              if ! git diff --cached --quiet; then
+                git commit -m "Built files for commit: ${{ github.sha }}"
+              fi
+        
+        - name: push changes
+          uses: ad-m/github-push-action@v0.8.0
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: main

@@ -8,6 +8,7 @@ const compression = require('compression')
 const session = require('express-session')
 const app = express();
 const server = http.createServer(app);
+const path = require('path');
 
 app.use(compression())
 app.use(express.json())
@@ -21,8 +22,10 @@ app.use(session({
 
 
 app.use(express.static('public'))
-app.set('view engine', 'hbs');
 app.set('views', './views');
+app.use('/assets', express.static(path.join(__dirname, 'server/static/assets')));
+
+
 
 const routers = fs.readdirSync('./server/routers');
 const middlewares = fs.readdirSync('./server/middlewares');

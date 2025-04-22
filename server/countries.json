@@ -193,5 +193,6 @@
   {"name": "vietnam", "code": "vn"},
   {"name": "yemen", "code": "ye"},
   {"name": "zambia", "code": "zm"},
-  {"name": "zimbabwe", "code": "zw"}
+  {"name": "zimbabwe", "code": "zw"},
+  {"name": "south korea", "code": "kr"}
 ]

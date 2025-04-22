@@ -1,12 +1,11 @@
 const express = require('express')
 const router = express.Router()
+const path = require('path');
+
 
 router.all('/', (req, res) => {
-    res.send('I\'m Alive')
-})
-
-router.all('/discord', (req, res) => {
-    res.redirect('https://discord.gg/uqRESgqZSQ')
+    const filePath = path.join(__dirname, '..', 'static', 'index.html');
+    res.sendFile(filePath);
 })
 
 module.exports = {
