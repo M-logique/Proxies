@@ -1,3 +1,5 @@
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:51773?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15182?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%201
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:15650?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
