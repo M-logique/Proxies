@@ -19,6 +19,8 @@ import (
 	"net"
 )
 
+const MaxConcurrency = 50
+
 type Config struct {
 	URL          string `json:"url"`
 	JsonFilePath string `json:"jsonFilePath"`
@@ -167,25 +169,30 @@ func chunkConfigs(configs []Config, chunkSize int) [][]Config {
 }
 
 
+
 func handleInputData(input InputData, xrayCorePath string) ([]*Output, error) {
 	var allResults []*Output
 	chunks := chunkConfigs(input.Configs, 300)
 
 	var wg sync.WaitGroup
-	resultChan := make(chan *Output, len(input.Configs)) 
+	resultChan := make(chan *Output, len(input.Configs))
+	semaphore := make(chan struct{}, MaxConcurrency)
 
 	for _, chunk := range chunks {
 		for _, config := range chunk {
 			wg.Add(1)
+			semaphore <- struct{}{}
+
 			go func(config Config) {
 				defer wg.Done()
+				defer func() { <-semaphore }()
+
 				result, err := checkConfig(xrayCorePath, config.JsonFilePath, config.Port, config.URL)
 				if err != nil {
 					log.Printf("Error checking the config: %s\n", err)
-						// log.Printf("Error checking the config: %s\n", err)
-						return
-					}
-					log.Printf("Found location %s for config %s", result.Location.Country, result.URL)
+					return
+				}
+				log.Printf("Found location %s for config %s", result.Location.Country, result.URL)
 				resultChan <- result
 			}(config)
 		}
@@ -194,7 +201,6 @@ func handleInputData(input InputData, xrayCorePath string) ([]*Output, error) {
 	wg.Wait()
 	close(resultChan)
 
-	
 	for result := range resultChan {
 		allResults = append(allResults, result)
 	}
