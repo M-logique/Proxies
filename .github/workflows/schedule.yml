@@ -158,19 +158,22 @@ jobs:
           mv artifacts/byLocation-* ./byLocations
           
 
+      - name: Combine byLocations
+        run: |
+          python3 .github/combine.py
+          mv byLocations/merged.json proxies/byLocation.json
       
-      
-    # - name: Report checking status
-    #   run: |
-    #     python3 -c "import json; print('Total profiles:', json.load('proxies/byLocation.json')["totalProfiles"])"
+      - name: Report checking status
+        run: |
+          python3 -c "import json; print('Total profiles:', json.load('proxies/byLocation.json')["totalProfiles"])"
 
-    # - name: Commit changes
-    #   run: |
-    #     git config --global user.name "${{ env.author }}"
-    #     git config --global user.email "qq623589@gmail.com"
-        
-    #     git add proxies
-    
-    #     git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
-    
-    #     git push
+      - name: Commit changes
+        run: |
+          git config --global user.name "${{ env.author }}"
+          git config --global user.email "qq623589@gmail.com"
+          
+          git add proxies
+      
+          git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
+      
+          git push
