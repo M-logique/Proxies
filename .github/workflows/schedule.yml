@@ -104,7 +104,7 @@ jobs:
           ls -R chunks
           rm -rf proxies/*
           mkdir proxies/chunk-${{matrix.chunk}}
-          mv chunks/chunk-${{matrix.chunk}}.txt proxies/chunk-${{matrix.chunk}}.txt
+          mv chunks/chunks/chunk-${{matrix.chunk}}.txt proxies/chunk-${{matrix.chunk}}.txt
 
         
       - name: Run checker
