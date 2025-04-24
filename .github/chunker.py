@@ -8,7 +8,7 @@ def load_proxies() -> List[str]:
     configs = []
 
     for f in iglob("proxies/**/*.txt"):
-        if not "v2ray" in f: continue
+        if "regular" in f: continue
         with open(f) as fp:
             configs.extend(fp.read().splitlines())
 
