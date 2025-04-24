@@ -46,7 +46,7 @@ jobs:
     - name: Report channels status
       run: |
         python3 -c "print('Total channels:', len(__import__('json').load(open('data/tgchannels.json')).keys()))"
-        python3 -c "print('Total proxies:', len(open('proxies/tvc/mixed.txt').readlines()))"
+        python3 -c "print('Total proxies:', len(open('additional_configs.txt').readlines()))"
   
     - name: Run updater
       run: python3 updater/updater.py "${{github.workspace}}"
