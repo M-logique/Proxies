@@ -169,7 +169,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "${{ env.author }}"
+          git config --global user.name "LogiqueBot"
           git config --global user.email "qq623589@gmail.com"
           
           git add proxies
