@@ -53,7 +53,7 @@ jobs:
 
     - name: Report update status
       run: |
-        python3 -c "import os; from glob import iglob; print('Total urls:', sum(1 for f in iglob('proxies/*.txt') for line in open(f) if line.strip()))"
+        python3 -c "import os; from glob import iglob; print('Total urls:', sum(1 for f in iglob('proxies/**/*.txt') for line in open(f) if line.strip()))"   
 
 
     - name: Run checker
