@@ -64,7 +64,7 @@ jobs:
     - name: Upload chunks
       uses: actions/upload-artifact@v4
       with: 
-        name: all-chunks
+        name: chunks
         path: ./chunks
         retention-days: 1
     
