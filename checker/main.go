@@ -19,7 +19,7 @@ import (
 	"net"
 )
 
-const MaxConcurrency = 50
+const MaxConcurrency = 80
 
 type Config struct {
 	URL          string `json:"url"`
