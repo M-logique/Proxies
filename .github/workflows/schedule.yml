@@ -47,13 +47,15 @@ jobs:
       run: |
         python3 -c "print('Total channels:', len(__import__('json').load(open('data/tgchannels.json')).keys()))"
         python3 -c "print('Total proxies:', len(open('additional_configs.txt').readlines()))"
+        python3 -c "print('Total urls:', len(open('additional_urls.txt').readlines()))"
+        
   
     - name: Run updater
       run: python3 updater/updater.py "${{github.workspace}}"
 
     - name: Report update status
       run: |
-        python3 -c "import os; from glob import iglob; print('Total v2ray URLs:', sum(1 for f in iglob('proxies/**/*.txt') for line in open(f) if line.strip()))"   
+        python3 -c "import os; from glob import iglob; print('Total scraped v2ray URLs:', sum(1 for f in iglob('proxies/**/*.txt') for line in open(f) if line.strip()))"   
 
 
     - name: Run chunker
