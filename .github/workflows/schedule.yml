@@ -37,6 +37,11 @@ jobs:
 
         python3 ${{github.workspace}}/.github/refresh_channels.py
 
+    - name: Report channels status
+      run: |
+        python3 -c "print('Total channels:', len(__import__('json').load(open('data/tgchannels.json')).keys()))"
+        python3 -c "print('Total proxies:', len(open('proxies/tvc/mixed.txt').readlines()))"
+
       env:
         SESSION: ${{secrets.SESSION}}
         API_ID: ${{secrets.API_ID}}
@@ -46,14 +51,20 @@ jobs:
     - name: Run updater
       run: python3 updater/updater.py "${{github.workspace}}"
 
+    - name: Report update status
+      run: |
+        python3 -c "import os; from glob import iglob; print('Total urls:', sum(1 for f in iglob('proxies/*.txt') for line in open(f) if line.strip()))"
+
 
     - name: Run checker
       run: |
         cp ${{github.workspace}}/.github/v2json.py ${{github.workspace}}/checker/
         python3 checker/checker.py
-
         rm -rf proxies/tvc/mixed.txt
 
+    - name: Report checking status
+      run: |
+        python3 -c "import json; print('Total profiles:', json.load('proxies/byLocation.json')["totalProfiles"])"
 
     - name: Commit changes
       run: |
