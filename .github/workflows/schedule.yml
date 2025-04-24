@@ -165,7 +165,7 @@ jobs:
       
       - name: Report checking status
         run: |
-          python3 -c "import json; print('Total profiles:', json.load('proxies/byLocation.json')["totalProfiles"])"
+          python3 -c "import json; print('Total profiles:', json.load(open('proxies/byLocation.json'))['totalProfiles'])"
 
       - name: Commit changes
         run: |
