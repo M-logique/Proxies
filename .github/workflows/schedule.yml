@@ -2,8 +2,8 @@ name: Update proxies
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 * * * *' 
+  # schedule:
+  #   - cron: '0 * * * *' 
 
 permissions:
   contents: write
@@ -56,23 +56,117 @@ jobs:
         python3 -c "import os; from glob import iglob; print('Total urls:', sum(1 for f in iglob('proxies/**/*.txt') for line in open(f) if line.strip()))"   
 
 
-    - name: Run checker
-      run: |
-        cp ${{github.workspace}}/.github/v2json.py ${{github.workspace}}/checker/
-        python3 checker/checker.py
-        rm -rf proxies/tvc/mixed.txt
+    - name: Run chunker
+      run: python3 .github/chunker.py
 
-    - name: Report checking status
-      run: |
-        python3 -c "import json; print('Total profiles:', json.load('proxies/byLocation.json')["totalProfiles"])"
 
-    - name: Commit changes
-      run: |
-        git config --global user.name "${{ env.author }}"
-        git config --global user.email "qq623589@gmail.com"
+    
+    - name: Upload chunks
+      uses: actions/upload-artifact@v4
+      with: 
+        name: all-chunks
+        path: ./chunks
+        retention-days: 1
+    
+    - name: Upload proxies folder
+      uses: actions/upload-artifact@v4
+      with:
+        name: proxies
+        path: ./proxies
+        retention-days: 1
+
+  
+  check:
+    needs: update
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        chunk: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+      
+      max-parallel: 20
+    
+    steps:
+      
+      - uses: actions/checkout@v4
+        with: 
+          fetch-depth: 1
+
+      - name: Download chunks
+        uses: actions/download-artifact@v4
+        with:
+          path: chunks
         
-        git add proxies
+      
+      - name: Move the right chunk into its place
+        run: |
+          rm -rf proxies/*
+          mkdir proxies/chunk-${{matrix.chunk}}
+          mv chunks/chunk-${{matrix.chunk}} proxies/chunk-${{matrix.chunk}}
+
+        
+      - name: Run checker
+        run: |
+          cp ${{github.workspace}}/.github/v2json.py ${{github.workspace}}/checker/
+          python3 checker/checker.py
+          rm -rf proxies/tvc/mixed.txt
+        
+      - name: Rename byLocation.json
+        run: mv proxies/byLocation.json proxies/byLocation-${{matrix.chunk}}.json
     
-        git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
+      - name: upload byLocation.json
+        uses: actions/upload-artifact@v4
+        with: 
+          path: ./proxies/byLocation-${{matrix.chunk}}.json
+          name: byLocation-${{matrix.chunk}}
+          retention-days: 1
+
+      
+  conclusion:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+        with: 
+          fetch-depth: 1
+
+      - run: mkdir -p artifacts
+
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with: 
+          path: artifacts
+
+      - name: ls
+        run: ls -R artifacts
+
+
+      - name: Seperate
+        run: |
+          mkdir -p byLocations
+          rm -rf proxies/*
+          mv artifacts/proxies/* proxies/
+
+          find artifacts -mindepth 2 -type f -exec mv -t artifacts {} +
+          find artifacts -mindepth 2 -type f -exec mv -t artifacts {} +
+
+          rm -rf artifacts/chunk-*
+          mv artifacts/byLocation-* ./byLocations
+          
+
+      
+      
+    # - name: Report checking status
+    #   run: |
+    #     python3 -c "import json; print('Total profiles:', json.load('proxies/byLocation.json')["totalProfiles"])"
+
+    # - name: Commit changes
+    #   run: |
+    #     git config --global user.name "${{ env.author }}"
+    #     git config --global user.email "qq623589@gmail.com"
+        
+    #     git add proxies
     
-        git push
+    #     git commit -a -m "Updated at $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M %Z')" --allow-empty
+    
+    #     git push
