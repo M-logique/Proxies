@@ -122,6 +122,7 @@ jobs:
 
       
   conclusion:
+    needs: check
     runs-on: ubuntu-latest
 
     steps:
