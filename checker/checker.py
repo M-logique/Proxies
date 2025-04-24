@@ -462,7 +462,7 @@ def main():
 
         # Populate the final dictionary with unique counts and data
         final_dict["locations"]["totalCountries"] = len(locations_by_cc)
-        final_dict["locations"]["byNames"] = list(locations_by_names)
+        final_dict["locations"]["byNames"] = list(name for name in locations_by_names if name != "Türkiye")
         final_dict["locations"]["byCountryCode"] = list(locations_by_cc)
 
         # Write the final dictionary to a JSON file
