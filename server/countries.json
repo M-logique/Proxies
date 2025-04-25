@@ -195,5 +195,7 @@
   {"name": "yemen", "code": "ye"},
   {"name": "zambia", "code": "zm"},
   {"name": "zimbabwe", "code": "zw"},
-  {"name": "south korea", "code": "kr"}
+  {"name": "south korea", "code": "kr"},
+  {"name": "czechia", "code": "cz"},
+  {"name": "hong kong", "code": "hk"}
 ]
