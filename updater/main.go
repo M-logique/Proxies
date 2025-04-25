@@ -283,7 +283,7 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 }
 
 func fetchURLsInChunks(urls []string) []string {
-	const chunkSize = 100
+	const chunkSize = 300
 	var allResults []string
 
 	for i := 0; i < len(urls); i += chunkSize {
