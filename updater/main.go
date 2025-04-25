@@ -282,6 +282,23 @@ func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 	log.Println("Mahsa resources processed successfully")
 }
 
+func fetchURLsInChunks(urls []string) []string {
+	const chunkSize = 100
+	var allResults []string
+
+	for i := 0; i < len(urls); i += chunkSize {
+		end := i + chunkSize
+		if end > len(urls) {
+			end = len(urls)
+		}
+		chunk := urls[i:end]
+		results := fetchURLs(chunk)
+		allResults = append(allResults, results...)
+	}
+
+	return allResults
+}
+
 // fetchURLs fetches contents from multiple URLs concurrently
 func fetchURLs(urls []string) []string {
 	resultChan := make(chan string)
@@ -432,7 +449,7 @@ func FetchResources() *C.char {
 	// fetch resources and send them to channel
 	fetchAndSend := func(urls []string, name, filePath string, regexPattern string, prefix string) {
 		defer wg.Done()
-		contents := fetchURLs(urls)
+		contents := fetchURLsInChunks(urls)
 		parsedTexts := parseText(prefix, regexPattern, strings.Join(contents, "\n"))
 
 
