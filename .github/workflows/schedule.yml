@@ -2,8 +2,8 @@ name: Update proxies
 
 on:
   workflow_dispatch:
-  #schedule:
-    #- cron: '0/25 * * * *' 
+  schedule:
+    - cron: '0/25 * * * *' 
 
 permissions:
   contents: write
@@ -32,10 +32,12 @@ jobs:
       run: rm -rf ${{github.workspace}}/proxies 
 
     - name: refresh channels
+      continue-on-error: true
       run: |
         pip install aiohttp telethon
 
         python3 ${{github.workspace}}/.github/refresh_channels.py
+        
 
       env:
         SESSION: ${{secrets.SESSION}}
