@@ -106,16 +106,28 @@ window.addEventListener("load", async () => {
 	const sub = document.querySelector("#subscription");
 
 	let total = data.locations.totalCountries;
+	const countries = [];
+
 	for (let i = 0; i < total; i++) {
-		const option = document.createElement("option");
 		let c = 0;
 		if (data.profilesByCountryName[data.locations.byNames[i]]) {
-			c = data.profilesByCountryName[data.locations.byNames[i]].length
+			c = data.profilesByCountryName[data.locations.byNames[i]].length;
 		}
-		option.text = getFlagEmoji(getCodeFromCountryName(data.locations.byNames[i])) + data.locations.byNames[i] + " (" + toFullWidthDigits(c) + ")";
-		option.value = data.locations.byNames[i];
-		select.appendChild(option);
+		countries.push({
+			name: data.locations.byNames[i],
+			count: c,
+			flag: getFlagEmoji(getCodeFromCountryName(data.locations.byNames[i]))
+		});
 	}
+
+	countries.sort((a, b) => b.count - a.count);
+
+	countries.forEach(country => {
+		const option = document.createElement("option");
+		option.text = country.flag + country.name + " (" + toFullWidthDigits(country.count) + ")";
+		option.value = country.name;
+		select.appendChild(option);
+	});
 
 	const toaster = new Toaster();
 
