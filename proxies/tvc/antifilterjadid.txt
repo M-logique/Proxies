@@ -1,6 +1,3 @@
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?path=%2Ftiger&amp;security=tls&amp;encryption=none&amp;host=cwhyd.lucas-bezanberim.info&amp;type=ws&amp;sni=cwhyd.lucas-bezanberim.info#GH_48453%20%20
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?path=%2Ftiger&amp;security=tls&amp;encryption=none&amp;host=hmsss.madison-bezanberim.info&amp;type=ws&amp;sni=hmsss.madison-bezanberim.info#GH_48452%20%20
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?path=%2Ftiger&amp;security=tls&amp;encryption=none&amp;host=hmsss.madison-bezanberim.info&amp;type=ws&amp;sni=hmsss.madison-bezanberim.info#GM_48834%20%20
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@13.219.91.111:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Aws-tc1
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.211.192.25:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Aws-tc28
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@3.93.190.46:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Aws-tc26
