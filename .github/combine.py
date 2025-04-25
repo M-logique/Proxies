@@ -30,6 +30,13 @@ for file in files:
         for k, urls in data.get("profilesByCountryName", {}).items():
             final_dict["profilesByCountryName"][k].extend(urls)
 
+# Remove duplicates at the end
+for k in final_dict["profilesByCountryCode"]:
+    final_dict["profilesByCountryCode"][k] = list(set(final_dict["profilesByCountryCode"][k]))
+
+for k in final_dict["profilesByCountryName"]:
+    final_dict["profilesByCountryName"][k] = list(set(final_dict["profilesByCountryName"][k]))
+
 final_dict["locations"]["byNames"] = list(final_dict["locations"]["byNames"])
 final_dict["locations"]["byCountryCode"] = list(final_dict["locations"]["byCountryCode"])
 final_dict["locations"]["totalCountries"] = len(final_dict["locations"]["byCountryCode"])
