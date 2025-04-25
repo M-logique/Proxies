@@ -46,6 +46,7 @@ jobs:
 
     
     - name: Report channels status
+      continue-on-error: true
       run: |
         python3 -c "print('Total channels:', len(__import__('json').load(open('data/tgchannels.json')).keys()))"
         python3 -c "print('Total proxies:', len(open('additional_configs.txt').readlines()))"
