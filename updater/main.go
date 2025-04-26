@@ -422,6 +422,8 @@ func FetchResources() *C.char {
 
 		"https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)",
 		"https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link",
+
+		"https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt",
                 
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed",
 		"https://github.com/soroushmirzaei/telegram-configs-collector/blob/main/splitted/mixed-0",
