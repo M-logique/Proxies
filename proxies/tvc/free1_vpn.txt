@@ -139,12 +139,10 @@ vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&a
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&amp;security=tls&amp;encryption=none&amp;host=cdn.packageclub.net&amp;fp=edge&amp;type=ws&amp;sni=cdn.packageclub.net#%40V2ray1_Ng
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#%40V2ray1_Ng
 vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&amp;encryption=none&amp;host=rubika.ir.igap.net.soft98.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-vless://28f66a10-6021-4b12-ac2c-4536193c0896@www.speedtest.net:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.q.ipv2ry.mdffood.ir&amp;type=ws#WS%20%7C%20%40@free1_vpn
-vless://c15c77d7-da87-4fc9-be61-81f6e111ace0@www.speedtest.net:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.q.ipv2ry.mdffood.ir&amp;type=ws#WS%20%7C%20%40@free1_vpn
-vless://d2307420-3629-47cd-8115-91daa43fbc2b@104.19.54.50:8080?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&amp;type=ws#WS%20%7C%20%40@free1_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2RAY1_NG
+vless://28f66a10-6021-4b12-ac2c-4536193c0896@www.speedtest.net:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.q.ipv2ry.mdffood.ir&amp;type=ws#WS%20%7C%20%40@free1_vpn
 vless://6babb657-1524-43bb-b421-11bda27bc9de@www.speedtest.net:443?path=salaam&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=gpt.smatiz.info&amp;fp=chrome&amp;type=ws&amp;sni=gpt.smatiz.info#%40V2ray1_Ng%20ALL
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#%40V2ray1_Ng
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#%40V2ray1_Ng
@@ -158,6 +156,7 @@ vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@188.245.34.12:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=_Qos-LNNG2nnPEFrTHSotINN3VcKWcVF7sCaw1HUElM&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=e6#%40V2ray1_Ng
 vless://c33c6019-e4d2-48b2-b217-670d75d33693@www.speedtest.net:8880?type=httpupgrade&amp;path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D8880&amp;host=www.speedtest.net.ipv2ry.2sedkfjeuixijd0ew9dvkcxoisiek21.blog&amp;security=none#HTTP%20%7C%20%40
+vless://c15c77d7-da87-4fc9-be61-81f6e111ace0@www.speedtest.net:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.q.ipv2ry.mdffood.ir&amp;type=ws#WS%20%7C%20%40@free1_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2RAY1_NG
@@ -179,6 +178,7 @@ vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&a
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&amp;security=tls&amp;encryption=none&amp;host=cdn.packageclub.net&amp;fp=edge&amp;type=ws&amp;sni=cdn.packageclub.net#%40V2ray1_Ng
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#%40V2ray1_Ng
 vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&amp;encryption=none&amp;host=rubika.ir.igap.net.soft98.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
+vless://d2307420-3629-47cd-8115-91daa43fbc2b@104.19.54.50:8080?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&amp;type=ws#WS%20%7C%20%40@free1_vpn
 vless://28f66a10-6021-4b12-ac2c-4536193c0896@www.speedtest.net:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.q.ipv2ry.mdffood.ir&amp;type=ws#WS%20%7C%20%40@free1_vpn
 vless://c15c77d7-da87-4fc9-be61-81f6e111ace0@www.speedtest.net:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.q.ipv2ry.mdffood.ir&amp;type=ws#WS%20%7C%20%40@free1_vpn
 vless://d2307420-3629-47cd-8115-91daa43fbc2b@104.19.54.50:8080?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&amp;type=ws#WS%20%7C%20%40@free1_vpn
