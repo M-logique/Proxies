@@ -396,7 +396,6 @@ vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&a
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?path=%2Fws-connect%2Fdownload%2Fupdate%2Fcheck%2Fversion%2F2.1.9%2Fpatch%2Fforce&amp;security=tls&amp;encryption=none&amp;host=cdn.packageclub.net&amp;fp=edge&amp;type=ws&amp;sni=cdn.packageclub.net#%40V2ray1_Ng
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#%40V2ray1_Ng
 vless://51b73782-3536-48d7-b125-9e3f48c4052f@85.133.206.197:14000?security=none&amp;encryption=none&amp;host=rubika.ir.igap.net.soft98.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws#%40V2ray1_Ng
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ScKzAhYz14.qUiCkOrA.OrG&amp;fp=chrome&amp;type=ws&amp;sni=ScKzAhYz14.qUiCkOrA.OrG#%40V2ray1_Ng
 vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:443?security=reality&amp;encryption=none&amp;pbk=tnDvChtpeNANGe52_QG3Jx6esgMTil1tcg7jlYPmoRY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#%40V2ray1_Ng
