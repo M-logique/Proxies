@@ -17,6 +17,7 @@ vless://573d0542-e70a-4bd2-85a7-9d8af7dba7b8@91.107.181.208:443?encryption=none&
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?host=google.com&amp;security=&amp;type=ws&amp;path=%2Fhttp&amp;encryption=none#Telegram
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?host=google.com&amp;security=&amp;type=ws&amp;path=%2Fhttp&amp;encryption=none#Telegram
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸United
+vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?security=none&amp;type=grpc&amp;serviceName=DarkTeam_VPN&amp;packetEncoding=xudp&amp;encryption=none#[🇬🇧]t.me/amirw_shop_q
 vless://c960eb02-c7c3-48cc-92af-4f736b2f73d8@91.107.161.19:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=googleusercontent.com&amp;fp=chrome&amp;pbk=bMPSa-ltmfkZ8gTjfZ23IIooyVMXoYzBqcGrKUPO4VA&amp;sid=2fb8f8d9&amp;spx=%2F&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
 vless://6bac8a91-972a-4ed9-8a53-71e58881d7a8@68.183.77.91:2096?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%93%B2%20Telegram%20%7C%20%40%20-%20%40amirw_shop_q
 vless://6bac8a91-972a-4ed9-8a53-71e58881d7a8@68.183.77.91:2096?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%93%B2%20Telegram%20%7C%20%40%20-%20%40amirw_shop_q
@@ -30,7 +31,6 @@ vless://573d0542-e70a-4bd2-85a7-9d8af7dba7b8@91.107.181.208:443?encryption=none&
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?host=google.com&amp;security=&amp;type=ws&amp;path=%2Fhttp&amp;encryption=none#Telegram
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?host=google.com&amp;security=&amp;type=ws&amp;path=%2Fhttp&amp;encryption=none#Telegram
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸United
-vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?security=none&amp;type=grpc&amp;serviceName=DarkTeam_VPN&amp;packetEncoding=xudp&amp;encryption=none#[🇬🇧]t.me/amirw_shop_q
 vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?security=none&amp;type=grpc&amp;serviceName=DarkTeam_VPN&amp;packetEncoding=xudp&amp;encryption=none#[🇬🇧]t.me/amirw_shop_q
 vless://c960eb02-c7c3-48cc-92af-4f736b2f73d8@91.107.161.19:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=googleusercontent.com&amp;fp=chrome&amp;pbk=bMPSa-ltmfkZ8gTjfZ23IIooyVMXoYzBqcGrKUPO4VA&amp;sid=2fb8f8d9&amp;spx=%2F&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40amirw_shop_q
 vless://6bac8a91-972a-4ed9-8a53-71e58881d7a8@68.183.77.91:2096?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%93%B2%20Telegram%20%7C%20%40%20-%20%40amirw_shop_q
