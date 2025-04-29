@@ -1,4 +1,8 @@
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&amp;host=cr7.traneh.dpdns.org&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=cr7.traneh.dpdns.org#Kurdistan_Van
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.217.234.75:80?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=refersion.com&amp;pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY#Kurdistan_Van
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vmess://eyJ0bHMiOiJ0bHMiLCJwb3J0IjoiODQ0MyIsImFscG4iOiIiLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImlkIjoiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwiYWRkIjoiMTA0LjIxLjMuMjE5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
+vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6ImMyM2IxMjdiLWFmODctNDNiYi1hYTFlLWNlNDIzNzRhMmI1MyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwb3J0IjoiMjc2OTkiLCJwYXRoIjoiIiwicHMiOiJLdXJkaXN0YW5fVmFuIiwiYWRkIjoiOTEuMTk0LjExLjExOCJ9
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@www.speedtest.net:2087?type=ws&amp;host=Tp008CsUrZ.rAmRiDdEr.CoM&amp;path=/&amp;security=tls&amp;sni=Tp008CsUrZ.rAmRiDdEr.CoM#Kurdistan_Van
 vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#Kurdistan_Vpn
 vmess://eyJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsInBzIjoiS3VyZGlzdGFuX1ZhbiIsInNuaSI6ImlydmlkZW8uY2ZkIiwiYWxwbiI6IiIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNzIuNjcuMTU0Ljg0IiwiaG9zdCI6IiJ9
@@ -25,7 +29,8 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&amp;hos
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.217.234.75:80?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=refersion.com&amp;pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&amp;host=cr7.traneh.dpdns.org&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=cr7.traneh.dpdns.org#Kurdistan_Van
+vmess://eyJ0bHMiOiJ0bHMiLCJwb3J0IjoiODQ0MyIsImFscG4iOiIiLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImlkIjoiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwiYWRkIjoiMTA0LjIxLjMuMjE5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
+vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6ImMyM2IxMjdiLWFmODctNDNiYi1hYTFlLWNlNDIzNzRhMmI1MyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwb3J0IjoiMjc2OTkiLCJwYXRoIjoiIiwicHMiOiJLdXJkaXN0YW5fVmFuIiwiYWRkIjoiOTEuMTk0LjExLjExOCJ9
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@www.speedtest.net:2087?type=ws&amp;host=Tp008CsUrZ.rAmRiDdEr.CoM&amp;path=/&amp;security=tls&amp;sni=Tp008CsUrZ.rAmRiDdEr.CoM#Kurdistan_Van
 vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#Kurdistan_Vpn
 vmess://eyJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsInBzIjoiS3VyZGlzdGFuX1ZhbiIsInNuaSI6ImlydmlkZW8uY2ZkIiwiYWxwbiI6IiIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNzIuNjcuMTU0Ljg0IiwiaG9zdCI6IiJ9
@@ -52,7 +57,8 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&amp;hos
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.217.234.75:80?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=refersion.com&amp;pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&amp;host=cr7.traneh.dpdns.org&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=cr7.traneh.dpdns.org#Kurdistan_Van
+vmess://eyJ0bHMiOiJ0bHMiLCJwb3J0IjoiODQ0MyIsImFscG4iOiIiLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImlkIjoiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwiYWRkIjoiMTA0LjIxLjMuMjE5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
+vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6ImMyM2IxMjdiLWFmODctNDNiYi1hYTFlLWNlNDIzNzRhMmI1MyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwb3J0IjoiMjc2OTkiLCJwYXRoIjoiIiwicHMiOiJLdXJkaXN0YW5fVmFuIiwiYWRkIjoiOTEuMTk0LjExLjExOCJ9
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@www.speedtest.net:2087?type=ws&amp;host=Tp008CsUrZ.rAmRiDdEr.CoM&amp;path=/&amp;security=tls&amp;sni=Tp008CsUrZ.rAmRiDdEr.CoM#Kurdistan_Van
 vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#Kurdistan_Vpn
 vmess://eyJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsInBzIjoiS3VyZGlzdGFuX1ZhbiIsInNuaSI6ImlydmlkZW8uY2ZkIiwiYWxwbiI6IiIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNzIuNjcuMTU0Ljg0IiwiaG9zdCI6IiJ9
@@ -79,7 +85,8 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&amp;hos
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.217.234.75:80?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=refersion.com&amp;pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&amp;host=cr7.traneh.dpdns.org&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=cr7.traneh.dpdns.org#Kurdistan_Van
+vmess://eyJ0bHMiOiJ0bHMiLCJwb3J0IjoiODQ0MyIsImFscG4iOiIiLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImlkIjoiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwiYWRkIjoiMTA0LjIxLjMuMjE5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
+vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6ImMyM2IxMjdiLWFmODctNDNiYi1hYTFlLWNlNDIzNzRhMmI1MyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwb3J0IjoiMjc2OTkiLCJwYXRoIjoiIiwicHMiOiJLdXJkaXN0YW5fVmFuIiwiYWRkIjoiOTEuMTk0LjExLjExOCJ9
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@www.speedtest.net:2087?type=ws&amp;host=Tp008CsUrZ.rAmRiDdEr.CoM&amp;path=/&amp;security=tls&amp;sni=Tp008CsUrZ.rAmRiDdEr.CoM#Kurdistan_Van
 vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#Kurdistan_Vpn
 vmess://eyJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsInBzIjoiS3VyZGlzdGFuX1ZhbiIsInNuaSI6ImlydmlkZW8uY2ZkIiwiYWxwbiI6IiIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNzIuNjcuMTU0Ljg0IiwiaG9zdCI6IiJ9
@@ -106,7 +113,7 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&amp;hos
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.217.234.75:80?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=refersion.com&amp;pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?type=ws&amp;host=cr7.traneh.dpdns.org&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=cr7.traneh.dpdns.org#Kurdistan_Van
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?type=ws&amp;host=d5.medicaltreatment.ir&amp;path=Telegram@V2ray_Alpha/?ed&amp;security=tls&amp;sni=d5.medicaltreatment.ir#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&amp;host=mard.ankaboti.com.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&amp;security=none#Kurdistan_Van
@@ -130,5 +137,3 @@ vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;hos
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vmess://eyJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsIm5ldCI6IndzIiwiaWQiOiJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCJ0bHMiOiJ0bHMiLCJhZGQiOiIxMDQuMjEuMy4yMTkiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJhbHBuIjoiIiwicGF0aCI6IlwvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
-vmess://eyJ0bHMiOiJ0bHMiLCJwb3J0IjoiODQ0MyIsImFscG4iOiIiLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImlkIjoiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwiYWRkIjoiMTA0LjIxLjMuMjE5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
-vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6ImMyM2IxMjdiLWFmODctNDNiYi1hYTFlLWNlNDIzNzRhMmI1MyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwb3J0IjoiMjc2OTkiLCJwYXRoIjoiIiwicHMiOiJLdXJkaXN0YW5fVmFuIiwiYWRkIjoiOTEuMTk0LjExLjExOCJ9
