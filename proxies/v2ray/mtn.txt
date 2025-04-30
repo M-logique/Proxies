@@ -83,6 +83,7 @@ vmess://eyJhZGQiOiIxNS4yMDQuMjQ4LjkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443?security=reality&encryption=none&pbk=c5VJpRsIyrxNp0eS3Lz5EMQH6jWBsvSTK7hNZQ77bl4&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=4fd4ad#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#@meli_proxyy
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#@meli_proxyy
 trojan://bpb-trojan@162.159.152.2:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@meli_proxyy
 trojan://bpb-trojan@japan.com:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&allowInsecure=1#[
