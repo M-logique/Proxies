@@ -1,10 +1,10 @@
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/Telegram@proxy_mtm/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://09b31eba-254d-48d7-b9ba-7282f347f221@194.182.79.116:25243?type=grpc&amp;mode=gun&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&amp;security=none#Kurdistan_Van
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
 vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Van
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@104.21.63.240:443?type=ws&amp;host=cdn-nodes.maviks.eu&amp;path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=cdn-nodes.maviks.eu#Kurdistan_Van
-vmess://eyJpZCI6IjliMjMzNWFmLWYyNGMtNDgxMC05YzM0LTk1NTY4ZWJkNTc5ZCIsInBvcnQiOiIyODk4NCIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiYWRkIjoiOTEuMTk0LjExLjE3OCJ9
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/?ed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&amp;host=mard.ankaboti.com.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&amp;security=none#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167153.london-shledrc-acbq.info:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;host=wpxb8jk5.twentyse.com&amp;path=/wss&amp;security=tls&amp;fp=chrome&amp;sni=wpxb8jk5.twentyse.com&amp;alpn=http/1.1#Kurdistan_Van
@@ -28,9 +28,7 @@ vless://09b31eba-254d-48d7-b9ba-7282f347f221@194.182.79.116:25243?type=grpc&amp;
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
 vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Van
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@104.21.63.240:443?type=ws&amp;host=cdn-nodes.maviks.eu&amp;path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=cdn-nodes.maviks.eu#Kurdistan_Van
-vmess://eyJpZCI6IjliMjMzNWFmLWYyNGMtNDgxMC05YzM0LTk1NTY4ZWJkNTc5ZCIsInBvcnQiOiIyODk4NCIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiYWRkIjoiOTEuMTk0LjExLjE3OCJ9
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/?ed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&amp;host=mard.ankaboti.com.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&amp;security=none#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167153.london-shledrc-acbq.info:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;host=wpxb8jk5.twentyse.com&amp;path=/wss&amp;security=tls&amp;fp=chrome&amp;sni=wpxb8jk5.twentyse.com&amp;alpn=http/1.1#Kurdistan_Van
@@ -54,9 +52,7 @@ vless://09b31eba-254d-48d7-b9ba-7282f347f221@194.182.79.116:25243?type=grpc&amp;
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
 vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Van
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@104.21.63.240:443?type=ws&amp;host=cdn-nodes.maviks.eu&amp;path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=cdn-nodes.maviks.eu#Kurdistan_Van
-vmess://eyJpZCI6IjliMjMzNWFmLWYyNGMtNDgxMC05YzM0LTk1NTY4ZWJkNTc5ZCIsInBvcnQiOiIyODk4NCIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiYWRkIjoiOTEuMTk0LjExLjE3OCJ9
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/?ed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&amp;host=mard.ankaboti.com.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&amp;security=none#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167153.london-shledrc-acbq.info:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;host=wpxb8jk5.twentyse.com&amp;path=/wss&amp;security=tls&amp;fp=chrome&amp;sni=wpxb8jk5.twentyse.com&amp;alpn=http/1.1#Kurdistan_Van
@@ -80,9 +76,7 @@ vless://09b31eba-254d-48d7-b9ba-7282f347f221@194.182.79.116:25243?type=grpc&amp;
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
 vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Van
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@104.21.63.240:443?type=ws&amp;host=cdn-nodes.maviks.eu&amp;path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=cdn-nodes.maviks.eu#Kurdistan_Van
-vmess://eyJpZCI6IjliMjMzNWFmLWYyNGMtNDgxMC05YzM0LTk1NTY4ZWJkNTc5ZCIsInBvcnQiOiIyODk4NCIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiYWRkIjoiOTEuMTk0LjExLjE3OCJ9
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/?ed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&amp;host=mard.ankaboti.com.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&amp;security=none#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167153.london-shledrc-acbq.info:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;host=wpxb8jk5.twentyse.com&amp;path=/wss&amp;security=tls&amp;fp=chrome&amp;sni=wpxb8jk5.twentyse.com&amp;alpn=http/1.1#Kurdistan_Van
@@ -106,9 +100,7 @@ vless://09b31eba-254d-48d7-b9ba-7282f347f221@194.182.79.116:25243?type=grpc&amp;
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
 vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Van
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@104.21.63.240:443?type=ws&amp;host=cdn-nodes.maviks.eu&amp;path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=cdn-nodes.maviks.eu#Kurdistan_Van
-vmess://eyJpZCI6IjliMjMzNWFmLWYyNGMtNDgxMC05YzM0LTk1NTY4ZWJkNTc5ZCIsInBvcnQiOiIyODk4NCIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwidHlwZSI6Im5vbmUiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJzY3kiOiJhdXRvIiwiYWRkIjoiOTEuMTk0LjExLjE3OCJ9
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/?ed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#Kurdistan_Van
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://25dad544-f470-460c-a3f7-0dca4bd90168@172.82.67.154:53938?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=9C3BPgYGPsyQMqV0dWY4c_j-g22zq0dx3MjSp0-Dnjw&amp;sid=fc9a6350400b#Kurdistan_Van
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080?type=tcp#Kurdistan_Van
 trojan://klZqKyxq0H@57.128.165.173:1935?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=x1-england-ovh-v2.devefun.net&amp;alpn=h2,http/1.1#Kurdistan_Van
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@pqh26v7.whatstrue.shop:1001?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=telewebion.com&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;sid=5fab0deb&amp;spx=/#Kurdistan_Van
@@ -134,4 +126,3 @@ ss://YWVzLTI1Ni1nY206UkptTGt6ZTE=@109.107.159.202:5075?type=tcp#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
