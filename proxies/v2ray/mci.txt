@@ -1,6 +1,5 @@
 vless://%54%45%4C%45%47%52%41%4D%2D%53%65%72%76%65%72%4E%65%74%74@[2a01:4f8:1c1b:247d::1]:31579?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1@62.60.231.81:39008#@meli_proxyy
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.184.159:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtin2YQg2LPYsdmI2LEg2KfYrtiq2LXYp9i124wg2KjYpyDYs9ix2LnYqiDYqNin2YTYpyDYqti22YXbjNmG24wgQE91dGxpbmV2XzJyYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -8,6 +7,7 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?path=%2F&secu
 vless://10d9df89-9a20-4110-9711-bca119490ee9@188.114.97.33:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#@meli_proxyy
 vless://51fda508-20aa-419e-b4c3-3a6202411412@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#@meli_proxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5b25GRVdwUmdLbXRNbnh0WEdJV0Qw@77.110.102.235:64864#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?security=none&encryption=none&type=grpc#@meli_proxyy
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.147.22:8443?path=%2F&security=tls&encryption=none&host=MdLoXlYg.rIcKtMoUsE.InFo&fp=chrome&type=ws&sni=MdLoXlYg.rIcKtMoUsE.InFo#@meli_proxyy
 vless://eacc24ed-a1c1-4037-9af4-4f6bcd657119@91.107.219.8:443?security=reality&encryption=none&pbk=Rcapy_5gvuL9LOr1Bqz-Y84P69L3wUQjG48xpB4fLTA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct.pdownloaddigikala.ir&sid=1d13151ce1#@meli_proxyy
