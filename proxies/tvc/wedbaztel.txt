@@ -9,5 +9,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&amp;secu
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&amp;security=&amp;encryption=none&amp;host=M4.nF9JZ2st7N.zULAiR.ORG.&amp;type=ws#•
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#WedBaz
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&amp;encryption=none&amp;pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=9b28132c703433#•
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?path=%2FTelegram%40V2ray_Alpha&amp;security=&amp;encryption=none&amp;host=redfree8.redorg1.ir&amp;type=ws#WedBaZ
+vless://727807ba-bd1e-4659-b5aa-68c45ece54e8@157.180.79.133:40387?security=&amp;encryption=none&amp;host=185.147.176.6&amp;headerType=http&amp;type=tcp#WedBaZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#Wadbaz
