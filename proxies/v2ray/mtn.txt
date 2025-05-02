@@ -57,7 +57,6 @@ trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zam
 trojan://bpb-trojan@162.159.152.2:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@meli_proxyy
 trojan://bpb-trojan@japan.com:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&allowInsecure=1#[
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8090#[
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@67.220.95.102:3306#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.77:443#[
@@ -86,7 +85,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwOVVDUFNWUHhLOTJNc2ZpMm5TVjdySzYyV2tDSmY3MjF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQm43UVZzekpHcjQ1SjZFV0xBMTJZeFlGU29zOHVNSGJEVFpNZXJmQTVraEVvQ3BUS2treUZFQ1c5WEhEdXdNSlZBZUozN2dha0dBTGl5a1dDV1U3UzdhZ0VNcmZ6ckQ@mx2.drawnrisha.one:55988#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.129:443#%F0%9F%93%8017%40oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.130:443#%F0%9F%93%8028%40oneclickvpnkeys
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%93%A11%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@mx2.drawnrisha.one:55988#%F0%9F%93%A1d%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSkxTSFVrZXZvUkhtaWRTcDV4ZUdkOGd3dUJCQlRUcDF5VllDZzZrWUJBMkZnSmJNd0dqbkx1VG5xY21OS1dLZGdQREg4ZDdtOWFnN1Zmc0JCaFcxck1jNDdjZ1g1dXA@mx2.drawnrisha.one:55988#%F0%9F%93%A1a%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRlJwNEJReWVWeExBNVJhQnhKOWN6d1R0WnFhWFZ1VlRtZ1Z0VFJzbWpMdnBCQk5TVEd0eXlnN3VOY2dwcFZScW5oamRKbVA4YktNM3pzSzg4ck5oTWdYTkpvYXV4a0o@mx2.drawnrisha.one:55988#%F0%9F%9B%A1%EF%B8%8Fe%40oneclickvpnkeys
