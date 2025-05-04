@@ -1,3 +1,4 @@
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=d1.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=d1.medicaldream.ir#%40NETMelliAnti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40NETMelliAnti
 vless://4d33149e-7356-489c-a874-953c519bd30e@188.245.32.66:26745?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
 vless://74ea433d-b19b-4989-a533-c5e2aa1135be@135.181.155.147:40240?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -16,7 +17,7 @@ vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tl
 vless://5b29869b-0b6e-490f-907a-c99e818ce3ed@91.107.141.239:1357?security=reality&amp;encryption=none&amp;pbk=1u1Y_g3iEMwXx2_DwVZFwxwPzgbEI7xvMPWUf0pmPFw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=bd33881a#%40NETMelliAnti
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://9101ccf3-4f4b-4ddd-8309-a71e1b403af3@od.mk-lakshfjalksfha.ir:1234?security=reality&amp;encryption=none&amp;pbk=8KkXQ2q6O2HtakRklBWIpICBvKvv_Hu23vzJCyTb71Y&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=bf47b16f#%40NETMelliAnti
-vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&amp;encryption=none&amp;pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=ftp.debian.org&amp;sid=10f1#%40NETMelliAnti
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=d1.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=d1.medicaldream.ir#%40NETMelliAnti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40NETMelliAnti
 vless://4d33149e-7356-489c-a874-953c519bd30e@188.245.32.66:26745?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
 vless://74ea433d-b19b-4989-a533-c5e2aa1135be@135.181.155.147:40240?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -35,7 +36,7 @@ vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tl
 vless://5b29869b-0b6e-490f-907a-c99e818ce3ed@91.107.141.239:1357?security=reality&amp;encryption=none&amp;pbk=1u1Y_g3iEMwXx2_DwVZFwxwPzgbEI7xvMPWUf0pmPFw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=bd33881a#%40NETMelliAnti
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://9101ccf3-4f4b-4ddd-8309-a71e1b403af3@od.mk-lakshfjalksfha.ir:1234?security=reality&amp;encryption=none&amp;pbk=8KkXQ2q6O2HtakRklBWIpICBvKvv_Hu23vzJCyTb71Y&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=bf47b16f#%40NETMelliAnti
-vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&amp;encryption=none&amp;pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=ftp.debian.org&amp;sid=10f1#%40NETMelliAnti
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=d1.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=d1.medicaldream.ir#%40NETMelliAnti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40NETMelliAnti
 vless://4d33149e-7356-489c-a874-953c519bd30e@188.245.32.66:26745?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
 vless://74ea433d-b19b-4989-a533-c5e2aa1135be@135.181.155.147:40240?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -54,7 +55,7 @@ vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tl
 vless://5b29869b-0b6e-490f-907a-c99e818ce3ed@91.107.141.239:1357?security=reality&amp;encryption=none&amp;pbk=1u1Y_g3iEMwXx2_DwVZFwxwPzgbEI7xvMPWUf0pmPFw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=bd33881a#%40NETMelliAnti
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://9101ccf3-4f4b-4ddd-8309-a71e1b403af3@od.mk-lakshfjalksfha.ir:1234?security=reality&amp;encryption=none&amp;pbk=8KkXQ2q6O2HtakRklBWIpICBvKvv_Hu23vzJCyTb71Y&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=bf47b16f#%40NETMelliAnti
-vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&amp;encryption=none&amp;pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=ftp.debian.org&amp;sid=10f1#%40NETMelliAnti
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=d1.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=d1.medicaldream.ir#%40NETMelliAnti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40NETMelliAnti
 vless://4d33149e-7356-489c-a874-953c519bd30e@188.245.32.66:26745?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
 vless://74ea433d-b19b-4989-a533-c5e2aa1135be@135.181.155.147:40240?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -73,7 +74,7 @@ vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tl
 vless://5b29869b-0b6e-490f-907a-c99e818ce3ed@91.107.141.239:1357?security=reality&amp;encryption=none&amp;pbk=1u1Y_g3iEMwXx2_DwVZFwxwPzgbEI7xvMPWUf0pmPFw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=bd33881a#%40NETMelliAnti
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://9101ccf3-4f4b-4ddd-8309-a71e1b403af3@od.mk-lakshfjalksfha.ir:1234?security=reality&amp;encryption=none&amp;pbk=8KkXQ2q6O2HtakRklBWIpICBvKvv_Hu23vzJCyTb71Y&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=bf47b16f#%40NETMelliAnti
-vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&amp;encryption=none&amp;pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=ftp.debian.org&amp;sid=10f1#%40NETMelliAnti
+vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@156.253.222.28:443?mode=packet-up&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=myket.ir&amp;sid=2cecca7813d0c575#%40NETMelliAnti
 vless://2c0050c0-9b32-48ee-b46c-16f2844bad6d@164.90.180.228:443?security=reality&amp;encryption=none&amp;pbk=9kw-s--kXR8_jKj5J0l2HD502FDzxYN9XefdketMlF8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gr1.tak30zanjan.ir&amp;sid=8e5f1d0b#%40NETMelliAnti
 vless://bc3cb742-5b70-40ec-9d14-b4e3ebe7b0c0@64.227.77.203:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://f7f284e5-0cc8-4441-b1a0-32b4ace6b280@156.253.234.12:443?mode=packet-up&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=7Nn2ipA73HTAIvueCOLXTHr1EEREz2lv3g8MkAeiMAc&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=myket.ir&amp;sid=2c#%40NETMelliAnti
@@ -92,4 +93,3 @@ vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%
 vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://e7639e42-17b3-4b1f-e61d-133273faf2bf@95.211.62.200:80?security=reality&amp;encryption=none&amp;pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#%40NETMelliAnti
 vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=d1.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=d1.medicaldream.ir#%40NETMelliAnti
