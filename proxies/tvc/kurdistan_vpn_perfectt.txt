@@ -46,10 +46,6 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&amp;host=mard.ankaboti.com.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&amp;security=none#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167153.london-shledrc-acbq.info:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
-vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;host=wpxb8jk5.twentyse.com&amp;path=/wss&amp;security=tls&amp;fp=chrome&amp;sni=wpxb8jk5.twentyse.com&amp;alpn=http/1.1#Kurdistan_Van
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
-vmess://eyJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsIm5ldCI6IndzIiwiaWQiOiJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCJ0bHMiOiJ0bHMiLCJhZGQiOiIxMDQuMjEuMy4yMTkiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJhbHBuIjoiIiwicGF0aCI6IlwvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?type=ws&amp;host=d5.medicaltreatment.ir&amp;path=Telegram@V2ray_Alpha/?ed&amp;security=tls&amp;sni=d5.medicaltreatment.ir#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
@@ -94,6 +90,10 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://telegram-id-ArV2ray@151.101.64.155:80?type=ws&amp;host=mard.ankaboti.com.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&amp;security=none#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638811899057167153.london-shledrc-acbq.info:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;host=wpxb8jk5.twentyse.com&amp;path=/wss&amp;security=tls&amp;fp=chrome&amp;sni=wpxb8jk5.twentyse.com&amp;alpn=http/1.1#Kurdistan_Van
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
+vmess://eyJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsIm5ldCI6IndzIiwiaWQiOiJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCJ0bHMiOiJ0bHMiLCJhZGQiOiIxMDQuMjEuMy4yMTkiLCJwcyI6Ikt1cmRpc3Rhbl9WYW4iLCJhbHBuIjoiIiwicGF0aCI6IlwvIiwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
 vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@108.162.195.157:443?type=ws&amp;host=wpxb8jk5.twentyse.com&amp;path=/wss&amp;security=tls&amp;fp=chrome&amp;sni=wpxb8jk5.twentyse.com&amp;alpn=http/1.1#Kurdistan_Van
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
