@@ -5,6 +5,7 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.64.1:80?path=%2FTM%40AZAFBAY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1@62.60.231.81:39008#@meli_proxyy
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@162.159.0.33:443?path=%2FTelegram%40V2ray_Alpha&security=tls&encryption=none&host=d4.medicaldream.ir&fp=chrome&type=ws&sni=d4.medicaldream.ir#@meli_proxyy
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:443?encryption=none&security=tls&sni=NuWoLcZn12.qUiCkOrA.OrG&type=ws&alpn=h3h2&host=NuWoLcZn12.qUiCkOrA.OrG&path=/#@meli_proxyy
+vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@meli_proxyy
 trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#%40meli_proxyy
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtin2YQg2LPYsdmI2LEg2KfYrtiq2LXYp9i124wg2KjYpyDYs9ix2LnYqiDYqNin2YTYpyDYqti22YXbjNmG24wgQE91dGxpbmV2XzJyYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
