@@ -1,3 +1,4 @@
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#%40NETMelliAnti
 vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://e7639e42-17b3-4b1f-e61d-133273faf2bf@95.211.62.200:80?security=reality&amp;encryption=none&amp;pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#%40NETMelliAnti
 vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -16,7 +17,7 @@ vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;se
 vless://GROZA_33753944@195.26.225.89:443?security=reality&amp;encryption=none&amp;pbk=mmZFnnyWQnL82G1ccBD1ym4HVvBSmyj8MgZ_5dkWHUE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#%40NETMelliAnti
 vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@al.spirako.com:443?security=reality&amp;encryption=none&amp;pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=spirako.com#%40NETMelliAnti
 vless://8b269721-714f-4bb8-a18e-76038fbec1ec@151.101.2.228:443?path=%2FVLESS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOin-E.L.i.V.2.R.A.Y.stOre&amp;type=ws&amp;sni=Elena.io#%40NETMelliAnti
-vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=PABLOO-MOSTAFA.COM&amp;fp=qq&amp;type=ws&amp;sni=faculty.ucdavis.edu#%40NETMelliAnti
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#%40NETMelliAnti
 vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://e7639e42-17b3-4b1f-e61d-133273faf2bf@95.211.62.200:80?security=reality&amp;encryption=none&amp;pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#%40NETMelliAnti
 vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -35,7 +36,7 @@ vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;se
 vless://GROZA_33753944@195.26.225.89:443?security=reality&amp;encryption=none&amp;pbk=mmZFnnyWQnL82G1ccBD1ym4HVvBSmyj8MgZ_5dkWHUE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#%40NETMelliAnti
 vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@al.spirako.com:443?security=reality&amp;encryption=none&amp;pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=spirako.com#%40NETMelliAnti
 vless://8b269721-714f-4bb8-a18e-76038fbec1ec@151.101.2.228:443?path=%2FVLESS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOin-E.L.i.V.2.R.A.Y.stOre&amp;type=ws&amp;sni=Elena.io#%40NETMelliAnti
-vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=PABLOO-MOSTAFA.COM&amp;fp=qq&amp;type=ws&amp;sni=faculty.ucdavis.edu#%40NETMelliAnti
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#%40NETMelliAnti
 vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://e7639e42-17b3-4b1f-e61d-133273faf2bf@95.211.62.200:80?security=reality&amp;encryption=none&amp;pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#%40NETMelliAnti
 vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -54,7 +55,7 @@ vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;se
 vless://GROZA_33753944@195.26.225.89:443?security=reality&amp;encryption=none&amp;pbk=mmZFnnyWQnL82G1ccBD1ym4HVvBSmyj8MgZ_5dkWHUE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#%40NETMelliAnti
 vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@al.spirako.com:443?security=reality&amp;encryption=none&amp;pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=spirako.com#%40NETMelliAnti
 vless://8b269721-714f-4bb8-a18e-76038fbec1ec@151.101.2.228:443?path=%2FVLESS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOin-E.L.i.V.2.R.A.Y.stOre&amp;type=ws&amp;sni=Elena.io#%40NETMelliAnti
-vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=PABLOO-MOSTAFA.COM&amp;fp=qq&amp;type=ws&amp;sni=faculty.ucdavis.edu#%40NETMelliAnti
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#%40NETMelliAnti
 vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://e7639e42-17b3-4b1f-e61d-133273faf2bf@95.211.62.200:80?security=reality&amp;encryption=none&amp;pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#%40NETMelliAnti
 vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
@@ -73,7 +74,7 @@ vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;se
 vless://GROZA_33753944@195.26.225.89:443?security=reality&amp;encryption=none&amp;pbk=mmZFnnyWQnL82G1ccBD1ym4HVvBSmyj8MgZ_5dkWHUE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#%40NETMelliAnti
 vless://8d7a09ce-7285-4713-babf-b3ac9ad58605@al.spirako.com:443?security=reality&amp;encryption=none&amp;pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=spirako.com#%40NETMelliAnti
 vless://8b269721-714f-4bb8-a18e-76038fbec1ec@151.101.2.228:443?path=%2FVLESS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOin-E.L.i.V.2.R.A.Y.stOre&amp;type=ws&amp;sni=Elena.io#%40NETMelliAnti
-vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=PABLOO-MOSTAFA.COM&amp;fp=qq&amp;type=ws&amp;sni=faculty.ucdavis.edu#%40NETMelliAnti
+vless://62f5a5df-2be8-4b88-a339-5985d7ace84e@64.227.77.203:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti
 vless://65438a33-be79-4def-9190-4d4dba03fca3@185.73.0.93:8443?security=none&amp;encryption=none&amp;host=vasaham.com&amp;headerType=http&amp;type=tcp#%40NETMelliAnti
 vless://5d54e230-ead8-4d81-ae19-2ffe989de437@91.107.167.56:443?security=reality&amp;encryption=none&amp;pbk=rYRZBYA4lA4ht8pS9lPBPht335pmdW40BPO9aMHQkSo&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=be#%40NETMelliAnti
 vless://70903853-f962-453c-8f5c-1820c8fb2d28@93.127.180.140:443?security=reality&amp;encryption=none&amp;pbk=PH8vEhKwClGcTEJfczngBHCHu8UpZpo6PWLB6M-fDgE&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=e1fa45#%40NETMelliAnti
@@ -92,4 +93,3 @@ vless://f97af38a-5d88-4f69-b5f9-da254ff23b22@64.227.77.203:443?security=none&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40NETMelliAnti
 vmess://eyJhZGQiOiI5MS4xMDcuMjQ3LjEwNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGl2YXJjZG4uY29tIiwiaWQiOiI0OTc2NDY2Yy1hYmI0LTQzNTMtYWRkNi04YzZiNGYzODU5YmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMDkxOSIsInBzIjoiQE5FVE1lbGxpQW50aSA6INqG2YbZhCDaqdin2YbZgduM2q8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#%40NETMelliAnti
-vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#%40NETMelliAnti
