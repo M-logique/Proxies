@@ -74,6 +74,7 @@ ss://YWVzLTI1Ni1nY206c0VSTm9pQzU=@109.104.155.128:25285?type=tcp#Kurdistan_Van
 ss://YWVzLTI1Ni1nY206UkptTGt6ZTE=@109.107.159.202:5075?type=tcp#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://25dad544-f470-460c-a3f7-0dca4bd90168@172.82.67.154:53938?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=9C3BPgYGPsyQMqV0dWY4c_j-g22zq0dx3MjSp0-Dnjw&amp;sid=fc9a6350400b#Kurdistan_Van
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080?type=tcp#Kurdistan_Van
 trojan://klZqKyxq0H@57.128.165.173:1935?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=x1-england-ovh-v2.devefun.net&amp;alpn=h2,http/1.1#Kurdistan_Van
@@ -99,7 +100,6 @@ ss://YWVzLTI1Ni1nY206c0VSTm9pQzU=@109.104.155.128:25285?type=tcp#Kurdistan_Van
 ss://YWVzLTI1Ni1nY206UkptTGt6ZTE=@109.107.159.202:5075?type=tcp#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#Kurdistan_Van
 vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@website.acveo.ir:8080?type=httpupgrade&amp;host=website.acveo.ir&amp;path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed%3D2048&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866?type=tcp#Kurdistan_Vpn
