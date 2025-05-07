@@ -1,11 +1,9 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.181:443?path=%2Fok02ussFpeBKfCrq%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=V2NGfAST-JCR.PAGES.DEv&amp;type=ws&amp;sni=v2ngFAst-JcR.PAGES.DEv#%40V2ngFast
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@v2ngfast-jcr.pages.dev:443?path=%2FiGEuUkpVCbbe4l6w%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=V2nGfaSt-JCr.PAgEs.DeV&amp;type=ws&amp;sni=v2nGfaSt-Jcr.pagEs.Dev#%40V2ngFast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
+vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngfast
 vless://59a4728e-835d-4fb0-940e-90741d5187be@32232334.web-manage.com.tr:1519?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20All%20Operator%20%40MaHDiSeRVeR
 vless://59a4728e-835d-4fb0-940e-90741d5187be@722309294.web-manage.com.tr:1520?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20All%20Operator%20%40MaHDiSeRVeR
 vless://45ae60ba-24fc-4a3b-93bc-06c2f73c58ba@3900230223.torob.com.tr:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20%40V2ngFast
 vless://45ae60ba-24fc-4a3b-93bc-06c2f73c58ba@37.27.250.128:1520?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
+vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngfast
 vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9…
 vless://76d6910d-e7ec-43d9-a997-0655209410ab@3900230223.torob.com.tr:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%40V2ngFast
 vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
@@ -19,6 +17,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@146.103.40.29:
 vmess://eyJhZGQiOiI5NS4xNzkuMjM5LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyOGQ0Y2IyOS1hYTg5LTMwNmUtMTVhZi01MjQxYzIzZDgxOGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6IkB2Mm5nRmFzdCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://28d4cb29-aa89-306e-15af-5241c23d818a@95.179.239.222:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngFast
 vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngfast
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.181:443?path=%2Fok02ussFpeBKfCrq%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=V2NGfAST-JCR.PAGES.DEv&amp;type=ws&amp;sni=v2ngFAst-JcR.PAGES.DEv#%40V2ngFast
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@v2ngfast-jcr.pages.dev:443?path=%2FiGEuUkpVCbbe4l6w%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=V2nGfaSt-JCr.PAgEs.DeV&amp;type=ws&amp;sni=v2nGfaSt-Jcr.pagEs.Dev#%40V2ngFast
 vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngfast
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.181:443?path=%2Fok02ussFpeBKfCrq%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=V2NGfAST-JCR.PAGES.DEv&amp;type=ws&amp;sni=v2ngFAst-JcR.PAGES.DEv#%40V2ngFast
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@v2ngfast-jcr.pages.dev:443?path=%2FiGEuUkpVCbbe4l6w%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=V2nGfaSt-JCr.PAgEs.DeV&amp;type=ws&amp;sni=v2nGfaSt-Jcr.pagEs.Dev#%40V2ngFast
