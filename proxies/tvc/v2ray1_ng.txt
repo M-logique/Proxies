@@ -1,6 +1,11 @@
-vless://d6b8011a…
-vless://Parsashonam-229@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#%40V2ray1_Ng%20ALL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3I2WUJIRW5wZnQ%3D@178.22.31.239:443#%40V2ray1_Ng%20ALL
+vless://6babb657-1524-43bb-b421-11bda27bc9de@www.speedtest.net:443?path=salaam&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=gpt.smatiz.info&amp;fp=chrome&amp;type=ws&amp;sni=gpt.smatiz.info#%40V2ray1_Ng%20ALL
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#%40V2ray1_Ng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%40NpvV2rayFilter
+vless://82b4207c-33ad-44ab-9397-59eab5d80ddb@2393123233.torob.com.tr:6793?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NpvV2rayFilter
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=d1.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=d1.medicaldream.ir#%40NpvV2rayFilter
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ScKzAhYz14.qUiCkOrA.OrG&amp;fp=chrome&amp;type=ws&amp;sni=ScKzAhYz14.qUiCkOrA.OrG#%40NpvV2rayFilter
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Z0tYUjFha2dIVHhnZkd0dm8vRmN0U2o4bk9mTlVpeFppdFhFWkFnRXVLOD06UmhzL0ZNcE8rTnVFNnQ1ZTlaVG5WV29wbDRnUHNldGFSUktuNXRxYWFLND0%3D@89.110.79.39:49634#%40NpvV2rayFilter
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40NpvV2rayFilter
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ScKzAhYz14.qUiCkOrA.OrG&amp;fp=chrome&amp;type=ws&amp;sni=ScKzAhYz14.qUiCkOrA.OrG#%40V2ray1_Ng
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=d1.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=d1.medicaldream.ir#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3I2WUJIRW5wZnQ%3D@178.22.31.239:443#%40V2ray1_Ng%20ALL
