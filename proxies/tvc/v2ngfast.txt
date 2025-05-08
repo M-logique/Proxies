@@ -20,8 +20,6 @@ vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&a
 vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngfast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
 vless://59a4728e-835d-4fb0-940e-90741d5187be@32232334.web-manage.com.tr:1519?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20All%20Operator%20%40MaHDiSeRVeR
 vless://59a4728e-835d-4fb0-940e-90741d5187be@722309294.web-manage.com.tr:1520?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20All%20Operator%20%40MaHDiSeRVeR
 vless://45ae60ba-24fc-4a3b-93bc-06c2f73c58ba@3900230223.torob.com.tr:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20%40V2ngFast
@@ -40,6 +38,8 @@ vmess://eyJhZGQiOiI5NS4xNzkuMjM5LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://28d4cb29-aa89-306e-15af-5241c23d818a@95.179.239.222:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngFast
 vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngfast
 vless://94d93fea-f0e7-a7e5-9cdc-f73663f8fcd7@95.216.160.100:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ngfast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
 vless://59a4728e-835d-4fb0-940e-90741d5187be@32232334.web-manage.com.tr:1519?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20All%20Operator%20%40MaHDiSeRVeR
 vless://59a4728e-835d-4fb0-940e-90741d5187be@722309294.web-manage.com.tr:1520?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20All%20Operator%20%40MaHDiSeRVeR
 vless://45ae60ba-24fc-4a3b-93bc-06c2f73c58ba@3900230223.torob.com.tr:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20%40V2ngFast
