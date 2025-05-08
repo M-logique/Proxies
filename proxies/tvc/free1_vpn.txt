@@ -341,8 +341,6 @@ trojan://psycho@104.21.32.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&amp;secur
 vless://87ff28ad-4669-433f-d97d-10950a4f36ca@162.19.212.19:19356?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=DarkTeam_VPN#%40V2ray1_Ng
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;fp=randomized&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#%40V2ray1_Ng
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#%40V2ray1_Ng
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@h110vpntr.outlinekeys.net:65262#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%40V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
