@@ -41,6 +41,8 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?type=ws&amp;host
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.177.251:443?type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=147135004002.sec20org.com#Kurdistan_Van
 vless://274fc521-1b7a-43ce-a425-2f1a34a7ca6d@172.82.67.156:57355?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=d-G52RaxhX8PN553Oa8wBPu7XG25_6lO-aThcOqNby4&amp;sid=34548d&amp;spx=/Bia_TELEGRAM@MARAMBASHI_MARAMBASHI#Kurdistan_Van
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@pqh26v7.whatstrue.shop:1001?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=telewebion.com&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;sid=5fab0deb&amp;spx=/#Kurdistan_Van
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
+vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?type=ws&amp;host=d5.medicaltreatment.ir&amp;path=Telegram@V2ray_Alpha/?ed&amp;security=tls&amp;sni=d5.medicaltreatment.ir#Kurdistan_Van
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#Kurdistan_Vpn
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=tcp&amp;headerType=none&amp;host=BIA_TELEGRAM_MARAMBASHI_MARAMBASHI&amp;security=tls&amp;sni=api.chandplus.com#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080?type=tcp#Kurdistan_Vpn
@@ -66,8 +68,6 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?type=ws&amp;host
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.177.251:443?type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=147135004002.sec20org.com#Kurdistan_Van
 vless://274fc521-1b7a-43ce-a425-2f1a34a7ca6d@172.82.67.156:57355?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=d-G52RaxhX8PN553Oa8wBPu7XG25_6lO-aThcOqNby4&amp;sid=34548d&amp;spx=/Bia_TELEGRAM@MARAMBASHI_MARAMBASHI#Kurdistan_Van
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@pqh26v7.whatstrue.shop:1001?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=telewebion.com&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;sid=5fab0deb&amp;spx=/#Kurdistan_Van
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?type=ws&amp;host=d5.medicaltreatment.ir&amp;path=Telegram@V2ray_Alpha/?ed&amp;security=tls&amp;sni=d5.medicaltreatment.ir#Kurdistan_Van
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Van
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?type=ws&amp;host=d5.medicaltreatment.ir&amp;path=Telegram@V2ray_Alpha/?ed&amp;security=tls&amp;sni=d5.medicaltreatment.ir#Kurdistan_Van
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#Kurdistan_Vpn
