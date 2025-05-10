@@ -2,10 +2,10 @@ vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?path=%2Fvless%23%
 vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#%E2%9A%AA%20%40tizjo%20%E2%9A%AA1
 vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443?path=%2Ftelegram-mitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=s6.design-mobo.ir#%40tizjo%20%F0%9F%91%8B2
 vless://a2f6d49b-6585-4d46-a187-dfc24b08513f@165.232.125.83:443?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40tizjo%20%F0%9F%91%8B1
-vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?path=%2Fvless%23%40V2ray_Alpha&amp;security=none&amp;encryption=none&amp;host=sPeedtest2.sbs.br.vless.sitespeedtest.net&amp;type=ws#%E2%9A%AA%20%40tizjo%20%E2%9A%AA2
-vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#%E2%9A%AA%20%40tizjo%20%E2%9A%AA1
 vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=none&amp;encryption=none&amp;host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&amp;type=ws#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%40tizjo
 trojan://706ba8e2-900b-45ba-bea3-fb12404ca764@45.146.232.172:43592?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=q08m.vgraxiw73s.hasyaf.cn#%F0%9F%87%AD%F0%9F%87%B0HK%20%7C%20%40tizjo
+vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?path=%2Fvless%23%40V2ray_Alpha&amp;security=none&amp;encryption=none&amp;host=sPeedtest2.sbs.br.vless.sitespeedtest.net&amp;type=ws#%E2%9A%AA%20%40tizjo%20%E2%9A%AA2
+vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#%E2%9A%AA%20%40tizjo%20%E2%9A%AA1
 vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443?path=%2Ftelegram-mitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=s6.design-mobo.ir#%40tizjo%20%F0%9F%91%8B2
 vless://a2f6d49b-6585-4d46-a187-dfc24b08513f@165.232.125.83:443?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40tizjo%20%F0%9F%91%8B1
 vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=none&amp;encryption=none&amp;host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&amp;type=ws#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%40tizjo
