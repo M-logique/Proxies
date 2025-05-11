@@ -15,7 +15,6 @@ vless://84630ddd-b04a-4494-aa3a-b831a9873b81@172.66.168.209:443?path=%2Flinkws%3
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@meli_proxyy
 vless://84630ddd-b04a-4494-aa3a-b831a9873b81@172.66.168.209:443?path=%2Flinkws%3Fed%3D2560%23TelEGRAM-%40MARAMBASHI_MARAMBASHI&security=tls&encryption=none&host=maxnetvipaP-us4.NetKh3.sItE&type=ws&sni=maxnetvipaP-us4.NetKh3.sItE#@meli_proxyy
 trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#%40meli_proxyy
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtin2YQg2LPYsdmI2LEg2KfYrtiq2LXYp9i124wg2KjYpyDYs9ix2LnYqiDYqNin2YTYpyDYqti22YXbjNmG24wgQE91dGxpbmV2XzJyYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ZqFsGsMr.cAfUnEaR.InFo&fp=chrome&type=ws&sni=ZqFsGsMr.cAfUnEaR.InFo#@meli_proxyy
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#@meli_proxyy
@@ -53,14 +52,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443?security=reality&encryption=none&pbk=c5VJpRsIyrxNp0eS3Lz5EMQH6jWBsvSTK7hNZQ77bl4&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=4fd4ad#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
-trojan://bpb-trojan@162.159.152.2:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2,http/1.1&allowInsecure=1#[
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@meli_proxyy
+trojan://bpb-trojan@japan.com:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&allowInsecure=1#[
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#@meli_proxyy
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?allowInsecure=1#[
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7001#[
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.95.102:9101#[
 vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjc2dvLm1vemlsbGEuNS4wLnhuLS0yYjViYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhLjEyNy4wLjAuMS5vZmZsaW5lc3BlZWR0ZXN0Lm5ldGRvd24udXNlci54bi0tMmI1YmFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEuMC4yLjEueG4tLWo5aDEwMjhtcW1hb3l0aWkwMGFoYTIxaGZqcmQueG4tLW0zOWgudG9yLnJ1YmlrYS5jbG91ZG5zLmNoLiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#@meli_proxyy
@@ -85,7 +83,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWkdwSmlZcHFzcXJ3eDNBQ1JWMXZYMnFOU0c4SmlnbnE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRHZ1R2ZhVUo3b005RTZtSFdrWk45ZEFqUHh0cG5kdjRja3BQcHl1ZXhKeEtMbjZTcERRZEJCSkRGRTZHcWo5TVhwUkhQRHdZZk5BcUtncEJXVENXUHJHNGVEbW5HVFo@mx2.drawnrisha.one:55988#%E2%9A%99%EF%B8%8Fa%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwOVVDUFNWUHhLOTJNc2ZpMm5TVjdySzYyV2tDSmY3MjFOM1prMmUza2g2YVlkVmh4Y0x3eHEzNFMxWjRXQTRIc0hRWEJyaGhBamtaTFNLdEJhTVZQNmhUSEYzMVJNb3Y@mx2.drawnrisha.one:55988#%E2%9A%99%EF%B8%8Fe%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQm43UVZzekpHcjQ1SjZFV0xBMTJZeFlGU29zOHVNSGJEVFpNZXJmQTVraEVvQ3BUS2treUZFQ1c5WEhEdXdNSlZBZUozN2dha0dBTGl5a1dDV1U3UzdhZ0VNcmZ6ckQ@mx2.drawnrisha.one:55988#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%93%A11%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@mx2.drawnrisha.one:55988#%F0%9F%93%A1d%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSkxTSFVrZXZvUkhtaWRTcDV4ZUdkOGd3dUJCQlRUcDF5VllDZzZrWUJBMkZnSmJNd0dqbkx1VG5xY21OS1dLZGdQREg4ZDdtOWFnN1Zmc0JCaFcxck1jNDdjZ1g1dXA@mx2.drawnrisha.one:55988#%F0%9F%93%A1a%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRlJwNEJReWVWeExBNVJhQnhKOWN6d1R0WnFhWFZ1VlRtZ1Z0VFJzbWpMdnBCQk5TVEd0eXlnN3VOY2dwcFZScW5oamRKbVA4YktNM3pzSzg4ck5oTWdYTkpvYXV4a0o@mx2.drawnrisha.one:55988#%F0%9F%9B%A1%EF%B8%8Fe%40oneclickvpnkeys
