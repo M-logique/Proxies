@@ -1,6 +1,5 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@osi.speedx3net.ir:443?encryption=none&security=tls&sni=osi.speedx3net.ir&type=httpupgrade&path=%2F#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?encryption=none&security=none&type=grpc#@meli_proxyy
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#@meli_proxyy
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#@meli_proxyy
@@ -42,7 +41,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=n
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638783525254923995.stockholm-shledrc-acad.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#@meli_proxyy
-vless://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?security=reality&encryption=none&pbk=k9oHeYY0hNmcd6BRZQTX9sp0ZQR7Bx85fPMu0v4uvwc&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=c5a5eca0d8234375#%40meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638783473053452853.athens-shledrc-acad.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&security=none&encryption=none&type=grpc#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%40meli_proxyy
@@ -52,6 +50,7 @@ vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443?security=reality&encryption=none&pbk=c5VJpRsIyrxNp0eS3Lz5EMQH6jWBsvSTK7hNZQ77bl4&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=4fd4ad#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+trojan://tg-fq521free@45.67.215.95:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 trojan://bpb-trojan@162.159.152.2:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2,http/1.1&allowInsecure=1#[
