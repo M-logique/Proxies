@@ -1,3 +1,5 @@
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-%40V2ray_Alpha&amp;security=no…
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?security=none&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk%3D@89.185.84.14:443#%40NpvV2rayFilter
 vless://4b7ddce2-42a2-6435-20b7-6762c63d75f3@37.156.46.65:48740?security=reality&amp;encryption=none&amp;pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=d6d54c08fbbf895f#%40V2ray1_Ng
 vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=lv01.abvpn.ru&amp;type=ws&amp;sni=lv01.abvpn.ru#%40V2ray1_Ng
@@ -34,12 +36,6 @@ vless://872dc5ae-7d1e-49a6-8d94-d971a46a47ee@91.107.180.49:443?security=reality&
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&amp;encryption=none&amp;host=varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2RAY1_NG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40NpvV2rayFilter
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE%3D@185.39.207.60:443#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@h110vpntr.outlinekeys.net:65262#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%40V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
@@ -134,12 +130,6 @@ vless://872dc5ae-7d1e-49a6-8d94-d971a46a47ee@91.107.180.49:443?security=reality&
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&amp;encryption=none&amp;host=varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2RAY1_NG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40NpvV2rayFilter
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE%3D@185.39.207.60:443#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@h110vpntr.outlinekeys.net:65262#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%40V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
@@ -234,12 +224,6 @@ vless://872dc5ae-7d1e-49a6-8d94-d971a46a47ee@91.107.180.49:443?security=reality&
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&amp;encryption=none&amp;host=varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2RAY1_NG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40NpvV2rayFilter
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE%3D@185.39.207.60:443#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@h110vpntr.outlinekeys.net:65262#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%40V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
@@ -334,12 +318,6 @@ vless://872dc5ae-7d1e-49a6-8d94-d971a46a47ee@91.107.180.49:443?security=reality&
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&amp;encryption=none&amp;host=varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2RAY1_NG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40NpvV2rayFilter
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE%3D@185.39.207.60:443#%40V2ray1_Ng
 vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?path=%2Flinkws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&amp;type=ws&amp;sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#%40V2ray1_Ng
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=ipsycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=ipsychO.SUEx12.Ir#%40V2ray1_Ng
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=ipsycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=ipsychO.SUEx12.Ir#%40V2ray1_Ng
