@@ -2,6 +2,8 @@ vless://f2ab5930-b3d2-56f1-b78d-05ab292a6ff0@www.speedtest.net:2052?path=%2Fvles
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?encryption=none&security=none&type=grpc#@meli_proxyy
 vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@osi.speedx3net.ir:443?encryption=none&security=tls&sni=osi.speedx3net.ir&type=httpupgrade&path=%2F#@meli_proxyy
+vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?type=ws&encryption=none&security=tls&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=/linkws?ed=2560&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#@meli_proxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNndvTExHc29QOHFTRDRveHVaNlNw@62.60.231.81:39008#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#@meli_proxyy
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1@62.60.231.81:39008#@meli_proxyy
