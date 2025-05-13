@@ -1,3 +1,6 @@
+vless://8a2f637e-0fc4-4456-b949-4cc52c9e1b04@188.213.128.22:1613?security=reality&amp;encryption=none&amp;pbk=i3M7MuQ0CQImwOtxOo-GOlH2yUGzqxdw5FDpPYk_QXY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=5c42d09fd3ab8d43#%F0%9F%87%A8%F0%9F%87%AD%20%40V2ngFast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE13WmpFMg%3D%3D@185.234.64.35:8388#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngFast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE13WmpFMg%3D%3D@185.234.64.35:8388#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngFast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1l6WlRnNQ%3D%3D@us2.opensocks.site:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40V2ngFast
 vless://59a4728e-835d-4fb0-940e-90741d5187be@32232334.web-manage.com.tr:1519?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20All%20Operator%20%40MaHDiSeRVeR
@@ -12,8 +15,7 @@ vless://d82295dc-ea45-455c-85d4-52dcb2f52687@188.245.95.151:1522?security=none&a
 vless://d82295dc-ea45-455c-85d4-52dcb2f52687@37.27.250.128:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
 vmess://eyJhZGQiOiIxODUuMjIuMTUzLjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmN2YwN2RjLWQ3MjYtNGIxZS05NjdkLWRiYjZjNTk0OTk5ZiIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjQ5NjYzIiwicHMiOiLwn4e38J+HuiBAVjJuZ2Zhc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIyLjE1My43MyIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#%F0%9F%87%AA%F0%9F%87%AA%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@146.103.40.29:4017#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngfast
+vless://bf848c19-d625-4ee4-b78b-114ed8f1946e@141.227.140.216:1613?security=reality&amp;encryption=none&amp;pbk=i3M7MuQ0CQImwOtxOo-GOlH2yUGzqxdw5FDpPYk_QXY&amp;headerTy…
 vless://bf848c19-d625-4ee4-b78b-114ed8f1946e@190.93.247.56:2087?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=WWW.adabefarsi.eu.&amp;fp=chrome&amp;type=ws&amp;sni=WWW.adabefarsi.eu.#%F0%9F%87%AC%F0%9F%87%A7%20%40V2ngFast
 vless://bf848c19-d625-4ee4-b78b-114ed8f1946e@141.227.140.216:1613?security=reality&amp;encryption=none&amp;pbk=i3M7MuQ0CQImwOtxOo-GOlH2yUGzqxdw5FDpPYk_QXY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=5c42d09fd3ab8d43#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngFast
 vless://01d5f5bb-085f-4ce8-bc64-2cce5e47bbbd@70.36.125.37:1990?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%…
@@ -40,8 +42,7 @@ vless://d82295dc-ea45-455c-85d4-52dcb2f52687@188.245.95.151:1522?security=none&a
 vless://d82295dc-ea45-455c-85d4-52dcb2f52687@37.27.250.128:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
 vmess://eyJhZGQiOiIxODUuMjIuMTUzLjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmN2YwN2RjLWQ3MjYtNGIxZS05NjdkLWRiYjZjNTk0OTk5ZiIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjQ5NjYzIiwicHMiOiLwn4e38J+HuiBAVjJuZ2Zhc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIyLjE1My43MyIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#%F0%9F%87%AA%F0%9F%87%AA%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@146.103.40.29:4017#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngfast
+vless://bf848c19-d625-4ee4-b78b-114ed8f1946e@141.227.140.216:1613?security=reality&amp;encryption=none&amp;pbk=i3M7MuQ0CQImwOtxOo-GOlH2yUGzqxdw5FDpPYk_QXY&amp;headerTy…
 vless://bf848c19-d625-4ee4-b78b-114ed8f1946e@190.93.247.56:2087?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=WWW.adabefarsi.eu.&amp;fp=chrome&amp;type=ws&amp;sni=WWW.adabefarsi.eu.#%F0%9F%87%AC%F0%9F%87%A7%20%40V2ngFast
 vless://bf848c19-d625-4ee4-b78b-114ed8f1946e@141.227.140.216:1613?security=reality&amp;encryption=none&amp;pbk=i3M7MuQ0CQImwOtxOo-GOlH2yUGzqxdw5FDpPYk_QXY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=5c42d09fd3ab8d43#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngFast
 vless://01d5f5bb-085f-4ce8-bc64-2cce5e47bbbd@70.36.125.37:1990?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%…
@@ -68,18 +69,8 @@ vless://d82295dc-ea45-455c-85d4-52dcb2f52687@188.245.95.151:1522?security=none&a
 vless://d82295dc-ea45-455c-85d4-52dcb2f52687@37.27.250.128:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
 vmess://eyJhZGQiOiIxODUuMjIuMTUzLjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmN2YwN2RjLWQ3MjYtNGIxZS05NjdkLWRiYjZjNTk0OTk5ZiIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjQ5NjYzIiwicHMiOiLwn4e38J+HuiBAVjJuZ2Zhc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIyLjE1My43MyIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#%F0%9F%87%AA%F0%9F%87%AA%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@146.103.40.29:4017#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngfast
-vless://76d6910d-e7ec-43d9-a997-0655209410ab@3900230223.torob.com.tr:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%40V2ngFast
-vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
-vless://d82295dc-ea45-455c-85d4-52dcb2f52687@37.27.250.128:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9…
-vless://d82295dc-ea45-455c-85d4-52dcb2f52687@188.245.95.151:1522?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%40V2ngFast
-vless://d82295dc-ea45-455c-85d4-52dcb2f52687@37.27.250.128:1523?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
-vmess://eyJhZGQiOiIxODUuMjIuMTUzLjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmN2YwN2RjLWQ3MjYtNGIxZS05NjdkLWRiYjZjNTk0OTk5ZiIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjQ5NjYzIiwicHMiOiLwn4e38J+HuiBAVjJuZ2Zhc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIyLjE1My43MyIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#%F0%9F%87%AA%F0%9F%87%AA%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7%20%40V2ngfast
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@146.103.40.29:4017#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngfast
-vless://9b4ee668-97a6-471f-a0f8-ee27f79ddd6f@172.67.21.239:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;sec…
+vless://325db21b-1ed8-4761-8b7f-9f8a7f726519@172.67.21.239:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;sec…
+vless://325db21b-1ed8-4761-8b7f-9f8a7f726519@172.67.21.239:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
 vless://9b4ee668-97a6-471f-a0f8-ee27f79ddd6f@172.67.21.239:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;sec…
 vless://9b4ee668-97a6-471f-a0f8-ee27f79ddd6f@172.67.21.239:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
 vless://8bdd089b-c3a9-4c56-a16f-58d07ad209b4@172.67.21.239:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;sec…
@@ -96,4 +87,3 @@ vless://26ed493b-64fc-46d2-99a8-ee5d392da3b8@173.245.59.132:80?path=%2F%40V2ngFa
 vless://26ed493b-64fc-46d2-99a8-ee5d392da3b8@173.245.59.132:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
 vless://0b036423-28c0-4163-9f31-46be19a2c505@173.245.59.132:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgr…
 vless://0b036423-28c0-4163-9f31-46be19a2c505@173.245.59.132:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40V2ngFast
-vless://bf848c19-d625-4ee4-b78b-114ed8f1946e@141.227.140.216:1613?security=reality&amp;encryption=none&amp;pbk=i3M7MuQ0CQImwOtxOo-GOlH2yUGzqxdw5FDpPYk_QXY&amp;headerTy…
