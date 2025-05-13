@@ -1,3 +1,13 @@
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=tcp&amp;headerType=none&amp;host=BIA_TELEGRAM_MARAMBASHI_MARAMBASHI&amp;security=tls&amp;sni=api.chandplus.com#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080?type=tcp#Kurdistan_Vpn
+vless://f7f284e5-0cc8-4441-b1a0-32b4ace6b280@156.253.234.12:443?type=xhttp&amp;mode=packet-up&amp;path=/&amp;security=reality&amp;fp=chrome&amp;sni=myket.ir&amp;pbk=7Nn2ipA73HTAIvueCOLXTHr1EEREz2lv3g8MkAeiMAc&amp;sid=2c&amp;spx=/#Kurdistan_Vpn
+vless://dc6f405f-9d5e-41b0-8b6b-fbee3318edc8@194.182.79.112:16875?type=grpc&amp;mode=gun&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&amp;security=none#Kurdistan_Vpn
+vless://kwdv21u4iu@45.150.174.73:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;host=Join_Bade_Channel@JOKERRVPN&amp;security=tls&amp;fp=randomized&amp;sni=kwdv21u4iu-4515017473-direct.rahavard365.co&amp;alpn=http/1.1#Kurdistan_Vpn
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119?type=tcp#Kurdistan_Vpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
+trojan://pqlnPNu423@57.129.89.172:1935?type=tcp&amp;headerType=none&amp;host=x1-germany-ovh-v2.devefun.net&amp;security=tls&amp;sni=x1-germany-ovh-v2.devefun.net#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080?type=tcp#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305?type=tcp#Kurdistan_Vpn
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?type=ws&amp;host=www.speedtest.net.b.6.salatinmaccv.ir.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNndvTExHc29QOHFTRDRveHVaNlNw@62.60.231.81:39008?type=tcp#Kurdistan_Vpn
 vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@156.253.222.28:443?type=xhttp&amp;mode=packet-up&amp;path=/&amp;security=reality&amp;fp=chrome&amp;sni=myket.ir&amp;pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&amp;sid=2cecca7813d0c575&amp;spx=/#Kurdistan_Vpn
@@ -30,13 +40,6 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119?type=tcp#Kurdistan_V
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 trojan://pqlnPNu423@57.129.89.172:1935?type=tcp&amp;headerType=none&amp;host=x1-germany-ovh-v2.devefun.net&amp;security=tls&amp;sni=x1-germany-ovh-v2.devefun.net#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080?type=tcp#Kurdistan_Vpn
-vless://telegram-id-ArV2ray@www.speedtest.net:8080?type=ws&amp;host=www.speedtest.net.b.6.salatinmaccv.ir.&amp;path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&amp;security=none#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNndvTExHc29QOHFTRDRveHVaNlNw@62.60.231.81:39008?type=tcp#Kurdistan_Vpn
-vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@156.253.222.28:443?type=xhttp&amp;mode=packet-up&amp;path=/&amp;security=reality&amp;fp=chrome&amp;sni=myket.ir&amp;pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&amp;sid=2cecca7813d0c575&amp;spx=/#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFR0huSFg4bXhFbzB1cWczT2NES2RX@178.208.78.170:23822?type=tcp#Kurdistan_Vpn
-vless://f939e99b-5f02-41cc-ae7a-b09289a3d160@194.182.79.209:18411?type=grpc&amp;mode=gun&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&amp;security=none#Kurdistan_Vpn
-vmess://eyJzbmkiOiJjYzJkMS45ODg5ODguc2hvcCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInRscyI6InRscyIsImhvc3QiOiJjYzJkMS45ODg5ODguc2hvcCIsInBhdGgiOiJcLyIsInBzIjoiS3VyZGlzdGFuX1ZwbiIsImFkZCI6IjEwNC4yMS42NC4xIiwicG9ydCI6IjIwOTYiLCJpZCI6IjhmNzhlNzA5LTJjNWYtNGMxOS05ZjQ0LWI1YjVmODBhYjc0YyIsImFscG4iOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305?type=tcp#Kurdistan_Vpn
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?type=tcp#Kurdistan_Vpn
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:2096?type=ws&amp;host=Jx19SzLyFv.SaKhRe.InFo&amp;path=/&amp;security=tls&amp;sni=Jx19SzLyFv.SaKhRe.InFo#Kurdistan_Vpn
 vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@website.acveo.ir:8080?type=httpupgrade&amp;host=website.acveo.ir&amp;path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed%3D2048&amp;security=none#Kurdistan_Vpn
