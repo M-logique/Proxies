@@ -57,8 +57,6 @@ trojan://bpb-trojan@japan.com:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fe
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#@meli_proxyy
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?allowInsecure=1#[
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8090#[
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@67.220.95.102:3306#[
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.102:443#[
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.95.102:9101#[
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#[
@@ -68,7 +66,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUOVZQZXQxZkdoZGI0SlBtVVM2U1M1Uk5aN05TZ0J2UU5GNHJrb1FUZEZoR1d2bUdlZHN6ZmpCVGdlZm1yUVloamh5Qjg2N1A5UnZ5QlFtdEVqTFVlZ201Q055bUhDM2k=@mx2.drawnrisha.one:55988#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5bmtVZ1NIbjRSbmVzeDZCUE1LWkpHY0JEYTZtWFZQSktMYTllNDh6RjhOVkMxNmhYZWZKU0s1VmROSDZRdjdVUzJDZ1I3WVh0VXNVVkZOajhSdk1YQkJmSDlnVndMbnc=@mx2.drawnrisha.one:55988#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVnJUbnNRcnZmSmhTeFd3Ukd0U1VrNDNUOEJMM005WFU2QVlzc0pLelNiVDZMcjJwYUh2cVdBeGNZV0haMjQzdkVxYzFmU1RNa1diUDZWcVVCYkZFVktlWDVwVnYxQ1U=@185.5.38.111:55988#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E=@185.5.38.111:55988#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSkxTSFVrZXZvUkhtaWRTcDV4ZUdkOGd3dUJCQlRUcDF5VllDZzZrWUJBMkZnSmJNd0dqbkx1VG5xY21OS1dLZGdQREg4ZDdtOWFnN1Zmc0JCaFcxck1jNDdjZ1g1dXA=@185.5.38.111:55988#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E@mx2.drawnrisha.one:55988#%F0%9F%96%B2%EF%B8%8Fa%40oneclickvpnkeys
