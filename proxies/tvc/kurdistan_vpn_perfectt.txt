@@ -75,10 +75,10 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119?type=tcp#Kurdistan_V
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 trojan://pqlnPNu423@57.129.89.172:1935?type=tcp&amp;headerType=none&amp;host=x1-germany-ovh-v2.devefun.net&amp;security=tls&amp;sni=x1-germany-ovh-v2.devefun.net#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080?type=tcp#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305?type=tcp#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443?type=tcp#Kurdistan_Vpn
 vmess://eyJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwic25pIjoia2FwZWxsZW5nLmNvbSIsImFkZCI6IjU3LjEyOS42NC4yMzgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwcyI6Ikt1cmRpc3Rhbl9WcG4iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwicG9ydCI6IjQ0MyIsImFscG4iOiIifQ==
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Z0tYUjFha2dIVHhnZkd0dm8vRmN0U2o4bk9mTlVpeFppdFhFWkFnRXVLOD06UmhzL0ZNcE8rTnVFNnQ1ZTlaVG5WV29wbDRnUHNldGFSUktuNXRxYWFLND0=@89.110.79.39:49634?type=tcp#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305?type=tcp#Kurdistan_Vpn
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?type=tcp#Kurdistan_Vpn
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:2096?type=ws&amp;host=Jx19SzLyFv.SaKhRe.InFo&amp;path=/&amp;security=tls&amp;sni=Jx19SzLyFv.SaKhRe.InFo#Kurdistan_Vpn
 vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@website.acveo.ir:8080?type=httpupgrade&amp;host=website.acveo.ir&amp;path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed%3D2048&amp;security=none#Kurdistan_Vpn
