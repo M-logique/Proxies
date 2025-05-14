@@ -9,7 +9,6 @@ vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@94.130.107.86:2087?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?encryption=none&security=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?encryption=none&security=none&type=grpc#@meli_proxyy
-vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@osi.speedx3net.ir:443?encryption=none&security=tls&sni=osi.speedx3net.ir&type=httpupgrade&path=%2F#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?encryption=none&security=none&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?encryption=none&security=none&type=grpc#@meli_proxyy
 vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?type=ws&encryption=none&security=tls&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=/linkws?ed=2560&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#@meli_proxyy
@@ -89,7 +88,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRHZ1R2ZhVUo3b005RTZtSFdrWk45ZEFqUHh0cG5kdjR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwOVVDUFNWUHhLOTJNc2ZpMm5TVjdySzYyV2tDSmY3MjFOM1prMmUza2g2YVlkVmh4Y0x3eHEzNFMxWjRXQTRIc0hRWEJyaGhBamtaTFNLdEJhTVZQNmhUSEYzMVJNb3Y@mx2.drawnrisha.one:55988#%E2%9A%99%EF%B8%8Fe%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQm43UVZzekpHcjQ1SjZFV0xBMTJZeFlGU29zOHVNSGJEVFpNZXJmQTVraEVvQ3BUS2treUZFQ1c5WEhEdXdNSlZBZUozN2dha0dBTGl5a1dDV1U3UzdhZ0VNcmZ6ckQ@mx2.drawnrisha.one:55988#%E2%9A%99%EF%B8%8Fc%40oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%F0%9F%93%8024%40oneclickvpnkeys
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%93%A11%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@mx2.drawnrisha.one:55988#%F0%9F%93%A1d%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSkxTSFVrZXZvUkhtaWRTcDV4ZUdkOGd3dUJCQlRUcDF5VllDZzZrWUJBMkZnSmJNd0dqbkx1VG5xY21OS1dLZGdQREg4ZDdtOWFnN1Zmc0JCaFcxck1jNDdjZ1g1dXA@mx2.drawnrisha.one:55988#%F0%9F%93%A1a%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRlJwNEJReWVWeExBNVJhQnhKOWN6d1R0WnFhWFZ1VlRtZ1Z0VFJzbWpMdnBCQk5TVEd0eXlnN3VOY2dwcFZScW5oamRKbVA4YktNM3pzSzg4ck5oTWdYTkpvYXV4a0o@mx2.drawnrisha.one:55988#%F0%9F%9B%A1%EF%B8%8Fe%40oneclickvpnkeys
