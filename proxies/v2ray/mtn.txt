@@ -1,4 +1,5 @@
 vless://a6e0280d-5df8-4de7-811a-db42402867a2@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=Ws.speedtest.Spdnet.ir&type=ws#@meli_proxyy
+vless://Parsashonam-237@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Parsashonam%20%F0%9F%87%A9%F0%9F%87%AA
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#@meli_proxyy
 vless://9aed32d7-3556-48a4-95f8-e82dcc2e1b54@57.128.178.253:443?encryption=none&security=tls&sni=en.linceedab.com&alpn=http%2F1.1&fp=safari&type=tcp&headerType=none#@meli_proxyy
 vless://f5ff5249-d54a-45ea-82ae-88344a5a4164@186.190.211.121:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=Tico.floorshoping22.com#@meli_proxyy
@@ -14,7 +15,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.215:8880?mode=gun&security=
 vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?type=ws&encryption=none&security=tls&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=/linkws?ed=2560&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#@meli_proxyy
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.28.52:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pics.floorshoping22.com#@meli_proxyy
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=%2F%23Telegram%40V2ray_Alpha&security=tls&encryption=none&host=CiR346yL3b.DeRaKhT.iNfO&fp=chrome&type=ws&sni=CiR346yL3b.DeRaKhT.iNfO#@meli_proxyy
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@meli_proxyy
 vless://xbhx7vanu4@xbhx7vanu4-4515017478-direct.rahavard365.co:443?encryption=none&security=tls&sni=xbhx7vanu4-4515017478-direct.rahavard365.co&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%206%20%7C%20%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%DB%8C%D9%86%DA%A9%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@95.217.22.47:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=ss.eldenmonodefense5.ir#@meli_proxyy
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.148.22:2096?path=%2F&security=tls&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#@meli_proxyy
@@ -58,7 +58,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzY3MDAiLCJwcyI6IkBBcnRlbWlzdnBuMSAg8J+HsvCfh74iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.156:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135004002.sec20org.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.104:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 trojan://bpb-trojan@162.159.152.2:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
