@@ -10,12 +10,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?type=grpc&amp;mo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443?type=tcp#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eFoxNUJUempvRmllYkcz@admin.c2.havij.co:443#Kurdistan_Vpn
-vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@p6.punchline.ir:52673?type=xhttp&amp;mode=auto&amp;path=/v2raybluecrystal&amp;security=reality&amp;fp=chrome&amp;sni=www.microsoft.com&amp;pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&amp;sid=0a6891&amp;spx=/#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQ3oxcGpWdlhCcDdQVnpRV1hGSXF2@62.60.231.81:39008?type=tcp#Kurdistan_Vpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?type=grpc&amp;mode=gun&amp;authority=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443?type=tcp#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eFoxNUJUempvRmllYkcz@admin.c2.havij.co:443#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305?type=tcp#Kurdistan_Vpn
 vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.nature27.shop:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
@@ -97,6 +91,12 @@ vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?type=ws&amp;host=
 vless://Parsashonam-232@Zmaoz.Faculty.Ucdavis.Edu:80?type=ws&amp;host=Parsashonam-DE.ir&amp;path=/@Parsashonam?ed%3D2048&amp;security=none#Kurdistan_Vpn
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@pqh44v1.whatstrue.shop:1001?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=telewebion.com&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;sid=5fab0deb#Kurdistan_Vpn
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?type=ws&amp;host=masaleini.mahsaamini.dpdns.org&amp;path=/Telegram-Telegram-mtmvpn---Telegram-mtmvpn&amp;security=none#Kurdistan_Vpn
+vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@p6.punchline.ir:52673?type=xhttp&amp;mode=auto&amp;path=/v2raybluecrystal&amp;security=reality&amp;fp=chrome&amp;sni=www.microsoft.com&amp;pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&amp;sid=0a6891&amp;spx=/#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQ3oxcGpWdlhCcDdQVnpRV1hGSXF2@62.60.231.81:39008?type=tcp#Kurdistan_Vpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?type=grpc&amp;mode=gun&amp;authority=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443?type=tcp#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eFoxNUJUempvRmllYkcz@admin.c2.havij.co:443#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305?type=tcp#Kurdistan_Vpn
 vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.nature27.shop:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
