@@ -193,6 +193,11 @@ func fetchAdditionalData(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 // fetchAndDecryptMahsa decrypts and processes Mahsa config files
 func fetchAndDecryptMahsa(resourceChan chan<- Resource, wg *sync.WaitGroup) {
 	defer wg.Done()
+	defer func() {
+	    if r := recover(); r != nil {
+		    log.Println("Recovered a crash at fetchAndDecryptMahsa:", r)
+		}
+	}()
 
 	// Define the URL, key, and IV
 	url := "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/app/sub.txt"
