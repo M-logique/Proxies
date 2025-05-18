@@ -22,3 +22,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&amp;h
 vmess://eyJwb3J0IjoiMzM5NDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMzUzZTA3ODctNzFiYy00NDJkLTljOWQtOTAyZjkwMzU5ZWI1IiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsImFkZCI6IjM3LjIyMS4xMjUuMTU5IiwicHMiOiIlNDB2MnJheV9jYXJ0ZWwlMjAlRjAlOUYlOTQlQTUiLCJob3N0IjoiIiwicGF0aCI6IiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?type=grpc&amp;mode=gun&amp;security=none#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#@v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
