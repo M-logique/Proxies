@@ -52,11 +52,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eFoxNUJUempvRmllYkcz@admin.c2.havij.co:443#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305?type=tcp#Kurdistan_Vpn
 vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Vpn
-vmess://eyJpZCI6ImNjMTAxZmYxLTM0NTItNDFjMy04OWZlLWMyYTVhMjBkYzZkYyIsInR5cGUiOiJodHRwIiwiYWRkIjoiOC4yMTguMjQ0LjU2IiwiaG9zdCI6InNiLnpodWFuc2h1LmNvbSIsInBhdGgiOiJcLyIsInNjeSI6ImF1dG8iLCJwcyI6Ikt1cmRpc3Rhbl9WcG4iLCJwb3J0IjoiMzAwMCIsIm5ldCI6InRjcCJ9
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.nature27.shop:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?type=ws&amp;host=JpHzJdVn27.bLuEvIa.oRg&amp;path=/&amp;security=tls&amp;sni=JpHzJdVn27.bLuEvIa.oRg#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?type=grpc&amp;mode=gun&amp;serviceName=vless-grpc&amp;security=none#Kurdistan_Vpn
+vmess://eyJpZCI6ImNjMTAxZmYxLTM0NTItNDFjMy04OWZlLWMyYTVhMjBkYzZkYyIsInR5cGUiOiJodHRwIiwiYWRkIjoiOC4yMTguMjQ0LjU2IiwiaG9zdCI6InNiLnpodWFuc2h1LmNvbSIsInBhdGgiOiJcLyIsInNjeSI6ImF1dG8iLCJwcyI6Ikt1cmRpc3Rhbl9WcG4iLCJwb3J0IjoiMzAwMCIsIm5ldCI6InRjcCJ9
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?type=ws&amp;host=JpHzJdVn27.bLuEvIa.oRg&amp;path=/&amp;security=tls&amp;sni=JpHzJdVn27.bLuEvIa.oRg#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080?type=tcp#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQnJ0czVBdTRHTTlhcjdiVE55WkV1@85.208.139.69:63861?type=tcp#Kurdistan_Vpn
 vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=refersion.com&amp;pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo#Kurdistan_Vpn
