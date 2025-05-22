@@ -506,6 +506,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@h110vpntr.outl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%40V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
 vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=66.sgfc.dpdns.org&amp;type=ws&amp;sni=66.sgfc.dpdns.org#%40V2ray1_Ng
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?path=Telegram%3A&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#%40V2ray1_Ng%20ALL
+vless://a7f573cf-f042-4133-8fa5-b24088621d83@Tabriz-Website.thorav.ir:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&amp;fp=qq&amp;spx=%2F&amp;type=grpc&amp;serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&amp;sni=www.cdn77.com&amp;sid=b1417d#%40V2ray1_Ng%20ALL%20NET
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chop-wrist-bud.stark-industries.solutions#%40V2ray1_Ng
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.127:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#%40V2ray1_Ng
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FTelegram%40MTMVPN&amp;security=none&amp;encryption=none&amp;host=REEdfREe8MahSaNg2.rEDOrG.IR&amp;type=ws#%40V2ray1_Ng%20ALL
 vless://3857ea57-a459-45c5-a309-ad2bfa04d676@germany.ggping.xyz:3993?path=%3Fed%3D2084&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=marzban.negintel.xyz#%40V2ray1_Ng%20ALL
 vless://606a7bd8-9b6b-4f32-98d9-2ba911be6559@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Ne.vipmehspd.ir.&amp;type=httpupgrade#%40V2ray1_Ng%20ALL%20NET
 vless://3857ea57-a459-45c5-a309-ad2bfa04d676@france.iranigamebaz.ir:600?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=marzban.negintel.xyz#%40V2ray1_Ng%20ALL
