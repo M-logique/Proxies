@@ -13,6 +13,11 @@ trojan://telegram-id-directvpn@18.193.175.187:22223?security=tls&amp;alpn=http/1
 trojan://telegram-id-directvpn@3.78.68.137:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@13.36.160.33:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@15.188.156.39:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@3.120.242.252:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@35.156.196.176:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@56.228.78.101:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@3.125.76.226:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@15.236.1.58:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@15.237.97.69:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@35.181.42.7:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@13.37.134.199:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
@@ -28,11 +33,6 @@ trojan://telegram-id-directvpn@18.193.175.187:22223?security=tls&amp;alpn=http/1
 trojan://telegram-id-directvpn@3.78.68.137:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@13.36.160.33:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@15.188.156.39:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@3.120.242.252:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@35.156.196.176:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@56.228.78.101:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@3.125.76.226:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@15.236.1.58:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@3.120.242.252:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@35.156.196.176:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@56.228.78.101:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
