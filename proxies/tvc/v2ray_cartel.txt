@@ -28,3 +28,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&amp;h
 vmess://eyJwb3J0IjoiMzM5NDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMzUzZTA3ODctNzFiYy00NDJkLTljOWQtOTAyZjkwMzU5ZWI1IiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsImFkZCI6IjM3LjIyMS4xMjUuMTU5IiwicHMiOiIlNDB2MnJheV9jYXJ0ZWwlMjAlRjAlOUYlOTQlQTUiLCJob3N0IjoiIiwicGF0aCI6IiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?type=grpc&amp;mode=gun&amp;security=none#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#@v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?type=gr…
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#@v2ray_cartel
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&amp;host=ipsycho.suex12.ir&amp;path=/re5IzbZ9IZZMddtw?ed%3D2560/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;security=tls&amp;fp=randomized&amp;sni=ipsychO.SUEx12.Ir&amp;alpn=h2,http/1.1#@v2ray_cartel
+vmess://eyJwb3J0IjoiMzM5NDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMzUzZTA3ODctNzFiYy00NDJkLTljOWQtOTAyZjkwMzU5ZWI1IiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsImFkZCI6IjM3LjIyMS4xMjUuMTU5IiwicHMiOiIlNDB2MnJheV9jYXJ0ZWwlMjAlRjAlOUYlOTQlQTUiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?type=grpc&amp;mode=gun&amp;security=none#@v2ray_cartel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#@v2ray_cartel
