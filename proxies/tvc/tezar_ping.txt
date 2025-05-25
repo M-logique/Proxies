@@ -1,11 +1,3 @@
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&amp;security=tls&amp;sni=asxfp.quinn-bezanberim.info&amp;type=ws&amp;alpn=&amp;host=asxfp.quinn-bezanberim.info&amp;path=/tiger#GH_50257
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&amp;security=tls&amp;sni=asxfp.quinn-bezanberim.info&amp;type=ws&amp;alpn=&amp;host=asxfp.quinn-bezanberim.info&amp;path=/tiger#IC_50401
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?encryption=none&amp;security=tls&amp;sni=asxfp.quinn-bezanberim.info&amp;type=ws&amp;alpn=&amp;host=asxfp.quinn-bezanberim.info&amp;path=/tiger#GM_50697
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI%3D@141.164.63.32:30936#South%20Korea%27s%20Premium%20Server%20-%20South%20Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM%3D@107.191.63.241:30665#Premium%20server%20-%20France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU%3D@149.28.106.134:31444#Premium%20server%20-%20USA
-vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.211.192.25:80?security=&amp;encryption=none&amp;headerTyp…
-vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@3.93.190.46:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Aws-tc26
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@13.219.91.111:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Aws-tc1
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.211.192.25:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Aws-tc28
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@3.93.190.46:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Aws-tc26
@@ -25,6 +17,13 @@ vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@iranserver.com:2053?path=%2F&amp;se
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=telnet.akawadoo.ir&amp;type=ws&amp;sni=telnet.akawadoo.ir#WS%20Germany%F0%9F%87%A9%F0%9F%87%AA5
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@iranserver.com:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=telnet.akcovufun.ir&amp;type=ws&amp;sni=telnet.akcovufun.ir#WS%20Germany%F0%9F%87%A9%F0%9F%87%AA4
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@iranserver.com:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=iran.akcovufun.ir&amp;type=ws&amp;sni=iran.akcovufun.ir#WS%20Germany%F0%9F%87%A9%F0%9F%87%AA3
+vless://edb22a58-2b48-4611-9371-fc95858b5d5e@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=mci.mtn.ir.com.org.net.om.be.shop.my-digimento0.ir.&amp;type=httpupgrade#new…
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@mci.mtn.ir.com.org.net.om.be.my-digimento0.ir:2087?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=www.target.com&amp;sid=2b2e#test2-Re
+vless://edb22a58-2b48-4611-9371-fc95858b5d5e@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=mci.mtn.ir.com.org.net.om.be.shop.my-digimento0.ir.&amp;type=httpupgrade#new-tes
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@liaqpboolfreedashmg.sharknetshop.ir:2087?type=grpc&amp;serviceName=&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&amp;fp=chrome&amp;sni=www.target…
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@liaqpboolfreedashm.sharknetshop.ir:2087?type=grpc&amp;serviceName=&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;sni=www.target.com&amp;sid=bc6f0833&amp;spx=%2F#Vpn-a7542iwd
+vless://8dabe69a-0cf2-47d1-bce2-2404bb1d67d5@104.19.150.10:2095?type=httpupgrade&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&amp;host=mci.mtn.ir.com.org.net.om.org.my-digimento0.ir.&amp;security=none#test2
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@liaqpboolfreedashmg.sharknetshop.ir:2087?type=grpc&amp;serviceName=&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&amp;fp=chrome&amp;sni=www.target.com&amp;sid=bc6f0833&amp;spx=%2F#test2-a7542iwd
 vless://edb22a58-2b48-4611-9371-fc95858b5d5e@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=mci.mtn.ir.com.org.net.om.be.shop.my-digimento0.ir.&amp;type=httpupgrade#new…
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@mci.mtn.ir.com.org.net.om.be.my-digimento0.ir:2087?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=www.target.com&amp;sid=2b2e#test2-Re
 vless://edb22a58-2b48-4611-9371-fc95858b5d5e@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=mci.mtn.ir.com.org.net.om.be.shop.my-digimento0.ir.&amp;type=httpupgrade#new-tes
