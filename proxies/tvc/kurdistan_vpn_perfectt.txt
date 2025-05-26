@@ -22,8 +22,6 @@ vmess://eyJob3N0IjoiIiwicHMiOiJLdXJkaXN0YW5fVnBuIiwicGF0aCI6IiIsImlkIjoiYTc1ZjNm
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&amp;host=REEdfREe8MahSaNg2.rEDOrG.IR&amp;path=/TELEGRAM@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443?type=ws&amp;host=nl07.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=nl07.abvpn.ru#Kurdistan_Vpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=de02.abvpn.ru#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100?type=tcp#Kurdistan_Vpn
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
@@ -48,6 +46,8 @@ vmess://eyJob3N0IjoiIiwicHMiOiJLdXJkaXN0YW5fVnBuIiwicGF0aCI6IiIsImlkIjoiYTc1ZjNm
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&amp;host=REEdfREe8MahSaNg2.rEDOrG.IR&amp;path=/TELEGRAM@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443?type=ws&amp;host=nl07.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=nl07.abvpn.ru#Kurdistan_Vpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
+vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=de02.abvpn.ru#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=de02.abvpn.ru#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
