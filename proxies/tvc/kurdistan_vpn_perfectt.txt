@@ -1,3 +1,4 @@
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100?type=tcp#Kurdistan_Vpn
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
@@ -23,7 +24,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&amp;host=RE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443?type=ws&amp;host=nl07.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=nl07.abvpn.ru#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=de02.abvpn.ru#Kurdistan_Vpn
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100?type=tcp#Kurdistan_Vpn
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
@@ -49,7 +50,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&amp;host=RE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443?type=ws&amp;host=nl07.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=nl07.abvpn.ru#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=de02.abvpn.ru#Kurdistan_Vpn
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100?type=tcp#Kurdistan_Vpn
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
@@ -75,7 +76,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&amp;host=RE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443?type=ws&amp;host=nl07.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=nl07.abvpn.ru#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=de02.abvpn.ru#Kurdistan_Vpn
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100?type=tcp#Kurdistan_Vpn
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
@@ -101,7 +102,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&amp;host=RE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443?type=ws&amp;host=nl07.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=nl07.abvpn.ru#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=/websocket&amp;security=tls&amp;sni=de02.abvpn.ru#Kurdistan_Vpn
+vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?type=httpupgrade&amp;host=covh.blanku.me&amp;path=/8SgHUCa9rohiCVOzju871XiFr9&amp;security=tls&amp;fp=chrome&amp;sni=covh.blanku.me&amp;alpn=http/1.1#Kurdistan_Vpn
 vmess://eyJob3N0IjoiIiwicGF0aCI6IiIsImFkZCI6IjM3LjIyMS4xMjUuMTU5IiwicHMiOiJLdXJkaXN0YW5fVnBuIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMzk0MCIsInNjeSI6ImF1dG8ifQ==
 vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.speedtest.net.vip.ger.dbsll.ir&amp;pbk=F7VsJyw_2U5Bmdvx1JWogG0CCZfoQGPOZL-gTybpIRE&amp;sid=23f44163&amp;spx=/Copy-az-chahnnel-JOKERRVPN#Kurdistan_Vpn
 vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.147.22:80?type=xhttp&amp;mode=auto&amp;host=mother764.dgclix.ir&amp;path=/?BIA_CHANEL@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
@@ -130,4 +131,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:
 vless://CHANNEL-MTMVPN-CHANNEL@Shiraz-Website.acveo.ir:443?type=grpc&amp;mode=gun&amp;serviceName=MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&amp;security=reality&amp;fp=qq&amp;sni=www.cdn77.com&amp;pbk=pWvBPhxqJjzAUrKKHI9rQtokKAHGtSLHZ_wrl-ArERg&amp;sid=76&amp;spx=/#Kurdistan_Vpn
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.networkpro.net&amp;path=/?ed%3D2048&amp;security=none#Kurdistan_Vpn
 vless://1799b29e-d587-4ad7-b58e-5ef51c158173@79.110.51.52:55555?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=1zxVP27bDf_TlHFEbBne26fdhCFPftpB9zt7-nCd8HQ&amp;sid=867599a1433d8a1e#Kurdistan_Vpn
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
