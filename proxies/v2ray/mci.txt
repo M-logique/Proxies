@@ -1,4 +1,5 @@
 vless://8161b03d-ab2f-45ce-8f15-9b0061044f70@irani.dr-ping.ir:8443?type=ws&host=iran.dr-ping.ir&path=/DoctorPing_Bot&security=tls&fp=chrome&sni=iran.dr-ping.ir&alpn=h2#@meli_proxyy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2060%20%28%40proxy_kafee%29
 vless://Parsashonam-244@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@Parsashonam
 vless://Parsashonam-244@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40Parsashonam%20%F0%9F%87%A9%F0%9F%87%AA
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D1080&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
@@ -7,7 +8,9 @@ vless://telegram-id-ArV2ray8@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?path=%2FTelegram-%2CWedBaZ%2F%3Fed%3D1080&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@176.124.223.20:8880?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s24.afaghnegwork.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s24.afaghnegwork.ir#@meli_proxyy
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.pronetwork.com#@meli_proxyy
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s30.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.afaghnegwork.ir&fp=#@meli_proxyy
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir&fp=#@meli_proxyy
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com#@meli_proxyy
 vless://7455dc11-4417-49f2-9d99-4269394ec40d@1xult.hifromir1.site:2053?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@meli_proxyy
@@ -25,9 +28,6 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.18.6.190:2096?path=%2FTelegram-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.230.6:80?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#@meli_proxyy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.105:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqf1v1.fomula1race.shop#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v6.cinema33.shop#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v6.nature27.shop#@meli_proxyy
