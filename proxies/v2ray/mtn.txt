@@ -9,8 +9,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=%2F%3Fed%3
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.140.0.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2059%20%28%40proxy_kafee%29
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.6:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.32:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#@meli_proxyy
-vless://telegram-id-ArV2ray8@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#WS2-All+%7C+%40ArV2ray
-vmess://eyJhZGQiOiJpcC5zYiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2RuLjNpYXBwcy5jb20iLCJpZCI6ImNmYThjMzZjLTk2NTItNDg0YS04OWUxLTM0ZGNjOThmYWFjMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiJAbWVsaV9wcm94eXnYs9ix2YjYsdin24zigIzYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.211:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@176.124.223.20:8880?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@meli_proxyy
@@ -18,6 +17,7 @@ vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@104.21.93.108:443?path=%2F8SgHUCa9r
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.pronetwork.com#@meli_proxyy
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?security=&encryption=none&type=grpc&sni=pqh27v5.nature27.shop#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.1:80?path=Telegram%3A&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -31,6 +31,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.105:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqf1v1.fomula1race.shop#@meli_proxyy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v6.cinema33.shop#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v6.nature27.shop#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
@@ -65,7 +66,6 @@ vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=realit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v3.economy36top.shop#@meli_proxyy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#@meli_proxyy
-vless://f5ff5249-d54a-45ea-82ae-88344a5a4164@186.190.211.121:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=Tico.floorshoping22.com#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqf1v5.fomula1race.shop#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
@@ -104,12 +104,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8
 trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&headerType=none&type=tcp#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2,http/1.1&allowInsecure=1#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5bmtVZ1NIbjRSbmVzeDZCUE1LWkpHY0JEYTZtWFZQSktMYTllNDh6RjhOVkMxNmhYZWZKU0s1VmROSDZRdjdVUzJDZ1I3WVh0VXNVVkZOajhSdk1YQkJmSDlnVndMbnc=@mx2.drawnrisha.one:55988#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZzlyR056YTRkY21uREFYTWlCYWE0cFVmOXE4ZmMyRURlUFE5NlVEZkpybW9oZnZLN0wyN2JMc0pXMmppa0pQdzk3TFlXNzZ5cFlLMzQ3VHRVS1o2ZWJrdzVaZjZDNHM@mx2.drawnrisha.one:55988#%F0%9F%8E%B2e%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTc2a0FtZkx3ZE5wQ3RmV1h4bzNQbWlqZ0tUb0VZblZOVVo3V3FxOFhnYk04TkJCOEdjdmt0V2RhRzc3WmtHMXo2YXdRZVRLRkZpbjQ0UmU4Zks3ZFpYZ1Q1ZXo2Wkg@mx2.drawnrisha.one:55988#%F0%9F%94%91c%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@mx2.drawnrisha.one:55988#%F0%9F%93%A1d%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR2phSnZpdEdTNzNpcWVXVkxveXpIQlB4N3J6OXNwMXE0TW96bkZQVXNXUGF2UURCbjNHNjg1UllMMTVvY1NDUkFqSEtpeEhxUEpaNXZDd1ZvbnR6WmRtNFdHZDRYNFA@mx2.drawnrisha.one:55988#%F0%9F%9B%A1%EF%B8%8Fc%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NHdtTW9NUGttcldoZ1NnM3FvV1RUTGR5RFhUb1F5TDY1NHBNZVFxOTF1TXBXWTJoVVp4ZzVOUlFmS2ZpVkdYdnlSbnQ5ZmQ4b1Y1UldhQ2ZDajVZdTdWRkdyaGtpeEU@mx2.drawnrisha.one:55988#%F0%9F%9B%A1%EF%B8%8Fa%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#[
