@@ -280,3 +280,4 @@ vless://7455dc11-4417-49f2-9d99-4269394ec40d@157.245.23.165:2053?security=none&a
 vless://66abb453-9692-4fde-a24f-95e646ce6410@116.203.149.50:22940?security=none&amp;encryption=none&amp;host=help.filimo.com&amp;headerType=http&amp;type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://4c511b03-55b2-44df-bdb3-c07a18b2b864@65.109.202.140:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
+vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh6nwn4…
