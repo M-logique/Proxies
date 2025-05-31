@@ -32,11 +32,6 @@ vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?flow=xtls-rprx-v
 vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.147.22:80?type=xhttp&amp;mode=auto&amp;host=mother764.dgclix.ir&amp;path=/?BIA_CHANEL@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
 vless://af50bdbf-1715-a461-cbb4-ebbea9ed338c@51.195.35.2:4768?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yandex.com&amp;pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&amp;sid=b7e284c9b786f709#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg=@147.45.116.44:443?type=tcp#Kurdistan_Vpn
-vmess://eyJob3N0IjoiIiwicGF0aCI6IiIsImFkZCI6IjM3LjIyMS4xMjUuMTU5IiwicHMiOiJLdXJkaXN0YW5fVnBuIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMzk0MCIsInNjeSI6ImF1dG8ifQ==
-vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.speedtest.net.vip.ger.dbsll.ir&amp;pbk=F7VsJyw_2U5Bmdvx1JWogG0CCZfoQGPOZL-gTybpIRE&amp;sid=23f44163&amp;spx=/Copy-az-chahnnel-JOKERRVPN#Kurdistan_Vpn
-vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.147.22:80?type=xhttp&amp;mode=auto&amp;host=mother764.dgclix.ir&amp;path=/?BIA_CHANEL@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
-vless://af50bdbf-1715-a461-cbb4-ebbea9ed338c@51.195.35.2:4768?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yandex.com&amp;pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&amp;sid=b7e284c9b786f709#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg=@147.45.116.44:443?type=tcp#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348?type=tcp#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080?type=tcp#Kurdistan_Vpn
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=nacho-rerun-crepe.stark-industries.solutions#Kurdistan_Vpn
@@ -90,6 +85,11 @@ vless://CHANNEL-MTMVPN-CHANNEL@Shiraz-Website.acveo.ir:443?type=grpc&amp;mode=gu
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.networkpro.net&amp;path=/?ed%3D2048&amp;security=none#Kurdistan_Vpn
 vless://1799b29e-d587-4ad7-b58e-5ef51c158173@79.110.51.52:55555?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=1zxVP27bDf_TlHFEbBne26fdhCFPftpB9zt7-nCd8HQ&amp;sid=867599a1433d8a1e#Kurdistan_Vpn
 vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
+vmess://eyJob3N0IjoiIiwicGF0aCI6IiIsImFkZCI6IjM3LjIyMS4xMjUuMTU5IiwicHMiOiJLdXJkaXN0YW5fVnBuIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMzk0MCIsInNjeSI6ImF1dG8ifQ==
+vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.speedtest.net.vip.ger.dbsll.ir&amp;pbk=F7VsJyw_2U5Bmdvx1JWogG0CCZfoQGPOZL-gTybpIRE&amp;sid=23f44163&amp;spx=/Copy-az-chahnnel-JOKERRVPN#Kurdistan_Vpn
+vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.147.22:80?type=xhttp&amp;mode=auto&amp;host=mother764.dgclix.ir&amp;path=/?BIA_CHANEL@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
+vless://af50bdbf-1715-a461-cbb4-ebbea9ed338c@51.195.35.2:4768?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yandex.com&amp;pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&amp;sid=b7e284c9b786f709#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg=@147.45.116.44:443?type=tcp#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348?type=tcp#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080?type=tcp#Kurdistan_Vpn
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=nacho-rerun-crepe.stark-industries.solutions#Kurdistan_Vpn
