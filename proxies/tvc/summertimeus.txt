@@ -54,10 +54,6 @@ vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2
 vless://b77d9866-2b21-492e-b367-98d8241fb9c7@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://02331e9e-af70-4abb-b4e9-1a1b1e63df9a@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://223d408c-ed85-4c50-942a-b79e8a178a76@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
-vless://19f752c6-a3ea-4e71-adb8-423456e2cab0@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
-vless://431d4b96-d270-4744-b4f9-99fbd420cedb@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
-vless://8568ab5e-c489-434d-aac0-8360af6ab28d@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=randomized&amp;type=ws#MTN%20%26%20MCI%20%40summertimeus
-vless://7cc17892-965e-4061-8983-35324980f50f@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://telegram-id-ArV2ray1@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#
 vless://59e98697-f276-47a0-9a90-9f480c0eae0c@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://f282b921-7d3d-4606-8c4c-5c6ff055953b@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
@@ -71,6 +67,10 @@ vless://057f436e-efcc-45e8-b81e-b8780eb05afe@85.133.206.14:33912?type=ws&amp;pat
 vless://74ca9bc7-fdb9-40d1-99bd-75bc748d0aef@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://0298b902-eb53-4cd8-8f5b-f02cfca4c5de@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#%40summertimeus
+vless://19f752c6-a3ea-4e71-adb8-423456e2cab0@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
+vless://431d4b96-d270-4744-b4f9-99fbd420cedb@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
+vless://8568ab5e-c489-434d-aac0-8360af6ab28d@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=randomized&amp;type=ws#MTN%20%26%20MCI%20%40summertimeus
+vless://7cc17892-965e-4061-8983-35324980f50f@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://b77d9866-2b21-492e-b367-98d8241fb9c7@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://02331e9e-af70-4abb-b4e9-1a1b1e63df9a@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://223d408c-ed85-4c50-942a-b79e8a178a76@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
