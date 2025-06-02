@@ -1,4 +1,6 @@
 vless://7998a541-166d-4cdf-b1b1-994362f73fc1@193.176.153.199:4582?security=reality&amp;encryption=none&amp;pbk=9CNFcWugsp-9e1F81f7VtZ2QFUpJiIyP3Gw4zj66Vx0&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=stackoverflow.com&amp;sid=79d2ba70d9d4966f#@v2ran
+vless://7998a541-166d-4cdf-b1b1-994362f73fc1@193.176.153.199:4582?security=reality&amp;encryption=none&amp;pbk=9CNFcWugsp-9e1F81f7VtZ2QFUpJiIyP3Gw4zj66Vx0&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=stackoverflow.com&amp;sid=79d2ba70d9d4966f#@v2ran
+vless://7998a541-166d-4cdf-b1b1-994362f73fc1@193.176.153.199:4582?security=reality&amp;encryption=none&amp;pbk=9CNFcWugsp-9e1F81f7VtZ2QFUpJiIyP3Gw4zj66Vx0&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=stackoverflow.com&amp;sid=79d2ba70d9d4966f#@v2ran
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
 vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#uaayatf
 vless://5a76615b-10e1-46f7-d521-17662f3c7287@37.27.191.28:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#7-ayataf
@@ -22,10 +24,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%40V2ray_6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40V2ran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40V2ran%20ALL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#sdtesaa
-vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc&amp;sni=vpnAndroid2..com.vpnAndroid2.org#htdssz
-vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ugfsxcv
-vless://86527581-f43e-48aa-b970-65410562c220@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Usa.vipmehspd.ir.&amp;type=httpupgrade#%40v2ran%20ALL
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#sdtesaa
 vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc&amp;sni=vpnAndroid2..com.vpnAndroid2.org#htdssz
 vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#ugfsxcv
