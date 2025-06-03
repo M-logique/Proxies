@@ -62,6 +62,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443?type=tcp#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Kurdistan_Vpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443?type=tcp#Kurdistan_Vpn
 vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@zmaoz.faculty.ucdavis.edu:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&amp;path=/&amp;security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#Kurdistan_Vpn
@@ -88,10 +92,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8
 vless://83d0965d-d983-478b-ba71-1f457b6f3595@91.107.152.74:42262?type=xhttp&amp;mode=auto&amp;path=/mtnproxy&amp;security=reality&amp;fp=chrome&amp;sni=par30games.net&amp;pbk=x80R4CbE1btCxtuqGKzwVN6npsQuumLluSBnj-SedWg&amp;sid=2390&amp;spx=/#Kurdistan_Vpn
 vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?type=grpc&amp;mode=gun&amp;authority=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&amp;security=none#Kurdistan_Vpn
 trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?type=ws&amp;host=xxxcddde.iran2035.dpdns.org&amp;path=/bdtuD5eD7Q29WxRG8DqNAB&amp;security=tls&amp;fp=chrome&amp;sni=XXXcddDe.IRaN2035.dpdNs.orG&amp;alpn=http/1.1#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Kurdistan_Vpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443?type=tcp#Kurdistan_Vpn
 vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@zmaoz.faculty.ucdavis.edu:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024&amp;security=none#Kurdistan_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&amp;path=/&amp;security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#Kurdistan_Vpn
