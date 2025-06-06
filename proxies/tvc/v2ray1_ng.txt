@@ -296,8 +296,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.213.239:443#%40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.123.120:443#%40V2ray1_Ng
 vless://33428626-237f-44ce-93c3-efe007db8a7f@172.64.32.181:443?path=%2Fwss&amp;security=tls&amp;encryption=none&amp;host=qsc0wrja.yandixpartners.com&amp;type=ws&amp;sni=qsc0wrja.yandixpartners.com#%40V2ray1_Ng
 vless://981ae220-1c73-4334-942e-24c9b476f44f@84.234.31.243:20244?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng
-vless://60c9baa3-0241-45e3-9faa-d91f50e4b142@de.serverfreedom.com:5050?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;head…
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%40V2ray1_Ng
 vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=XbU10cS9vT.gIgA1.oRg&amp;fp=chrome&amp;type=ws&amp;sni=XbU10cS9vT.gIgA1.oRg#%40V2ray1_Ng
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=147135010072.sec21org.com#%40V2ray1_Ng
 vless://ab126a40-24fa-4a51-a505-00cfb67ada28@185.79.158.154:8087?security=none&amp;encryption=none&amp;host=%2FBIA_CHANEL%40JOKERRVPN&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
