@@ -67,12 +67,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:2
 vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJAZHJha3ZwbvCfkIkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880/?type=grpc&amp;encryption=none&amp;flow=#%40drakvpn%F0%9F%90%89
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQGRyYWt2cG7wn5CJIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=fr.zran.top&amp;fp=chrome&amp;security=reality&amp;pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&amp;sid=#%40drakvpn%F0%9F%90%89
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443/?type=tcp&amp;security=tls&amp;sni=chop-wrist-bud.stark-industries.solutions#%40drakvpn%F0%9F%90%89
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%40drakvpn%F0%9F%90%89
-vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJAZHJha3ZwbvCfkIkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880/?type=grpc&amp;encryption=none&amp;flow=#%40drakvpn%F0%9F%90%89
-vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQGRyYWt2cG7wn5CJIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880/?type=grpc&amp;encryption=none#%40drakvpn%F0%9F%90%89
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com&amp;fp=chrome&amp;security=reality&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;sid=#%40drakvpn%F0%9F%90%89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880/?type=grpc&amp;encryption=none&amp;flow=#%40drakvpn%F0%9F%90%89
@@ -88,6 +82,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&amp;secu
 vless://adeeaefa-e44e-4f2b-b27c-7f428ec848e0@njjix8qreaae.dxdx5.com:57567?path=%2F%40drakvpn&amp;security=none&amp;encryption=none&amp;type=ws#%40drakvpn%F0%9F%90%89-
 vless://a15bc200-b2d5-45a1-9c6a-a0d5dbcaa68d@njjix8qreaae.dxdx5.com:59943?security=none&amp;encryption=none&amp;host=Bmi.ir&amp;headerType=http&amp;type=tcp#%40drakvpn%F0%9F%90%89
 vless://687e9c5b-6429-47bf-ab30-c75352b9d07a@njjix8qreaae.dxdx5.com:20621?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40drakvpn#%40drakvpn%F0%9F%90%89
+vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=fr.zran.top&amp;fp=chrome&amp;security=reality&amp;pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&amp;sid=#%40drakvpn%F0%9F%90%89
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443/?type=tcp&amp;security=tls&amp;sni=chop-wrist-bud.stark-industries.solutions#%40drakvpn%F0%9F%90%89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%40drakvpn%F0%9F%90%89
+vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJAZHJha3ZwbvCfkIkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880/?type=grpc&amp;encryption=none&amp;flow=#%40drakvpn%F0%9F%90%89
+vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQGRyYWt2cG7wn5CJIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880/?type=grpc&amp;encryption=none#%40drakvpn%F0%9F%90%89
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com&amp;fp=chrome&amp;security=reality&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;sid=#%40drakvpn%F0%9F%90%89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880/?type=grpc&amp;encryption=none&amp;flow=#%40drakvpn%F0%9F%90%89
