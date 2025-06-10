@@ -1,3 +1,7 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.132.220:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.176.104:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.181.68:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.252.182:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.255.132:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.212.178:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
@@ -35,10 +39,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.181.65:22224?type=ws&amp;secu
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.160.82:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.181.65:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.160.82:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.132.220:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.132.220:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.176.104:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.181.68:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
@@ -59,7 +60,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.181.65:22224?type=ws&amp;secu
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.160.82:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.8.53:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.132.220:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.176.104:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.181.68:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.252.182:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
