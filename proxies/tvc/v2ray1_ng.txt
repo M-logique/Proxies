@@ -471,7 +471,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQkN0djdiTkR0R2VBWkNEbWRXZUMxQnZWV0JhdVR3QUJ
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=hozori.ir&amp;fp=randomized&amp;type=ws&amp;sni=hOZori.iR#%40V2ray1_Ng
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@172.67.209.60:443?path=%2F8SgHUCa9rohiCVOzju871XiFr9&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=covh.blanku.me&amp;fp=chrome&amp;type=httpupgrade&amp;sni=covh.blanku.me#%40V2ray1_Ng
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=hozori.ir&amp;fp=randomized&amp;type=ws&amp;sni=hOZori.iR#%40V2ray1_Ng
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#%40V2ray1_Ng
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=147135010072.sec21org.com#%40V2ray1_Ng
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wispy-crib-net.stark-industries.solutions#%40V2ray1_Ng
