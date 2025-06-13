@@ -36,10 +36,10 @@ vless://f5eae9c4-78ce-4443-93f0-583fdd372425@join.unlimiteddev.fastly80-3.hostin
 vless://057f436e-efcc-45e8-b81e-b8780eb05afe@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://74ca9bc7-fdb9-40d1-99bd-75bc748d0aef@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://0298b902-eb53-4cd8-8f5b-f02cfca4c5de@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#%40summertimeus
-vless://b77d9866-2b21-492e-b367-98d8241fb9c7@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&amp;security=&amp;encryption=none&amp;host=Www.speedtest.net.e.2.salatinmaccv.ir.&amp;type=ws#
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#%40summertimeus
 vless://c43385ba-bce6-4fb6-a9b4-5411e031547e@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
+vless://b77d9866-2b21-492e-b367-98d8241fb9c7@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://f156531d-094f-48be-9ca4-b6362c4a88e1@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&amp;path=telegram:@summertimeus&amp;security=none#@summertimeus
 vless://9279a169-0e59-44ad-8575-b869dc9cb14d@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=randomized&amp;type=ws#MTN%20%26%20MCI%20%40summertimeus
