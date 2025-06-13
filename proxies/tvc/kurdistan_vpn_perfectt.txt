@@ -8,11 +8,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&amp;mod
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydGlnVndyY3E5Tk5XZ1hCampmemp4@62.60.247.40:52461?type=tcp#Kurdistan_Vpn
 vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?type=ws&amp;host=XbU10cS9vT.gIgA1.oRg&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=XbU10cS9vT.gIgA1.oRg&amp;alpn=h3,h2#Kurdistan_Vpn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?type=ws&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;path=/egFIvRfmDaCdL5Uk/ODQuMjM1LjE2OS4yMzQ%3D?ed%3D2560/?BIA_CHANEL@JOKERRVPN&amp;security=tls&amp;fp=randomized&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&amp;alpn=h2,http/1.1#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456?type=tcp#Kurdistan_Vpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydGlnVndyY3E5Tk5XZ1hCampmemp4@62.60.247.40:52461?type=tcp#Kurdistan_Vpn
-vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?type=ws&amp;host=XbU10cS9vT.gIgA1.oRg&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=XbU10cS9vT.gIgA1.oRg&amp;alpn=h3,h2#Kurdistan_Vpn
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?type=ws&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;path=/egFIvRfmDaCdL5Uk/ODQuMjM1LjE2OS4yMzQ%3D?ed%3D2560/?BIA_CHANEL@JOKERRVPN&amp;security=tls&amp;fp=randomized&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&amp;alpn=h2,http/1.1#Kurdistan_Vpn
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&amp;mode=stream-one&amp;host=kavir.lnmarketplace.net&amp;path=/kavir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=tls&amp;fp=firefox&amp;sni=kavir.lnmarketplace.net&amp;alpn=h2#Kurdistan_Vpn
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=firefox&amp;sni=www.samsung.com&amp;pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&amp;sid=e1f576c5#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080?type=tcp#Kurdistan_Vpn
@@ -33,6 +28,11 @@ vless://4576f933-f82f-40fd-b8a4-eedfdf855bda@zula.ir:8880?type=ws&amp;host=join.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443?type=tcp#Kurdistan_Vpn
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&amp;mode=stream-one&amp;host=kavir.lnmarketplace.net&amp;path=/kavir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&amp;security=tls&amp;fp=firefox&amp;sni=kavir.lnmarketplace.net&amp;alpn=h2#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456?type=tcp#Kurdistan_Vpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&amp;mode=gun&amp;security=none#Kurdistan_Vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydGlnVndyY3E5Tk5XZ1hCampmemp4@62.60.247.40:52461?type=tcp#Kurdistan_Vpn
+vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?type=ws&amp;host=XbU10cS9vT.gIgA1.oRg&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=XbU10cS9vT.gIgA1.oRg&amp;alpn=h3,h2#Kurdistan_Vpn
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?type=ws&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;path=/egFIvRfmDaCdL5Uk/ODQuMjM1LjE2OS4yMzQ%3D?ed%3D2560/?BIA_CHANEL@JOKERRVPN&amp;security=tls&amp;fp=randomized&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&amp;alpn=h2,http/1.1#Kurdistan_Vpn
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&amp;mode=stream-one&amp;host=kavir.lnmarketplace.net&amp;path=/kavir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=tls&amp;fp=firefox&amp;sni=kavir.lnmarketplace.net&amp;alpn=h2#Kurdistan_Vpn
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=firefox&amp;sni=www.samsung.com&amp;pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&amp;sid=e1f576c5#Kurdistan_Vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080?type=tcp#Kurdistan_Vpn
