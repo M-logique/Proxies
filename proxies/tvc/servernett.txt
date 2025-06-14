@@ -8,7 +8,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:41066?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:36496?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:50651?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett1
@@ -22,7 +22,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:41066?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:36496?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:50651?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett1
@@ -36,7 +36,7 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:41066?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:36496?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:50651?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett1
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett1
@@ -50,10 +50,9 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encr
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:41066?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett2
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:45726?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:31579?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:36496?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
+vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNsett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNsett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNsett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40ServerNsett%20Channel
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2670::1]:58600?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:11e::1]:23515?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett-TELEGRAM-ServerNett
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:30237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#TELEGRAM-ServerNett%D9%80TELEGRAM-ServerNett2
