@@ -15,6 +15,9 @@ vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@vip-82.f-sub.cfd:5969?type=tcp&amp;
 vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@abtun.f-sub.com:5969?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#Kurdistan_Vpn
 vless://d311973e-894c-4f78-8902-8a95799734ff@vipshop.heroicshop.ir:8821?type=tcp&amp;headerType=none&amp;security=none#Kurdistan_Vpn
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.3:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#Kurdistan_Vpn
+vless://9cec7425-c80c-4e53-8786-e8dbf4ef2633@85.133.206.55:3087?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#Kurdistan_Vpn
+vless://9cec7425-c80c-4e53-8786-e8dbf4ef2633@85.133.206.55:3087?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#Kurdistan_Vpn
+vless://fef373af-b2a9-4367-9914-ee56bdbf8ec8@151.101.64.155:80?type=ws&amp;host=german.net&amp;path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed%3D2048&amp;security=none#Kurdistan_Vpn
 vless://ServerNett@62.60.221.201:43496?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#Kurdistan_Vpn
 vless://a55538a5-2fd5-4e89-8c94-ef9b2da061ea@www.speedtest.net:443?type=ws&amp;host=n50-dz21lt64-cueuu2g4o5y3hpby-22.pages.dev&amp;path=/VUUt6bVfXrOXJbJA?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=N50-Dz21lT64-CUEuU2g4o5y3hPbY-22.pAGeS.Dev&amp;alpn=http/1.1#Kurdistan_Vpn
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.176:443?type=ws&amp;host=rostam.29394900.xyz&amp;path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=rostam.29394900.xyz&amp;alpn=h2,http/1.1#Kurdistan_Vpn
@@ -32,9 +35,6 @@ vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@vip-82.f-sub.cfd:5969?type=tcp&amp;
 vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@abtun.f-sub.com:5969?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#Kurdistan_Vpn
 vless://d311973e-894c-4f78-8902-8a95799734ff@vipshop.heroicshop.ir:8821?type=tcp&amp;headerType=none&amp;security=none#Kurdistan_Vpn
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.3:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#Kurdistan_Vpn
-vless://9cec7425-c80c-4e53-8786-e8dbf4ef2633@85.133.206.55:3087?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#Kurdistan_Vpn
-vless://9cec7425-c80c-4e53-8786-e8dbf4ef2633@85.133.206.55:3087?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#Kurdistan_Vpn
-vless://fef373af-b2a9-4367-9914-ee56bdbf8ec8@151.101.64.155:80?type=ws&amp;host=german.net&amp;path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed%3D2048&amp;security=none#Kurdistan_Vpn
 vless://9cec7425-c80c-4e53-8786-e8dbf4ef2633@85.133.206.55:3087?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#Kurdistan_Vpn
 vless://9cec7425-c80c-4e53-8786-e8dbf4ef2633@85.133.206.55:3087?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#Kurdistan_Vpn
 vless://fef373af-b2a9-4367-9914-ee56bdbf8ec8@151.101.64.155:80?type=ws&amp;host=german.net&amp;path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed%3D2048&amp;security=none#Kurdistan_Vpn
