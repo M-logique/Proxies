@@ -47,6 +47,7 @@ vless://570f00ba-af38-44b9-955c-86f8272e0d3a@neht.zeparo-love.ir:8440?security=r
 vless://bced4af1-e0c0-457b-bf0b-b90e183b8316@ncjdhqiuwoiueiofjlknvnvfhkbcdn29_80.asiatech-server.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray_cartel
 vless://bced4af1-e0c0-457b-bf0b-b90e183b8316@kdsjfnskdjfnskdbgksdhfkdsjfslfhdsjkbfskcdn28_80.asiatech-server.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray_cartel
 vless://b058ea8c-b0f8-4f9a-b910-ea3822066137@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=1925.pages.dev&amp;path=/E2ieRDG8VO9rB7t9?ed%3D2560&amp;sni=1925.PaGES.DeV&amp;fp=randomized&amp;alpn=h2,http/1.1#@v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel-رایگان-نامحدود
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443?type=tcp#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#@v2ray_cartel
