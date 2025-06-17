@@ -55,6 +55,9 @@ trojan://91565d37-e81a-479d-9cb0-9cb2d86cea2c@104.21.22.211:443?path=%2FfL1PjbUt
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.82.20:8880?type=ws&amp;host=us.laoyoutiao.link&amp;path=%2F#@v2Source🇪🇸
 vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@Parsonline.france-learns.ir:42542?security=&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#@v2Source🇮🇷
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&amp;security=none&amp;encryption=none&amp;host=barayeiran.nastaranh.dpdns.org&amp;type=ws#@v2Source🇨🇦
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.20:8880?sni=us.laoyoutiao.link&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#@v2Source🇷🇺
+vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@v2Source🇮🇷
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.127.113:80?security=none&amp;sni=sib.sibzamini.dpdns.org&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#@v2Source🇨🇦
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.218:8880?type=ws&amp;host=us.laoyoutiao.link&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3#@v2Source🇯🇵
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.218.15.238:443?security=tls&amp;sni=pqh23v4.hiddendom.shop&amp;type=grpc&amp;host=pqh23v4.hiddendom.shop&amp;alpn=h2#@v2Source🇭🇰
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.37:2087?security=tls&amp;sni=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&amp;type=ws&amp;host=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&amp;path=/&amp;alpn=h2http/1.1#@v2Source🇸🇪
@@ -72,9 +75,6 @@ trojan://91565d37-e81a-479d-9cb0-9cb2d86cea2c@104.21.22.211:443?path=%2FfL1PjbUt
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.82.20:8880?type=ws&amp;host=us.laoyoutiao.link&amp;path=%2F#@v2Source🇪🇸
 vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@Parsonline.france-learns.ir:42542?security=&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#@v2Source🇮🇷
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&amp;security=none&amp;encryption=none&amp;host=barayeiran.nastaranh.dpdns.org&amp;type=ws#@v2Source🇨🇦
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.20:8880?sni=us.laoyoutiao.link&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#@v2Source🇷🇺
-vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@v2Source🇮🇷
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.127.113:80?security=none&amp;sni=sib.sibzamini.dpdns.org&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#@v2Source🇨🇦
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.20:8880?sni=us.laoyoutiao.link&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#@v2Source🇷🇺
 vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@v2Source🇮🇷
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.127.113:80?security=none&amp;sni=sib.sibzamini.dpdns.org&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#@v2Source🇨🇦
