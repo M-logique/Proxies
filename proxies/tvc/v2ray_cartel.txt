@@ -14,6 +14,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?type=ws&amp;host=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638856975835382004.yasuj-drc-tusabb.info:8880?type=grpc&amp;mode=gun&amp;security=none#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080?type=tcp#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#@v2ray_cartel
+trojan://Aimer@13.66.217.130:443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#[🇺🇸]v2ray_cartel
+vless://9e3af234-4fc2-440d-bb6e-bf29dfc63b34@amoron.v2kor.xyz:25742?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇬🇧]v2ray_cartel4
+vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-43.f-sub.cfd:4926?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#[🇩🇪]v2ray_cartel
 vless://a1c2ddb0-9e3c-4b11-acee-e358025d3e60@84.241.20.8:123?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]v2ray_cartel-1
 vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#[🇮🇷]v2ray_cartel-8
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;type=ws#[🇨🇦]v2ray_cartel-7
