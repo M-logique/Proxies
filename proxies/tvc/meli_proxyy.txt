@@ -1,3 +1,5 @@
+vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
+vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
 vless://6bbd843c-b63b-4135-89d7-6d2292778451@v2sig1v2sig1.asanction.com:80?path=%2F1G62xT3vdSTfVqxhHb1Hlb48Yu4&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=v2sig1v2sig1.asanction.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=v2sig1v2sig1.asanction.com#@meli_proxyy
 vless://bb44caec-adee-4c7e-82bf-11e9a11b982e@Plus.srvice.shop:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@meli_proxyy
