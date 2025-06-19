@@ -1,6 +1,6 @@
-vless://6bbd843c-b63b-4135-89d7-6d2292778451@v2sig1v2sig1.asanction.com:80?path=%2F1G62xT3vdSTfVqxhHb1Hlb48Yu4&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=v2sig1v2sig1.asanction.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=v2sig1v2sig1.asanction.com#@meli_proxyy
-vless://bb44caec-adee-4c7e-82bf-11e9a11b982e@Plus.srvice.shop:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@meli_proxyy
-vless://eb249902-f5ca-47d2-8d6f-5335ae967d4a@188.121.107.234:3456?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
+vless://d075d88d-da04-413b-b972-c764d49d0ffc@isv.dl4movis.ir:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=F657cDZHxwh73uDq0WtfPqk9HeARY6Q_zoQsKFwQNSY&amp;fp=firefox&amp;type=grpc&amp;sni=refersion.com&amp;sid=fe44303ae92cb3ef#@meli_proxyy
+vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
+vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
@@ -13,10 +13,6 @@ vless://26f59655-5ac1-4bc0-bb2d-a042ab8e6388@irNt.Nisvn.ir:500?security=none&amp
 vless://d075d88d-da04-413b-b972-c764d49d0ffc@isv.dl4movis.ir:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=F657cDZHxwh73uDq0WtfPqk9HeARY6Q_zoQsKFwQNSY&amp;fp=firefox&amp;type=grpc&amp;sni=refersion.com&amp;sid=fe44303ae92cb3ef#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
-vless://6bbd843c-b63b-4135-89d7-6d2292778451@v2sig1v2sig1.asanction.com:80?path=%2F1G62xT3vdSTfVqxhHb1Hlb48Yu4&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=v2sig1v2sig1.asanction.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=v2sig1v2sig1.asanction.com#@meli_proxyy
-vless://bb44caec-adee-4c7e-82bf-11e9a11b982e@Plus.srvice.shop:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@meli_proxyy
-vless://eb249902-f5ca-47d2-8d6f-5335ae967d4a@188.121.107.234:3456?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
@@ -29,10 +25,6 @@ vless://26f59655-5ac1-4bc0-bb2d-a042ab8e6388@irNt.Nisvn.ir:500?security=none&amp
 vless://d075d88d-da04-413b-b972-c764d49d0ffc@isv.dl4movis.ir:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=F657cDZHxwh73uDq0WtfPqk9HeARY6Q_zoQsKFwQNSY&amp;fp=firefox&amp;type=grpc&amp;sni=refersion.com&amp;sid=fe44303ae92cb3ef#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
-vless://6bbd843c-b63b-4135-89d7-6d2292778451@v2sig1v2sig1.asanction.com:80?path=%2F1G62xT3vdSTfVqxhHb1Hlb48Yu4&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=v2sig1v2sig1.asanction.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=v2sig1v2sig1.asanction.com#@meli_proxyy
-vless://bb44caec-adee-4c7e-82bf-11e9a11b982e@Plus.srvice.shop:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@meli_proxyy
-vless://eb249902-f5ca-47d2-8d6f-5335ae967d4a@188.121.107.234:3456?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
@@ -45,10 +37,6 @@ vless://26f59655-5ac1-4bc0-bb2d-a042ab8e6388@irNt.Nisvn.ir:500?security=none&amp
 vless://d075d88d-da04-413b-b972-c764d49d0ffc@isv.dl4movis.ir:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=F657cDZHxwh73uDq0WtfPqk9HeARY6Q_zoQsKFwQNSY&amp;fp=firefox&amp;type=grpc&amp;sni=refersion.com&amp;sid=fe44303ae92cb3ef#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
-vless://6bbd843c-b63b-4135-89d7-6d2292778451@v2sig1v2sig1.asanction.com:80?path=%2F1G62xT3vdSTfVqxhHb1Hlb48Yu4&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=v2sig1v2sig1.asanction.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=v2sig1v2sig1.asanction.com#@meli_proxyy
-vless://bb44caec-adee-4c7e-82bf-11e9a11b982e@Plus.srvice.shop:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@meli_proxyy
-vless://eb249902-f5ca-47d2-8d6f-5335ae967d4a@188.121.107.234:3456?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#@meli_proxyy
@@ -61,10 +49,6 @@ vless://26f59655-5ac1-4bc0-bb2d-a042ab8e6388@irNt.Nisvn.ir:500?security=none&amp
 vless://d075d88d-da04-413b-b972-c764d49d0ffc@isv.dl4movis.ir:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=F657cDZHxwh73uDq0WtfPqk9HeARY6Q_zoQsKFwQNSY&amp;fp=firefox&amp;type=grpc&amp;sni=refersion.com&amp;sid=fe44303ae92cb3ef#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
 vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
-vless://6bbd843c-b63b-4135-89d7-6d2292778451@v2sig1v2sig1.asanction.com:80?path=%2F1G62xT3vdSTfVqxhHb1Hlb48Yu4&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=v2sig1v2sig1.asanction.com&amp;fp=chrome&amp;type=httpupgrade&amp;sni=v2sig1v2sig1.asanction.com#@meli_proxyy
-vless://bb44caec-adee-4c7e-82bf-11e9a11b982e@Plus.srvice.shop:3030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@meli_proxyy
-vless://eb249902-f5ca-47d2-8d6f-5335ae967d4a@188.121.107.234:3456?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@meli_proxyy
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#@meli_proxyy
 vless://f3c04ab3-790e-4622-b9a2-38a5c016e8d6@81.28.12.12:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=cdn.dafiemikonetheweekendplay.space&amp;path=/?ed%3D2048&amp;sni=www.gcore.com&amp;fp=chrome&amp;alpn=h2,http/1.1#@meli_proxyy
 vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@meli_proxyy
