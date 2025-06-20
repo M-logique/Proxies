@@ -28,7 +28,6 @@ vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=n
 vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#1
 vless://xsv2ray
 vless://xsv2ray
-vless://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.i…
 vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTcyNDRhMDAtMTZiYS00M2NlLTllNmItZjYwMDIyOTBlNDg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiLUBYc1YycmF5IPCfh6jwn4emINqp2…
 vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTVkMWJkYjMtMTcwYi00MjBlLWEwN2QtYjA4YmFjMGM2Y2ZmIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiItQFhzVjJyYXkg8J+HqPCfh6Yg2qnYp9mG2KfZhCDZhdinIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTcyNDRhMDAtMTZiYS00M2NlLTllNmItZjYwMDIyOTBlNDg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiLUBYc1YycmF5IPCfh6jwn4emINqp2KfZhtin2YQg2YXYpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -44,6 +43,7 @@ vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=n
 vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#1
 vless://xsv2ray
 vless://xsv2ray
+vless://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.i…
 vless://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.i…
 vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&amp;fp=firefox&amp;type=grpc&amp;sni=dash.cloudflare.com&amp;sid=83cdb009#@XsV2ray@XsV2ray@XsV2ray-XsV2ray%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@XsV2ray@XsV2ray@XsV2ray-تلگرام
