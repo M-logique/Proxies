@@ -10,7 +10,6 @@ vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182?mode=gun&amp;sec
 vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#%40V2ray1_Ng
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#%40V2RAY1_NG
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2RAY1_ng
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAY1_Ng
 vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#%40V2ray1_Ng
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#%40G0Dv2ray
@@ -23,7 +22,6 @@ vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182?mode=gun&amp;sec
 vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#%40V2ray1_Ng
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#%40V2RAY1_NG
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2RAY1_ng
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAY1_Ng
 vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#%40V2ray1_Ng
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#%40G0Dv2ray
@@ -36,7 +34,6 @@ vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182?mode=gun&amp;sec
 vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#%40V2ray1_Ng
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#%40V2RAY1_NG
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2RAY1_ng
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAY1_Ng
 vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#%40V2ray1_Ng
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#%40G0Dv2ray
@@ -49,7 +46,6 @@ vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182?mode=gun&amp;sec
 vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#%40V2ray1_Ng
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#%40V2RAY1_NG
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2RAY1_ng
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAY1_Ng
 vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#%40V2ray1_Ng
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#%40G0Dv2ray
@@ -62,7 +58,6 @@ vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182?mode=gun&amp;sec
 vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#%40V2ray1_Ng
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#%40V2RAY1_NG
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40V2RAY1_ng
-vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAY1_Ng
 vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzVSY0JhYVowaHVQREZ1RXJNRGZZ@188.121.128.246:21139#VIP
 vless://d12cd1ff-6073-4c5c-92bc-bd0e8f6c063a@193hmale.bazichiserver.top:443?path=%2Fuplod.ir&amp;security=none&amp;alpn=null&amp;encryption=none&amp;type=ws#Mr.bazichi-31938
