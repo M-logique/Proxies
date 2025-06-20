@@ -1,13 +1,8 @@
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
-vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzVSY0JhYVowaHVQREZ1RXJNRGZZ@188.121.128.246:21139#VIP
 vless://d12cd1ff-6073-4c5c-92bc-bd0e8f6c063a@193hmale.bazichiserver.top:443?path=%2Fuplod.ir&amp;security=none&amp;alpn=null&amp;encryption=none&amp;type=ws#Mr.bazichi-31938
