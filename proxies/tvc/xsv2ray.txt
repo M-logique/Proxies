@@ -11,6 +11,8 @@ vless://xsv2ray
 vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#1
 vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#1
 vless://xsv2ray
+vless://xsv2ray
+vless://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.i…
 vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTcyNDRhMDAtMTZiYS00M2NlLTllNmItZjYwMDIyOTBlNDg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiLUBYc1YycmF5IPCfh6jwn4emINqp2…
 vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTVkMWJkYjMtMTcwYi00MjBlLWEwN2QtYjA4YmFjMGM2Y2ZmIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiItQFhzVjJyYXkg8J+HqPCfh6Yg2qnYp9mG2KfZhCDZhdinIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTcyNDRhMDAtMTZiYS00M2NlLTllNmItZjYwMDIyOTBlNDg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiLUBYc1YycmF5IPCfh6jwn4emINqp2KfZhtin2YQg2YXYpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -25,8 +27,6 @@ vless://xsv2ray
 vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#1
 vless://432ce1ef-b487-4bed-aec2-83c71f24d7a8@tunel.katolvpn.buzz:2020?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#1
 vless://xsv2ray
-vless://xsv2ray
-vless://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.i…
 vless://xsv2ray
 vless://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.i…
 vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTcyNDRhMDAtMTZiYS00M2NlLTllNmItZjYwMDIyOTBlNDg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiLUBYc1YycmF5IPCfh6jwn4emINqp2…
