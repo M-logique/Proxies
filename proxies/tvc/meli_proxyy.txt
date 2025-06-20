@@ -14,7 +14,6 @@ vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;secu
 vless://610a9061-8934-4200-bdf1-2fddcf6dec49@ir-netherland.v2shop2.xyz:443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@meli_proxyy
 vless://bceda5dd-d61a-41cf-94e8-59745be56625@2.144.5.102:2053?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@meli_proxyy
 vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=ftp.ipv6.debian.org&amp;sid=4e2e#@meli_proxyy
-vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=ftp.ipv6.debian.org&amp;sid=4e2e#@meli_proxyy
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#@meli_proxyy
 vless://f3c04ab3-790e-4622-b9a2-38a5c016e8d6@81.28.12.12:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=cdn.dafiemikonetheweekendplay.space&amp;path=/?ed%3D2048&amp;sni=www.gcore.com&amp;fp=chrome&amp;alpn=h2,http/1.1#@meli_proxyy
 vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@meli_proxyy
@@ -30,6 +29,7 @@ vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;se
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@meli_proxyy
 vless://610a9061-8934-4200-bdf1-2fddcf6dec49@ir-netherland.v2shop2.xyz:443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@meli_proxyy
 vless://bceda5dd-d61a-41cf-94e8-59745be56625@2.144.5.102:2053?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@meli_proxyy
+vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=ftp.ipv6.debian.org&amp;sid=4e2e#@meli_proxyy
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#@meli_proxyy
 vless://f3c04ab3-790e-4622-b9a2-38a5c016e8d6@81.28.12.12:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=cdn.dafiemikonetheweekendplay.space&amp;path=/?ed%3D2048&amp;sni=www.gcore.com&amp;fp=chrome&amp;alpn=h2,http/1.1#@meli_proxyy
 vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@meli_proxyy
