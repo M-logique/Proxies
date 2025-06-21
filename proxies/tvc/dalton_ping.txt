@@ -1,11 +1,11 @@
+vless://ffc650d8-ab70-4861-a0c4-fc89a88eda3f@81.12.30.51:58045?security=none&amp;type=tcp&amp;headerType=http#DALTON_PING🪽
+vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@DALTON_PING🪽
 vless://1ec98dac-82d5-465a-9244-a326e9ad76e1@srv7.bestforcast.com:6060?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@DALTON_PING🪽
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzVSY0JhYVowaHVQREZ1RXJNRGZZ@188.121.128.246:21139#@DALTON_PING🪽
 vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp##@DALTON_PING🪽
 vmess://eyJhZGQiOiJmcmFuY2Uucm9zdGFtcHJvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZTA1NDRlYy0wNTE5LTRlN2QtOWNkNy0zYTM2NDNiYzBhMzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUzNjY0IiwicHMiOiJAREFMVE9OX1BJTkfwn6q9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#@DALTON_PING🪽
-vless://1acd1d26-3c71-4fc8-9b95-69153b1d678a@37.202.231.24:4443?security=&amp;encryption=none&amp;host=tse.ir&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U0ZjNVVrd3pXa2RDVEV4VFR6RTJVZw@206.245.211.12:19002#@DALTON_PING🪽
 vless://a4210a46-0113-4a69-b656-29d48436e8fb@chrome.phpdeb.ir:8447?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@DALTON_PING🪽
 vless://99e5bebb-f4e5-4940-a78c-f62c944d5095@ios.mhzjtb.top:33520?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
@@ -19,8 +19,6 @@ vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none
 vmess://eyJhZGQiOiJmcmFuY2Uucm9zdGFtcHJvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZTA1NDRlYy0wNTE5LTRlN2QtOWNkNy0zYTM2NDNiYzBhMzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUzNjY0IiwicHMiOiJAREFMVE9OX1BJTkfwn6q9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#@DALTON_PING🪽
-vless://1acd1d26-3c71-4fc8-9b95-69153b1d678a@37.202.231.24:4443?security=&amp;encryption=none&amp;host=tse.ir&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U0ZjNVVrd3pXa2RDVEV4VFR6RTJVZw@206.245.211.12:19002#@DALTON_PING🪽
 vless://a4210a46-0113-4a69-b656-29d48436e8fb@chrome.phpdeb.ir:8447?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@DALTON_PING🪽
 vless://99e5bebb-f4e5-4940-a78c-f62c944d5095@ios.mhzjtb.top:33520?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
@@ -34,8 +32,6 @@ vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none
 vmess://eyJhZGQiOiJmcmFuY2Uucm9zdGFtcHJvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZTA1NDRlYy0wNTE5LTRlN2QtOWNkNy0zYTM2NDNiYzBhMzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUzNjY0IiwicHMiOiJAREFMVE9OX1BJTkfwn6q9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#@DALTON_PING🪽
-vless://1acd1d26-3c71-4fc8-9b95-69153b1d678a@37.202.231.24:4443?security=&amp;encryption=none&amp;host=tse.ir&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U0ZjNVVrd3pXa2RDVEV4VFR6RTJVZw@206.245.211.12:19002#@DALTON_PING🪽
 vless://a4210a46-0113-4a69-b656-29d48436e8fb@chrome.phpdeb.ir:8447?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@DALTON_PING🪽
 vless://99e5bebb-f4e5-4940-a78c-f62c944d5095@ios.mhzjtb.top:33520?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
@@ -49,8 +45,6 @@ vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none
 vmess://eyJhZGQiOiJmcmFuY2Uucm9zdGFtcHJvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZTA1NDRlYy0wNTE5LTRlN2QtOWNkNy0zYTM2NDNiYzBhMzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUzNjY0IiwicHMiOiJAREFMVE9OX1BJTkfwn6q9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#@DALTON_PING🪽
-vless://1acd1d26-3c71-4fc8-9b95-69153b1d678a@37.202.231.24:4443?security=&amp;encryption=none&amp;host=tse.ir&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U0ZjNVVrd3pXa2RDVEV4VFR6RTJVZw@206.245.211.12:19002#@DALTON_PING🪽
 vless://a4210a46-0113-4a69-b656-29d48436e8fb@chrome.phpdeb.ir:8447?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@DALTON_PING🪽
 vless://99e5bebb-f4e5-4940-a78c-f62c944d5095@ios.mhzjtb.top:33520?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
@@ -64,8 +58,8 @@ vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none
 vmess://eyJhZGQiOiJmcmFuY2Uucm9zdGFtcHJvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZTA1NDRlYy0wNTE5LTRlN2QtOWNkNy0zYTM2NDNiYzBhMzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUzNjY0IiwicHMiOiJAREFMVE9OX1BJTkfwn6q9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://a69f0b08-a402-4aeb-8bb9-8411baacad55@195.190.144.170:32581?security=none&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#@DALTON_PING🪽
-vless://1acd1d26-3c71-4fc8-9b95-69153b1d678a@37.202.231.24:4443?security=&amp;encryption=none&amp;host=tse.ir&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
+vless://f28e3e08-a7b3-4eaa-b336-517c46a77e12@5.202.8.148:50687?type=tcp&amp;security=none#@DALTON_PING🪽
+vless://bf8fd71a-4f50-4049-d822-ee32bfd6b5f1@srv.1.larosnetwork.shop:443?security=hub.docker.com&amp;headerType=http&amp;type=tcp#@DALTON_PING🪽
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=dl1.mcinet.xyz.&amp;type=httpupgrade#@DALTON_PING🪽
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@vpncityy3.aliha.icu:9089?path=%2F&amp;encryption=none&amp;host=zula.ir&amp;headerType=none&amp;type=ws&amp;quicSecurity=none#@DALTON_PING🪽
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@vpncityy3.aliha.icu:9089?path=%2F&amp;security=none&amp;encryption=none&amp;host=zula.ir&amp;type=ws#@DALTON_PING🪽
