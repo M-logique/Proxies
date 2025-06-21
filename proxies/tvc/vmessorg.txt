@@ -1,3 +1,4 @@
+vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://74e0f9b9-e7d4-400c-bcc3-cc0fbdf7bc58@netorg.nightwolf.shop:53769?type=tcp&amp;headerType=http&amp;host=45.90.28.0&amp;security=none#@vmessorg
 vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://79236512-fca4-4588-a67e-4b8f39546c5c@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
@@ -10,7 +11,8 @@ vless://6aacf831-bbd6-4c36-95ba-455ecf973ead@195.190.144.157:57947?type=tcp&amp;
 vless://a6971bce-5c75-4c01-9552-934d2f6b9c8b@search.bazarir.com:443?type=grpc&amp;mode=gun&amp;serviceName=3rmfeH2GxLXHCPiKNFC&amp;security=reality&amp;fp=chrome&amp;sni=7-zip.org&amp;pbk=KA78-yWKczigJtGQpWN26iAgDEhYUglz2ggKHWGeaVE&amp;sid=09aa0549c08447#@vmessorg
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@2xhotult.youirme.com:2052?type=ws&amp;path=/&amp;security=none#@vmessorg
 vless://dab270bc-12cf-4f5c-a435-c40143b345b5@absx.ir:50733?type=tcp&amp;headerType=http&amp;security=none#@vmessorg
-vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiYWxpZW4tZXp0ZXJhcmkuc2hvcG9uZXRvcC5jb20iLCJob3N0IjoicDMwYWZ6YXIuY29tIiwibmV0IjoidGNwIiwiaWQiOiI1MmEyYzA1Ny0xNWU0LTRjMzgtYWM3MS0wYjdkMzg3ZjdlOGQiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDAwMSIsInR5cGUiOiJodHRwIiwicHMiOiIlNDB2bWVzc29yZyJ9
+vless://dab270bc-12cf-4f5c-a435-c40143b345b5@absx.ir:50733?type=tcp&amp;headerType=http&amp;security=none#@vmessorg
+vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://74e0f9b9-e7d4-400c-bcc3-cc0fbdf7bc58@netorg.nightwolf.shop:53769?type=tcp&amp;headerType=http&amp;host=45.90.28.0&amp;security=none#@vmessorg
 vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://79236512-fca4-4588-a67e-4b8f39546c5c@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
@@ -23,7 +25,7 @@ vless://6aacf831-bbd6-4c36-95ba-455ecf973ead@195.190.144.157:57947?type=tcp&amp;
 vless://a6971bce-5c75-4c01-9552-934d2f6b9c8b@search.bazarir.com:443?type=grpc&amp;mode=gun&amp;serviceName=3rmfeH2GxLXHCPiKNFC&amp;security=reality&amp;fp=chrome&amp;sni=7-zip.org&amp;pbk=KA78-yWKczigJtGQpWN26iAgDEhYUglz2ggKHWGeaVE&amp;sid=09aa0549c08447#@vmessorg
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@2xhotult.youirme.com:2052?type=ws&amp;path=/&amp;security=none#@vmessorg
 vless://dab270bc-12cf-4f5c-a435-c40143b345b5@absx.ir:50733?type=tcp&amp;headerType=http&amp;security=none#@vmessorg
-vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiYWxpZW4tZXp0ZXJhcmkuc2hvcG9uZXRvcC5jb20iLCJob3N0IjoicDMwYWZ6YXIuY29tIiwibmV0IjoidGNwIiwiaWQiOiI1MmEyYzA1Ny0xNWU0LTRjMzgtYWM3MS0wYjdkMzg3ZjdlOGQiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDAwMSIsInR5cGUiOiJodHRwIiwicHMiOiIlNDB2bWVzc29yZyJ9
+vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://74e0f9b9-e7d4-400c-bcc3-cc0fbdf7bc58@netorg.nightwolf.shop:53769?type=tcp&amp;headerType=http&amp;host=45.90.28.0&amp;security=none#@vmessorg
 vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://79236512-fca4-4588-a67e-4b8f39546c5c@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
@@ -36,7 +38,7 @@ vless://6aacf831-bbd6-4c36-95ba-455ecf973ead@195.190.144.157:57947?type=tcp&amp;
 vless://a6971bce-5c75-4c01-9552-934d2f6b9c8b@search.bazarir.com:443?type=grpc&amp;mode=gun&amp;serviceName=3rmfeH2GxLXHCPiKNFC&amp;security=reality&amp;fp=chrome&amp;sni=7-zip.org&amp;pbk=KA78-yWKczigJtGQpWN26iAgDEhYUglz2ggKHWGeaVE&amp;sid=09aa0549c08447#@vmessorg
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@2xhotult.youirme.com:2052?type=ws&amp;path=/&amp;security=none#@vmessorg
 vless://dab270bc-12cf-4f5c-a435-c40143b345b5@absx.ir:50733?type=tcp&amp;headerType=http&amp;security=none#@vmessorg
-vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiYWxpZW4tZXp0ZXJhcmkuc2hvcG9uZXRvcC5jb20iLCJob3N0IjoicDMwYWZ6YXIuY29tIiwibmV0IjoidGNwIiwiaWQiOiI1MmEyYzA1Ny0xNWU0LTRjMzgtYWM3MS0wYjdkMzg3ZjdlOGQiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDAwMSIsInR5cGUiOiJodHRwIiwicHMiOiIlNDB2bWVzc29yZyJ9
+vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://74e0f9b9-e7d4-400c-bcc3-cc0fbdf7bc58@netorg.nightwolf.shop:53769?type=tcp&amp;headerType=http&amp;host=45.90.28.0&amp;security=none#@vmessorg
 vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://79236512-fca4-4588-a67e-4b8f39546c5c@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
@@ -49,9 +51,8 @@ vless://6aacf831-bbd6-4c36-95ba-455ecf973ead@195.190.144.157:57947?type=tcp&amp;
 vless://a6971bce-5c75-4c01-9552-934d2f6b9c8b@search.bazarir.com:443?type=grpc&amp;mode=gun&amp;serviceName=3rmfeH2GxLXHCPiKNFC&amp;security=reality&amp;fp=chrome&amp;sni=7-zip.org&amp;pbk=KA78-yWKczigJtGQpWN26iAgDEhYUglz2ggKHWGeaVE&amp;sid=09aa0549c08447#@vmessorg
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@2xhotult.youirme.com:2052?type=ws&amp;path=/&amp;security=none#@vmessorg
 vless://dab270bc-12cf-4f5c-a435-c40143b345b5@absx.ir:50733?type=tcp&amp;headerType=http&amp;security=none#@vmessorg
-vmess://eyJzY3kiOiJhdXRvIiwiYWRkIjoiYWxpZW4tZXp0ZXJhcmkuc2hvcG9uZXRvcC5jb20iLCJob3N0IjoicDMwYWZ6YXIuY29tIiwibmV0IjoidGNwIiwiaWQiOiI1MmEyYzA1Ny0xNWU0LTRjMzgtYWM3MS0wYjdkMzg3ZjdlOGQiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDAwMSIsInR5cGUiOiJodHRwIiwicHMiOiIlNDB2bWVzc29yZyJ9
+vless://c7a480bc-579c-424d-a1f9-8f773458d4a7@nv139.momdping.com:443?type=ws&amp;path=/&amp;security=tls&amp;sni=nv139.momdping.com#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://cb5c067b-322b-4794-92ee-3a8f0b18dbfb@netorg.nightwolf.shop:53769?type=tcp&amp;headerType=http&amp;host=45.90.28.0&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://129146bf-83ca-41c7-a819-e562c06e8699@cdn.goferi.top:443?type=tcp&amp;headerType=http&amp;host=myket.ir&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3
 vless://e3c249a9-0105-41ed-f8ec-cc26a75a85b0@snapp.ir:80?type=ws&amp;host=rmagrm3etov-60c9e41acd-camera.apps.ir-central1.arvancaas.ir&amp;path=/op/TOP/Shopy&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@ccad1.vipsell-one.ir:443?type=ws&amp;host=ccsnal.vipsell-one.ir&amp;path=/ALB/VIPSell/@saeedtelg&amp;security=tls&amp;fp=firefox&amp;sni=ccsnal.vipsell-one.ir&amp;alpn=http/1.1#Telegram:+@vmessorg
-vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
