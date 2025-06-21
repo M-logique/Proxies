@@ -2,7 +2,6 @@ vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDFlYjYyNi00YzE0LTRhMmYtYjA2Yi0yMjkxNjRmZTRmNDY@free.2weradf.xyz:36313#.
 vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@silver.mihansea.com:7091?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;type=tcp#.
 vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=office1001.avaoffice.cloud#.
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?security=tls&amp;sni=pHOTOgrApHipiCTureaI.IR&amp;type=ws&amp;host=photographipictureai.ir&amp;path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#.
@@ -11,7 +10,6 @@ vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDFlYjYyNi00YzE0LTRhMmYtYjA2Yi0yMjkxNjRmZTRmNDY@free.2weradf.xyz:36313#.
 vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@silver.mihansea.com:7091?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;type=tcp#.
 vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=office1001.avaoffice.cloud#.
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?security=tls&amp;sni=pHOTOgrApHipiCTureaI.IR&amp;type=ws&amp;host=photographipictureai.ir&amp;path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#.
@@ -20,7 +18,6 @@ vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDFlYjYyNi00YzE0LTRhMmYtYjA2Yi0yMjkxNjRmZTRmNDY@free.2weradf.xyz:36313#.
 vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@silver.mihansea.com:7091?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;type=tcp#.
 vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=office1001.avaoffice.cloud#.
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?security=tls&amp;sni=pHOTOgrApHipiCTureaI.IR&amp;type=ws&amp;host=photographipictureai.ir&amp;path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#.
@@ -29,7 +26,7 @@ vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDFlYjYyNi00YzE0LTRhMmYtYjA2Yi0yMjkxNjRmZTRmNDY@free.2weradf.xyz:36313#.
+vless://d253ddff-6f55-4edb-b142-948e81c83687@vexo6.cafefart42.ir:42542?security=none&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#.
 vless://54cbc2a1-c905-4d8b-864a-9ce5e5dada94@www.speedtest.net:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.ceRtHoSt.IR&amp;type=httpupgrade#.
 vless://54cbc2a1-c905-4d8b-864a-9ce5e5dada94@www.speedtest.net:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.blAcKpaPErs.IR&amp;type=httpupgrade#.
 vless://54cbc2a1-c905-4d8b-864a-9ce5e5dada94@www.speedtest.net:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.kiWiJuiCe.IR&amp;type=httpupgrade#.
