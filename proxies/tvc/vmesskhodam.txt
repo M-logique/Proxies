@@ -1,4 +1,3 @@
-vless://d688fd31-7313-4657-8234-d25a16fb5442@gr57.adelshoop.net:443?path=%2Fadelshoop&amp;security=tls&amp;encryption=none&amp;type=ws#@vmesskhodam
 vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&amp;encryption=none&amp;host=analytics.google.com&amp;headerType=http&amp;type=tcp#@vmesskhodam
 vless://a6e29449-1bd3-4112-9d72-0f1722d0fbff@usvip.irannoweb.art:8080?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8+United+States+%7C+Tunnel
 vless://3ab9c2a4-bf80-4920-89b0-e4dd2583a9b4@digipay.com.snapp.app.pwa.mci.ir.nitter.ir:443?path=%2Fhajmi%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=nb-de.parsdl.xyz&amp;fp=chrome&amp;type=ws&amp;sni=parsdl.xyz#ersali
