@@ -1,3 +1,5 @@
+vless://6c39e8e2-bb98-478b-9fc7-f35939d465f3@ninja.thegameuhb.ir:1342?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#v2ray_cartel
+vless://351f0133-11f4-4401-b082-371cc8d24f71@dl3.api-tel.xyz:23939?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%v2ray_cartel-1
 vless://522ed72a-2508-4371-91c7-3df0702c123f@sadra2.blog561.com:22423?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#v2ray_cartel-9
 vless://b639219b-2414-4a7c-bf43-6bee61b2080b@mask65.api-tel.xyz:11540?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%v2ray_cartel
 vless://df52234d-f8d8-4777-aac8-d15c436196cd@curt190.curtvbest.ir:2334?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=speedtest.net#%v2ray_cartel
