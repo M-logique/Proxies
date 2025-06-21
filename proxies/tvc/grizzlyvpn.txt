@@ -3,11 +3,13 @@ vless://b8804d1a-2c57-4e6d-bf44-3f41d4c0a2c1@193.151.132.16:8543?encryption=none
 vless://b8804d1a-2c57-4e6d-bf44-3f41d4c0a2c1@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40GrizlyVPN
 vless://d7e8c26c-09ee-47a5-b502-945ad3c9c2c0@37.32.4.81:8999?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40GrizzlyVPN
 vless://19cf51d7-7ec9-4cd4-a36d-90d3a760954d@193.151.132.16:8543?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40GrizzlyVPN
+vless://08b2c9bf-75b9-456a-9ea3-1a757979d30f@193.151.132.16:8543?type=tcp&amp;security=none#%40GrizzlyVPN
 vless://81aa4718-2342-4804-ba3c-0f2357221b02@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Grizzlyvpn
 vless://b8804d1a-2c57-4e6d-bf44-3f41d4c0a2c1@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40GrizlyVPN
 vless://b8804d1a-2c57-4e6d-bf44-3f41d4c0a2c1@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40GrizlyVPN
 vless://d7e8c26c-09ee-47a5-b502-945ad3c9c2c0@37.32.4.81:8999?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40GrizzlyVPN
 vless://19cf51d7-7ec9-4cd4-a36d-90d3a760954d@193.151.132.16:8543?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40GrizzlyVPN
+vless://08b2c9bf-75b9-456a-9ea3-1a757979d30f@193.151.132.16:8543?type=tcp&amp;security=none#%40GrizzlyVPN
 vless://81aa4718-2342-4804-ba3c-0f2357221b02@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Grizzlyvpn
 vless://b8804d1a-2c57-4e6d-bf44-3f41d4c0a2c1@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40GrizlyVPN
 vless://b8804d1a-2c57-4e6d-bf44-3f41d4c0a2c1@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40GrizlyVPN
@@ -18,4 +20,3 @@ vless://9c743c21-4ae8-409a-ab2f-5da85ea8af31@37.32.4.81:8999?encryption=none&amp
 vless://13bc58c3-a9e9-40ad-be26-0335e72b890c@193.151.132.16:8543?type=tcp&amp;security=none#%40GrizzlyVPN
 vless://e4532946-6081-47d3-9c78-4097bdf2d54e@37.32.4.81:8999?type=tcp&amp;security=none#eb8s0w65
 vless://77f065c8-8df4-4b1a-bbfa-db6b8fa33a84@193.151.132.16:8543?type=tcp&amp;security=none#%40GrizzlyVPN
-vless://08b2c9bf-75b9-456a-9ea3-1a757979d30f@193.151.132.16:8543?type=tcp&amp;security=none#%40GrizzlyVPN
