@@ -1,4 +1,3 @@
-vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=office1001.avaoffice.cloud#.
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#
@@ -26,6 +25,7 @@ vless://a27c7aca-c39c-48ac-8a6a-c6794340b157@office1001.avaoffice.cloud:443?path
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#.
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#
+vless://8405b505-709f-4066-8f24-5337212d47d4@ab.vipfast6.shop:443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=journalofbigdata.springeropen.com&amp;pbk=mu0LLDgqLrI_QQwD3Dhd_sAldyWylaspLVS5lXDEeCU&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=grpc&amp;sni=journalofbigdata.springeropen.com&amp;sid=e0796eb9b80f7a#.
 vless://d253ddff-6f55-4edb-b142-948e81c83687@vexo6.cafefart42.ir:42542?security=none&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#.
 vless://54cbc2a1-c905-4d8b-864a-9ce5e5dada94@www.speedtest.net:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.ceRtHoSt.IR&amp;type=httpupgrade#.
 vless://54cbc2a1-c905-4d8b-864a-9ce5e5dada94@www.speedtest.net:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.blAcKpaPErs.IR&amp;type=httpupgrade#.
