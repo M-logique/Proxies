@@ -3,8 +3,8 @@ vless://7ac105b2-015e-466d-aeaa-fa049954c8fb@irsupgn1.gamewealth.ir:8443?securit
 vless://93b108f8-e479-41b5-94f7-6e429352bfbc@185.79.158.145:8220?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://7d8e4e35-1c10-4a57-9293-ec2ee456644f@185.79.158.141:8088?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://6dbef6da-9c8e-46db-bd0f-f5d92d65170c@Mci.rskhi.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#[🇩🇪]@FREECONFIGSPLUS
-vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=ftp.ipv6.debian.org&amp;sid=4e2e#[🇺🇸]@FREECONFIGSPLUS
-vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@Forza.minecraftr.us:2050?path=%2Farchive&amp;security=&amp;encryption=none&amp;host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2Cmyket.ir%2Ctamin.ir%2Ccafebazaar.ir&amp;type=ws#[🇮🇷]@FREECONFIGSPLUS
+vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
+vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
 vless://1ec98dac-82d5-465a-9244-a326e9ad76e1@srv7.bestforcast.com:6060?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#[🇮🇷]@FREECONFIGSPLUS
 vmess://47a4e822-61ce-4eb2-d5bd-8db6f17bab93@hpir.alotonv.top:7580?type=http&amp;path=%2F#[🇺🇸]@FREECONFIGSPLUS
 vless://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?path=%2FVPNPacket&amp;security=&amp;encryption=none&amp;type=ws#[🇩🇪]@FREECONFIGSPLUS
@@ -17,8 +17,8 @@ vless://7ac105b2-015e-466d-aeaa-fa049954c8fb@irsupgn1.gamewealth.ir:8443?securit
 vless://93b108f8-e479-41b5-94f7-6e429352bfbc@185.79.158.145:8220?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://7d8e4e35-1c10-4a57-9293-ec2ee456644f@185.79.158.141:8088?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://6dbef6da-9c8e-46db-bd0f-f5d92d65170c@Mci.rskhi.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#[🇩🇪]@FREECONFIGSPLUS
-vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=ftp.ipv6.debian.org&amp;sid=4e2e#[🇺🇸]@FREECONFIGSPLUS
-vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@Forza.minecraftr.us:2050?path=%2Farchive&amp;security=&amp;encryption=none&amp;host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2Cmyket.ir%2Ctamin.ir%2Ccafebazaar.ir&amp;type=ws#[🇮🇷]@FREECONFIGSPLUS
+vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
+vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
 vless://1ec98dac-82d5-465a-9244-a326e9ad76e1@srv7.bestforcast.com:6060?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#[🇮🇷]@FREECONFIGSPLUS
 vmess://47a4e822-61ce-4eb2-d5bd-8db6f17bab93@hpir.alotonv.top:7580?type=http&amp;path=%2F#[🇺🇸]@FREECONFIGSPLUS
 vless://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?path=%2FVPNPacket&amp;security=&amp;encryption=none&amp;type=ws#[🇩🇪]@FREECONFIGSPLUS
@@ -31,8 +31,8 @@ vless://7ac105b2-015e-466d-aeaa-fa049954c8fb@irsupgn1.gamewealth.ir:8443?securit
 vless://93b108f8-e479-41b5-94f7-6e429352bfbc@185.79.158.145:8220?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://7d8e4e35-1c10-4a57-9293-ec2ee456644f@185.79.158.141:8088?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://6dbef6da-9c8e-46db-bd0f-f5d92d65170c@Mci.rskhi.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#[🇩🇪]@FREECONFIGSPLUS
-vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=ftp.ipv6.debian.org&amp;sid=4e2e#[🇺🇸]@FREECONFIGSPLUS
-vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@Forza.minecraftr.us:2050?path=%2Farchive&amp;security=&amp;encryption=none&amp;host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2Cmyket.ir%2Ctamin.ir%2Ccafebazaar.ir&amp;type=ws#[🇮🇷]@FREECONFIGSPLUS
+vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
+vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
 vless://1ec98dac-82d5-465a-9244-a326e9ad76e1@srv7.bestforcast.com:6060?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#[🇮🇷]@FREECONFIGSPLUS
 vmess://47a4e822-61ce-4eb2-d5bd-8db6f17bab93@hpir.alotonv.top:7580?type=http&amp;path=%2F#[🇺🇸]@FREECONFIGSPLUS
 vless://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?path=%2FVPNPacket&amp;security=&amp;encryption=none&amp;type=ws#[🇩🇪]@FREECONFIGSPLUS
@@ -45,8 +45,8 @@ vless://7ac105b2-015e-466d-aeaa-fa049954c8fb@irsupgn1.gamewealth.ir:8443?securit
 vless://93b108f8-e479-41b5-94f7-6e429352bfbc@185.79.158.145:8220?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://7d8e4e35-1c10-4a57-9293-ec2ee456644f@185.79.158.141:8088?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
 vless://6dbef6da-9c8e-46db-bd0f-f5d92d65170c@Mci.rskhi.ir:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#[🇩🇪]@FREECONFIGSPLUS
-vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=ftp.ipv6.debian.org&amp;sid=4e2e#[🇺🇸]@FREECONFIGSPLUS
-vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@Forza.minecraftr.us:2050?path=%2Farchive&amp;security=&amp;encryption=none&amp;host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online%2Cmyket.ir%2Ctamin.ir%2Ccafebazaar.ir&amp;type=ws#[🇮🇷]@FREECONFIGSPLUS
+vless://e6e26ede-ef74-453f-b0b4-8240f33428ad@nl1-tonel.vreexybot.com:63634?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#[🇳🇱]@FREECONFIGSPLUS
+vless://e6e26ede-ef74-453f-b0b4-8240f33428ad@nl1-tonel.vreexybot.com:63634?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#[🇳🇱]@FREECONFIGSPLUS
 vless://e6e26ede-ef74-453f-b0b4-8240f33428ad@nl1-tonel.vreexybot.com:63634?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#[🇳🇱]@FREECONFIGSPLUS
 vless://f47257a3-ab2e-4662-9e4c-10612d414794@5.144.132.230:6067?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=2055vless#[🇮🇷]@FREECONFIGSPLUS
 vless://1364334f-7361-4ebc-86a1-ac06e918631f@ir.bestirspeed.top:8002?security=&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#[🇮🇷]@FREECONFIGSPLUS
@@ -62,5 +62,3 @@ vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@silver.mihansea.com:7091?security=&
 vmess://eyJhZGQiOiIyMTIuMjMuMjE0LjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MjlkY2E2OC1kYjMzLTQ2N2UtODk5NS00YTg0ZjU1NmFhZGMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMTA5IiwicHMiOiJbIPCfh6nwn4eqIF0gVC5tZS9GUkVFQ09ORklHU1BMVVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://71ff6388-fbd5-462b-afbd-90630b13704f@as5356.safer7644.com:35445?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇺🇸]@FREECONFIGSPLUS
 vless://71ff6388-fbd5-462b-afbd-90630b13704f@as5356.safer7644.com:35445?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇺🇸]@FREECONFIGSPLUS
-vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
-vless://c0a1d741-4382-4213-b9bf-3f0803338786@pish.api.cdn-ir.uplinker.sbs:2666?security=reality&amp;encryption=none&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#[🇮🇷]@FREECONFIGSPLUS
