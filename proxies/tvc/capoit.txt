@@ -12,7 +12,6 @@ vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@Capoit
 vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Capoit
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@195.28.169.253:443?path=%2Fapi%2Fv1%2Firc&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=vod.ensf.top&amp;type=ws&amp;sni=vod.ensf.top#%40Capoit
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=jp.laoyoutiao.link&amp;type=ws#%D8%AA%DB%8C%D9%85%20%D9%85%D8%A7%20%DA%A9%D9%86%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D9%87%E2%80%8C%20%40Capoit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws&amp;sni=hk.laoyoutiao.link#%40Capoit
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=dl1.mcinet.xyz.&amp;type=httpupgrade#%40Capoit
 vless://187b6dee-d77a-4ad9-b7d6-79e496ee9c05@iranm.nimhub.ir:2096?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=mJe.nimhub.ir&amp;fp=chrome&amp;type=ws&amp;sni=mJe.nimhub.ir#@Capoit
@@ -27,7 +26,6 @@ vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@Capoit
 vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Capoit
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@195.28.169.253:443?path=%2Fapi%2Fv1%2Firc&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=vod.ensf.top&amp;type=ws&amp;sni=vod.ensf.top#%40Capoit
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=jp.laoyoutiao.link&amp;type=ws#%D8%AA%DB%8C%D9%85%20%D9%85%D8%A7%20%DA%A9%D9%86%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D9%87%E2%80%8C%20%40Capoit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws&amp;sni=hk.laoyoutiao.link#%40Capoit
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=dl1.mcinet.xyz.&amp;type=httpupgrade#%40Capoit
 vless://187b6dee-d77a-4ad9-b7d6-79e496ee9c05@iranm.nimhub.ir:2096?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=mJe.nimhub.ir&amp;fp=chrome&amp;type=ws&amp;sni=mJe.nimhub.ir#@Capoit
@@ -42,7 +40,6 @@ vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@Capoit
 vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Capoit
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@195.28.169.253:443?path=%2Fapi%2Fv1%2Firc&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=vod.ensf.top&amp;type=ws&amp;sni=vod.ensf.top#%40Capoit
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=jp.laoyoutiao.link&amp;type=ws#%D8%AA%DB%8C%D9%85%20%D9%85%D8%A7%20%DA%A9%D9%86%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D9%87%E2%80%8C%20%40Capoit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws&amp;sni=hk.laoyoutiao.link#%40Capoit
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=dl1.mcinet.xyz.&amp;type=httpupgrade#%40Capoit
 vless://187b6dee-d77a-4ad9-b7d6-79e496ee9c05@iranm.nimhub.ir:2096?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=mJe.nimhub.ir&amp;fp=chrome&amp;type=ws&amp;sni=mJe.nimhub.ir#@Capoit
@@ -57,7 +54,6 @@ vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@Capoit
 vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Capoit
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@195.28.169.253:443?path=%2Fapi%2Fv1%2Firc&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=vod.ensf.top&amp;type=ws&amp;sni=vod.ensf.top#%40Capoit
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=jp.laoyoutiao.link&amp;type=ws#%D8%AA%DB%8C%D9%85%20%D9%85%D8%A7%20%DA%A9%D9%86%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D9%87%E2%80%8C%20%40Capoit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws&amp;sni=hk.laoyoutiao.link#%40Capoit
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=dl1.mcinet.xyz.&amp;type=httpupgrade#%40Capoit
 vless://2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#@Capoit
