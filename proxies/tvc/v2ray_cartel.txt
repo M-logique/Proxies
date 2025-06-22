@@ -1,4 +1,3 @@
-vless://f53c9c18-fcd7-0e98-a932-8bc7a1adcf52@dns19.nichoster.com:21503?security=&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#joinbede@v2ray_cartel
 vless://f8a995f7-2862-4f53-985d-3cca55d09ea2@nt.franker.shop:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#v2ray_cartel
 vless://f53c9c18-fcd7-0e98-a932-8bc7a1adcf52@dns19.nichoster.com:21503?security=&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#joinbede@v2ray_cartel
 vless://f8a995f7-2862-4f53-985d-3cca55d09ea2@nt.franker.shop:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#v2ray_cartel
