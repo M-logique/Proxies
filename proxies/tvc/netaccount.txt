@@ -1,4 +1,2 @@
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;alpn=-@ProxyPJ---@ProxyPJ
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;alpn=-@ProxyPJ---@ProxyPJ
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;alpn=-@ProxyPJ---@ProxyPJ
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;alpn=-@ProxyPJ---@ProxyPJ
+vless://18d11ff6-aa6c-449b-bcd5-4998e3323b3b@tuni.sdcards.ir:4009?security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&amp;type=ws&amp;path=/TelegramU0001F1E8U0001F1F3&amp;host=hk.laoyoutiao.link&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
