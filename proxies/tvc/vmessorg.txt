@@ -5,10 +5,10 @@ vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?type=tcp&amp;h
 vless://79236512-fca4-4588-a67e-4b8f39546c5c@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://f53c9c18-fcd7-0e98-a932-8bc7a1adcf52@dns19.nichoster.com:21503?type=tcp&amp;headerType=http&amp;host=fast.com&amp;security=none#@vmessorg
 vless://41b85a5a-82aa-4e21-88a2-4b3377e9cf57@ir.wefamily.site:1336?type=tcp&amp;headerType=http&amp;host=parsabr.com&amp;security=none#@vmessorg
+vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@ccad1.vipsell-one.ir:443?type=ws&amp;host=ccsnal.vipsell-one.ir&amp;path=/ALB/VIPSell/@saeedtelg&amp;security=tls&amp;fp=firefox&amp;sni=ccsnal.vipsell-one.ir&amp;alpn=http/1.1#Telegram:+@vmessorg
 vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?type=tcp&amp;headerType=http&amp;security=none#Vmessorg
 vless://44f305cf-ce57-09eb-f65c-af5105eaa19c@z4.magicnetwork.info:443?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#@vmessorg%F0%9F%8F%B3
 vmess://eyJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwiaWQiOiJjNmM4YTExNS02YWE2LTRmYWEtOTVjYi05Yjc1MTA0NzUwODgiLCJhZGQiOiJhcnlhLmphaGFucHJpbWUuc2JzIiwiaG9zdCI6IiIsInBzIjoiJTQwdm1lc3NvcmciLCJwYXRoIjoiIiwibmV0IjoidGNwIn0=
-vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@ccad1.vipsell-one.ir:443?type=ws&amp;host=ccsnal.vipsell-one.ir&amp;path=/ALB/VIPSell/@saeedtelg&amp;security=tls&amp;fp=firefox&amp;sni=ccsnal.vipsell-one.ir&amp;alpn=http/1.1#Telegram:+@vmessorg
 vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
 vless://74e0f9b9-e7d4-400c-bcc3-cc0fbdf7bc58@netorg.nightwolf.shop:53769?type=tcp&amp;headerType=http&amp;host=45.90.28.0&amp;security=none#@vmessorg
 vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
@@ -38,6 +38,7 @@ vless://41b85a5a-82aa-4e21-88a2-4b3377e9cf57@ir.wefamily.site:1336?type=tcp&amp;
 vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?type=tcp&amp;headerType=http&amp;security=none#Vmessorg
 vless://44f305cf-ce57-09eb-f65c-af5105eaa19c@z4.magicnetwork.info:443?type=tcp&amp;headerType=http&amp;host=divarcdn.com&amp;security=none#@vmessorg%F0%9F%8F%B3
 vmess://eyJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwiaWQiOiJjNmM4YTExNS02YWE2LTRmYWEtOTVjYi05Yjc1MTA0NzUwODgiLCJhZGQiOiJhcnlhLmphaGFucHJpbWUuc2JzIiwiaG9zdCI6IiIsInBzIjoiJTQwdm1lc3NvcmciLCJwYXRoIjoiIiwibmV0IjoidGNwIn0=
+vless://474b5b35-4ce5-4889-ae0c-cb105ea8f5aa@v2shop9.bing-net.com:4909?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#Telegram:@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://c7a480bc-579c-424d-a1f9-8f773458d4a7@nv139.momdping.com:443?type=ws&amp;path=/&amp;security=tls&amp;sni=nv139.momdping.com#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://cb5c067b-322b-4794-92ee-3a8f0b18dbfb@netorg.nightwolf.shop:53769?type=tcp&amp;headerType=http&amp;host=45.90.28.0&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://129146bf-83ca-41c7-a819-e562c06e8699@cdn.goferi.top:443?type=tcp&amp;headerType=http&amp;host=myket.ir&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3
