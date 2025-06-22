@@ -5,8 +5,6 @@ vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?path=%2F&amp;secu
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@185.93.88.179:2052?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@yebekhe
 vless://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?path=%2F&amp;security=none&amp;encryption=none&amp;host=zula.ir&amp;type=ws#@yebekhe
-vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@zia33.armoteam.shop:1916?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
-vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://e7ddac89-8e50-4377-a235-a9c11ab146c5@irserver5.normaldomain.xyz:4041?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@yebekhe
 vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@zia33.armoteam.shop:1916?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#@yebekhe
@@ -14,8 +12,6 @@ vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?path=%2F&amp;secu
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@185.93.88.179:2052?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@yebekhe
 vless://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?path=%2F&amp;security=none&amp;encryption=none&amp;host=zula.ir&amp;type=ws#@yebekhe
-vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@zia33.armoteam.shop:1916?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
-vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://e7ddac89-8e50-4377-a235-a9c11ab146c5@irserver5.normaldomain.xyz:4041?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@yebekhe
 vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@zia33.armoteam.shop:1916?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#@yebekhe
@@ -23,8 +19,6 @@ vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?path=%2F&amp;secu
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@185.93.88.179:2052?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@yebekhe
 vless://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?path=%2F&amp;security=none&amp;encryption=none&amp;host=zula.ir&amp;type=ws#@yebekhe
-vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@zia33.armoteam.shop:1916?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
-vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://e7ddac89-8e50-4377-a235-a9c11ab146c5@irserver5.normaldomain.xyz:4041?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@yebekhe
 vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@zia33.armoteam.shop:1916?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#@yebekhe
@@ -32,5 +26,3 @@ vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?path=%2F&amp;secu
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@185.93.88.179:2052?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@yebekhe
 vless://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
 vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?path=%2F&amp;security=none&amp;encryption=none&amp;host=zula.ir&amp;type=ws#@yebekhe
-vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@zia33.armoteam.shop:1916?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
-vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@yebekhe
