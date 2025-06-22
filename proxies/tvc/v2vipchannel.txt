@@ -1,3 +1,4 @@
+vless://9240ad4c-3f3e-4574-b2e0-3a459ef853f2@s16.zamir.top:443?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#net
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@104.18.8.209:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@188.114.99.216:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@162.159.192.133:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
@@ -10,6 +11,7 @@ vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?security=non
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40BugFreeNet
 vless://a0c2611d-798a-4502-ec15-6432d554a4cd@stjadgal.golden-ping.ir:52127?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40BugFreeNet
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wivip.dtsazino.com#Telegram%20%3A%20%40BugFreeNet
+vless://9240ad4c-3f3e-4574-b2e0-3a459ef853f2@s16.zamir.top:443?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#net
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@104.18.8.209:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@188.114.99.216:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@162.159.192.133:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
@@ -22,6 +24,7 @@ vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?security=non
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40BugFreeNet
 vless://a0c2611d-798a-4502-ec15-6432d554a4cd@stjadgal.golden-ping.ir:52127?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40BugFreeNet
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wivip.dtsazino.com#Telegram%20%3A%20%40BugFreeNet
+vless://9240ad4c-3f3e-4574-b2e0-3a459ef853f2@s16.zamir.top:443?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#net
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@104.18.8.209:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@188.114.99.216:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@162.159.192.133:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
@@ -34,6 +37,7 @@ vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?security=non
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40BugFreeNet
 vless://a0c2611d-798a-4502-ec15-6432d554a4cd@stjadgal.golden-ping.ir:52127?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40BugFreeNet
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wivip.dtsazino.com#Telegram%20%3A%20%40BugFreeNet
+vless://9240ad4c-3f3e-4574-b2e0-3a459ef853f2@s16.zamir.top:443?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#net
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@104.18.8.209:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@188.114.99.216:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
 vless://e2f994f2-039c-4f08-8197-2e493fcd39ca@162.159.192.133:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev#Qconfig
@@ -95,4 +99,3 @@ vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://da08534a-bfca-4ac0-bd2a-2e3846bfcbc0@104.26.13.8:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=q7.19kalA.co&amp;type=ws#Telegram%20%3A%20%40BugFreeNet
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&amp;encryption=none&amp;host=q6.19kalA.co&amp;type=ws#Telegram%20%3A%20%40BugFreeNet
 vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=q5.19KAla.co&amp;type=ws#Telegram%20%3A%20%40BugFreeNet
-vless://9240ad4c-3f3e-4574-b2e0-3a459ef853f2@s16.zamir.top:443?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#net
