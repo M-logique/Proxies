@@ -18,14 +18,14 @@ vless://c7a480bc-579c-424d-a1f9-8f773458d4a7@nv139.momdping.com:443?type=ws&amp;
 vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?type=tcp&amp;headerType=http&amp;host=avidmehregan.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://298e1297-65ab-4c48-a3f3-68f1a7f6a46f@151.101.0.155:80?type=tcp&amp;headerType=none&amp;security=none#Telegram:+@vmessorg++%F0%9F%8F%B3%F0%9F%8F%B3
 vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&amp;headerType=http&amp;host=p30afzar.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
+vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?type=tcp&amp;headerType=http&amp;host=avidmehregan.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
+vless://298e1297-65ab-4c48-a3f3-68f1a7f6a46f@151.101.0.155:80?type=tcp&amp;headerType=none&amp;security=none#Telegram:+@vmessorg++%F0%9F%8F%B3%F0%9F%8F%B3
+vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&amp;headerType=http&amp;host=p30afzar.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6IjZjNDczNzg2LTY3ZDUtNDdlNi05OGNmLTNlZjRiMGJkOWJlZSIsInBhdGgiOiJcLyIsInNjeSI6ImF1dG8iLCJwb3J0IjoiMjA4MyIsImFkZCI6Im5ld3Byc3ZwLnNob3AiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInR5cGUiOiJodHRwIiwicHMiOiJUZWxlZ3JhbSUzQSUyMCU0MHZtZXNzb3JnIn0=
 vless://9084b11c-da3f-4c3f-af79-226a119c880d@tn.pingtools.net:2087?type=tcp&amp;headerType=http&amp;host=fast.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://b8d1a59e-804a-4327-9d31-d566f7747937@iza.lalash.ir:28451?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://474b5b35-4ce5-4889-ae0c-cb105ea8f5aa@v2shop9.bing-net.com:4909?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#Telegram:@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://c7a480bc-579c-424d-a1f9-8f773458d4a7@nv139.momdping.com:443?type=ws&amp;path=/&amp;security=tls&amp;sni=nv139.momdping.com#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
-vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?type=tcp&amp;headerType=http&amp;host=avidmehregan.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
-vless://298e1297-65ab-4c48-a3f3-68f1a7f6a46f@151.101.0.155:80?type=tcp&amp;headerType=none&amp;security=none#Telegram:+@vmessorg++%F0%9F%8F%B3%F0%9F%8F%B3
-vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&amp;headerType=http&amp;host=p30afzar.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6IjZjNDczNzg2LTY3ZDUtNDdlNi05OGNmLTNlZjRiMGJkOWJlZSIsInBhdGgiOiJcLyIsInNjeSI6ImF1dG8iLCJwb3J0IjoiMjA4MyIsImFkZCI6Im5ld3Byc3ZwLnNob3AiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInR5cGUiOiJodHRwIiwicHMiOiJUZWxlZ3JhbSUzQSUyMCU0MHZtZXNzb3JnIn0=
 vless://9084b11c-da3f-4c3f-af79-226a119c880d@tn.pingtools.net:2087?type=tcp&amp;headerType=http&amp;host=fast.com&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vless://b8d1a59e-804a-4327-9d31-d566f7747937@iza.lalash.ir:28451?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
