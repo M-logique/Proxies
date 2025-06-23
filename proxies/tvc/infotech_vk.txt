@@ -1,3 +1,4 @@
+vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
 vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWdoLnRyYXZlbGFuZC1sZWlzdXJlLmlyIiwiaWQiOiJiOTRiNDFkMy1iMjE4LTQ3N2QtYjk4Ny05ZjgyNWMyODRmYmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJASW5mb1RlY2hfVksiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://c0ac6d0a-dba7-4a19-97d3-ebae0ddefcfa@home.phpdeb.ir:8446?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK
