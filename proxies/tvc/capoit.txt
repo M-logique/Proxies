@@ -4,7 +4,6 @@ vless://3805d64e-2340-4088-a687-5c4f959d0253@vip8.radmanmax.ir:8052?security=&am
 vless://3805d64e-2340-4088-a687-5c4f959d0253@vip8.radmanmax.ir:8052?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@Capoit
 vless://3805d64e-2340-4088-a687-5c4f959d0253@vip8.radmanmax.ir:8052?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@Capoit
 vless://3805d64e-2340-4088-a687-5c4f959d0253@vip8.radmanmax.ir:8052?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@Capoit
-vless://f22ad75c-0e05-49aa-a116-30b9a20dacc9@power.teampluss.ir:80?mode=packet-up&amp;path=%2Fcategory%2Fculture.html%3Fed%3D443&amp;security=&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=general-net.global.ssl.fastly.net&amp;type=xhttp#@Capoit
 vless://30d2b8ce-21ec-437c-91d2-4b802d841ed9@sajad4.x0x1.ru:40265?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#@Capoit
 vless://3705b32a-3b29-42b9-827e-6d2ead3472fe@netorg.nightwolf.shop:35457?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@Capoit
 vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@Capoit
