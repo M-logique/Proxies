@@ -1,4 +1,3 @@
-vless://08b2c9bf-75b9-456a-9ea3-1a757979d30f@193.151.132.16:8543?type=tcp&amp;security=none#%40GrizzlyVPN
 vless://81aa4718-2342-4804-ba3c-0f2357221b02@193.151.132.16:8543?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Grizzlyvpn
 vless://9c743c21-4ae8-409a-ab2f-5da85ea8af31@37.32.4.81:8999?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Grizzlyvpn
 vless://9c743c21-4ae8-409a-ab2f-5da85ea8af31@37.32.4.81:8999?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Grizzlyvpn
