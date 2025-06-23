@@ -1,3 +1,7 @@
+vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
+vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
+vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWdoLnRyYXZlbGFuZC1sZWlzdXJlLmlyIiwiaWQiOiJiOTRiNDFkMy1iMjE4LTQ3N2QtYjk4Ny05ZjgyNWMyODRmYmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJASW5mb1RlY2hfVksiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://c0ac6d0a-dba7-4a19-97d3-ebae0ddefcfa@home.phpdeb.ir:8446?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK
 vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@tfir.tehranify.shop:2344?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@InfoTech_VK
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@biography.com:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=Nazan.com&amp;type=ws#@InfoTech_VK
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@151.101.64.155:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=Nazan.com&amp;type=ws#@InfoTech_VK
@@ -8,8 +12,6 @@ vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@tfir.tehranify.shop:2344?security=n
 vless://4e0b9bb7-1df7-40c0-af4a-fccb0ef17249@151.101.0.155:80?mode=packet-up&amp;path=%2Fcategory%2Ftraining%2F%3Fed%3D8080&amp;security=none&amp;alpn=h2&amp;encryption=none&amp;host=bama.ir&amp;fp=chrome&amp;type=xhttp&amp;sni=python.org#@InfoTech_VK
 vless://30ef22a6-b8a0-4b15-b8b7-bb92ded87b46@151.101.3.8:80?mode=auto&amp;path=%2Fv2rayfree1vpn&amp;security=none&amp;encryption=none&amp;host=telv2rayfree1vpn.global.ssl.fastly.net&amp;type=xhttp#@InfoTech_VK
 vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=none&amp;encryption=none&amp;host=Fast.com&amp;headerType=http&amp;type=tcp#@InfoTech_VK
-vless://b4914fd2-31b8-4bba-91f2-8af8c2633fbc@food1.hamrahconfig.com:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=hajibaba.com&amp;type=ws#@InfoTech_VK
-vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
 vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWdoLnRyYXZlbGFuZC1sZWlzdXJlLmlyIiwiaWQiOiJiOTRiNDFkMy1iMjE4LTQ3N2QtYjk4Ny05ZjgyNWMyODRmYmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJASW5mb1RlY2hfVksiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://c0ac6d0a-dba7-4a19-97d3-ebae0ddefcfa@home.phpdeb.ir:8446?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK
