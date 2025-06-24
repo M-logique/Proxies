@@ -1,8 +1,8 @@
+vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vipV2rayNGnp
 vless://356d8a8d-ca75-4356-a83c-903ce5631174@food.france-learns.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=webdade.com&amp;type=ws#@vipV2rayNGnp
 vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@hp3.multiproxy.info:7031?security=&amp;encryption=none&amp;host=parssafe.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&amp;path=%2F%40BeFreeWithUs%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=opsyour-name.global.ssl.fastly.net&amp;type=xhttp#@vipV2rayNGnp
 vless://747ca54d-7237-48a0-9aeb-ba003708f73c@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=%2F#@vipV2rayNGnp
-vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pivaz-i.com&amp;type=ws#@vipV2rayNGnp
 vless://7d50d209-6325-4afe-bc14-52aaae20c0fd@151.101.3.8:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=speedfastly.net&amp;type=ws#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vipV2rayNGnp
 vless://87c2bc39-8fcf-472b-89ba-8898059ba612@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.com&amp;type=ws#@vipV2rayNGnp
@@ -17,7 +17,6 @@ vless://356d8a8d-ca75-4356-a83c-903ce5631174@food.france-learns.ir:80?path=%2Fdo
 vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@hp3.multiproxy.info:7031?security=&amp;encryption=none&amp;host=parssafe.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&amp;path=%2F%40BeFreeWithUs%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=opsyour-name.global.ssl.fastly.net&amp;type=xhttp#@vipV2rayNGnp
 vless://747ca54d-7237-48a0-9aeb-ba003708f73c@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=%2F#@vipV2rayNGnp
-vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pivaz-i.com&amp;type=ws#@vipV2rayNGnp
 vless://7d50d209-6325-4afe-bc14-52aaae20c0fd@151.101.3.8:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=speedfastly.net&amp;type=ws#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vipV2rayNGnp
 vless://87c2bc39-8fcf-472b-89ba-8898059ba612@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.com&amp;type=ws#@vipV2rayNGnp
@@ -32,7 +31,6 @@ vless://356d8a8d-ca75-4356-a83c-903ce5631174@food.france-learns.ir:80?path=%2Fdo
 vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@hp3.multiproxy.info:7031?security=&amp;encryption=none&amp;host=parssafe.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&amp;path=%2F%40BeFreeWithUs%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=opsyour-name.global.ssl.fastly.net&amp;type=xhttp#@vipV2rayNGnp
 vless://747ca54d-7237-48a0-9aeb-ba003708f73c@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=%2F#@vipV2rayNGnp
-vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pivaz-i.com&amp;type=ws#@vipV2rayNGnp
 vless://7d50d209-6325-4afe-bc14-52aaae20c0fd@151.101.3.8:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=speedfastly.net&amp;type=ws#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vipV2rayNGnp
 vless://87c2bc39-8fcf-472b-89ba-8898059ba612@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.com&amp;type=ws#@vipV2rayNGnp
@@ -47,7 +45,6 @@ vless://356d8a8d-ca75-4356-a83c-903ce5631174@food.france-learns.ir:80?path=%2Fdo
 vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@hp3.multiproxy.info:7031?security=&amp;encryption=none&amp;host=parssafe.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&amp;path=%2F%40BeFreeWithUs%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=opsyour-name.global.ssl.fastly.net&amp;type=xhttp#@vipV2rayNGnp
 vless://747ca54d-7237-48a0-9aeb-ba003708f73c@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=%2F#@vipV2rayNGnp
-vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pivaz-i.com&amp;type=ws#@vipV2rayNGnp
 vless://7d50d209-6325-4afe-bc14-52aaae20c0fd@151.101.3.8:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=speedfastly.net&amp;type=ws#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vipV2rayNGnp
 vless://87c2bc39-8fcf-472b-89ba-8898059ba612@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.com&amp;type=ws#@vipV2rayNGnp
@@ -62,7 +59,7 @@ vless://356d8a8d-ca75-4356-a83c-903ce5631174@food.france-learns.ir:80?path=%2Fdo
 vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@hp3.multiproxy.info:7031?security=&amp;encryption=none&amp;host=parssafe.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&amp;path=%2F%40BeFreeWithUs%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=opsyour-name.global.ssl.fastly.net&amp;type=xhttp#@vipV2rayNGnp
 vless://747ca54d-7237-48a0-9aeb-ba003708f73c@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=%2F#@vipV2rayNGnp
-vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pivaz-i.com&amp;type=ws#@vipV2rayNGnp
+vless://93515cb0-52aa-419b-b1a7-33b36a7560c9@power.teampluss.ir:80?mode=packet-up&amp;path=%2Fcategory%2Fculture.html%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=general-net.global.ssl.fastly.net&amp;type=xhttp#@vipV2rayNGnp
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://telegram-id-ArV2ray@151.101.3.8:80?mode=auto&amp;path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter&amp;security=none&amp;encryption=none&amp;host=Mislebqoapdnwan.com&amp;type=xhttp#@vipV2rayNGnp
