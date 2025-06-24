@@ -1,4 +1,3 @@
-vless://78e06102-e805-45c5-a3aa-e6f9b0d4f9ff@151.101.3.8:80?path=%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=taxi.com&amp;type=ws#NetAccount
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#NetAccount
 vless://78e06102-e805-45c5-a3aa-e6f9b0d4f9ff@151.101.3.8:80?path=%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=taxi.com&amp;type=ws#NetAccount
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#NetAccount
@@ -9,3 +8,6 @@ vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;p
 vless://78e06102-e805-45c5-a3aa-e6f9b0d4f9ff@151.101.3.8:80?path=%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=taxi.com&amp;type=ws#NetAccount
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#NetAccount
 vless://78e06102-e805-45c5-a3aa-e6f9b0d4f9ff@151.101.3.8:80?path=%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=taxi.com&amp;type=ws#NetAccount
+vless://65469895-e4f3-4bdc-846b-38217c88a82b@turk.shirazsalam.org:8467?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40VPNOD
+vless://5d86faa0-9d3c-4f3a-adf5-79aa7d0e2e75@t1.gately.xyz:1717?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40VPNOD
+vless://0fd903a3-a4d0-4d9b-824e-dcd07ec816fa@151.101.3.8:80?path=%2F&amp;security=&amp;encryption=none&amp;host=befreewithus.com&amp;type=ws#%40numb_frozen%202%3A29

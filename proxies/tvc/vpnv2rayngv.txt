@@ -1,4 +1,6 @@
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@vpnv2rayNGv
+vless://837333d2-64a7-4af0-91ff-b1b4aa995a94@151.101.0.155:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
+vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@vpnv2rayNGv
 vless://adeee029-e9b5-4312-8d00-71be8d86a7d3@ir.tunneled.site:1010?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
 vless://456a6e1f-add6-4a45-9ede-2ccafebc48ad@vpncityy5.aliha.icu:3033?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
 vless://5dead573-8b28-45a9-be86-f09f7f6839e3@vip.jahannet.cfd:2053?flow=&amp;type=tcp&amp;headerType=http&amp;host=bmi.ir&amp;path=/&amp;security=none#@vpnv2rayNGv
@@ -17,10 +19,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegra
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=&amp;sni=hk.laoyoutiao.link&amp;type=ws&amp;path=/TelegramU0001F1E8U0001F1F3&amp;host=hk.laoyoutiao.link&amp;encryption=none#@vpnv2rayNGv
 vless://a99fb47f-6808-462c-8a40-31ed57a8f1d3@irserver.colsvpn.top:33696?security=&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
 vless://8c7cb39c-16b7-46fb-886e-689c7dc34bda@ping.amirhossein.info:51690?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&amp;encryption=none&amp;host=persiangames.online&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#@vpnv2rayNGv
-vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6587?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=gr1.grtj.sulindac.top&amp;sni=gr1.grtj.sulindac.top#@vpnv2rayNGv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnv2rayNGv
@@ -45,10 +43,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegra
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=&amp;sni=hk.laoyoutiao.link&amp;type=ws&amp;path=/TelegramU0001F1E8U0001F1F3&amp;host=hk.laoyoutiao.link&amp;encryption=none#@vpnv2rayNGv
 vless://a99fb47f-6808-462c-8a40-31ed57a8f1d3@irserver.colsvpn.top:33696?security=&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
 vless://8c7cb39c-16b7-46fb-886e-689c7dc34bda@ping.amirhossein.info:51690?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&amp;encryption=none&amp;host=persiangames.online&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#@vpnv2rayNGv
-vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6587?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=gr1.grtj.sulindac.top&amp;sni=gr1.grtj.sulindac.top#@vpnv2rayNGv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnv2rayNGv
@@ -73,10 +67,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegra
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=&amp;sni=hk.laoyoutiao.link&amp;type=ws&amp;path=/TelegramU0001F1E8U0001F1F3&amp;host=hk.laoyoutiao.link&amp;encryption=none#@vpnv2rayNGv
 vless://a99fb47f-6808-462c-8a40-31ed57a8f1d3@irserver.colsvpn.top:33696?security=&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
 vless://8c7cb39c-16b7-46fb-886e-689c7dc34bda@ping.amirhossein.info:51690?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&amp;encryption=none&amp;host=persiangames.online&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#@vpnv2rayNGv
-vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@dc23i0vg6m.the-scary-deep-forest-of-my-mind.top:6587?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=gr1.grtj.sulindac.top&amp;sni=gr1.grtj.sulindac.top#@vpnv2rayNGv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnv2rayNGv
@@ -101,10 +91,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegra
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=&amp;sni=hk.laoyoutiao.link&amp;type=ws&amp;path=/TelegramU0001F1E8U0001F1F3&amp;host=hk.laoyoutiao.link&amp;encryption=none#@vpnv2rayNGv
 vless://a99fb47f-6808-462c-8a40-31ed57a8f1d3@irserver.colsvpn.top:33696?security=&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
 vless://8c7cb39c-16b7-46fb-886e-689c7dc34bda@ping.amirhossein.info:51690?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
-vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&amp;encryption=none&amp;host=persiangames.online&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/&amp;security=none#@vpnv2rayNGv
-vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?security=none&amp;encryption=none&amp;host=www.google.com&amp;headerType=http&amp;type=tcp#@vpnv2rayNGv
-vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
 vless://815fbbae-3fd9-4f67-9c2e-fa6b566d415c@pivaz.fastly80.hosting-ip.com:80?mode=auto&amp;security=&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=ns1002nl.one.com&amp;type=xhttp#@vpnv2rayNGv
 vless://bad6c0db-094c-42f7-9cc7-68b738bc0e2e@151.101.3.8:80?mode=auto&amp;path=%2F%40BeFreeWithUs%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=kiosyour-name.global.ssl.fastly.net&amp;type=xhttp#@vpnv2rayNGv
 vless://020f1fc3-02f4-49c4-ae0e-8881ecc82467@speedtest.net:80?mode=auto&amp;path=%2Fhu%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=bootstrap.com&amp;type=xhttp#@vpnv2rayNGv
