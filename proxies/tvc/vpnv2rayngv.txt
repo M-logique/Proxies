@@ -1,4 +1,3 @@
-vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@vpnv2rayNGv
 vless://837333d2-64a7-4af0-91ff-b1b4aa995a94@151.101.0.155:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@vpnv2rayNGv
 vless://adeee029-e9b5-4312-8d00-71be8d86a7d3@ir.tunneled.site:1010?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnv2rayNGv
