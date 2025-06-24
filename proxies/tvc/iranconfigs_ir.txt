@@ -74,6 +74,7 @@ trojan://Aimer@221.165.64.92:50000?sni=ngepz.ambercc.filegear-sg.me#t.me/irancon
 vless://f3b6c555-86f1-46be-b69e-1dc5aef41cd6@pivaz.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pivaz-i.com&amp;type=ws#iranconfigs_ir
 vless://020f1fc3-02f4-49c4-ae0e-8881ecc82467@speedtest.net:80?mode=auto&amp;path=%2Fhu%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=bootstrap.com&amp;type=xhttp#iranconfigs_ir
 vless://6de0f74e-f5de-47e9-9baf-4bee5e3f8d0c@151.101.3.8:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=admin2.com&amp;type=ws#iranconfigs_ir
+trojan://blue2024@104.21.14.176:443?security=tls&amp;type=ws&amp;sni=tc.promote.icu&amp;path=/?ed&amp;host=tc.promote.icu#[🇨🇦]t.me/iranconfigs_ir
 vless://33409e68-795d-4ca8-ba9a-65ec9d6dd62e@sv3.crownet.ir:2096?security=tls&amp;type=ws&amp;path=%2FMeowNigga&amp;host=smartus.crownet.ir&amp;sni=smartus.crownet.ir&amp;fp=chrome#iranconfigs_ir
 vless://33409e68-795d-4ca8-ba9a-65ec9d6dd62e@sv2.crownet.ir:2096?security=tls&amp;type=ws&amp;path=%2FMeowNigga&amp;host=smartnl.crownet.ir&amp;sni=smartnl.crownet.ir&amp;fp=edge#iranconfigs_ir
 vless://33409e68-795d-4ca8-ba9a-65ec9d6dd62e@sv1.crownet.ir:2096?security=tls&amp;type=ws&amp;path=%2FMeowNigga&amp;host=smartde.crownet.ir&amp;sni=smartde.crownet.ir&amp;fp=firefox#iranconfigs_ir
