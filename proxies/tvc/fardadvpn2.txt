@@ -94,6 +94,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#PersianGulf%20200%20%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#PersianGulf%20100%20%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#PersianGulf%20%28%40Outline_Vpn%29
+vless://154fd567-d1ff-4811-b60d-bc2adaa5aad3@12.irShecan.com:49726?type=tcp&amp;headerType=http&amp;host=head.irshecan.com&amp;security=none#Telegram+:+@vmessorg
 vless://c7a480bc-579c-424d-a1f9-8f773458d4a7@nv139.momdping.com:443?type=ws&amp;path=/&amp;security=tls&amp;sni=nv139.momdping.com#Telegram:+@vmessorg%F0%9F%8F%B3%F0%9F%8F%B3
 vmess://eyJhZGQiOiJzMi5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2NjM4MmRhLTc4ZGMtNDkxNi03ZWRkLTEzZWExNWQ4NjAwZiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODgiLCJwcyI6IkBDYXBvaXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&amp;headerType=none&amp;security=none#@vmessorg
