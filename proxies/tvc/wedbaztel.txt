@@ -65,6 +65,10 @@ vless://e5f29a1f-42c1-4b5c-b5e6-2db605f6ecaa@mzatu.lizardshop.org:8085?security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#WedBaZTel
 vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#WedBaZtel
 vless://e5bf0162-32c5-44a1-a4e5-c2819ce237be@151.101.3.8:80?mode=auto&amp;path=%2Fv2rayfree1vpn&amp;security=none&amp;encryption=none&amp;host=Telegramv2rayfree1vpn.global.ssl.fastly.net&amp;type=xhttp#WedBaZtel
+vless://e5f29a1f-42c1-4b5c-b5e6-2db605f6ecaa@mzatu.lizardshop.org:8085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#WedBaZtel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#WedBaZTel
+vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#WedBaZtel
+vless://e5bf0162-32c5-44a1-a4e5-c2819ce237be@151.101.3.8:80?mode=auto&amp;path=%2Fv2rayfree1vpn&amp;security=none&amp;encryption=none&amp;host=Telegramv2rayfree1vpn.global.ssl.fastly.net&amp;type=xhttp#WedBaZtel
 ss://YWVzLTI1Ni1nY206MGU5YjU4YWEtZWM3OS02ODI3LWM2NzktODAyZmYzMjliMWEx@37050813702269272654038283817908.international-ixp.com:11312?type=tcp#WedBazTel
 vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#WedBaz
 vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@ASER.digimajaz-social.ir:500?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#WedBaz
@@ -87,10 +91,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?path=%2F&amp;s
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a1.ghormehsabzi.dpdns.org&amp;type=ws#wedbaztel
 vless://129146bf-83ca-41c7-a819-e562c06e8699@cdn.goferi.top:443?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#wedbaztel
 vless://7af4f384-9207-41df-a3e2-ad0eb5663cbb@biography.com:80?mode=auto&amp;path=%2Fblog%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=aw026.com&amp;type=xhttp#wedbaztel
-vless://e5f29a1f-42c1-4b5c-b5e6-2db605f6ecaa@mzatu.lizardshop.org:8085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#WedBaZtel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#WedBaZTel
-vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#WedBaZtel
-vless://e5bf0162-32c5-44a1-a4e5-c2819ce237be@151.101.3.8:80?mode=auto&amp;path=%2Fv2rayfree1vpn&amp;security=none&amp;encryption=none&amp;host=Telegramv2rayfree1vpn.global.ssl.fastly.net&amp;type=xhttp#WedBaZtel
 ss://YWVzLTI1Ni1nY206MGU5YjU4YWEtZWM3OS02ODI3LWM2NzktODAyZmYzMjliMWEx@37050813702269272654038283817908.international-ixp.com:11312?type=tcp#WedBazTel
 vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#WedBaz
 vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@ASER.digimajaz-social.ir:500?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#WedBaz
