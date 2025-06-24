@@ -1,6 +1,7 @@
 vless://b4914fd2-31b8-4bba-91f2-8af8c2633fbc@food1.hamrahconfig.com:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=hajibaba.com&amp;type=ws#@InfoTech_VK
 vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
+vless://de90ffc8-95ba-464e-8e4d-4f6ceaf26bfd@s2.arwandping.top:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@InfoTech_VK
 vless://b4e004bd-b239-4279-9845-a9b8e72dffec@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
 vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=amindc.ir&amp;type=xhttp#@InfoTech_VK
 vmess://eyJhZGQiOiJ2aXAubW9iaWxldG9za2FuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzI3MGViMS1lMThkLTQwMjAtOTQ5ZC0xN2UxODQ0NWRhYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkBJbmZvVGVjaF9WSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -12,6 +13,7 @@ vless://978889fd-ef6c-41b7-bf9e-65f7d4bb0044@netorg.nightwolf.shop:53769?securit
 vless://b4914fd2-31b8-4bba-91f2-8af8c2633fbc@food1.hamrahconfig.com:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=hajibaba.com&amp;type=ws#@InfoTech_VK
 vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
+vless://de90ffc8-95ba-464e-8e4d-4f6ceaf26bfd@s2.arwandping.top:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@InfoTech_VK
 vless://b4e004bd-b239-4279-9845-a9b8e72dffec@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
 vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=amindc.ir&amp;type=xhttp#@InfoTech_VK
 vmess://eyJhZGQiOiJ2aXAubW9iaWxldG9za2FuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzI3MGViMS1lMThkLTQwMjAtOTQ5ZC0xN2UxODQ0NWRhYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkBJbmZvVGVjaF9WSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -23,6 +25,7 @@ vless://978889fd-ef6c-41b7-bf9e-65f7d4bb0044@netorg.nightwolf.shop:53769?securit
 vless://b4914fd2-31b8-4bba-91f2-8af8c2633fbc@food1.hamrahconfig.com:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=hajibaba.com&amp;type=ws#@InfoTech_VK
 vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
+vless://de90ffc8-95ba-464e-8e4d-4f6ceaf26bfd@s2.arwandping.top:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@InfoTech_VK
 vless://b4e004bd-b239-4279-9845-a9b8e72dffec@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
 vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=amindc.ir&amp;type=xhttp#@InfoTech_VK
 vmess://eyJhZGQiOiJ2aXAubW9iaWxldG9za2FuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzI3MGViMS1lMThkLTQwMjAtOTQ5ZC0xN2UxODQ0NWRhYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkBJbmZvVGVjaF9WSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -34,6 +37,7 @@ vless://978889fd-ef6c-41b7-bf9e-65f7d4bb0044@netorg.nightwolf.shop:53769?securit
 vless://b4914fd2-31b8-4bba-91f2-8af8c2633fbc@food1.hamrahconfig.com:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=hajibaba.com&amp;type=ws#@InfoTech_VK
 vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
+vless://de90ffc8-95ba-464e-8e4d-4f6ceaf26bfd@s2.arwandping.top:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@InfoTech_VK
 vless://b4e004bd-b239-4279-9845-a9b8e72dffec@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
 vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=amindc.ir&amp;type=xhttp#@InfoTech_VK
 vmess://eyJhZGQiOiJ2aXAubW9iaWxldG9za2FuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzI3MGViMS1lMThkLTQwMjAtOTQ5ZC0xN2UxODQ0NWRhYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkBJbmZvVGVjaF9WSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -45,6 +49,9 @@ vless://978889fd-ef6c-41b7-bf9e-65f7d4bb0044@netorg.nightwolf.shop:53769?securit
 vless://b4914fd2-31b8-4bba-91f2-8af8c2633fbc@food1.hamrahconfig.com:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=hajibaba.com&amp;type=ws#@InfoTech_VK
 vless://c4e0bd54-4f7b-4d9c-ab80-f9ee804e3339@all.hajihesam.biz.id:443?path=%2Fws%3Fed&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=de77.hajihesam.biz.id&amp;fp=firefox&amp;type=ws&amp;sni=de77.hajihesam.biz.id#@InfoTech_VK
 vless://42febf85-d4ce-42a9-9b58-ec9777bd3c69@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;type=xhttp#@InfoTech_VK
+vless://6e3f89e3-3580-4ede-9608-c5cdd0560fa8@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Finland.ss.ss&amp;type=ws#@InfoTech_VK
+vless://7090482e-0bdc-415e-a3c1-1f5cdd3bef77@cloud.wiromusic.ir:80?mode=packet-up&amp;path=%2FNeTM3Li&amp;security=none&amp;encryption=none&amp;host=blue.red.taktechnology.ir&amp;type=xhttp#@InfoTech_VK
+vless://0b3d1510-31a1-4a6f-ba85-336388e3adac@13.irShecan.com:47491?security=none&amp;encryption=none&amp;host=head.irshecan.com&amp;headerType=http&amp;type=tcp#@InfoTech_VK
 vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Germany.ss.ss&amp;type=ws#@InfoTech_VK
 vless://90500e4d-02ad-4f96-ab82-792c8d268c7b@speedtest.net:80?mode=auto&amp;path=%2F%40BeFreeWithUs%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mmksyour-name.global.ssl.fastly.net&amp;type=xhttp#@InfoTech_VK
 vless://9d2338df-e74a-464f-926d-9e13f0df4e65@speedtest.NET:80?mode=auto&amp;path=%2Fauthentic_channel%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=authentic.com&amp;type=xhttp#@InfoTech_VK
@@ -59,4 +66,3 @@ vless://6de0f74e-f5de-47e9-9baf-4bee5e3f8d0c@151.101.3.8:80?path=%2Fdownload&amp
 vless://64b58515-5ab7-43dd-8517-049e03db19e6@1414team2.persianclouding.ir:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK
 vless://fbddfd18-72a2-f649-1101-1bb8e8e9a649@178.239.157.16:58160?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#@InfoTech_VK
 vless://68adb2a1-4a16-48b8-ae92-fe72a692e2a5@151.101.3.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=gggrriizzzlyyyyyyyysshhhop.com&amp;path=%2F%3Fed%3D2048&amp;mode=auto#@InfoTech_VK
-vless://de90ffc8-95ba-464e-8e4d-4f6ceaf26bfd@s2.arwandping.top:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@InfoTech_VK
