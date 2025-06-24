@@ -162,6 +162,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#FNET00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#FNET00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#FNET00
+vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@104.17.147.22:80?security=none&amp;encryption=none&amp;host=pamchall.com.&amp;type=ws#Telegram%20%7C%20%40FNET00%F0%9F%93%B1
+vmess://eyJhZGQiOiIxNTEuMTAxLjMuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibG9naW4uc2luYWJhbmsuaXIiLCJpZCI6IjFmN2UyOTQ3LWM0YTUtNGUzYy1iMjg0LTc3N2ZmNzNhMDg2ZSIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlRlbGVncmFtIHwgQEZORVQwMPCfk7EiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&amp;security=tls&amp;sni=FlN5fXaYrS.9pEsC.cOm&amp;type=ws&amp;host=FlN5fXaYrS.9pEsC.cOm&amp;path=/&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#new
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&amp;security=tls&amp;sni=PkO09dA8jF.9pEsC.cOm&amp;type=ws&amp;host=PkO09dA8jF.9pEsC.cOm&amp;path=/&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#new
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&amp;security=tls&amp;sni=62X1tXx6M0.9pEsC.cOm&amp;type=ws&amp;host=62X1tXx6M0.9pEsC.cOm&amp;path=/&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#new
