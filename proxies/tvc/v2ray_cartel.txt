@@ -1,13 +1,3 @@
-vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
-vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]v2ray_cartel
-vmess://eyJwYXRoIjoiXC93cz9lZD0yMDQ4IiwiaG9zdCI6Imhvc3NlaW55b3VyLW5hbWUuZ2xvYmFsLnNzbC5mYXN0bHkubmV0IiwiYWRkIjoiU3BlZWR0ZXN0Lm5ldCIsIm5ldCI6InhodHRwIiwiaWQiOiIzOWRiZTgzYS0zZGFjLTQzZTctOGMxNC05NzI3MDc0OWY0MjAiLCJzY3kiOiJhdXRvIiwicHMiOiJtIiwicG9ydCI6IjgwIn0=
-vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=nimanimanima.ir&amp;type=xhttp#[🇺🇸]v2ray_cartel
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=NOi3Ez🪽#[🇨🇦]v2ray_cartel
-vless://a8404978-dc88-4ae0-8b57-0fc11b88c46b@154.90.54.4:11928/?type=tcp&amp;security=none#[🇦🇪]v2ray_cartel
-vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=ws&amp;sni=reverse-tunnel.maketunnelim.lat#[🇮🇷]v2ray_cartel
-vless://cda58cdc-5e74-41b5-96d2-d977f7c9b23f@all8.toolsetbar.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=rvn1.com&amp;type=xhttp#[🇺🇸]v2ray_cartel
-vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=nimanimanima.ir&amp;type=xhttp#[🇺🇸]v2ray_cartel
-vless://18898871-1dd2-4a5e-a5ab-fca863050e59@wolf538.api-tel.xyz:55295?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#[🇮🇷]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]v2ray_cartel
@@ -19,6 +9,7 @@ vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%
 vless://cda58cdc-5e74-41b5-96d2-d977f7c9b23f@all8.toolsetbar.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=rvn1.com&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=nimanimanima.ir&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://18898871-1dd2-4a5e-a5ab-fca863050e59@wolf538.api-tel.xyz:55295?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#[🇮🇷]v2ray_cartel
+vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]v2ray_cartel
@@ -30,6 +21,19 @@ vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%
 vless://cda58cdc-5e74-41b5-96d2-d977f7c9b23f@all8.toolsetbar.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=rvn1.com&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=nimanimanima.ir&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://18898871-1dd2-4a5e-a5ab-fca863050e59@wolf538.api-tel.xyz:55295?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#[🇮🇷]v2ray_cartel
+vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
+vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
+vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
+vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]v2ray_cartel
+vmess://eyJwYXRoIjoiXC93cz9lZD0yMDQ4IiwiaG9zdCI6Imhvc3NlaW55b3VyLW5hbWUuZ2xvYmFsLnNzbC5mYXN0bHkubmV0IiwiYWRkIjoiU3BlZWR0ZXN0Lm5ldCIsIm5ldCI6InhodHRwIiwiaWQiOiIzOWRiZTgzYS0zZGFjLTQzZTctOGMxNC05NzI3MDc0OWY0MjAiLCJzY3kiOiJhdXRvIiwicHMiOiJtIiwicG9ydCI6IjgwIn0=
+vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=nimanimanima.ir&amp;type=xhttp#[🇺🇸]v2ray_cartel
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=NOi3Ez🪽#[🇨🇦]v2ray_cartel
+vless://a8404978-dc88-4ae0-8b57-0fc11b88c46b@154.90.54.4:11928/?type=tcp&amp;security=none#[🇦🇪]v2ray_cartel
+vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=ws&amp;sni=reverse-tunnel.maketunnelim.lat#[🇮🇷]v2ray_cartel
+vless://cda58cdc-5e74-41b5-96d2-d977f7c9b23f@all8.toolsetbar.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=rvn1.com&amp;type=xhttp#[🇺🇸]v2ray_cartel
+vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=nimanimanima.ir&amp;type=xhttp#[🇺🇸]v2ray_cartel
+vless://18898871-1dd2-4a5e-a5ab-fca863050e59@wolf538.api-tel.xyz:55295?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#[🇮🇷]v2ray_cartel
+vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]v2ray_cartel
@@ -48,4 +52,3 @@ vless://b781545c-a6a8-4ca7-aa16-4960beff53df@151.101.3.8:80?mode=auto&amp;path=%
 vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
 trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&amp;security=none&amp;type=ws#[🇮🇷]v2ray_cartel
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
-vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
