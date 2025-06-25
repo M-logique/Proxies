@@ -11,7 +11,7 @@ vless://7af4f384-9207-41df-a3e2-ad0eb5663cbb@151.101.2.219:80?mode=auto&amp;path
 vless://7e90fe5e-4a91-b59d-9227-c562f1285ca2@ipfast.maketunnelim.lat:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=francse.global.ssl.fastly.net&amp;type=xhttp#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
-vless://47b20c2b-3bba-4008-8594-8e3fb0694a78@hub2.g-movies.ir:80?mode=stream-up&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=as3your-name.global.ssl.fastly.net&amp;type=xhttp#Telegram+%3A+%40
+vmess://eyJhZGQiOiJjYzUuZHJnc20uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzc4YTRjNC02NTIwLTQ0NmYtOTJiNC1hZGM1ZGZjZGRiZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1NTI1IiwicHMiOiJjeWJlcl9jcm9w4p2k77iP8J+k…
 vmess://eyJhZGQiOiJjYzUuZHJnc20uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzc4YTRjNC02NTIwLTQ0NmYtOTJiNC1hZGM1ZGZjZGRiZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1NTI1IiwicHMiOiJjeWJlcl9jcm9w4p2k77iP8J+kjfCfkpoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://88664543-7868-4758-b4dc-523164edc65b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=Phv2rayyour-name.global.ssl.fastly.net&amp;type=xhttp#
 vless://8960c969-eebb-4b5a-b480-4662e51893ca@mtn.ivy-net.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=okamideoijwqomqwedmqweodimpqo.okatestoka.ir&amp;type=httpupgrade#
@@ -26,7 +26,7 @@ vless://7af4f384-9207-41df-a3e2-ad0eb5663cbb@151.101.2.219:80?mode=auto&amp;path
 vless://7e90fe5e-4a91-b59d-9227-c562f1285ca2@ipfast.maketunnelim.lat:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=francse.global.ssl.fastly.net&amp;type=xhttp#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
-vless://47b20c2b-3bba-4008-8594-8e3fb0694a78@hub2.g-movies.ir:80?mode=stream-up&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=as3your-name.global.ssl.fastly.net&amp;type=xhttp#Telegram+%3A+%40
+vmess://eyJhZGQiOiJjYzUuZHJnc20uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzc4YTRjNC02NTIwLTQ0NmYtOTJiNC1hZGM1ZGZjZGRiZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1NTI1IiwicHMiOiJjeWJlcl9jcm9w4p2k77iP8J+k…
 vmess://eyJhZGQiOiJjYzUuZHJnc20uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzc4YTRjNC02NTIwLTQ0NmYtOTJiNC1hZGM1ZGZjZGRiZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1NTI1IiwicHMiOiJjeWJlcl9jcm9w4p2k77iP8J+kjfCfkpoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://88664543-7868-4758-b4dc-523164edc65b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=Phv2rayyour-name.global.ssl.fastly.net&amp;type=xhttp#
 vless://8960c969-eebb-4b5a-b480-4662e51893ca@mtn.ivy-net.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=okamideoijwqomqwedmqweodimpqo.okatestoka.ir&amp;type=httpupgrade#
@@ -41,7 +41,7 @@ vless://7af4f384-9207-41df-a3e2-ad0eb5663cbb@151.101.2.219:80?mode=auto&amp;path
 vless://7e90fe5e-4a91-b59d-9227-c562f1285ca2@ipfast.maketunnelim.lat:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=francse.global.ssl.fastly.net&amp;type=xhttp#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
-vless://47b20c2b-3bba-4008-8594-8e3fb0694a78@hub2.g-movies.ir:80?mode=stream-up&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=as3your-name.global.ssl.fastly.net&amp;type=xhttp#Telegram+%3A+%40
+vmess://eyJhZGQiOiJjYzUuZHJnc20uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzc4YTRjNC02NTIwLTQ0NmYtOTJiNC1hZGM1ZGZjZGRiZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1NTI1IiwicHMiOiJjeWJlcl9jcm9w4p2k77iP8J+k…
 vmess://eyJhZGQiOiJjYzUuZHJnc20uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzc4YTRjNC02NTIwLTQ0NmYtOTJiNC1hZGM1ZGZjZGRiZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1NTI1IiwicHMiOiJjeWJlcl9jcm9w4p2k77iP8J+kjfCfkpoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://88664543-7868-4758-b4dc-523164edc65b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=Phv2rayyour-name.global.ssl.fastly.net&amp;type=xhttp#
 vless://8960c969-eebb-4b5a-b480-4662e51893ca@mtn.ivy-net.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=okamideoijwqomqwedmqweodimpqo.okatestoka.ir&amp;type=httpupgrade#
@@ -56,7 +56,6 @@ vless://7af4f384-9207-41df-a3e2-ad0eb5663cbb@151.101.2.219:80?mode=auto&amp;path
 vless://7e90fe5e-4a91-b59d-9227-c562f1285ca2@ipfast.maketunnelim.lat:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=francse.global.ssl.fastly.net&amp;type=xhttp#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#
-vless://47b20c2b-3bba-4008-8594-8e3fb0694a78@hub2.g-movies.ir:80?mode=stream-up&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=as3your-name.global.ssl.fastly.net&amp;type=xhttp#Telegram+%3A+%40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%DB%B6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%DB%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%25DB%25Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn%40series-a2.samanehha.co%3A443%23%25DB%25B4
@@ -72,4 +71,3 @@ vless://d06b82d1-1a2b-4942-a19c-e112d7afe8b2@power.teampluss.ir:80?path=%2FPak91
 vless://d06b82d1-1a2b-4942-a19c-e112d7afe8b2@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Zilor.ir&amp;type=ws#+%40
 vless://8960c969-eebb-4b5a-b480-4662e51893ca@mtn.ivy-net.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=okamideoijwqomqwedmqweodimpqo.okatestoka.ir&amp;type=httpupgrade#+%40
 vless://f6b0d73f-7ece-43f3-b434-9f09949da3fb@167.235.77.50:44198?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#
-vmess://eyJhZGQiOiJjYzUuZHJnc20uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzc4YTRjNC02NTIwLTQ0NmYtOTJiNC1hZGM1ZGZjZGRiZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1NTI1IiwicHMiOiJjeWJlcl9jcm9w4p2k77iP8J+k…
