@@ -22,10 +22,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&amp;sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#..
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#...
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh27v1.nature27.shop#jayagaf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#uayagg
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%pauagg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.78.103:443#uayagf
 vless://eb11bb26-41bc-aa75-cc5d-6cd57963b8e6@re.modernstore4.ir:2030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7+TUNNEL
 vless://d619181a-9654-4620-93b2-5a723959c319@vrp2.sayashops.ir:8443?security=none&amp;encryption=none&amp;host=google.com&amp;headerType=http&amp;type=tcp#v2ran
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -50,10 +46,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&amp;sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#..
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#...
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh27v1.nature27.shop#jayagaf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#uayagg
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%pauagg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.78.103:443#uayagf
 vless://eb11bb26-41bc-aa75-cc5d-6cd57963b8e6@re.modernstore4.ir:2030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7+TUNNEL
 vless://d619181a-9654-4620-93b2-5a723959c319@vrp2.sayashops.ir:8443?security=none&amp;encryption=none&amp;host=google.com&amp;headerType=http&amp;type=tcp#v2ran
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -78,10 +70,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&amp;sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#..
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#...
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh27v1.nature27.shop#jayagaf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#uayagg
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%pauagg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.78.103:443#uayagf
 vless://eb11bb26-41bc-aa75-cc5d-6cd57963b8e6@re.modernstore4.ir:2030?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7+TUNNEL
 vless://d619181a-9654-4620-93b2-5a723959c319@vrp2.sayashops.ir:8443?security=none&amp;encryption=none&amp;host=google.com&amp;headerType=http&amp;type=tcp#v2ran
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -106,10 +94,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&amp;sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#...
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#..
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#...
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh27v1.nature27.shop#jayagaf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#uayagg
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%pauagg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.78.103:443#uayagf
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@speedtest.net:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-2
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@151.101.3.8:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-1
 vless://55100fba-fcad-4b65-a8c2-8820e9067cc0@far.ggchjg.v6.navy:20485?type=tcp&amp;security=none#diin3fjx
