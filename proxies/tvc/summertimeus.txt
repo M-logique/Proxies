@@ -1,4 +1,4 @@
-vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@2.fasttrade.blog:40665?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40summertimeus
+vless://216baa77-b2d4-4b56-a7e9-5e8c188a838b@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=kyeylipolicy.com&amp;type=xhttp#%40summertimeus
 vless://85a406af-7332-4684-bd74-3674d10bb250@151.101.2.219:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=aboltoser.global.ssl.fastly.net&amp;type=xhttp#%40summertimeus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=hozori.ir&amp;type=ws&amp;sni=hOZori.iR#%40summertimeus
