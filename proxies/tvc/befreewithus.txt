@@ -34,8 +34,8 @@ vless://4a831dcb-25f4-413d-b786-67e52ea2e7a3@speedtest.net:80?type=ws&amp;host=b
 vless://e058ec6a-1f07-4c26-aa28-332c27273326@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://e77cc333-1c40-46aa-aaa9-841765a2187a@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://4409024f-60d9-476d-9be5-06bbc31b1595@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://c402bb29-b1ef-4ab9-8c82-730af7464011@speedtest.net:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://680e3d5e-9339-4104-9105-30a757ead8ec@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
+vless://94f65755-49b6-4d86-81dd-d8f99e2f480b@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
+vless://492f489f-f32b-41bc-a930-a54bb7b5fe11@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://7ea23c37-1659-4710-8fcb-2a748b47e030@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://c7a76973-cfcc-42ae-848b-5b48d202f2af@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://adf0bd1b-ed5e-497f-b877-987fa9c430c2@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
@@ -72,8 +72,8 @@ vless://4a831dcb-25f4-413d-b786-67e52ea2e7a3@speedtest.net:80?type=ws&amp;host=b
 vless://e058ec6a-1f07-4c26-aa28-332c27273326@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://e77cc333-1c40-46aa-aaa9-841765a2187a@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://4409024f-60d9-476d-9be5-06bbc31b1595@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://c402bb29-b1ef-4ab9-8c82-730af7464011@speedtest.net:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://680e3d5e-9339-4104-9105-30a757ead8ec@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
+vless://94f65755-49b6-4d86-81dd-d8f99e2f480b@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
+vless://492f489f-f32b-41bc-a930-a54bb7b5fe11@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://7ea23c37-1659-4710-8fcb-2a748b47e030@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://c7a76973-cfcc-42ae-848b-5b48d202f2af@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://adf0bd1b-ed5e-497f-b877-987fa9c430c2@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
@@ -110,8 +110,8 @@ vless://4a831dcb-25f4-413d-b786-67e52ea2e7a3@speedtest.net:80?type=ws&amp;host=b
 vless://e058ec6a-1f07-4c26-aa28-332c27273326@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://e77cc333-1c40-46aa-aaa9-841765a2187a@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://4409024f-60d9-476d-9be5-06bbc31b1595@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://c402bb29-b1ef-4ab9-8c82-730af7464011@speedtest.net:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://680e3d5e-9339-4104-9105-30a757ead8ec@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
+vless://94f65755-49b6-4d86-81dd-d8f99e2f480b@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
+vless://492f489f-f32b-41bc-a930-a54bb7b5fe11@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://7ea23c37-1659-4710-8fcb-2a748b47e030@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://c7a76973-cfcc-42ae-848b-5b48d202f2af@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://adf0bd1b-ed5e-497f-b877-987fa9c430c2@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
@@ -148,8 +148,6 @@ vless://4a831dcb-25f4-413d-b786-67e52ea2e7a3@speedtest.net:80?type=ws&amp;host=b
 vless://e058ec6a-1f07-4c26-aa28-332c27273326@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://e77cc333-1c40-46aa-aaa9-841765a2187a@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://4409024f-60d9-476d-9be5-06bbc31b1595@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://c402bb29-b1ef-4ab9-8c82-730af7464011@speedtest.net:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://680e3d5e-9339-4104-9105-30a757ead8ec@151.101.3.8:80?type=ws&amp;host=befreewithus.com&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://616c06f7-7730-4001-8878-a7a2fc8d7faf@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://3603b770-030b-4701-ba1e-d5632496ebc5@speedtest.net:80?type=xhttp&amp;host=kiosyour-name.global.ssl.fastly.net&amp;path=/=BeFreeWithUs?ed=2048&amp;mode=auto&amp;security=none#Channel:@BeFreeWithUs
@@ -186,5 +184,3 @@ vless://628a9471-8dd9-4b19-ac3d-6470a7bbdbba@speedtest.net:80?type=ws&amp;host=b
 vless://493122ab-39d1-404b-8d08-4e0513c25a96@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://4a232e0c-de47-4913-bfb7-966a56306f80@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
 vless://872b8f99-da85-435b-976f-eceda4872b4e@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://94f65755-49b6-4d86-81dd-d8f99e2f480b@speedtest.net:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
-vless://492f489f-f32b-41bc-a930-a54bb7b5fe11@151.101.3.8:80?type=ws&amp;host=befreewithus.net&amp;path=/&amp;security=none#Channel:@BeFreeWithUs
