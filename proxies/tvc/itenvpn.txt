@@ -13,6 +13,7 @@ vmess://eyJhZGQiOiJ4dm9uLmZhc3QuaG9zdGluZy1pcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#Telegram%20%3A%20%40itenvpn%2094
 vless://aac0dcb8-9e87-46e2-ab41-ba188e0e345c@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#Telegram%20%3A%20%40itenvpn%20333
 vless://cfaaa473-21d5-433c-a82a-3814d2c024fe@zone.fi.f2hub.ir:28643?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%2086
+vless://0ccef315-6887-4a51-a61c-40e19384369f@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=moshakspeed2.global.ssl.fastly.net&amp;type=xhttp#Telegram%20%3A%20%40itenvpn%2000
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%201111
 vless://b42bcea6-69c4-4272-8d2f-1fc27e4fb6d3@Selling.p1-net.ir:8637?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%207777
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2FTelegram%40V2ray_Alpha&amp;security=none&amp;encryption=none&amp;host=us.laoyoutiao.link&amp;type=ws#Telegram%20%3A%20%40itenvpn%20555
@@ -29,7 +30,6 @@ vmess://eyJhZGQiOiJ4dm9uLmZhc3QuaG9zdGluZy1pcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#Telegram%20%3A%20%40itenvpn%2094
 vless://aac0dcb8-9e87-46e2-ab41-ba188e0e345c@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#Telegram%20%3A%20%40itenvpn%20333
 vless://cfaaa473-21d5-433c-a82a-3814d2c024fe@zone.fi.f2hub.ir:28643?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%2086
-vless://0ccef315-6887-4a51-a61c-40e19384369f@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=moshakspeed2.global.ssl.fastly.net&amp;type=xhttp#Telegram%20%3A%20%40itenvpn%2000
 vless://0ccef315-6887-4a51-a61c-40e19384369f@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=moshakspeed2.global.ssl.fastly.net&amp;type=xhttp#Telegram%20%3A%20%40itenvpn%2000
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%201111
 vless://b42bcea6-69c4-4272-8d2f-1fc27e4fb6d3@Selling.p1-net.ir:8637?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%207777
