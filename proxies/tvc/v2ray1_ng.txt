@@ -1,5 +1,4 @@
 vless://e947c1b3-5eee-4007-b29e-e960c73242b3@iro.goodratkhooda.info:56833?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng%20ALL
-vless://e947c1b3-5eee-4007-b29e-e960c73242b3@iro.goodratkhooda.info:56833?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng%20ALL
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#%40G0Dv2ray
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=dw.alibichareh.dpdns.org#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40V2ray1_Ng
@@ -17,6 +16,7 @@ vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.220:2222#%40V2ray1_Ng
 vless://BeFreeWithUs@151.101.3.8:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.net&amp;type=ws#%40V2ray1_Ng%20ALL
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@iro.goodratkhooda.info:56833?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng%20ALL
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#%40G0Dv2ray
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=dw.alibichareh.dpdns.org#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40V2ray1_Ng
