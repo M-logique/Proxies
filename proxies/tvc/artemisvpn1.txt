@@ -10,3 +10,5 @@ vless://3e06facf-0e8a-40fa-ab07-7adc19c0718e@respina.hajimamadcloud.ir:1010?secu
 vless://3e06facf-0e8a-40fa-ab07-7adc19c0718e@shatel.hajimamadcloud.ir:9090?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40Artemisvpn1
 vless://3e06facf-0e8a-40fa-ab07-7adc19c0718e@respina.hajimamadcloud.ir:1010?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40Artemisvpn1
 vless://3e06facf-0e8a-40fa-ab07-7adc19c0718e@shatel.hajimamadcloud.ir:9090?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40Artemisvpn1
+vless://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@respina.hajimamadcloud.ir:1010?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40Artemisvpn1
+vless://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@shatel.hajimamadcloud.ir:9090?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40Artemisvpn1
