@@ -1,3 +1,4 @@
+vless://a8404978-dc88-4ae0-8b57-0fc11b88c46b@154.90.54.4:11928/?type=tcp&amp;security=none#[🇦🇪]v2ray_cartel
 vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=ws&amp;sni=reverse-tunnel.maketunnelim.lat#[🇮🇷]v2ray_cartel
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
