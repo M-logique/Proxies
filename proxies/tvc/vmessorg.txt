@@ -10,14 +10,14 @@ vless://fa220dbd-8223-4ab5-a574-239885fead2b@ir3.tunneled.site:5050?type=tcp&amp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048&amp;security=none#Telegram+:+@vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#Telegram+:+@vmessorg
 vless://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80?type=ws&amp;host=spx.lindak.dpdns.org&amp;path=/TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed%3D512&amp;security=none#Telegram+:+@+%F0%9F%8F%B3%F0%9F%8F%B3vmessorg
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048&amp;security=none#Telegram+:+@vmessorg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#Telegram+:+@vmessorg
-vless://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80?type=ws&amp;host=spx.lindak.dpdns.org&amp;path=/TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed%3D512&amp;security=none#Telegram+:+@+%F0%9F%8F%B3%F0%9F%8F%B3vmessorg
 vless://2567fd40-d432-4ca0-a785-6b10af8e5269@whats-my-ip.wizardxray.shop:701?type=tcp&amp;headerType=http&amp;host=rubika.ir,+igap.net,+splus.ir,+skyroom.online&amp;security=none#Telegram+:+@+%F0%9F%8F%B3%F0%9F%8F%B3vmessorg
 vless://ab42b902-32fc-2f60-10c9-37704f6e88e3@btemp.cutemugs.ir:6076?type=tcp&amp;headerType=http&amp;security=none#Telegram+:+@+%F0%9F%8F%B3%F0%9F%8F%B3vmessorg
 vless://154fd567-d1ff-4811-b60d-bc2adaa5aad3@12.irShecan.com:49726?type=tcp&amp;headerType=http&amp;host=head.irshecan.com&amp;security=none#Telegram+:+@vmessorg
 vless://6cf14976-c942-4463-b6ad-f3b2edbc7e9b@ir55.alirez-music.ir:1002?type=tcp&amp;headerType=none&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://fa220dbd-8223-4ab5-a574-239885fead2b@ir3.tunneled.site:5050?type=tcp&amp;headerType=none&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048&amp;security=none#Telegram+:+@vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#Telegram+:+@vmessorg
+vless://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80?type=ws&amp;host=spx.lindak.dpdns.org&amp;path=/TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed%3D512&amp;security=none#Telegram+:+@+%F0%9F%8F%B3%F0%9F%8F%B3vmessorg
 vless://2567fd40-d432-4ca0-a785-6b10af8e5269@whats-my-ip.wizardxray.shop:701?type=tcp&amp;headerType=http&amp;host=rubika.ir,+igap.net,+splus.ir,+skyroom.online&amp;security=none#Telegram+:+@+%F0%9F%8F%B3%F0%9F%8F%B3vmessorg
 vless://ab42b902-32fc-2f60-10c9-37704f6e88e3@btemp.cutemugs.ir:6076?type=tcp&amp;headerType=http&amp;security=none#Telegram+:+@+%F0%9F%8F%B3%F0%9F%8F%B3vmessorg
 vless://154fd567-d1ff-4811-b60d-bc2adaa5aad3@12.irShecan.com:49726?type=tcp&amp;headerType=http&amp;host=head.irshecan.com&amp;security=none#Telegram+:+@vmessorg
