@@ -1,4 +1,3 @@
-vless://f37eac0a-76a5-4865-ad72-825c76b8477d@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Germany.ss.ss&amp;type=ws#@Capoit
 vless://ba12e208-2052-4663-8281-98522ee41813@ir3.tunneled.site:1010?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Capoit
 vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=oFnKGAC26JAs2SXa.xyz&amp;type=ws#@Capoit
 vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=oFnKGAC26JAs2SXa.xyz&amp;type=ws#@Capoit
@@ -56,5 +55,6 @@ vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?path=%2Fdownload%3Fe
 vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=oFnKGAC26JAs2SXa.xyz&amp;type=ws#@Capoit
 vless://2567fd40-d432-4ca0-a785-6b10af8e5269@whats-my-ip.wizardxray.shop:701?security=&amp;encryption=none&amp;host=rubika.ir%2C%20igap.net%2C%20splus.ir%2C%20skyroom.online&amp;headerType=http&amp;type=tcp#@Capoit
 vless://9f25c96c-f91c-473e-a903-a0d6f615da3a@ma2.reactjsworld.com:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=khamenei.ir&amp;type=xhttp#@Capoit
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
