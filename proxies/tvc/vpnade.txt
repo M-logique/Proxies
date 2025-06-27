@@ -14,9 +14,9 @@ vless://46ec407a-7cf6-486c-8134-6bcc4cf06794@78.109.200.212:2070?security=none&a
 vless://0355e0b9-f6aa-4da4-89fc-5b1e476b3f8c@95.181.162.108:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#perovpn
 vless://0355e0b9-f6aa-4da4-89fc-5b1e476b3f8c@95.181.162.108:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#perovpn
 vless://0b946073-e566-4f5e-0b61-ebdb28246c85@dns25.golden-ping.ir:16049?security=none&amp;encryption=none&amp;type=tcp&amp;host=fast.com&amp;path=/&amp;headerType=http#@perovpn
-vless://efd27b02-358a-4c5f-866e-180f9b762706@gigaportal.pl.gigaportal.pl:80?mode=auto&amp;path=%2F%3Fed%3D399%2F%3Fbgbg&amp;security=none&amp;encryption=none&amp;host=bgbg1your-name.global.ssl.fastly.net&amp;type=xhttp#%40vpnade
 vless://035ce4e2-b793-418a-838b-3508df309930@c1.vact.ir:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&amp;fp=randomized&amp;type=grpc&amp;sni=refersion.com&amp;sid=90278dfc#perovpn
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?path=%2F%3Fed%3D2048&amp;security=&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=teleirani.ir&amp;fp=random&amp;type=ws&amp;sni=teleirani.ir#perovpn
+vless://efd27b02-358a-4c5f-866e-180f9b762706@gigaportal.pl.gigaportal.pl:80?mode=auto&amp;path=%2F%3Fed%3D399%2F%3Fbgbg&amp;security=none&amp;encryption=none&amp;host=bgbg1your-name.global.ssl.fastly.net&amp;type=xhttp#%40vpnade
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@172.67.30.213:2053?path=%2Fadmins%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=9.neshaan.org&amp;fp=chrome&amp;type=ws&amp;sni=9.neshaan.org#%40vpnade%20%3A%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@fastly.net:80?security=none&amp;encryption=none&amp;host=PABLOO-MOSTAFA.COM&amp;type=ws#%40perovpn
 vless://46ec407a-7cf6-486c-8134-6bcc4cf06794@78.109.200.212:2070?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#perovpn
