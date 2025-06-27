@@ -1,6 +1,6 @@
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
-vless://xsv2ray
+vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&amp;fp=firefox&amp;type=grpc&amp;sni=dash.cloudflare.com&amp;sid=83cdb009#@XsV2ray@XsV2ray@XsV2ray-XsV2ray%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@XsV2ray@XsV2ray@XsV2ray-تلگرام
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@XsV2ray@XsV2ray@XsV2ray-تلگرام
@@ -14,7 +14,6 @@ vless://2d7385cc-a954-4b4e-f441-f75bb3dcb879@hmahdi11.varzesh3.ru:18648?mode=gun
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
-vless://xsv2ray
 vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&amp;fp=firefox&amp;type=grpc&amp;sni=dash.cloudflare.com&amp;sid=83cdb009#@XsV2ray@XsV2ray@XsV2ray-XsV2ray%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@XsV2ray@XsV2ray@XsV2ray-تلگرام
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@XsV2ray@XsV2ray@XsV2ray-تلگرام
@@ -28,7 +27,6 @@ vless://2d7385cc-a954-4b4e-f441-f75bb3dcb879@hmahdi11.varzesh3.ru:18648?mode=gun
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
-vless://xsv2ray
 vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&amp;fp=firefox&amp;type=grpc&amp;sni=dash.cloudflare.com&amp;sid=83cdb009#@XsV2ray@XsV2ray@XsV2ray-XsV2ray%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@XsV2ray@XsV2ray@XsV2ray-تلگرام
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@XsV2ray@XsV2ray@XsV2ray-تلگرام
@@ -42,7 +40,8 @@ vless://2d7385cc-a954-4b4e-f441-f75bb3dcb879@hmahdi11.varzesh3.ru:18648?mode=gun
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
 vless://Xsv2Ray@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#%40XsV2Ray
-vless://xsv2ray
+ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw%3D%3D@80.87.202.50:20#%40Anty_Vpn%20%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40Anty_Vpn%20%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&amp;path=%2Fpath&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=Demon02.global.ssl.fastly.net&amp;type=xhttp#%40Anty_Vpn%20%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vmess://eyJhZGQiOiJ0ZWhyYW4tc21zLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI3ZjAzNGUwYi0wZDNmLTQ5NjEtOTJkNi0xYjRiZGJmM2NiMTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvY29ubmVjdC9kZS8/ZWRcdTAwM2QxMDI0Lz9KT0tFUlJWUE4iLCJwb3J0IjoiNDQzIiwicHMiOiJAQW50eV92cG4g2LPYsdmI2LHYp9uMINio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoicGtnYnVpbGQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=nv73.momdping.com#%40Anty_Vpn%20%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
