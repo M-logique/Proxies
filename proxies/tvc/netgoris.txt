@@ -22,6 +22,8 @@ vless://12635fc5-41f1-40fd-ae2b-63a6f305fe5c@185.79.159.39:3083?security=&amp;en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#%40NetGoris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%40NetGoris
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#%2540netgoris
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@netgoris
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@netgoris
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@netgoris
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@netgoris
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@netgoris
