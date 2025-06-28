@@ -25,11 +25,7 @@ vless://ca2185ed-e671-47dd-99be-bd14d18f13d8@f2.snnap.org:80?mode=auto&amp;path=
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@vipV2rayNGnp
 vless://623a1b9d-bf41-4181-9466-d099996dc706@99.199.73.53:20911?security=&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@vipV2rayNGnp
-vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.189.100:17416?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=sourceforge.net&amp;sid=b3#@vipV2rayNGnp
-vless://a26ea133-45e6-48d9-9ff6-a05e08d81724@209.38.186.105:47948?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=19d2063459#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#@vipV2rayNGnp
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#@vipV2rayNGnp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#@vipV2rayNGnp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@vipV2rayNGnp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#
@@ -57,11 +53,7 @@ vless://ca2185ed-e671-47dd-99be-bd14d18f13d8@f2.snnap.org:80?mode=auto&amp;path=
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@vipV2rayNGnp
 vless://623a1b9d-bf41-4181-9466-d099996dc706@99.199.73.53:20911?security=&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@vipV2rayNGnp
-vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.189.100:17416?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=sourceforge.net&amp;sid=b3#@vipV2rayNGnp
-vless://a26ea133-45e6-48d9-9ff6-a05e08d81724@209.38.186.105:47948?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=19d2063459#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#@vipV2rayNGnp
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#@vipV2rayNGnp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#@vipV2rayNGnp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@vipV2rayNGnp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#
@@ -89,11 +81,6 @@ vless://ca2185ed-e671-47dd-99be-bd14d18f13d8@f2.snnap.org:80?mode=auto&amp;path=
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@vipV2rayNGnp
 vless://623a1b9d-bf41-4181-9466-d099996dc706@99.199.73.53:20911?security=&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@vipV2rayNGnp
-vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.189.100:17416?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=sourceforge.net&amp;sid=b3#@vipV2rayNGnp
-vless://a26ea133-45e6-48d9-9ff6-a05e08d81724@209.38.186.105:47948?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=19d2063459#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#@vipV2rayNGnp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4FreakConfig.usecharge.ir:443#@vipV2rayNGnp
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&amp;encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=&amp;encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@vipV2rayNGnp
@@ -117,5 +104,4 @@ vless://0788f940-bc79-4438-9553-ac469844469d@test.fast.hosting-ip.com:80?mode=au
 vless://2c8aaf87-b1e3-4fc6-915b-0e48a26b1cd6@test.fast.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=none&amp;encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&amp;host=Aame.global.ssl.fastly.net&amp;type=xhttp#@vipV2rayNGnp
 vless://0788f940-bc79-4438-9553-ac469844469d@test.fast.hosting-ip.com:80?mode=auto&amp;security=none&amp;encryption=none&amp;type=xhttp#
 vless://2c8aaf87-b1e3-4fc6-915b-0e48a26b1cd6@test.fast.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Aame.global.ssl.fastly.net&amp;type=xhttp#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#@vipV2rayNGnp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#@vipV2rayNGnp
