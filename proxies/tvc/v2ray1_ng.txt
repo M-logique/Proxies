@@ -55,7 +55,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#%40G0Dv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40G0Dv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40G0Dv2ray
-vless://e947c1b3-5eee-4007-b29e-e960c73242b3@iro.goodratkhooda.info:56833?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng%20ALL
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40G0Dv2ray
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&amp;encryption=none&amp;host=q6.19kalA.co&amp;type=ws#%40G0Dv2ray
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=x1-germany-digitalocean-v2.devefun.org#%40G0Dv2ray
@@ -74,6 +73,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#%40G0Dv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40G0Dv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40G0Dv2ray
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@iro.goodratkhooda.info:56833?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng%20ALL
 vless://e947c1b3-5eee-4007-b29e-e960c73242b3@iro.goodratkhooda.info:56833?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng%20ALL
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
