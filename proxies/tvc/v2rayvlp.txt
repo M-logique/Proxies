@@ -1,7 +1,3 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#@V2RAYVlP
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#@V2RAYVlP
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#@V2RAYVlP
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#@V2RAYVlP
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&amp;headerType=none&amp;s…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492?type=tcp#@V2rayvlp
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&amp;headerType=none&amp;s…
@@ -103,6 +99,8 @@ vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&amp;sec
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#@V2RAYVlP
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#@V2RAYVlP
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FShadowProxy66%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=REEdfREe8MahSaNg2.rEDOrG.IR&amp;type=ws#@V2RAYVlP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MT…
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&amp;security=none&amp;type=ws&amp;host=a.xn--i-sx6a60i.us.kg.&amp;path=%2F%3Fed%3D2560#@V2RAYVlP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MT…
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&amp;security=none&amp;type=ws&amp;host=a.xn--i-sx6a60i.us.kg.&amp;path=%2F%3Fed%3D2560#@V2RAYVlP
 vless://6235f653-f5ee-4824-878c-3fcc1e64b7f5@geshop.spsvps.com:2096?security=reality&amp;type=grpc&amp;headerType=&amp;serviceName=xyz&amp;authority=&amp;mode=gun&amp;sni=ame.spsvps.com&amp;fp=chrome&amp;pbk=OUS-F8whgCGs88wPa…
