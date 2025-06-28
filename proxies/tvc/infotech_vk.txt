@@ -44,7 +44,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%
 vless://6e3f89e3-3580-4ede-9608-c5cdd0560fa8@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Finland.ss.ss&amp;type=ws#@InfoTech_VK
 vless://7090482e-0bdc-415e-a3c1-1f5cdd3bef77@cloud.wiromusic.ir:80?mode=packet-up&amp;path=%2FNeTM3Li&amp;security=none&amp;encryption=none&amp;host=blue.red.taktechnology.ir&amp;type=xhttp#@InfoTech_VK
 vless://0b3d1510-31a1-4a6f-ba85-336388e3adac@13.irShecan.com:47491?security=none&amp;encryption=none&amp;host=head.irshecan.com&amp;headerType=http&amp;type=tcp#@InfoTech_VK
-vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Germany.ss.ss&amp;type=ws#@InfoTech_VK
 vless://1734035c-6dcc-411a-91e5-0d7786e9093e@local-only.hardwarenew.ir:8081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK
 vmess://eyJhZGQiOiJtMjkudmF4b24xLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMxZWFhOTE1LTBlZTctNDQ3ZC1hMTAwLTczYmI5NDYzOGE4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkBJbmZvVGVjaF9WSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://e71b96b5-63bc-4387-8471-582aff68afb1@cip-1.toxi-speed.ru:2767?security=none&amp;encryption=none&amp;host=fararu.com&amp;headerType=http&amp;type=tcp#@InfoTech_VK
@@ -76,6 +75,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%
 vless://6e3f89e3-3580-4ede-9608-c5cdd0560fa8@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Finland.ss.ss&amp;type=ws#@InfoTech_VK
 vless://7090482e-0bdc-415e-a3c1-1f5cdd3bef77@cloud.wiromusic.ir:80?mode=packet-up&amp;path=%2FNeTM3Li&amp;security=none&amp;encryption=none&amp;host=blue.red.taktechnology.ir&amp;type=xhttp#@InfoTech_VK
 vless://0b3d1510-31a1-4a6f-ba85-336388e3adac@13.irShecan.com:47491?security=none&amp;encryption=none&amp;host=head.irshecan.com&amp;headerType=http&amp;type=tcp#@InfoTech_VK
+vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Germany.ss.ss&amp;type=ws#@InfoTech_VK
 vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Germany.ss.ss&amp;type=ws#@InfoTech_VK
 vless://1734035c-6dcc-411a-91e5-0d7786e9093e@local-only.hardwarenew.ir:8081?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK
 vmess://eyJhZGQiOiJtMjkudmF4b24xLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMxZWFhOTE1LTBlZTctNDQ3ZC1hMTAwLTczYmI5NDYzOGE4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkBJbmZvVGVjaF9WSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
