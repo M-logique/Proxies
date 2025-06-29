@@ -1,14 +1,3 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://e16cafe3-aa65-4d62-8528-efa4c2bc1c65@server4.emralnetwork.top:12087?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://dc57d136-d842-4ead-81e6-777b460f7868@server2.emralstore.com:12084?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://b0dc655c-de89-48b0-84c6-3c70c4e4fecb@server2.emralstore.com:12084?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://e32d8eac-0cd4-42e3-851c-5fa8bd54aa3d@server2.emralstore.com:12084?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://091d48bb-bf77-498f-95d8-738fadf4896d@server2.emralstore.com:12084?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#create_your_bot
-vless://3564cd2f-db77-76fb-feb5-9d56d1885e20@lavin1.stevejobs-net.com:38349?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#create_your_bot
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a1.ghormehsabzi.dpdns.org&amp;type=ws#create_your_bot
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.24.60.135:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;type=ws#create_your_bot
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:23835?security=none&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#create_your_bot
@@ -20,7 +9,9 @@ vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.148.22:2053?path=%2FTelegram%40Filter_breaker&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=mahsa2.cfform.site&amp;fp=randomized&amp;type=ws&amp;sni=maHsA2.cFFoRM.sIte
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=titantablomanahamrah.ir&amp;fp=randomized&amp;type=ws&amp;sni=TITanTabLOmaNAHaMRaH.IR
 vless://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80?path=%2FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=spx.lindak.dpdns.org&amp;type=ws
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#
 vless://48eea3b8-4efb-493e-86c3-251a68ab7b03@151.101.67.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=rubika.ir.google.xn--aaaaaaaaaaaaaaaaaaaaaa-v150bgai.apaspeedtest.netrat.com.eu.com.shw818.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafbkeck.tnw.of.eu&amp;type=xhttp#
+vless://5dc80f12-f28f-4325-98d3-54130b068752@hub.document.lat:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=thkhlppnb-name.global.ssl.fastly.net.&amp;type=xhttp#
 vless://e6236ebc…
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;type=ws#
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?p
