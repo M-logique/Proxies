@@ -16,6 +16,8 @@ vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&amp
 vless://b42bcea6-69c4-4272-8d2f-1fc27e4fb6d3@Selling.p1-net.ir:8637?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%207777
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=%2FiTCBmrOFrKpdwUWZ%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s3.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=s3.mAIN-2.WorKeRs.Dev#Telegram%20%3A%20%40itenvpn%20xvvv
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=%2FiTCBmrOFrKpdwUWZ%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s3.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=s3.mAIN-2.WorKeRs.Dev#Telegram%20%3A%20%40itenvpn%20xvv
+vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=%2FiTCBmrOFrKpdwUWZ%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s3.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=s3.mAIN-2.WorKeRs.Dev#Telegram%20%3A%20%40itenvpn%20xvvv
+vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=%2FiTCBmrOFrKpdwUWZ%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s3.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=s3.mAIN-2.WorKeRs.Dev#Telegram%20%3A%20%40itenvpn%20xvv
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2FTelegram%40V2ray_Alpha&amp;security=none&amp;encryption=none&amp;host=us.laoyoutiao.link&amp;type=ws#Telegram%20%3A%20%40itenvpn%20xx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXVsbkdVZkF5S0J4WnBBUlMwM21D@194.87.45.189:443#Telegram%20%3A%20%40itenvpn%20xxx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXVsbkdVZkF5S0J4WnBBUlMwM21D@194.87.45.189:443#Telegram%20%3A%20%40itenvpn%20xxx
@@ -33,8 +35,6 @@ vless://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto
 vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Germandiginoe.com&amp;type=ws#Telegram%20%3A%20%40itenvpn%202222
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%201111
 vless://b42bcea6-69c4-4272-8d2f-1fc27e4fb6d3@Selling.p1-net.ir:8637?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%207777
-vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=%2FiTCBmrOFrKpdwUWZ%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s3.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=s3.mAIN-2.WorKeRs.Dev#Telegram%20%3A%20%40itenvpn%20xvvv
-vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=%2FiTCBmrOFrKpdwUWZ%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s3.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=s3.mAIN-2.WorKeRs.Dev#Telegram%20%3A%20%40itenvpn%20xvv
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2FTelegram%40V2ray_Alpha&amp;security=none&amp;encryption=none&amp;host=us.laoyoutiao.link&amp;type=ws#Telegram%20%3A%20%40itenvpn%20xx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXVsbkdVZkF5S0J4WnBBUlMwM21D@194.87.45.189:443#Telegram%20%3A%20%40itenvpn%20xxx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXVsbkdVZkF5S0J4WnBBUlMwM21D@194.87.45.189:443#Telegram%20%3A%20%40itenvpn%20xxx
