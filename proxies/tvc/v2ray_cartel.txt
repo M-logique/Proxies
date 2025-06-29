@@ -1,4 +1,3 @@
-vmess://eyJwYXRoIjoiXC93cz9lZD0yMDQ4IiwiaG9zdCI6Imhvc3NlaW55b3VyLW5hbWUuZ2xvYmFsLnNzbC5mYXN0bHkubmV0IiwiYWRkIjoiU3BlZWR0ZXN0Lm5ldCIsIm5ldCI6InhodHRwIiwiaWQiOiIzOWRiZTgzYS0zZGFjLTQzZTctOGMxNC05NzI3MDc0OWY0MjAiLCJzY3kiOiJhdXRvIiwicHMiOiJtIiwicG9ydCI6IjgwIn0=
 vless://7cc1a65d-2c12-437f-b915-247a3e4bde6b@speedtest.net:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=nimanimanima.ir&amp;type=xhttp#[🇺🇸]v2ray_cartel
 trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&amp;security=none&amp;type=ws#[🇮🇷]v2ray_cartel
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
