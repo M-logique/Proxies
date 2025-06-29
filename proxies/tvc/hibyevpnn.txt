@@ -196,6 +196,7 @@ vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?encryption=none&am
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@HiByeVPNN
 vless://ea21a60c-8ad2-4117-8000-dc7f8f6ac72d@ne1.shahinstore1.com:2095?type=ws&amp;security=none&amp;path=/&amp;host=#@HiByeVPNN
 vless://ea21a60c-8ad2-4117-8000-dc7f8f6ac72d@ne1.imlast.com:2095?type=ws&amp;security=none&amp;path=/&amp;host=#@HiByeVPNN
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=abcd.taraneh.dpdns.org#@hibyevpnn
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@hibyevpnn
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@hibyevpnn
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@hibyevpnn
