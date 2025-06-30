@@ -1,4 +1,3 @@
-vless://5d175721-8bdf-4cd1-81bf-2a3eb3b841e2@pishgam.sdcards.ir:80?type=ws&amp;host=amir.pmme.top&amp;path=/?ed%3D2087&amp;security=none#Telegram+:+@vmessorg
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@161.35.247.114:1003?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=fast.com#%F0%9F%87%B3%F0%9F%87%B1%20HOLAND%207.23
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@64.225.81.136:1003?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=fast.com#%F0%9F%87%B3%F0%9F%87%B1%20HOLAND%206
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@209.38.100.174:1003?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=fast.com#%F0%9F%87%B3%F0%9F%87%B1%20HOLAND%205
@@ -145,6 +144,7 @@ vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@167.71.40.79:2087?security=none&amp
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@167.71.50.61:2087?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=fast.com#%F0%9F%87%A9%F0%9F%87%AAGermany%20DE%2002
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@165.227.250.236:25087?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=fast.com#%F0%9F%87%BA%F0%9F%87%B8%20dsu472.ex
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@164.90.133.223:25087?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=fast.com#%F0%9F%87%BA%F0%9F%87%B8%20dsu47.ex
+vless://e8a78312-5989-4b00-bf4f-75eef7819168@37.32.5.234:2025?type=grpc&amp;mode=gun&amp;serviceName=vless&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://e8a78312-5989-4b00-bf4f-75eef7819168@37.32.5.234:2025?type=grpc&amp;mode=gun&amp;serviceName=vless&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?type=tcp&amp;headerType=http&amp;host=eN.TwiTtER.cOM.:8880&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?type=tcp&amp;headerType=http&amp;host=zula.ir&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
