@@ -51,13 +51,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&amp;secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#@v2Source🇺🇸
 vless://097e2594-dbbb-4a36-a5c7-6b8c8893c611@104.18.26.94:80?encryption=none&amp;security=none&amp;type=ws&amp;host=esetsecuritylicense.wixel67553.workers.dev&amp;path=JOIN-FILTERK0SH%2F%3Fed%3D2048#@v2Source🇨🇦
 trojan://X22ZAo5vGF@104.21.112.1:443?security=tls&amp;sni=esna.twn24.ir&amp;type=httpupgrade&amp;host=esna.twn24.ir&amp;path=/36822/?ed%3D2048&amp;fp=random&amp;allowInsecure=1#@v2Source🇨🇦
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
-ss://YWVzLTEyOC1nY206YWI3Mjk2MWQtMzJiZi00MWVkLTg3ZjctYTIzMzZlOGRlMzc4@d1.cloudtaste.xyz:27619#@v2Source🇨🇳
-vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=eLOQuENt-caSE.ZUlaIR.orG.&amp;type=ws&amp;sni=eLOQuENt-caSE.ZUlaIR.orG.#@v2Source🇨🇦
-ss://YWVzLTI1Ni1nY206QjBVUEdMMklVU0IwVVY0Qg==@23.185.248.16:17006#@v2Source🇺🇸
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?path=%2F%40Rayan_Config&amp;security=tls&amp;encryption=none&amp;host=rayan-08.leila.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=rayan-08.leila.dpdns.org#@v2Source🇨🇦
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
-vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@v2Source🇮🇷
 vless://4f57d8fc-cb21-44d9-b108-611c610dce88@185.133.35.118:80?security=none&amp;type=ws&amp;host=Www.speedtest.net.sPeedtest2.sbs.#@v2Source🇧🇷
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
 vless://beb0c416-c0dc-46ca-896d-7fd48a585ad1@104.26.15.85:80?security=none&amp;type=ws&amp;host=motiVATeD-pLaNe.ONEEAt.CO.&amp;path=%2F%3Fed%3D2048#@v2Source🇨🇦
@@ -71,6 +64,13 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&amp;secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#@v2Source🇺🇸
 vless://097e2594-dbbb-4a36-a5c7-6b8c8893c611@104.18.26.94:80?encryption=none&amp;security=none&amp;type=ws&amp;host=esetsecuritylicense.wixel67553.workers.dev&amp;path=JOIN-FILTERK0SH%2F%3Fed%3D2048#@v2Source🇨🇦
 trojan://X22ZAo5vGF@104.21.112.1:443?security=tls&amp;sni=esna.twn24.ir&amp;type=httpupgrade&amp;host=esna.twn24.ir&amp;path=/36822/?ed%3D2048&amp;fp=random&amp;allowInsecure=1#@v2Source🇨🇦
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
+ss://YWVzLTEyOC1nY206YWI3Mjk2MWQtMzJiZi00MWVkLTg3ZjctYTIzMzZlOGRlMzc4@d1.cloudtaste.xyz:27619#@v2Source🇨🇳
+vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=eLOQuENt-caSE.ZUlaIR.orG.&amp;type=ws&amp;sni=eLOQuENt-caSE.ZUlaIR.orG.#@v2Source🇨🇦
+ss://YWVzLTI1Ni1nY206QjBVUEdMMklVU0IwVVY0Qg==@23.185.248.16:17006#@v2Source🇺🇸
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?path=%2F%40Rayan_Config&amp;security=tls&amp;encryption=none&amp;host=rayan-08.leila.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=rayan-08.leila.dpdns.org#@v2Source🇨🇦
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
+vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@v2Source🇮🇷
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
 ss://YWVzLTEyOC1nY206YWI3Mjk2MWQtMzJiZi00MWVkLTg3ZjctYTIzMzZlOGRlMzc4@d1.cloudtaste.xyz:27619#@v2Source🇨🇳
 vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=eLOQuENt-caSE.ZUlaIR.orG.&amp;type=ws&amp;sni=eLOQuENt-caSE.ZUlaIR.orG.#@v2Source🇨🇦
