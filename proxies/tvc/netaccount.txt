@@ -16,3 +16,4 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&am
 trojan://telegram-id-directvpn@15.188.124.22:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#NetAccount
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88+%D8%B4%DB%8C%D8%AF+--%3E+DoDeli7%40
