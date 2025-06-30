@@ -113,13 +113,13 @@ vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.103:443?encryption=none&
 vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.102:443?encryption=none&amp;security=tls&amp;sni=awmirx-v2ray.com&amp;type=ws&amp;host=awmirx-v2ray.com&amp;fp=chrome#@Filter_breaker
 vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.101:443?encryption=none&amp;security=tls&amp;sni=awmirx-v2ray.com&amp;type=ws&amp;host=awmirx-v2ray.com&amp;fp=chrome#@Filter_breaker
 vless://9a8b7c6d-5e4f-4132-9b1a-2c3d4e5f6789@172.67.123.100:443?encryption=none&amp;security=tls&amp;sni=awmirx-v2ray.com&amp;type=ws&amp;host=awmirx-v2ray.com&amp;fp=chrome#@Filter_breaker
-vmess://eyJhZGQiOiJob21hLmN…»
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UlpGUUpCdl9fVmdGT2lCMzBqaGV3@homa.cybsecguru.com:62005#@Filter_breaker
 vless://6801b00f-a4c6-470d-b826-0fef33101ddf@homa.cybsecguru.com:62001?encryption=none&amp;security=reality&amp;type=tcp&amp;fp=chrome&amp;pbk=bGnpkihzVNt2CX8pvwL92oiVRIjvnlw6btZ3qhB9wXs&amp;sid=4…
 vless://8afd939e-b1f5-4548-a047-af268e9dbdbb@tamizokatamizveryclearifiedtamiz.ivy-net.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=xokashope2neowdcsdcs23.okatestoka.ir&amp;type=httpupgrade#[🚀]
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a1.ghormehsabzi.dpdns.org&amp;type=ws#[🚀]
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#[🚀]
 vless://8bb15031-c286-4987-b342-007a2cc7f101@webbbb.grizzlyshoppp.shop:6050?security=none&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#[🚀]
+vmess://eyJhZGQiOiJob21hLmN…»
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UlpGUUpCdl9fVmdGT2lCMzBqaGV3@homa.cybsecguru.com:62005#@Filter_breaker
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@2393123233.torob.com.tr:1429?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#@Filter_breaker
 vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@S1.LoadBalance.LAT:2090?type=grpc&amp;mode=gun&amp;serviceName=mgrpcm&amp;security=reality&amp;fp=firefox&amp;sni=refersion.com&amp;pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&amp;sid=e17185329455b179#@Filter_breaker
 vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@S1.LoadBalance.LAT:2090?type=grpc&amp;mode=gun&amp;serviceName=mgrpcm&amp;security=reality&amp;fp=firefox&amp;sni=refersion.com&amp;pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&amp;sid=e17185329455b179#@Filter_breaker
