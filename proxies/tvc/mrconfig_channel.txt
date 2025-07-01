@@ -1,6 +1,7 @@
+vless://34df4ce8-83a0-4c9d-be42-09897964e0e7@89.223.64.164:1516?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.refersion.com&amp;pbk=ub5WuZbfa5iaqRjk9RqEPbxIef7NrioFsWAj-zJAqHo&amp;sid=9b8e2b0b49c607ee&amp;spx=/#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@u.armiaidin.top:8880?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443?type=tcp#@Mconfig_Channel%20%F0%9F%A9%B5
-vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=bahbahbahvpn.ir&amp;path=/&amp;security=none#@MR_Config_Group%F0%9F%8D%93
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Mconfig_Channel
 vless://81abcda7-9fd3-4157-82c0-2b69c809cb26@dl.zedwow.com:11864?type=tcp&amp;headerType=http&amp;host=fast.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://07ec2dd3-000d-4521-ae32-c5ffb2110f46@37.77.106.36:49555?type=tcp&amp;headerType=http&amp;host=Varzesh3.com&amp;path=/&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?type=tcp&amp;headerType=none&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
@@ -17,7 +18,7 @@ vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?type=ws&amp;host=tsv
 vless://34df4ce8-83a0-4c9d-be42-09897964e0e7@89.223.64.164:1516?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.refersion.com&amp;pbk=ub5WuZbfa5iaqRjk9RqEPbxIef7NrioFsWAj-zJAqHo&amp;sid=9b8e2b0b49c607ee&amp;spx=/#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@u.armiaidin.top:8880?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443?type=tcp#@Mconfig_Channel%20%F0%9F%A9%B5
-vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=bahbahbahvpn.ir&amp;path=/&amp;security=none#@MR_Config_Group%F0%9F%8D%93
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Mconfig_Channel
 vless://81abcda7-9fd3-4157-82c0-2b69c809cb26@dl.zedwow.com:11864?type=tcp&amp;headerType=http&amp;host=fast.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://07ec2dd3-000d-4521-ae32-c5ffb2110f46@37.77.106.36:49555?type=tcp&amp;headerType=http&amp;host=Varzesh3.com&amp;path=/&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?type=tcp&amp;headerType=none&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
@@ -34,7 +35,7 @@ vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?type=ws&amp;host=tsv
 vless://34df4ce8-83a0-4c9d-be42-09897964e0e7@89.223.64.164:1516?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.refersion.com&amp;pbk=ub5WuZbfa5iaqRjk9RqEPbxIef7NrioFsWAj-zJAqHo&amp;sid=9b8e2b0b49c607ee&amp;spx=/#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@u.armiaidin.top:8880?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443?type=tcp#@Mconfig_Channel%20%F0%9F%A9%B5
-vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=bahbahbahvpn.ir&amp;path=/&amp;security=none#@MR_Config_Group%F0%9F%8D%93
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Mconfig_Channel
 vless://81abcda7-9fd3-4157-82c0-2b69c809cb26@dl.zedwow.com:11864?type=tcp&amp;headerType=http&amp;host=fast.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://07ec2dd3-000d-4521-ae32-c5ffb2110f46@37.77.106.36:49555?type=tcp&amp;headerType=http&amp;host=Varzesh3.com&amp;path=/&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?type=tcp&amp;headerType=none&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
@@ -51,7 +52,7 @@ vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?type=ws&amp;host=tsv
 vless://34df4ce8-83a0-4c9d-be42-09897964e0e7@89.223.64.164:1516?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.refersion.com&amp;pbk=ub5WuZbfa5iaqRjk9RqEPbxIef7NrioFsWAj-zJAqHo&amp;sid=9b8e2b0b49c607ee&amp;spx=/#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@u.armiaidin.top:8880?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443?type=tcp#@Mconfig_Channel%20%F0%9F%A9%B5
-vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=bahbahbahvpn.ir&amp;path=/&amp;security=none#@MR_Config_Group%F0%9F%8D%93
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Mconfig_Channel
 vless://81abcda7-9fd3-4157-82c0-2b69c809cb26@dl.zedwow.com:11864?type=tcp&amp;headerType=http&amp;host=fast.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://07ec2dd3-000d-4521-ae32-c5ffb2110f46@37.77.106.36:49555?type=tcp&amp;headerType=http&amp;host=Varzesh3.com&amp;path=/&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?type=tcp&amp;headerType=none&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
@@ -68,7 +69,8 @@ vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?type=ws&amp;host=tsv
 vless://34df4ce8-83a0-4c9d-be42-09897964e0e7@89.223.64.164:1516?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=www.refersion.com&amp;pbk=ub5WuZbfa5iaqRjk9RqEPbxIef7NrioFsWAj-zJAqHo&amp;sid=9b8e2b0b49c607ee&amp;spx=/#@Mconfig_Channel%20%F0%9F%A9%B5
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@u.armiaidin.top:8880?type=tcp&amp;headerType=http&amp;host=varzesh3.com&amp;security=none#@Mconfig_Channel%20%F0%9F%A9%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443?type=tcp#@Mconfig_Channel%20%F0%9F%A9%B5
-vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=bahbahbahvpn.ir&amp;path=/&amp;security=none#@MR_Config_Group%F0%9F%8D%93
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;type=ws#@Mconfig_Channel
+vless://a0b46bc1-4a48-4488-91fe-721653db75cc@allnetwork.qwertyuiopasdfghhjkkllzxcvbnm.joe.dj:8080?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=digikala.com&amp;type=ws#@Mconfig_Channel
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#@Mconfig_Channel
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@172.67.177.223:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=lot.sosant.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=lot.sosant.dpdns.org#@Mconfig_Channel
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=barayeiran.nastaranh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=barayeiran.nastaranh.dpdns.org#@Mconfig_Channel
@@ -140,4 +142,3 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=%2F%3Fed%3D25
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#@Mconfig_Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#@Mconfig_Channel
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?security=reality&amp;encryption=none&amp;pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&amp;headerType=none&amp;fp=firefox&amp;spx=%2Fblog%2Fcategory%2Ftechnology%2F&amp;type=tcp&amp;sni=refersion.com&amp;sid=ae839dceb524a40b#@Mconfig_Channel
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Mconfig_Channel
