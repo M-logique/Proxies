@@ -1,9 +1,6 @@
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;remark=net0n3_15#🛰️
-vless://ed5e7f5b-03a9-43e3-a2ff-4346c023561b@fast.peace.lemoex.blog:80?encryption=none&amp;type=xhttp&amp;host=mmad-patrick-fn.global.ssl.fastly.net&amp;path=/&amp;remark=net0n3_13#🛰️
-vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=MqP7Rx2npMpfuyPU.dev&amp;path=/containers/fi&amp;remark=net0n3_12#🛰️
-vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_11#🛰️
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_09#🛰️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;remark=net0n3_08#🛰️
+vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;path=/@custom_config&amp;host=&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&amp;sid=fbe3b0&amp;remark=net0n3_35#🛰️
 vless://2a7e7613-d490-425c-a9f1-c7e503143b8f@96.9.215.198:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;host=rema.global.ssl.fastly.net&amp;path=/v2raybluecrystal&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&amp;sid=4d&amp;remark=net0n3_34#🛰️
 vless://f6bd0b57-1e1c-4dd1-8f1c-939cb96bdb0a@209.38.202.192:42030?encryption=none&amp;type=grpc&amp;security=reality&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=ZyEwIOp_n6SemqIK57145NS5UWz3-BrL_fRob9qx4Tk&amp;sid=15&amp;remark=net0n3_33#🛰️
 vless://732bb7c7-203a-448f-914e-2704bea1aba6@servers.xvon.in:80?encryption=none&amp;type=ws&amp;path=/&amp;host=servers.xvon.in&amp;security=tls&amp;remark=net0n3_32#🛰️
@@ -20,6 +17,7 @@ vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?encryption=none&amp;
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_11#🛰️
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_09#🛰️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;remark=net0n3_08#🛰️
+vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;path=/@custom_config&amp;host=&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&amp;sid=fbe3b0&amp;remark=net0n3_35#🛰️
 vless://2a7e7613-d490-425c-a9f1-c7e503143b8f@96.9.215.198:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;host=rema.global.ssl.fastly.net&amp;path=/v2raybluecrystal&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&amp;sid=4d&amp;remark=net0n3_34#🛰️
 vless://f6bd0b57-1e1c-4dd1-8f1c-939cb96bdb0a@209.38.202.192:42030?encryption=none&amp;type=grpc&amp;security=reality&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=ZyEwIOp_n6SemqIK57145NS5UWz3-BrL_fRob9qx4Tk&amp;sid=15&amp;remark=net0n3_33#🛰️
 vless://732bb7c7-203a-448f-914e-2704bea1aba6@servers.xvon.in:80?encryption=none&amp;type=ws&amp;path=/&amp;host=servers.xvon.in&amp;security=tls&amp;remark=net0n3_32#🛰️
@@ -36,6 +34,7 @@ vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?encryption=none&amp;
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_11#🛰️
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_09#🛰️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;remark=net0n3_08#🛰️
+vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;path=/@custom_config&amp;host=&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&amp;sid=fbe3b0&amp;remark=net0n3_35#🛰️
 vless://2a7e7613-d490-425c-a9f1-c7e503143b8f@96.9.215.198:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;host=rema.global.ssl.fastly.net&amp;path=/v2raybluecrystal&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&amp;sid=4d&amp;remark=net0n3_34#🛰️
 vless://f6bd0b57-1e1c-4dd1-8f1c-939cb96bdb0a@209.38.202.192:42030?encryption=none&amp;type=grpc&amp;security=reality&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=ZyEwIOp_n6SemqIK57145NS5UWz3-BrL_fRob9qx4Tk&amp;sid=15&amp;remark=net0n3_33#🛰️
 vless://732bb7c7-203a-448f-914e-2704bea1aba6@servers.xvon.in:80?encryption=none&amp;type=ws&amp;path=/&amp;host=servers.xvon.in&amp;security=tls&amp;remark=net0n3_32#🛰️
@@ -52,6 +51,7 @@ vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?encryption=none&amp;
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_11#🛰️
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_09#🛰️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;remark=net0n3_08#🛰️
+vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;path=/@custom_config&amp;host=&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&amp;sid=fbe3b0&amp;remark=net0n3_35#🛰️
 vless://2a7e7613-d490-425c-a9f1-c7e503143b8f@96.9.215.198:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;host=rema.global.ssl.fastly.net&amp;path=/v2raybluecrystal&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&amp;sid=4d&amp;remark=net0n3_34#🛰️
 vless://f6bd0b57-1e1c-4dd1-8f1c-939cb96bdb0a@209.38.202.192:42030?encryption=none&amp;type=grpc&amp;security=reality&amp;sni=journalofbigdata.springeropen.com&amp;fp=chrome&amp;pbk=ZyEwIOp_n6SemqIK57145NS5UWz3-BrL_fRob9qx4Tk&amp;sid=15&amp;remark=net0n3_33#🛰️
 vless://732bb7c7-203a-448f-914e-2704bea1aba6@servers.xvon.in:80?encryption=none&amp;type=ws&amp;path=/&amp;host=servers.xvon.in&amp;security=tls&amp;remark=net0n3_32#🛰️
@@ -68,6 +68,7 @@ vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?encryption=none&amp;
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_11#🛰️
 vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;remark=net0n3_09#🛰️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;remark=net0n3_08#🛰️
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?type=tcp&amp;security=none&amp;encryption=none&amp;host=zula.ir&amp;path=%2F&amp;headerType=http&amp;remark=net0n3_77#🛰️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?type=tcp&amp;security=none&amp;headerType=http&amp;host=zula.ir&amp;path=%2F&amp;encryption=none&amp;remark=net0n3_74#🛰️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?type=tcp&amp;security=none&amp;headerType=http&amp;host=zula.ir&amp;path=%2F&amp;encryption=none&amp;remark=net0n3_71#🛰️
 ss://chacha20-ietf-poly1305:zj3rXjeeXJ4Ptf1qNxp7ww@t-se1.myatris.org:4301#🛰️
@@ -87,4 +88,3 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?encryption=non
 vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;security=none&amp;remark=net0n3_41#🛰️
 vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?encryption=none&amp;type=ws&amp;host=tsvCY5W4AP61qVbo.net&amp;path=/containers/fi&amp;security=none&amp;remark=net0n3_40#🛰️
 vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;path=%2F%40custom_config&amp;host=&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&amp;sid=fbe3b0&amp;remark=net0n3_37#🛰️
-vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?encryption=none&amp;type=xhttp&amp;security=reality&amp;path=/@custom_config&amp;host=&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&amp;sid=fbe3b0&amp;remark=net0n3_35#🛰️
