@@ -74,3 +74,5 @@ vless://dc58f214-4227-4f58-8090-cbcedf1adeba@62.212.70.108:52928?security=none&a
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=coco.mahmoodchitooz.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=coco.mahmoodchitooz.dpdns.org#S62
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#S61
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#S60
+vless://cdcf585b-490c-48af-a21d-8484fd723ebd@amr3350.myserver.cfd:55479?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40V2rayconfigspools
+vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&amp;encryption=none&amp;pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#Telegram%20%3A%20%40v2rayconfigspools
