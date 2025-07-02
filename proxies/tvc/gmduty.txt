@@ -1,3 +1,10 @@
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&amp;encryption=none&amp;host=snapp.taxi&amp;headerType=http&amp;type=tcp#%40gmduty
+vless://74696726-5d44-4321-9075-6e43de0af8c5@85.133.250.68:32336?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40gmduty
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@gmduty
+vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?path=%2Fcontainers%2Ffi&amp;security=none&amp;encryption=none&amp;host=tsvCY5W4AP61qVbo.net&amp;type=ws#@gmduty
+vless://49c10256-2a90-4b0e-abad-0354dbdf7312@conf.chargerdodge.ir:80?mode=auto&amp;path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=rezaover3your-name.global.ssl.fastly.net&amp;type=xhttp#@gmduty
+vless://a5735bb5-c6be-4173-a91b-419e3919937e@151.101.3.8:80?path=%2F%40SvnProBot%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=Aeza.net&amp;type=ws#🇺🇸
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40gmduty%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FBIA_CHANEL%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🇫🇮
 vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=%2FsafasssfasfasfA%3Fed&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=nextgenerationaiplatform.ir&amp;fp=chrome&amp;type=ws&amp;sni=nExtgEnerAtionAIplatform.iR#🏳️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBya_telegram_%40JOKERRVPN&amp;headerType=http&amp;type=tcp#🇩🇪
