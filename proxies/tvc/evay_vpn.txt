@@ -39,6 +39,13 @@ vmess://eyJzY3kiOiJhdXRvIiwicHMiOiIlRTIlOUElQTAlRUYlQjglOEYlNDBFVkFZX1ZQTiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@EVAY_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@EVAY_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@EVAY_VPN
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/?ed%3D8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#%E2%9A%A0%EF%B8%8F%20%7C%20@EVAY_VPN
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/?ed%3D8880@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#%E2%9A%A0%EF%B8%8F%20%7C%20@EVAY_VPN
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.3:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/?ed%3D8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#%E2%9A%A0%EF%B8%8F%20%7C%20@EVAY_VPN
+vmess://eyJzY3kiOiJhdXRvIiwicHMiOiIlRTIlOUElQTAlRUYlQjglOEYlNDBFVkFZX1ZQTiIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJpZCI6ImZiMzZlNDAwLWY1NWItNDdmOC1iYTRhLTJkMzI0ZDA2MTA3NiIsInR5cGUiOiJodHRwIiwicG9ydCI6IjM5NDAwIiwiYWRkIjoiMTg1LjIxNS4yMjguMTIiLCJwYXRoIjoiXC8ifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@EVAY_VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@EVAY_VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@EVAY_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443?type=tcp#%E2%9A%A0%EF%B8%8F%20@Evay_vpn
 vless://e362a7d3-0018-4910-a885-ea27a79d00c3@188.34.185.192:18013?type=tcp&amp;headerType=none&amp;security=none#%E2%9A%A0%EF%B8%8F2%20@Evay_vpn
 vless://aa136e7a-7046-4df5-a0ea-6c2b07a2834f@95.179.247.124:50516?type=tcp&amp;headerType=none&amp;security=none#%E2%9A%A0%EF%B8%8F1%20@Evay_vpn
@@ -49,13 +56,6 @@ vless://acd867f1-a71b-4a17-a473-2b57930d8678@178.128.231.204:8080?type=tcp&amp;s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?type=ws&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;path=/egFIvRfmDaCdL5Uk/ODQuMjM1LjE2OS4yMzQ%3D?ed%3D2560/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=randomized&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&amp;alpn=h2,http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20@EVAY_VPN
 vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=tesla.com&amp;pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&amp;sid=f8a537&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%AC%F0%9F%87%A7@EVAY_VPN
 vless://f7f95a02-ee99-11e4-d13b-d76c1410e702@185.255.112.147:7580?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=refersion.com&amp;pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%A9%F0%9F%87%AA%20@EVAY_VPN
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/?ed%3D8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#%E2%9A%A0%EF%B8%8F%20%7C%20@EVAY_VPN
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/?ed%3D8880@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#%E2%9A%A0%EF%B8%8F%20%7C%20@EVAY_VPN
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.3:8880?type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=/?ed%3D8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#%E2%9A%A0%EF%B8%8F%20%7C%20@EVAY_VPN
-vmess://eyJzY3kiOiJhdXRvIiwicHMiOiIlRTIlOUElQTAlRUYlQjglOEYlNDBFVkFZX1ZQTiIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJpZCI6ImZiMzZlNDAwLWY1NWItNDdmOC1iYTRhLTJkMzI0ZDA2MTA3NiIsInR5cGUiOiJodHRwIiwicG9ydCI6IjM5NDAwIiwiYWRkIjoiMTg1LjIxNS4yMjguMTIiLCJwYXRoIjoiXC8ifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@EVAY_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@EVAY_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@EVAY_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443?type=tcp#%E2%9A%A0%EF%B8%8F%20@Evay_vpn
 vless://e362a7d3-0018-4910-a885-ea27a79d00c3@188.34.185.192:18013?type=tcp&amp;headerType=none&amp;security=none#%E2%9A%A0%EF%B8%8F2%20@Evay_vpn
 vless://aa136e7a-7046-4df5-a0ea-6c2b07a2834f@95.179.247.124:50516?type=tcp&amp;headerType=none&amp;security=none#%E2%9A%A0%EF%B8%8F1%20@Evay_vpn
