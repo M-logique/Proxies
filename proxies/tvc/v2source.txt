@@ -19,7 +19,6 @@ vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D25
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?type=ws&amp;host=redw.pooriam.ir&amp;path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#@v2Source🇨🇦
 vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=kk195.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&amp;type=httpupgrade#@v2Source🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?prefix%16%03%01%00%C2%A8%01%01#@v2Source🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?prefix%16%03%01%00%C2%A8%01%01#@v2Source🇰🇿
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#@v2Source🇵🇹
 trojan://Aimer@149.104.29.121:443?sni=ngepo.ambercc.filegear-sg.me#@v2Source🇸🇬
@@ -39,6 +38,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80/?path=%2FTelegram%
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a1.ghormehsabzi.dpdns.org&amp;fp=chrome&amp;type=ws#@v2Source🇨🇦
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?type=ws&amp;host=redw.pooriam.ir&amp;path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#@v2Source🇨🇦
 vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=kk195.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&amp;type=httpupgrade#@v2Source🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?prefix%16%03%01%00%C2%A8%01%01#@v2Source🇰🇿
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@v2Source🇩🇪
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#@v2Source🇵🇹
 trojan://Aimer@149.104.29.121:443?sni=ngepo.ambercc.filegear-sg.me#@v2Source🇸🇬
