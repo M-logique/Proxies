@@ -1,3 +1,6 @@
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=abcd.taraneh.dpdns.org#t.me/entryNET
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080/?security=&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#t.me/entryNET
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416/?security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;type=grpc&amp;sni=sourceforge.net&amp;sid=b3#t.me/entryNET
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#t.me/entryNET
 trojan://telegram-id-v2rayvpnchannel@44.194.46.61:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#t.me/entryNET
 trojan://NISHIKUITAN111@104.24.184.159:443?#t.me/entryNET
@@ -14,9 +17,9 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443/?security=none&am
 trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&amp;sni=z-v2-077765.kailib.com&amp;type=tcp&amp;allowInsecure=1#t.me/entryNET
 vless://bad69452-8282-4d81-8cd1-65cef551919b@135.181.201.193:665?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#t.me/entryNET
 trojan://Aimer@45.194.53.81:2087?security=tls&amp;type=ws&amp;sni=ngepx.ambercc.filegear-sg.me&amp;path=/?ed=2560&amp;host=ngepx.ambercc.filegear-sg.me#t.me/entryNET
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?path=%2F57ba2ab1&amp;security=tls&amp;encryption=none&amp;host=ovhwuxian.pai50288.uk&amp;type=ws&amp;sni=ovhwuxian.pai50288.uk#t.me/entryNET
-trojan://65086520307764900@18.139.61.105:443?security=tls&amp;type=tcp&amp;sni=dynamic-shrew.shiner427.skin#t.me/entryNET
-trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&amp;type=ws&amp;sni=JOInMahdiserver-11R.PaGES.dEv&amp;host=joinmahdiserver-11r.pages.dev#t.me/entryNET
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=abcd.taraneh.dpdns.org#t.me/entryNET
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080/?security=&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#t.me/entryNET
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416/?security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;type=grpc&amp;sni=sourceforge.net&amp;sid=b3#t.me/entryNET
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#t.me/entryNET
 trojan://telegram-id-v2rayvpnchannel@44.194.46.61:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#t.me/entryNET
 trojan://NISHIKUITAN111@104.24.184.159:443?#t.me/entryNET
@@ -33,9 +36,9 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443/?security=none&am
 trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&amp;sni=z-v2-077765.kailib.com&amp;type=tcp&amp;allowInsecure=1#t.me/entryNET
 vless://bad69452-8282-4d81-8cd1-65cef551919b@135.181.201.193:665?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#t.me/entryNET
 trojan://Aimer@45.194.53.81:2087?security=tls&amp;type=ws&amp;sni=ngepx.ambercc.filegear-sg.me&amp;path=/?ed=2560&amp;host=ngepx.ambercc.filegear-sg.me#t.me/entryNET
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?path=%2F57ba2ab1&amp;security=tls&amp;encryption=none&amp;host=ovhwuxian.pai50288.uk&amp;type=ws&amp;sni=ovhwuxian.pai50288.uk#t.me/entryNET
-trojan://65086520307764900@18.139.61.105:443?security=tls&amp;type=tcp&amp;sni=dynamic-shrew.shiner427.skin#t.me/entryNET
-trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&amp;type=ws&amp;sni=JOInMahdiserver-11R.PaGES.dEv&amp;host=joinmahdiserver-11r.pages.dev#t.me/entryNET
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=abcd.taraneh.dpdns.org#t.me/entryNET
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080/?security=&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#t.me/entryNET
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416/?security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;type=grpc&amp;sni=sourceforge.net&amp;sid=b3#t.me/entryNET
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#t.me/entryNET
 trojan://telegram-id-v2rayvpnchannel@44.194.46.61:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#t.me/entryNET
 trojan://NISHIKUITAN111@104.24.184.159:443?#t.me/entryNET
@@ -52,9 +55,9 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443/?security=none&am
 trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&amp;sni=z-v2-077765.kailib.com&amp;type=tcp&amp;allowInsecure=1#t.me/entryNET
 vless://bad69452-8282-4d81-8cd1-65cef551919b@135.181.201.193:665?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#t.me/entryNET
 trojan://Aimer@45.194.53.81:2087?security=tls&amp;type=ws&amp;sni=ngepx.ambercc.filegear-sg.me&amp;path=/?ed=2560&amp;host=ngepx.ambercc.filegear-sg.me#t.me/entryNET
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?path=%2F57ba2ab1&amp;security=tls&amp;encryption=none&amp;host=ovhwuxian.pai50288.uk&amp;type=ws&amp;sni=ovhwuxian.pai50288.uk#t.me/entryNET
-trojan://65086520307764900@18.139.61.105:443?security=tls&amp;type=tcp&amp;sni=dynamic-shrew.shiner427.skin#t.me/entryNET
-trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&amp;type=ws&amp;sni=JOInMahdiserver-11R.PaGES.dEv&amp;host=joinmahdiserver-11r.pages.dev#t.me/entryNET
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=abcd.taraneh.dpdns.org#t.me/entryNET
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080/?security=&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#t.me/entryNET
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416/?security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;type=grpc&amp;sni=sourceforge.net&amp;sid=b3#t.me/entryNET
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#t.me/entryNET
 trojan://telegram-id-v2rayvpnchannel@44.194.46.61:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#t.me/entryNET
 trojan://NISHIKUITAN111@104.24.184.159:443?#t.me/entryNET
@@ -71,9 +74,9 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443/?security=none&am
 trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&amp;sni=z-v2-077765.kailib.com&amp;type=tcp&amp;allowInsecure=1#t.me/entryNET
 vless://bad69452-8282-4d81-8cd1-65cef551919b@135.181.201.193:665?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#t.me/entryNET
 trojan://Aimer@45.194.53.81:2087?security=tls&amp;type=ws&amp;sni=ngepx.ambercc.filegear-sg.me&amp;path=/?ed=2560&amp;host=ngepx.ambercc.filegear-sg.me#t.me/entryNET
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?path=%2F57ba2ab1&amp;security=tls&amp;encryption=none&amp;host=ovhwuxian.pai50288.uk&amp;type=ws&amp;sni=ovhwuxian.pai50288.uk#t.me/entryNET
-trojan://65086520307764900@18.139.61.105:443?security=tls&amp;type=tcp&amp;sni=dynamic-shrew.shiner427.skin#t.me/entryNET
-trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&amp;type=ws&amp;sni=JOInMahdiserver-11R.PaGES.dEv&amp;host=joinmahdiserver-11r.pages.dev#t.me/entryNET
+trojan://telegram-id-directvpn@13.36.214.244:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.#t.me/entryNET
+trojan://telegram-id-privatevpns@13.51.78.35:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#t.me/entryNET
+trojan://blue2024@104.26.14.203:443?security=tls&amp;type=tcp&amp;sni=hb.lii2010.us.kg#t.me/entryNET
 vless://af1c70ed-15cb-4f03-95eb-44383d227631@108.162.193.81:443?encryption=none&amp;security=tls&amp;sni=1yrcg4nx.shemrons.com&amp;alpn=http%2F1.1&amp;type=ws&amp;host=1yrcg4nx.shemrons.com&amp;path=%2Fwss#t.me/entryNET
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#t.me/entryNET
 vless://3294381c-2efe-4de4-be58-50aa8973d289@www.venzo.com.tr:2053?path=%2Flatest%3Fed%3D2560&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=lexi.ai351.com&amp;fp=chrome&amp;type=ws&amp;sni=lexi.ai351.com#t.me/entryNET
@@ -91,6 +94,3 @@ trojan://blue2024@162.159.44.161:443?security=tls&amp;type=tcp&amp;sni=tc.promot
 trojan://telegram-id-directvpn@44.194.46.61:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#t.me/entryNET
 trojan://vpn@46.29.234.154:2025?security=tls&amp;type=ws&amp;host=dns.google.com&amp;path=%2F#t.me/entryNET
 vless://7441f063-47b0-43a7-99a0-1f8c36e5a903@151.101.1.57:80?security=none&amp;type=ws&amp;host=Www.speedtest.net.sPeedtest2.sbs.&amp;path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#t.me/entryNET
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=abcd.taraneh.dpdns.org#t.me/entryNET
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080/?security=&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#t.me/entryNET
-vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416/?security=reality&amp;encryption=none&amp;pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&amp;fp=chrome&amp;type=grpc&amp;sni=sourceforge.net&amp;sid=b3#t.me/entryNET
