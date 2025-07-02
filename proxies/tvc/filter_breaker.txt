@@ -1,3 +1,4 @@
+vless://l7m8y2ca-41b9-8195-cb14-d2c2a5661d93@92.112.126.34:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://k6l7x1bz-30a8-7084-ba03-c1b1z4550c82@179.61.138.128:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://j5k6w0ay-29z7-6973-az92-b0a0y3449b71@104.234.74.23:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://i4j5v9zx-18y6-5862-zy81-a9z9x2338a60@85.93.8.142:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
@@ -192,9 +193,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdmVyeWRheTIwMzY=@everyday-vpn.org:8080#@Fil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoQ2gyMDM2@telegram-channels.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoMjAzNg==@telegram-configs.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb29yaV8yMDM2@vpnsfucking.org:443#@Filter_breaker
-vless://l5m6y0ca-29b7-6973-bc82-d0c0z3449d61@surfboardv2ray-proxy.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://k4l5x9bz-18a6-5862-ab71-c9b9y2338c50@surfboardv2ray.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://j3k4w8ay-07z5-4751-za60-b8a8x1227b49@space00.v2ray-configs.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
+vless://l7m8y2ca-41b9-8195-cb14-d2c2a5661d93@92.112.126.34:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://k6l7x1bz-30a8-7084-ba03-c1b1z4550c82@179.61.138.128:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://j5k6w0ay-29z7-6973-az92-b0a0y3449b71@104.234.74.23:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://i4j5v9zx-18y6-5862-zy81-a9z9x2338a60@85.93.8.142:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
@@ -389,9 +388,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdmVyeWRheTIwMzY=@everyday-vpn.org:8080#@Fil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoQ2gyMDM2@telegram-channels.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoMjAzNg==@telegram-configs.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb29yaV8yMDM2@vpnsfucking.org:443#@Filter_breaker
-vless://l5m6y0ca-29b7-6973-bc82-d0c0z3449d61@surfboardv2ray-proxy.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://k4l5x9bz-18a6-5862-ab71-c9b9y2338c50@surfboardv2ray.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://j3k4w8ay-07z5-4751-za60-b8a8x1227b49@space00.v2ray-configs.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
+vless://l7m8y2ca-41b9-8195-cb14-d2c2a5661d93@92.112.126.34:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://k6l7x1bz-30a8-7084-ba03-c1b1z4550c82@179.61.138.128:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://j5k6w0ay-29z7-6973-az92-b0a0y3449b71@104.234.74.23:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://i4j5v9zx-18y6-5862-zy81-a9z9x2338a60@85.93.8.142:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
@@ -586,9 +583,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdmVyeWRheTIwMzY=@everyday-vpn.org:8080#@Fil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoQ2gyMDM2@telegram-channels.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoMjAzNg==@telegram-configs.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb29yaV8yMDM2@vpnsfucking.org:443#@Filter_breaker
-vless://l5m6y0ca-29b7-6973-bc82-d0c0z3449d61@surfboardv2ray-proxy.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://k4l5x9bz-18a6-5862-ab71-c9b9y2338c50@surfboardv2ray.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://j3k4w8ay-07z5-4751-za60-b8a8x1227b49@space00.v2ray-configs.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
+vless://l7m8y2ca-41b9-8195-cb14-d2c2a5661d93@92.112.126.34:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://k6l7x1bz-30a8-7084-ba03-c1b1z4550c82@179.61.138.128:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://j5k6w0ay-29z7-6973-az92-b0a0y3449b71@104.234.74.23:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://i4j5v9zx-18y6-5862-zy81-a9z9x2338a60@85.93.8.142:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
@@ -783,9 +778,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdmVyeWRheTIwMzY=@everyday-vpn.org:8080#@Fil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoQ2gyMDM2@telegram-channels.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb3JvdXNoMjAzNg==@telegram-configs.soroushmirzaei.ir:443#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQb29yaV8yMDM2@vpnsfucking.org:443#@Filter_breaker
-vless://l5m6y0ca-29b7-6973-bc82-d0c0z3449d61@surfboardv2ray-proxy.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://k4l5x9bz-18a6-5862-ab71-c9b9y2338c50@surfboardv2ray.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
-vless://j3k4w8ay-07z5-4751-za60-b8a8x1227b49@space00.v2ray-configs.io:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
+vless://q6r7b1yc-30s5-4751-ys70-t8t8q1227t59@4n0nymou3.ir:2087?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;type=grpc#@Filter_breaker
+vless://p5q6a0xb-29r4-3640-xr69-s7s7p0116s48@elena-config.ir:443?security=reality&amp;encryption=none&amp;pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&amp;headerType=none&amp;type=tcp&amp;sni=www.speedtest.net#@Filter_breaker
+vmess://eyJhZGQiOiIxNjAuNzkuMTA0LjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOWU0YjdhMi05ZjEzLTRiOGUtOWM0ZC03ZjJiM3U4YTZmNTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkBGaWx0ZXJfYnJlYWtlciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#@Filter_breaker
+vmess://eyJhZGQiOiJhbGlpbGFwcm8uaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiJmOWU0YjdhMi05ZjEzLTRiOGUtOWM0ZC03ZjJiM3U4YTZmNTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjQ0MyIsInBzIjoiQFZpc2lvbl9WTSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#@Filter_breaker
+vmess://eyJhZGQiOiJqYXZpZG5hbWFuaXJhbi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImY5ZTRiN2EyLTlmMTMtNGI4ZS05YzRkLTdmMmIzZTlhNmY1MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiNDQzIiwicHMiOiJAVmlzaW9uX1ZNIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5zcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#@Filter_breaker
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTc1JpQU4yMDYz@ss-iran.ir:8443#@Filter_breaker
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQcm94eUZyZWUyMDY2@proxyfree.org:443#@Filter_breaker
+ss://YWVzLTEyOC1nY206S2V2aW5aYTIwNjY=@185.141.216.98:8080#@Filter_breaker
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTFBOQS1DT05GSUdTMjA2Mw==@elena-config.ir:443#@Filter_breaker
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQVZJRE5BTUFOSVJBTjIwNjM=@javidnamaniran.ir:8443#@Filter_breaker
 vless://o4p5z9wa-18t6-5862-zt81-u9u9r2338u60@filtershekan.ir:8080?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?security=xtls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?security=xtls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
@@ -935,4 +937,3 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiRrgAsHzTP8d&amp;security=tls&amp;alpn=http%2F1.1&amp;host=90.taipei108.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=90.tAIpEI108.dpDnS.orG#@Filter_breaker
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&amp;security=none&amp;host=redfree8-p1.pooriashop.ir&amp;type=ws#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.207.175:443#@Filter_breaker
-vless://l7m8y2ca-41b9-8195-cb14-d2c2a5661d93@92.112.126.34:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com#@Filter_breaker
