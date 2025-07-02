@@ -9,12 +9,12 @@ vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&am
 vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]v2ray_cartel
 vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
 trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&amp;security=none&amp;type=ws#[🇮🇷]v2ray_cartel
+vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]v2ray_cartel
-vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
 trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&amp;security=none&amp;type=ws#[🇮🇷]v2ray_cartel
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
