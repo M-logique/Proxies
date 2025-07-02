@@ -15,7 +15,6 @@ vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@speedtest1.daltoon.site:2086?type=h
 vless://1b1b3941-df06-4495-91cf-acb61818ee36@94.182.136.46:6565?type=tcp&amp;headerType=none&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?type=tcp&amp;headerType=http&amp;host=www.speedtest.net&amp;security=none#Telegram+:+@vmessorg%F0%9F%8F%B3
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?type=ws&amp;host=pamchall.com.&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=none#Telegram+:+@vmessorg
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@tn.pingtools.net:2087?type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#Telegram@vmessorg
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?type=tcp&amp;headerType=http&amp;host=zula.ir&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#Telegram+:+@vmessorg
@@ -33,7 +32,6 @@ vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@speedtest1.daltoon.site:2086?type=h
 vless://1b1b3941-df06-4495-91cf-acb61818ee36@94.182.136.46:6565?type=tcp&amp;headerType=none&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?type=tcp&amp;headerType=http&amp;host=www.speedtest.net&amp;security=none#Telegram+:+@vmessorg%F0%9F%8F%B3
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?type=ws&amp;host=pamchall.com.&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=none#Telegram+:+@vmessorg
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@tn.pingtools.net:2087?type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#Telegram@vmessorg
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?type=tcp&amp;headerType=http&amp;host=zula.ir&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#Telegram+:+@vmessorg
@@ -51,7 +49,6 @@ vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@speedtest1.daltoon.site:2086?type=h
 vless://1b1b3941-df06-4495-91cf-acb61818ee36@94.182.136.46:6565?type=tcp&amp;headerType=none&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?type=tcp&amp;headerType=http&amp;host=www.speedtest.net&amp;security=none#Telegram+:+@vmessorg%F0%9F%8F%B3
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?type=ws&amp;host=pamchall.com.&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=none#Telegram+:+@vmessorg
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@tn.pingtools.net:2087?type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#Telegram@vmessorg
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?type=tcp&amp;headerType=http&amp;host=zula.ir&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#Telegram+:+@vmessorg
@@ -69,7 +66,6 @@ vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@speedtest1.daltoon.site:2086?type=h
 vless://1b1b3941-df06-4495-91cf-acb61818ee36@94.182.136.46:6565?type=tcp&amp;headerType=none&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?type=tcp&amp;headerType=http&amp;host=www.speedtest.net&amp;security=none#Telegram+:+@vmessorg%F0%9F%8F%B3
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?type=ws&amp;host=pamchall.com.&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560&amp;security=none#Telegram+:+@vmessorg
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@tn.pingtools.net:2087?type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;security=none#Telegram+:+@vmessorg+%F0%9F%8F%B3%F0%9F%8F%B3
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&amp;encryption=none&amp;pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#Telegram+@vmessorg
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Telegram+@vmessorg
