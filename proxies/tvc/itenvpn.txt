@@ -35,9 +35,6 @@ vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&am
 vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%20xcxc
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20vxvxv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#Telegram%20%3A%20%40itenvpn%20outline%20fr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#Telegram%20%3A%20%40itenvpn%20outline
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20xvxv
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20xvx
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%20zzzz
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%20zzz
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#Telegram%20%3A%20%40itenvpn%20xs
@@ -48,6 +45,9 @@ vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&am
 vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram%20%3A%20%40itenvpn%20xcxc
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20vxvxv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#Telegram%20%3A%20%40itenvpn%20outline%20fr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#Telegram%20%3A%20%40itenvpn%20outline
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20xvxv
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20xvx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#Telegram%20%3A%20%40itenvpn%20outline
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20xvxv
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#Telegram%20%3A%20%40itenvpn%20xvx
