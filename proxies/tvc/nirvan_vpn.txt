@@ -28,6 +28,4 @@ vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?security=tls&am
 vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?security=none&amp;encryption=none&amp;type=tcp&amp;host=fast.com&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDQ1Ljg3LjE3NS41ODo4MDgw#NiRVAN
-vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v14.vxlimir.com:1370?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=refersion.com&amp;sid=e1afb93bfe75a34b&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;headerType=none#NiRVAN_VPn
-vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v14.vxlimir.com:1370?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=refersion.com&amp;sid=e1afb93bfe75a34b&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;headerType=none#NiRVAN_VPn
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
