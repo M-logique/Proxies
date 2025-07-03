@@ -28,3 +28,4 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&amp;
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40Artemisvpn1%20%20%F0%9F%87%A9%F0%9F%87%AA
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40Artemisvpn1%20%20%F0%9F%87%A9%F0%9F%87%AA
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40Artemisvpn1%20%20%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiI5MS45OS4xNS4yNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXB0dnMuY29tIiwiaWQiOiI4MmJmNzczNy1iNWExLTRlMGItYTFkYy1hOGVkMjg4MDNmM2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBBcnRlbWlzdnBuMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
