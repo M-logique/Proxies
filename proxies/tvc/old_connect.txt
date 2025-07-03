@@ -1,3 +1,6 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@old_connect
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=s1.mitivpn.workers.dev&amp;type=ws#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615/?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://af1c70ed-15cb-4f03-95eb-44383d227631@108.162.193.81:443?security=tls&amp;sni=1yrcg4nx.shemrons.com&amp;type=ws&amp;host=1yrcg4nx.shemrons.com&amp;path=%2Fwss&amp;alpn=http%2F1.1#@old_connect
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@old_connect
@@ -15,9 +18,9 @@ vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80/?path=%2F%3Fed%3D25
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@46.249.110.31:8880?type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;headerType=http#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&amp;type=tcp&amp;host=zula.ir/?TELEGRAM@JOKERRVPN&amp;headerType=http#@old_connect
 vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?encryption=none&amp;security=none&amp;type=ws&amp;host=s1.mitivpn.workers.dev&amp;path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#@old_connect
-vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?security=none&amp;type=ws&amp;path=%2F#@old_connect
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@old_connect
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=s1.mitivpn.workers.dev&amp;type=ws#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615/?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://af1c70ed-15cb-4f03-95eb-44383d227631@108.162.193.81:443?security=tls&amp;sni=1yrcg4nx.shemrons.com&amp;type=ws&amp;host=1yrcg4nx.shemrons.com&amp;path=%2Fwss&amp;alpn=http%2F1.1#@old_connect
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@old_connect
@@ -35,9 +38,9 @@ vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80/?path=%2F%3Fed%3D25
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@46.249.110.31:8880?type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;headerType=http#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&amp;type=tcp&amp;host=zula.ir/?TELEGRAM@JOKERRVPN&amp;headerType=http#@old_connect
 vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?encryption=none&amp;security=none&amp;type=ws&amp;host=s1.mitivpn.workers.dev&amp;path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#@old_connect
-vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?security=none&amp;type=ws&amp;path=%2F#@old_connect
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@old_connect
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=s1.mitivpn.workers.dev&amp;type=ws#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615/?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://af1c70ed-15cb-4f03-95eb-44383d227631@108.162.193.81:443?security=tls&amp;sni=1yrcg4nx.shemrons.com&amp;type=ws&amp;host=1yrcg4nx.shemrons.com&amp;path=%2Fwss&amp;alpn=http%2F1.1#@old_connect
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@old_connect
@@ -55,9 +58,9 @@ vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80/?path=%2F%3Fed%3D25
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@46.249.110.31:8880?type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;headerType=http#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&amp;type=tcp&amp;host=zula.ir/?TELEGRAM@JOKERRVPN&amp;headerType=http#@old_connect
 vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?encryption=none&amp;security=none&amp;type=ws&amp;host=s1.mitivpn.workers.dev&amp;path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#@old_connect
-vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?security=none&amp;type=ws&amp;path=%2F#@old_connect
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@old_connect
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=s1.mitivpn.workers.dev&amp;type=ws#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615/?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://af1c70ed-15cb-4f03-95eb-44383d227631@108.162.193.81:443?security=tls&amp;sni=1yrcg4nx.shemrons.com&amp;type=ws&amp;host=1yrcg4nx.shemrons.com&amp;path=%2Fwss&amp;alpn=http%2F1.1#@old_connect
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@old_connect
@@ -75,9 +78,9 @@ vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80/?path=%2F%3Fed%3D25
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@46.249.110.31:8880?type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;headerType=http#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&amp;type=tcp&amp;host=zula.ir/?TELEGRAM@JOKERRVPN&amp;headerType=http#@old_connect
 vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?encryption=none&amp;security=none&amp;type=ws&amp;host=s1.mitivpn.workers.dev&amp;path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#@old_connect
-vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?security=none&amp;type=ws&amp;path=%2F#@old_connect
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&amp;type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&amp;path=%2F&amp;fp=random#@old_connect
+trojan://trojan@www.visa.com.sg:8443?security=tls&amp;type=ws&amp;host=longwanghen.pages.dev&amp;sni=longwanghen.pages.dev&amp;fp=random&amp;path=%2F%3Fed%3D2560#@old_connect
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@old_connect
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443/?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@57.128.165.176:1370?encryption=none&amp;security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b&amp;type=tcp&amp;headerType=none#@old_connect
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443/?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40VPN66&amp;headerType=http&amp;type=tcp#@old_connect
@@ -95,6 +98,3 @@ vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D256
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443/?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://c5b69a7f-8e71-4425-8613-0f3c2a97d6d7@185.133.125.10:19161?security=none&amp;type=tcp&amp;host=soft98.ir&amp;headerType=http#@old_connect
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.151.58:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=havvas.shohreh.dpdns.org&amp;type=ws#@old_connect
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@old_connect
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
-vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?path=%2FBwe1q7s0mDFSwtBx%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=s1.mitivpn.workers.dev&amp;type=ws#@old_connect
