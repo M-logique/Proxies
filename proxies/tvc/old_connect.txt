@@ -1,3 +1,4 @@
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80/?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#@old_connect
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.5:19151?security=none&amp;type=tcp&amp;host=soft98.ir&amp;headerType=http#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
@@ -17,7 +18,7 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&amp;sni=147135004002.sec20org.com&amp;type=tcp#@old_connect
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;type=tcp&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;sid=86#@old_connect
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80/?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#@old_connect
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.5:19151?security=none&amp;type=tcp&amp;host=soft98.ir&amp;headerType=http#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
@@ -37,7 +38,7 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&amp;sni=147135004002.sec20org.com&amp;type=tcp#@old_connect
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;type=tcp&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;sid=86#@old_connect
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80/?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#@old_connect
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.5:19151?security=none&amp;type=tcp&amp;host=soft98.ir&amp;headerType=http#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
@@ -57,7 +58,7 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&amp;sni=147135004002.sec20org.com&amp;type=tcp#@old_connect
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;type=tcp&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;sid=86#@old_connect
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80/?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#@old_connect
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.5:19151?security=none&amp;type=tcp&amp;host=soft98.ir&amp;headerType=http#@old_connect
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
@@ -77,7 +78,7 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&amp;sni=147135004002.sec20org.com&amp;type=tcp#@old_connect
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;type=tcp&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;sid=86#@old_connect
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?security=tls&amp;sni=smart.v2plusify.org&amp;type=ws&amp;host=smart.v2plusify.org&amp;path=%2F#@old_connect
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&amp;type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&amp;path=%2F&amp;fp=chrome#@old_connect
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&amp;type=ws&amp;path=/vless/#@old_connect
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?type=tcp&amp;host=eN.TwiTtER.cOM.%3A8880&amp;headerType=http#@old_connect
@@ -97,4 +98,3 @@ vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&a
 vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&amp;type=tcp#@old_connect
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&amp;encryption=none&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=86#@old_connect
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@old_connect
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80/?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#@old_connect
