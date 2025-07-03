@@ -1,10 +1,7 @@
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&amp;security=none&amp;type=ws#[🇮🇷]v2ray_cartel
-trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
-vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
-vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
+vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://5c91dbf9-56fa-4dde-ae28-0792a69409e0@cloud.wiromusic.ir:80?mode=packet-up&amp;path=%2FXhTtP&amp;security=none&amp;encryption=none&amp;host=buffalu.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://b781545c-a6a8-4ca7-aa16-4960beff53df@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=b-sub.com&amp;type=xhttp#v2ray_cartel
 vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
@@ -12,6 +9,7 @@ trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
+vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://5c91dbf9-56fa-4dde-ae28-0792a69409e0@cloud.wiromusic.ir:80?mode=packet-up&amp;path=%2FXhTtP&amp;security=none&amp;encryption=none&amp;host=buffalu.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://b781545c-a6a8-4ca7-aa16-4960beff53df@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=b-sub.com&amp;type=xhttp#v2ray_cartel
 vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
@@ -19,6 +17,7 @@ trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
+vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://5c91dbf9-56fa-4dde-ae28-0792a69409e0@cloud.wiromusic.ir:80?mode=packet-up&amp;path=%2FXhTtP&amp;security=none&amp;encryption=none&amp;host=buffalu.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://b781545c-a6a8-4ca7-aa16-4960beff53df@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=b-sub.com&amp;type=xhttp#v2ray_cartel
 vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
@@ -26,6 +25,15 @@ trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
+vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
+vless://5c91dbf9-56fa-4dde-ae28-0792a69409e0@cloud.wiromusic.ir:80?mode=packet-up&amp;path=%2FXhTtP&amp;security=none&amp;encryption=none&amp;host=buffalu.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
+vless://b781545c-a6a8-4ca7-aa16-4960beff53df@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=b-sub.com&amp;type=xhttp#v2ray_cartel
+vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=befreewithus.org&amp;type=ws#[🇺🇸]t.me/v2ray_cartel
+trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&amp;security=none&amp;type=ws#[🇮🇷]v2ray_cartel
+trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#[🇸🇪]v2ray_cartel
+vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=fn5.global.ssl.fastly.net&amp;type=xhttp#[🇺🇸]v2ray_cartel
+vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
+vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#v2ray_cartel%A2
 vless://9a30c7e0-7dc3-47e3-b958-02d8b5e49f6e@info-4.nobifay.ir:60?security=none&amp;encryption=‌none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%F0%9F%86%94%v2ray_cartel
 vless://069b511d-3ebc-4b1a-9b57-eb9ece724aa3@pishgam.sdcards.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=amir.pmme.top&amp;type=ws#%F0%9F%86%94%v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDelEwSXJrZGQ0V0RVd0JR@admin.c4.havij.co:443#%F0%9F%86%94%v2ray_cartel
