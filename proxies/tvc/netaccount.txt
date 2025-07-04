@@ -16,3 +16,5 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
+vless://f874e932-d361-43b2-a7d8-e8fbe94599ca@persianvpn.arash.sbs:2025?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://141a4c0d-480d-4abb-9371-4a770dc10da5@142.132.227.65:38874?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
