@@ -31,6 +31,13 @@ vless://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@46.38.150.199:9090?security=none&am
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&amp;type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&amp;path=%2F&amp;fp=random#@old_connect
 trojan://trojan@www.visa.com.sg:8443?security=tls&amp;type=ws&amp;host=longwanghen.pages.dev&amp;sni=longwanghen.pages.dev&amp;fp=random&amp;path=%2F%3Fed%3D2560#@old_connect
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@old_connect
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443/?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@57.128.165.176:1370?encryption=none&amp;security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b&amp;type=tcp&amp;headerType=none#@old_connect
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443/?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40VPN66&amp;headerType=http&amp;type=tcp#@old_connect
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;type=ws#@old_connect
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@old_connect
+vless://ecca8700-af9f-4ebc-8df0-5fd7559a000c@172.64.32.85:443?security=tls&amp;sni=nr5jsvub.musicirans.ir&amp;type=ws&amp;host=nr5jsvub.musicirans.ir&amp;path=/wss&amp;alpn=http/1.1#@old_connect
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?security=tls&amp;sni=smart.v2plusify.org&amp;type=ws&amp;host=smart.v2plusify.org&amp;path=%2F#@old_connect
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?security=none&amp;type=ws&amp;path=/#@old_connect
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&amp;sni=ovhwuxian.pai50288.uk&amp;type=ws&amp;host=ovhwuxian.pai50288.uk&amp;path=/57ba2ab1&amp;fp=chrome#@old_connect
 vless://3bbdc4fa-63fd-4c30-8ff1-a4e08a8c7f47@172.64.32.85:443?security=tls&amp;sni=hgwbkjp9.musicirans.ir&amp;type=ws&amp;host=hgwbkjp9.musicirans.ir&amp;path=/wss&amp;alpn=http/1.1#@old_connect
@@ -44,13 +51,6 @@ vless://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@46.38.150.199:9090?security=none&am
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&amp;type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&amp;path=%2F&amp;fp=random#@old_connect
 trojan://trojan@www.visa.com.sg:8443?security=tls&amp;type=ws&amp;host=longwanghen.pages.dev&amp;sni=longwanghen.pages.dev&amp;fp=random&amp;path=%2F%3Fed%3D2560#@old_connect
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@old_connect
-vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443/?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
-vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@57.128.165.176:1370?encryption=none&amp;security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b&amp;type=tcp&amp;headerType=none#@old_connect
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443/?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40VPN66&amp;headerType=http&amp;type=tcp#@old_connect
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;type=ws#@old_connect
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@old_connect
-vless://ecca8700-af9f-4ebc-8df0-5fd7559a000c@172.64.32.85:443?security=tls&amp;sni=nr5jsvub.musicirans.ir&amp;type=ws&amp;host=nr5jsvub.musicirans.ir&amp;path=/wss&amp;alpn=http/1.1#@old_connect
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?security=tls&amp;sni=smart.v2plusify.org&amp;type=ws&amp;host=smart.v2plusify.org&amp;path=%2F#@old_connect
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443/?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@old_connect
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@57.128.165.176:1370?encryption=none&amp;security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b&amp;type=tcp&amp;headerType=none#@old_connect
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443/?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40VPN66&amp;headerType=http&amp;type=tcp#@old_connect
