@@ -6,6 +6,7 @@ trojan://5YauIFGqU5@5.161.132.36:444?type=grpc&amp;security=none#Shadmanegi_vpn
 trojan://5YauIFGqU5@65.109.179.105:444?type=grpc&amp;security=none#Shadmanegi_vpn
 trojan://5YauIFGqU5@65.109.180.60:444?type=grpc&amp;security=none#Shadmanegi_vpn
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.66.141.21:80?security=&amp;sni=a1.ghormehsabzi.dpdns.org&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2560&amp;host=a1.ghormehsabzi.dpdns.org&amp;encryption=none#۱۰۰gbshadmanegi
+vless://0805d92f-f771-47f7-a903-a80aed94e2d5@zula.ir:443?encryption=none&amp;security=tls&amp;sni=lmn1751389202374.lmn17816.info&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&amp;sid=19d2063459&amp;spx=%2F&amp;type=ws&amp;host=lmn1751389202374.lmn17816.info&amp;path=%2FuE5jdU#@shadmanegi_vpn
 trojan://5YauIFGqU5@65.109.218.162:444?type=grpc&amp;security=none#Shadmanegi_vpn
 trojan://5YauIFGqU5@91.107.153.103:444?type=grpc&amp;security=none#Shadmanegi_vpn
 trojan://5YauIFGqU5@5.78.51.81:444?type=grpc&amp;security=none#Shadmanegi_vpn
@@ -13,7 +14,6 @@ trojan://5YauIFGqU5@5.78.53.184:444?type=grpc&amp;security=none#Shadmanegi_vpn
 trojan://5YauIFGqU5@5.161.132.36:444?type=grpc&amp;security=none#Shadmanegi_vpn
 trojan://5YauIFGqU5@65.109.179.105:444?type=grpc&amp;security=none#Shadmanegi_vpn
 trojan://5YauIFGqU5@65.109.180.60:444?type=grpc&amp;security=none#Shadmanegi_vpn
-vless://0805d92f-f771-47f7-a903-a80aed94e2d5@zula.ir:443?encryption=none&amp;security=tls&amp;sni=lmn1751389202374.lmn17816.info&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&amp;sid=19d2063459&amp;spx=%2F&amp;type=ws&amp;host=lmn1751389202374.lmn17816.info&amp;path=%2FuE5jdU#@shadmanegi_vpn
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.66.141.21:80?security=&amp;sni=a1.ghormehsabzi.dpdns.org&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2560&amp;host=a1.ghormehsabzi.dpdns.org&amp;encryption=none#۱۰۰gbshadmanegi
 vless://0805d92f-f771-47f7-a903-a80aed94e2d5@zula.ir:443?encryption=none&amp;security=tls&amp;sni=lmn1751389202374.lmn17816.info&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&amp;sid=19d2063459&amp;spx=%2F&amp;type=ws&amp;host=lmn1751389202374.lmn17816.info&amp;path=%2FuE5jdU#@shadmanegi_vpn
 trojan://5YauIFGqU5@65.109.218.162:444?type=grpc&amp;security=none#Shadmanegi_vpn
