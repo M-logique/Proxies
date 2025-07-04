@@ -7,11 +7,6 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&amp;
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.20.
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.20.
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
@@ -22,10 +17,15 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&amp;
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.20.
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.20.
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.20.
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s4.main-2.workers.dev&amp;fp=randomized&amp;type=ws&amp;sni=S4.MaiN-2.WORkErS.Dev#@Capoit
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#@Capoit
