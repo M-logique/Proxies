@@ -90,6 +90,8 @@ vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&am
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?security=reality&amp;encryption=none&amp;pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&amp;headerType=none&amp;fp=firefox&amp;spx=%2Fblog%2Fcategory%2Ftechnology%2F&amp;type=tcp&amp;sni=refersion.com&amp;sid=ae839dceb524a40b#Telegram@vmessorg
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=ping.amirhossein.info&amp;type=ws#Telegram+@vmessorg
+vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=www.dns-shop.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.dns-shop.ir#Telegram+@vmessorg
+vless://7220be9b-7669-4829-8da6-591ec1b3e8e4@135.181.201.193:56521?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#Telegram+@vmessorg
 vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Telegram+@vmessorg
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=br.presskiwi.dpdns.org&amp;type=ws#Telegram+@vmessorg
