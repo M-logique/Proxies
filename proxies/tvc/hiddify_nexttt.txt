@@ -1,3 +1,5 @@
+vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
+vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
 vless://479724d3-3f7e-480b-8f52-a06fcfd1ca26@4s.digikala.9ip.ir:22741?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.67.186.221:80?path=%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=ey.nazanin.dpdns.org&amp;type=ws#@Hiddify_Nexttt
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#@Hiddify_Nexttt
@@ -8,9 +10,6 @@ trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&amp;headerType=none&amp;type=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ%3D%3D@185.215.186.65:8388#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Hiddify_Nexttt
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=random&amp;type=ws&amp;sni=my.ski1plag.ir#@Hiddify_Nexttt
 vless://4a5e3a52-b7b0-4f14-a0f1-90be0c64801e@62.60.222.172:8800?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@Hiddify_Nexttt
 vmess://eyJ2IjoyLCJwcyI6IkBIaWRkaWZ5X05leHR0dCDwn5GIINqp2KfZhtin2YQg2KrZhNqv2LHYp9mF24wg2YXYpyAiLCJhZGQiOiJubmwxLXR1Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA4MiwiaWQiOiI5MWYwYzBjMy01YTRiLTcyY2MtZDczZS1hY2M4NTExZTVmNzEiLCJhaWQiOjAsIm5ldCI6InRjcCIsImhvc3QiOiJ2YXJ6ZXNoMy5jb20iLCJwYXRoIjoiIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwic2N5IjoiYXV0byIsImZwIjoiIn0=
 vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
@@ -34,9 +33,6 @@ trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&amp;headerType=none&amp;type=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ%3D%3D@185.215.186.65:8388#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Hiddify_Nexttt
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=random&amp;type=ws&amp;sni=my.ski1plag.ir#@Hiddify_Nexttt
 vless://4a5e3a52-b7b0-4f14-a0f1-90be0c64801e@62.60.222.172:8800?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@Hiddify_Nexttt
 vmess://eyJ2IjoyLCJwcyI6IkBIaWRkaWZ5X05leHR0dCDwn5GIINqp2KfZhtin2YQg2KrZhNqv2LHYp9mF24wg2YXYpyAiLCJhZGQiOiJubmwxLXR1Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA4MiwiaWQiOiI5MWYwYzBjMy01YTRiLTcyY2MtZDczZS1hY2M4NTExZTVmNzEiLCJhaWQiOjAsIm5ldCI6InRjcCIsImhvc3QiOiJ2YXJ6ZXNoMy5jb20iLCJwYXRoIjoiIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwic2N5IjoiYXV0byIsImZwIjoiIn0=
 vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
@@ -60,9 +56,6 @@ trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&amp;headerType=none&amp;type=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ%3D%3D@185.215.186.65:8388#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Hiddify_Nexttt
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=random&amp;type=ws&amp;sni=my.ski1plag.ir#@Hiddify_Nexttt
 vless://4a5e3a52-b7b0-4f14-a0f1-90be0c64801e@62.60.222.172:8800?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@Hiddify_Nexttt
 vmess://eyJ2IjoyLCJwcyI6IkBIaWRkaWZ5X05leHR0dCDwn5GIINqp2KfZhtin2YQg2KrZhNqv2LHYp9mF24wg2YXYpyAiLCJhZGQiOiJubmwxLXR1Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA4MiwiaWQiOiI5MWYwYzBjMy01YTRiLTcyY2MtZDczZS1hY2M4NTExZTVmNzEiLCJhaWQiOjAsIm5ldCI6InRjcCIsImhvc3QiOiJ2YXJ6ZXNoMy5jb20iLCJwYXRoIjoiIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwic2N5IjoiYXV0byIsImZwIjoiIn0=
 vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
@@ -86,9 +79,7 @@ trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&amp;headerType=none&amp;type=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ%3D%3D@185.215.186.65:8388#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
 vless://39d0b8cc-bfdb-4e30-9f6e-afc171f8a6a2@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Hiddify_Nexttt
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@Hiddify_Nexttt
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=random&amp;type=ws&amp;sni=my.ski1plag.ir#@Hiddify_Nexttt
+vless://92f2eeeb-b4b7-491e-ad91-a4a9ec0afcf8@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=&amp;encryption=none&amp;host=Cd6.amazon-osishop.ir&amp;type=httpupgrade#@Hiddify_Nexttt
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah15.ai351.com&amp;type=ws&amp;sni=ah15.ai351.com#@Hiddify_Nexttt
 vless://baa893dd-8c80-4184-832f-fc8281e81e6c@91.99.199.145:56127?security=reality&amp;sni=www.latimes.com&amp;fp=chrome&amp;pbk=iZBGYZP2PommEmcSDKWOypL3d3HWsWG7WDOh-Cuz418&amp;sid=6d26d809580dc9f7&amp;spx=/Telegram----@Hiddify_Nexttt----@Hiddify_Nexttt…
 vless://9d637a30-4567-445a-b68d-0d028e9543ec@193.233.133.116:443?security=reality&amp;sni=miro.com&amp;fp=chrome&amp;pbk=icK7GXox0Ak4-J_YxfK9NeOHUUYGB855mYLFIXAcDxk&amp;sid=3ed04f&amp;spx=/Telegram----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt&amp;type=tcp&amp;encryption=none#@Hiddify_Nexttt
