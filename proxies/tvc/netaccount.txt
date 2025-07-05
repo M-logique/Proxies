@@ -1,12 +1,2 @@
-vless://f874e932-d361-43b2-a7d8-e8fbe94599ca@persianvpn.arash.sbs:2025?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://141a4c0d-480d-4abb-9371-4a770dc10da5@142.132.227.65:38874?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://f874e932-d361-43b2-a7d8-e8fbe94599ca@persianvpn.arash.sbs:2025?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://141a4c0d-480d-4abb-9371-4a770dc10da5@142.132.227.65:38874?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://f874e932-d361-43b2-a7d8-e8fbe94599ca@persianvpn.arash.sbs:2025?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://141a4c0d-480d-4abb-9371-4a770dc10da5@142.132.227.65:38874?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://f874e932-d361-43b2-a7d8-e8fbe94599ca@persianvpn.arash.sbs:2025?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://141a4c0d-480d-4abb-9371-4a770dc10da5@142.132.227.65:38874?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://f874e932-d361-43b2-a7d8-e8fbe94599ca@persianvpn.arash.sbs:2025?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://141a4c0d-480d-4abb-9371-4a770dc10da5@142.132.227.65:38874?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://f874e932-d361-43b2-a7d8-e8fbe94599ca@persianvpn.arash.sbs:2025?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://141a4c0d-480d-4abb-9371-4a770dc10da5@142.132.227.65:38874?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;sni=my.ski1plag.ir&amp;alpn=h2,http/1.1&amp;fp=random&amp;type=ws&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D2560&amp;host=sib.sibzamini.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
