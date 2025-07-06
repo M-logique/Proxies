@@ -104,6 +104,8 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?type=tcp&amp;heade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#Telegram+:+@fardadvpn2
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
 vless://74696726-5d44-4321-9075-6e43de0af8c5@85.133.250.68:32336?type=tcp&amp;headerType=none&amp;security=none#Telegram+:+@fardadvpn2
+vless://79eb5527-e08e-4ac9-97d4-e28ad71e9e6f@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&amp;fp=firefox&amp;type=grpc&amp;serviceName=nama&amp;sni=refersion.com&amp;sid=b6c24852f86067a6#Telegram+@fardadvpn2
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
 vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&amp;encryption=none&amp;pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#Telegram+@fardadvpn2
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
