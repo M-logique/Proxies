@@ -6,8 +6,6 @@ vless://b25c9401-2854-49da-86f0-fe0f06ad256a@91.99.237.171:443?security=&amp;enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%2014%20%20%20
 vless://b25c9401-2854-49da-86f0-fe0f06ad256a@91.99.237.171:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%2081%20%20
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%2014%20%20%20
-vless://b25c9401-2854-49da-86f0-fe0f06ad256a@91.99.237.171:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%2081%20%20
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%2014%20%20%20
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#v2ray
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#v2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#@v2ray
