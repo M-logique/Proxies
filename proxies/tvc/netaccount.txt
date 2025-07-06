@@ -1,8 +1,3 @@
-vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount%20irancell
-vless://b7ef3741-92f4-4302-9b06-9f943f3700e5@bot.nimeshab-nabod.info:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?security=none&amp;alpn=h2,http/1.1&amp;type=ws&amp;path=/?ed&amp;host=keEn-iNteNTion.oNeeAT.Co.&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;type=ws&amp;path=/upload&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?security=none&amp;fp=chrome&amp;type=ws&amp;path=/?ed%3D2560&amp;host=di.dibdibini.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D%23TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI%3D?ed%3D2560&amp;host=sib.sibzamini.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D2560/&amp;host=sib.sibzamini.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
