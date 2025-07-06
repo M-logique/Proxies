@@ -1,3 +1,4 @@
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#|
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;path=/&amp;headerType=http#|
 vless://5f6568a9-cb21-47de-b405-1ef34e9c4af3@germany.fast.hosting-ip.com:80?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/?ed%3D2048&amp;mode=auto#|
@@ -8,8 +9,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&am
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&amp;encryption=none&amp;type=tcp&amp;host=soft98.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;type=tcp&amp;host=uptvs.com&amp;path=/&amp;headerType=http#@free_serverir
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?security=none&amp;encryption=none&amp;type=ws&amp;host=ey.nazanin.dpdns.org&amp;path=/?ed%3D2560#@free_serverir
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=yahoo.com&amp;sid=86&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;headerType=none#@free_serverir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@free_serverir
+vless://db9d419e-3094-4942-9313-d39afd3dd163@104.16.101.143:80?security=none&amp;encryption=none&amp;type=ws&amp;host=spx.lindak.dpdns.org&amp;path=/?ed%3D2560#|
+vless://cee94d0d-dbb6-4e02-b688-bb663ef01f38@nlo.nipytee.info:990?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=tgju.org&amp;sid=e1ac6d894342c318&amp;fp=firefox&amp;pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&amp;headerType=none#|
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;encryption=none&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=/?ed%3D2560#|
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&amp;encryption=none&amp;type=ws&amp;host=redfree8mahsang6.redfree8.ir&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560#|
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
@@ -23,8 +24,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&am
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&amp;encryption=none&amp;type=tcp&amp;host=soft98.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;type=tcp&amp;host=uptvs.com&amp;path=/&amp;headerType=http#@free_serverir
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?security=none&amp;encryption=none&amp;type=ws&amp;host=ey.nazanin.dpdns.org&amp;path=/?ed%3D2560#@free_serverir
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=yahoo.com&amp;sid=86&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;headerType=none#@free_serverir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@free_serverir
+vless://db9d419e-3094-4942-9313-d39afd3dd163@104.16.101.143:80?security=none&amp;encryption=none&amp;type=ws&amp;host=spx.lindak.dpdns.org&amp;path=/?ed%3D2560#|
+vless://cee94d0d-dbb6-4e02-b688-bb663ef01f38@nlo.nipytee.info:990?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=tgju.org&amp;sid=e1ac6d894342c318&amp;fp=firefox&amp;pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&amp;headerType=none#|
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;encryption=none&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=/?ed%3D2560#|
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&amp;encryption=none&amp;type=ws&amp;host=redfree8mahsang6.redfree8.ir&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560#|
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
@@ -38,8 +39,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&am
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&amp;encryption=none&amp;type=tcp&amp;host=soft98.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;type=tcp&amp;host=uptvs.com&amp;path=/&amp;headerType=http#@free_serverir
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?security=none&amp;encryption=none&amp;type=ws&amp;host=ey.nazanin.dpdns.org&amp;path=/?ed%3D2560#@free_serverir
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=yahoo.com&amp;sid=86&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;headerType=none#@free_serverir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@free_serverir
+vless://db9d419e-3094-4942-9313-d39afd3dd163@104.16.101.143:80?security=none&amp;encryption=none&amp;type=ws&amp;host=spx.lindak.dpdns.org&amp;path=/?ed%3D2560#|
+vless://cee94d0d-dbb6-4e02-b688-bb663ef01f38@nlo.nipytee.info:990?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=tgju.org&amp;sid=e1ac6d894342c318&amp;fp=firefox&amp;pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&amp;headerType=none#|
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;encryption=none&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=/?ed%3D2560#|
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&amp;encryption=none&amp;type=ws&amp;host=redfree8mahsang6.redfree8.ir&amp;path=/Telegram@V2ray_Alpha/?ed%3D2560#|
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
@@ -53,8 +54,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&am
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&amp;encryption=none&amp;type=tcp&amp;host=soft98.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;type=tcp&amp;host=uptvs.com&amp;path=/&amp;headerType=http#@free_serverir
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?security=none&amp;encryption=none&amp;type=ws&amp;host=ey.nazanin.dpdns.org&amp;path=/?ed%3D2560#@free_serverir
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=yahoo.com&amp;sid=86&amp;fp=chrome&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;headerType=none#@free_serverir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@free_serverir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXNoMzYwLmNvOjQ0Mw==#|
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2ZkQGFkbWluLmMxLndlYnJhbXouY286NDQz#|
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXNoMzYwLmNvOjQ0Mw==#|
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXNoMzYwLmNvOjQ0Mw==#|
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#@free_serverir
@@ -66,5 +67,3 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?security=none&amp
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&amp;encryption=none&amp;type=tcp&amp;host=canva.com&amp;path=/&amp;headerType=http#|
 vless://c0adb6b8-4fb7-4b18-887b-6aecb80334b1@135.181.201.193:53546?security=none&amp;encryption=none&amp;type=tcp&amp;path=/&amp;headerType=http#|
 vless://c0adb6b8-4fb7-4b18-887b-6aecb80334b1@135.181.201.193:53546?security=none&amp;encryption=none&amp;type=tcp&amp;path=/&amp;headerType=http#|
-vless://db9d419e-3094-4942-9313-d39afd3dd163@104.16.101.143:80?security=none&amp;encryption=none&amp;type=ws&amp;host=spx.lindak.dpdns.org&amp;path=/?ed%3D2560#|
-vless://cee94d0d-dbb6-4e02-b688-bb663ef01f38@nlo.nipytee.info:990?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=tgju.org&amp;sid=e1ac6d894342c318&amp;fp=firefox&amp;pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&amp;headerType=none#|
