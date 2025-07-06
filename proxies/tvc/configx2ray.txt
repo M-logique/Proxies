@@ -78,6 +78,8 @@ vless://b7ef3741-92f4-4302-9b06-9f943f3700e5@bot.nimeshab-nabod.info:80?security
 vless://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?security=none&amp;alpn=h2,http/1.1&amp;type=ws&amp;path=/?ed&amp;host=keEn-iNteNTion.oNeeAT.Co.&amp;packetEncoding=xudp&amp;encryption=none#
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;type=ws&amp;path=/upload&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#
 vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#
+vless://9d64c1f1-f28b-416f-8d68-b32ad62e0412@172.66.132.196:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=pamchall.com&amp;type=ws&amp;sni=pamchall.com#
+vless://275be41c-e16c-4214-ac4f-3e8eaff8e928@crm.xpersian.com:8443?security=reality&amp;encryption=none&amp;pbk=eUzR83jhnC_Mq_tOuIHKW4sPa_D2jjYSeyrunYS-Zm4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org&amp;sid=33c48970a3f211ed#
 vless://48e54f66-73f6-49c7-a0b5-5937e20d4abd@join.telegram.baleping.top:8080?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#
 vless://9d64c1f1-f28b-416f-8d68-b32ad62e0412@172.66.132.196:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=pamchall.com&amp;type=ws&amp;sni=pamchall.com#
 vless://20630c0f-64b3-4237-8c13-7f4cde734df9@mahtabhub.metishop.top:8080?type=ws&amp;path=%2F&amp;host=&amp;security=none#
