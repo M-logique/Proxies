@@ -1,4 +1,3 @@
-vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#NetAccount
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&amp;type=tcp&amp;headerType=http&amp;host=bmw.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&amp;type=tcp&amp;headerType=http&amp;host=bmw.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://ce7eb002-b804-43f4-9ead-dd53906e945d@hell.dl101movis.ir:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
