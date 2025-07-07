@@ -340,6 +340,13 @@ vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&amp
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@pishgam.sdcards.ir:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah15.ai351.com&amp;type=ws&amp;sni=ah15.ai351.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=chrome&amp;type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://5400364b-68d6-471f-9678-e4852f7fd233@104.207.148.105:443?security=&amp;encryption=none&amp;type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+vless://57ea7f3f-c1d5-4428-9ae2-9b30c282653c@45.77.6.49:443?security=&amp;encryption=none&amp;type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+vless://18ab9b9f-ae3a-402f-9802-b14726a07180@149.28.113.198:443?security=&amp;encryption=none&amp;type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?security=reality&amp;encryption=none&amp;pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;sni=chatgpt.com&amp;sid=f49785945765b595#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B5%F0%9F%87%B9
+vless://9a85ea24-bd5a-4380-94cb-ffb773cafb33@91.99.237.120:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=amol.tas-bazi.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=tina.tas-bazi.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://55c065e4-3429-49bf-aea2-d05ff7dd6586@172.233.141.49:2321/?type=tcp&amp;encryption=none&amp;flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283/?type=tcp&amp;encryption=none&amp;flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%BF
