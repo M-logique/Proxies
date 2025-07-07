@@ -36,11 +36,6 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&am
 ss://d6ca32b9-5977-47a2-bff3-1091c2f2063c@62.60.163.23:45006?security=none&amp;encryption=none&amp;host=digikala.com%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;headerType=http&amp;type=tcp#@Mrconfig_Channel
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;sni=my.ski1plag.ir&amp;alpn=h2,http/1.1&amp;fp=random&amp;type=ws&amp;path=/Telegram@Config_Rayegan&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#@Mrconfig_Channel
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;sni=my.ski1plag.ir&amp;alpn=h2,http/1.1&amp;fp=random&amp;type=ws&amp;path=/Telegram@V2ray_Alpha&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#@Mrconfig_Channel
-vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#@Mrconfig_Channel
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Mrconfig_Channel
-vless://69533cc5-6caf-47fd-8659-bf9e6128d5f8@viop.fast.hosting-ip.com:80?type=xhttp&amp;path=%2FAmirrezagol%3Fed%3D2560&amp;host=amirrezagol.global.ssl.fastly.net&amp;mode=auto&amp;security=none#@Mrconfig_Channel
-vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#@Mrconfig_Channel
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Mrconfig_Channel
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#@Mrconfig_Channel
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@Mrconfig_Channel
 vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Mrconfig_Channel
@@ -72,6 +67,11 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&am
 ss://d6ca32b9-5977-47a2-bff3-1091c2f2063c@62.60.163.23:45006?security=none&amp;encryption=none&amp;host=digikala.com%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;headerType=http&amp;type=tcp#@Mrconfig_Channel
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;sni=my.ski1plag.ir&amp;alpn=h2,http/1.1&amp;fp=random&amp;type=ws&amp;path=/Telegram@Config_Rayegan&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#@Mrconfig_Channel
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;sni=my.ski1plag.ir&amp;alpn=h2,http/1.1&amp;fp=random&amp;type=ws&amp;path=/Telegram@V2ray_Alpha&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#@Mrconfig_Channel
+vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#@Mrconfig_Channel
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Mrconfig_Channel
+vless://69533cc5-6caf-47fd-8659-bf9e6128d5f8@viop.fast.hosting-ip.com:80?type=xhttp&amp;path=%2FAmirrezagol%3Fed%3D2560&amp;host=amirrezagol.global.ssl.fastly.net&amp;mode=auto&amp;security=none#@Mrconfig_Channel
+vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#@Mrconfig_Channel
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Mrconfig_Channel
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#@Mrconfig_Channel
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Mrconfig_Channel
 vless://69533cc5-6caf-47fd-8659-bf9e6128d5f8@viop.fast.hosting-ip.com:80?type=xhttp&amp;path=%2FAmirrezagol%3Fed%3D2560&amp;host=amirrezagol.global.ssl.fastly.net&amp;mode=auto&amp;security=none#@Mrconfig_Channel
