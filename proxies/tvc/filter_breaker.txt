@@ -410,6 +410,8 @@ ss://chacha20-ietf-poly1305:pV5BAzqLZosOfuIrkyoadT@203.23.128.190:990#@Filter_br
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjcwMCIsInBvcnQiOjQ0MywidmlkIjoiYzEyMzQ1NjctNzg5MC00ZGYyLWIxMjMtNDU2Nzg5MDEyMzQ1Iiwic2VjdXJpdHkiOiJhdXRvIiwidHlwZSI6IndzIiwic25iIjoiY2YudjJyYXkudGVzdCIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker
 vless://u7v8w9x0-5678-9abc-def0-1234567890ab@185.146.173.1000:8443?security=tls&amp;type=ws&amp;path=/vless&amp;sni=de.vpnfree.org#@Filter_breaker
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.170:443#@Filter_breaker
+vless://04b23474-a154-4dbd-8628-ff9292594a0f@104.18.26.90:443?encryption=none&amp;security=tls&amp;sni=2free2.aparatir.xyz&amp;fp=randomized&amp;type=ws&amp;host=2free2.aparatir.xyz&amp;path=%2Fadmin#@Filter_breaker
+vless://6063bdd5-8205-4dbf-b714-94204f47b8d9@152.228.210.41:443?encryption=none&amp;security=reality&amp;sni=snapp.ir&amp;fp=chrome&amp;pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&amp;sid=5bef46444e87&amp;spx=%2F&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#@Filter_breaker
 ss://chacha20-ietf-poly1305:shadowsocks@45.76.123.350:8080#@Filter_breaker
 trojan://t8u9v0w1-5678-9abc-def0-1234567890ab@185.146.173.2200:443?type=ws&amp;host=trojan.de.vpnfree.org&amp;path=/trojan#@Filter_breaker
 vless://u9v0w1x2-3456-7bcd-8abc-9012abcdef34@203.23.128.360:443?security=tls&amp;type=ws&amp;path=/vless#@Filter_breaker
@@ -422,8 +424,6 @@ vless://q5r6s7t8-5678-9abc-def0-1234567890ab@203.23.128.350:443?security=tls&amp
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjIwMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2150:443#@Filter_breaker
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.350:443#@Filter_breaker
-vless://04b23474-a154-4dbd-8628-ff9292594a0f@104.18.26.90:443?encryption=none&amp;security=tls&amp;sni=2free2.aparatir.xyz&amp;fp=randomized&amp;type=ws&amp;host=2free2.aparatir.xyz&amp;path=%2Fadmin#@Filter_breaker
-vless://6063bdd5-8205-4dbf-b714-94204f47b8d9@152.228.210.41:443?encryption=none&amp;security=reality&amp;sni=snapp.ir&amp;fp=chrome&amp;pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&amp;sid=5bef46444e87&amp;spx=%2F&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#@Filter_breaker
 vless://p4q5r6s7-3456-7bcd-8abc-9012abcdef78@185.146.173.2100:8443?security=tls&amp;type=ws&amp;path=/vless#@Filter_breaker
 trojan://m0n1o2p3-1234-5bcd-6abc-7890abcdef90@104.21.25.320:443?type=ws&amp;host=trojan.workers.dev&amp;path=/trojan#@Filter_breaker
 vless://l9m0n1o2-7890-1abc-2def-34567890abcd@185.146.173.2000:8443?security=tls&amp;type=ws&amp;path=/vless#@Filter_breaker
