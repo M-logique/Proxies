@@ -1,5 +1,7 @@
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
+vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+vmessorg
+vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&amp;type=ws#Telegram+@vmessorg
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+%3A+@vmessorg
 vless://58251b29-1e57-4e84-b48f-c7f8e755dcab@turk2.foxinonet.ir:443?path=%2Flw&amp;security=tls&amp;encryption=none&amp;host=turk2.foxinonet.ir&amp;type=ws&amp;sni=turk2.foxinonet.ir#Telegram+@vmessorg
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.66.132.196:443?path=%2FTel-%40V2ray_Alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ey.nazanin.dpdns.org&amp;type=ws&amp;sni=ey.nazanin.dpdns.org#Telegram+@vmessorg
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=www.dns-shop.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.dns-shop.ir#Telegram+@vmessorg
@@ -32,8 +34,8 @@ vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&amp;secu
 vmess://eyJuZXQiOiJ0Y3AiLCJob3N0Ijoic29mdDk4LmlyIiwidHlwZSI6Imh0dHAiLCJwb3J0IjoiNDQzIiwiYWRkIjoiNjIuNjAuMTU1LjY0IiwiaWQiOiI1ZTZlMjYzZS02YmM0LTQ1N2QtODQyOS03NzQ1MzNjZTc0NjciLCJwYXRoIjoiXC8iLCJzY3kiOiJhdXRvIiwicHMiOiJUZWxlZ3JhbSUyMCUzQSUyMCU0MHZtZXNzb3JnIn0=
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+vmessorg
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
+vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&amp;type=ws#Telegram+@vmessorg
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+%3A+@vmessorg
 vless://58251b29-1e57-4e84-b48f-c7f8e755dcab@turk2.foxinonet.ir:443?path=%2Flw&amp;security=tls&amp;encryption=none&amp;host=turk2.foxinonet.ir&amp;type=ws&amp;sni=turk2.foxinonet.ir#Telegram+@vmessorg
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.66.132.196:443?path=%2FTel-%40V2ray_Alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ey.nazanin.dpdns.org&amp;type=ws&amp;sni=ey.nazanin.dpdns.org#Telegram+@vmessorg
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=www.dns-shop.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.dns-shop.ir#Telegram+@vmessorg
@@ -66,8 +68,8 @@ vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&amp;secu
 vmess://eyJuZXQiOiJ0Y3AiLCJob3N0Ijoic29mdDk4LmlyIiwidHlwZSI6Imh0dHAiLCJwb3J0IjoiNDQzIiwiYWRkIjoiNjIuNjAuMTU1LjY0IiwiaWQiOiI1ZTZlMjYzZS02YmM0LTQ1N2QtODQyOS03NzQ1MzNjZTc0NjciLCJwYXRoIjoiXC8iLCJzY3kiOiJhdXRvIiwicHMiOiJUZWxlZ3JhbSUyMCUzQSUyMCU0MHZtZXNzb3JnIn0=
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+vmessorg
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
+vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&amp;type=ws#Telegram+@vmessorg
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+%3A+@vmessorg
 vless://58251b29-1e57-4e84-b48f-c7f8e755dcab@turk2.foxinonet.ir:443?path=%2Flw&amp;security=tls&amp;encryption=none&amp;host=turk2.foxinonet.ir&amp;type=ws&amp;sni=turk2.foxinonet.ir#Telegram+@vmessorg
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.66.132.196:443?path=%2FTel-%40V2ray_Alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ey.nazanin.dpdns.org&amp;type=ws&amp;sni=ey.nazanin.dpdns.org#Telegram+@vmessorg
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=www.dns-shop.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.dns-shop.ir#Telegram+@vmessorg
@@ -100,8 +102,8 @@ vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&amp;secu
 vmess://eyJuZXQiOiJ0Y3AiLCJob3N0Ijoic29mdDk4LmlyIiwidHlwZSI6Imh0dHAiLCJwb3J0IjoiNDQzIiwiYWRkIjoiNjIuNjAuMTU1LjY0IiwiaWQiOiI1ZTZlMjYzZS02YmM0LTQ1N2QtODQyOS03NzQ1MzNjZTc0NjciLCJwYXRoIjoiXC8iLCJzY3kiOiJhdXRvIiwicHMiOiJUZWxlZ3JhbSUyMCUzQSUyMCU0MHZtZXNzb3JnIn0=
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+vmessorg
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
+vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&amp;type=ws#Telegram+@vmessorg
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+%3A+@vmessorg
 vless://58251b29-1e57-4e84-b48f-c7f8e755dcab@turk2.foxinonet.ir:443?path=%2Flw&amp;security=tls&amp;encryption=none&amp;host=turk2.foxinonet.ir&amp;type=ws&amp;sni=turk2.foxinonet.ir#Telegram+@vmessorg
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.66.132.196:443?path=%2FTel-%40V2ray_Alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ey.nazanin.dpdns.org&amp;type=ws&amp;sni=ey.nazanin.dpdns.org#Telegram+@vmessorg
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=www.dns-shop.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.dns-shop.ir#Telegram+@vmessorg
@@ -134,8 +136,6 @@ vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&amp;secu
 vmess://eyJuZXQiOiJ0Y3AiLCJob3N0Ijoic29mdDk4LmlyIiwidHlwZSI6Imh0dHAiLCJwb3J0IjoiNDQzIiwiYWRkIjoiNjIuNjAuMTU1LjY0IiwiaWQiOiI1ZTZlMjYzZS02YmM0LTQ1N2QtODQyOS03NzQ1MzNjZTc0NjciLCJwYXRoIjoiXC8iLCJzY3kiOiJhdXRvIiwicHMiOiJUZWxlZ3JhbSUyMCUzQSUyMCU0MHZtZXNzb3JnIn0=
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+vmessorg
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Telegram+@vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram+@vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.64.226:443#Telegram+@vmessorg
@@ -154,5 +154,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&a
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah15.ai351.com&amp;type=ws&amp;sni=ah15.ai351.com#Telegram+@vmessorg
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#Telegram+@vmessorg
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
-vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&amp;type=ws#Telegram+@vmessorg
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+%3A+@vmessorg
