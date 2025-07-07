@@ -159,6 +159,7 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;sni=my.ski1plag.ir&amp;alpn=h2,http/1.1&amp;fp=random&amp;type=ws&amp;path=/Telegram@V2ray_Alpha&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#@Mrconfig_Channel
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#@Mrconfig_Channel
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#@Mrconfig_Channel
+vless://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:443?type=httpupgrade&amp;host=chervhill.hajalii.com&amp;path=/uEUomzcEAZ5S0uJX2dp9up&amp;security=tls&amp;fp=chrome&amp;sni=chervhill.hajalii.com&amp;alpn=http/1.1#@Mr_Config_Group%E2%9C%8C%EF%B8%8F
 vless://bf36173f-dbdb-4a2d-bc54-8140c352e013@159.89.98.13:443/?type=tcp&amp;path=%2F&amp;host=playstation.com&amp;headerType=http&amp;security=none#SecreTVPS-Testhaji
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=www.dns-shop.ir&amp;fp=chrome&amp;type=ws&amp;sni=www.dns-shop.ir#@Mrconfig_Channel
 vless://331de0c9-ed97-4a92-9a60-7c22b98531e9@62.60.192.166:2001?security=none&amp;encryption=none&amp;host=speedtest%2Cnet&amp;headerType=none&amp;type=tcp#@Mrconfig_Channel
