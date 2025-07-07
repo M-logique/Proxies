@@ -131,6 +131,11 @@ vless://2140887e-eebe-46a5-873d-0a027873ff7a@194.116.215.36:8443?security=none&a
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#@cryptto_Ai%20%7C%20Reality%20CF
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@cryptto_Ai%20%7C%20VLESS%20WebSocket
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#@cryptto_Ai%20%7C%20Speed%3A3128kb%20%7C%201404-04-12
+vless://5de591e3-e584-4b96-b78b-239da21286ec@a.ru.maviks.ru:443?security=reality&amp;encryption=none&amp;pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&amp;host=maviks.ru&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=maviks.ru&amp;sid=0f917152a871e9c0#@cryptto_Ai%20%7C%20Vision%20Reality
+vless://2140887e-eebe-46a5-873d-0a027873ff7a@194.116.215.36:8443?security=none&amp;encryption=none&amp;type=tcp#@cryptto_Ai%20%7C%20TCP%20Plain
+vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#@cryptto_Ai%20%7C%20Reality%20CF
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@cryptto_Ai%20%7C%20VLESS%20WebSocket
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#@cryptto_Ai%20%7C%20Speed%3A3128kb%20%7C%201404-04-12
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@cryptto_Ai
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#✅@cryptto_Ai
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=none&amp;encryption=none&amp;host=ua.yektanet.com&amp;headerType=http&amp;type=tcp#⭐️@cryptto_Ai
@@ -173,11 +178,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#@cryptto_Ai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@cryptto_Ai
 vmess://eyJhZGQiOiJlMmRjYWViYTA4ZDQwODg2LmpqYXZhaGVyLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgxNjQ3NzEyLWZjZDgtNGRhOS04ZjgwLWJjN2ExNDkzNTRmOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwOCIsInBzIjoiQGNyeXB0dG9fQWkgfCDaqtmG2YQg2YfYr9uM2YHYp9uMIPCflpEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://5de591e3-e584-4b96-b78b-239da21286ec@a.ru.maviks.ru:443?security=reality&amp;encryption=none&amp;pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&amp;host=maviks.ru&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=maviks.ru&amp;sid=0f917152a871e9c0#@cryptto_Ai%20%7C%20Vision%20Reality
-vless://2140887e-eebe-46a5-873d-0a027873ff7a@194.116.215.36:8443?security=none&amp;encryption=none&amp;type=tcp#@cryptto_Ai%20%7C%20TCP%20Plain
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#@cryptto_Ai%20%7C%20Reality%20CF
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@cryptto_Ai%20%7C%20VLESS%20WebSocket
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#@cryptto_Ai%20%7C%20Speed%3A3128kb%20%7C%201404-04-12
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@cryptto_Ai
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#✅@cryptto_Ai
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=none&amp;encryption=none&amp;host=ua.yektanet.com&amp;headerType=http&amp;type=tcp#⭐️@cryptto_Ai
