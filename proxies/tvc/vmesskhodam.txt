@@ -1,4 +1,6 @@
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@vmesskhodam
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#Telegram+@vmesskhodam
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?host=di.dibdibini.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#@vmesskhodam
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#@vmesskhodam
 vless://04b23474-a154-4dbd-8628-ff9292594a0f@104.18.26.90:443?encryption=none&amp;security=tls&amp;sni=2free2.aparatir.xyz&amp;fp=randomized&amp;type=ws&amp;host=2free2.aparatir.xyz&amp;path=%2Fadmin#@vmesskhodam
 vless://6063bdd5-8205-4dbf-b714-94204f47b8d9@152.228.210.41:443?encryption=none&amp;security=reality&amp;sni=snapp.ir&amp;fp=chrome&amp;pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&amp;sid=5bef46444e87&amp;spx=%2F&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#@vmesskhodam
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTE&amp;headerType=http&amp;type=tcp#@vmesskhodam
@@ -15,7 +17,6 @@ vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=%2Fcontainers%2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#Telegram+@vmesskhodam
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?host=di.dibdibini.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#@vmesskhodam
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@vmesskhodam
 vless://04b23474-a154-4dbd-8628-ff9292594a0f@104.18.26.90:443?encryption=none&amp;security=tls&amp;sni=2free2.aparatir.xyz&amp;fp=randomized&amp;type=ws&amp;host=2free2.aparatir.xyz&amp;path=%2Fadmin#@vmesskhodam
 vless://6063bdd5-8205-4dbf-b714-94204f47b8d9@152.228.210.41:443?encryption=none&amp;security=reality&amp;sni=snapp.ir&amp;fp=chrome&amp;pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&amp;sid=5bef46444e87&amp;spx=%2F&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#@vmesskhodam
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTE&amp;headerType=http&amp;type=tcp#@vmesskhodam
@@ -32,7 +33,6 @@ vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=%2Fcontainers%2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#Telegram+@vmesskhodam
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?host=di.dibdibini.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#@vmesskhodam
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@vmesskhodam
 vless://04b23474-a154-4dbd-8628-ff9292594a0f@104.18.26.90:443?encryption=none&amp;security=tls&amp;sni=2free2.aparatir.xyz&amp;fp=randomized&amp;type=ws&amp;host=2free2.aparatir.xyz&amp;path=%2Fadmin#@vmesskhodam
 vless://6063bdd5-8205-4dbf-b714-94204f47b8d9@152.228.210.41:443?encryption=none&amp;security=reality&amp;sni=snapp.ir&amp;fp=chrome&amp;pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&amp;sid=5bef46444e87&amp;spx=%2F&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#@vmesskhodam
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTE&amp;headerType=http&amp;type=tcp#@vmesskhodam
@@ -49,7 +49,6 @@ vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=%2Fcontainers%2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#Telegram+@vmesskhodam
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?host=di.dibdibini.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#@vmesskhodam
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@vmesskhodam
 vless://04b23474-a154-4dbd-8628-ff9292594a0f@104.18.26.90:443?encryption=none&amp;security=tls&amp;sni=2free2.aparatir.xyz&amp;fp=randomized&amp;type=ws&amp;host=2free2.aparatir.xyz&amp;path=%2Fadmin#@vmesskhodam
 vless://6063bdd5-8205-4dbf-b714-94204f47b8d9@152.228.210.41:443?encryption=none&amp;security=reality&amp;sni=snapp.ir&amp;fp=chrome&amp;pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&amp;sid=5bef46444e87&amp;spx=%2F&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#@vmesskhodam
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTE&amp;headerType=http&amp;type=tcp#@vmesskhodam
@@ -66,7 +65,10 @@ vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=%2Fcontainers%2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#Telegram+@vmesskhodam
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?host=di.dibdibini.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#@vmesskhodam
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@vmesskhodam
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?sni=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;host=kawaiifreevpn-7ds.pages.dev&amp;type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2560&amp;encryption=none#Telegram-@vmesskhodam
+vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?host=delam.ahaysiahzangi.dpdns.org&amp;type=ws&amp;security=&amp;path=%2F%3Fed%3D2560&amp;encryption=none#Telegram+:+@vmesskhodam
+vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?host=delam.ahaysiahzangi.dpdns.org&amp;type=ws&amp;security=&amp;path=%2F%3Fed%3D2560&amp;encryption=none#@vmesskhodam
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?host=fggerlad.gerald81.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#telegram-@vmesskhodam
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;type=ws&amp;security=tls&amp;path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560&amp;encryption=none#@vmesskhodam
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?sni=www.dns-shop.ir&amp;host=www.dns-shop.ir&amp;type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;encryption=none#id-@vmesskhodam
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?host=pari.parinazz.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#id-@vmesskhodam
