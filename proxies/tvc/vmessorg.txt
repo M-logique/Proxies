@@ -1,5 +1,5 @@
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nb-de.nitter.ir&amp;fp=chrome&amp;type=ws&amp;sni=nitter.ir#Telegram+@vmessorg
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
+vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;host=eN.TwiTtER.cOM.%3A8880&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#Telegram+vmessorg
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah15.ai351.com&amp;type=ws&amp;sni=ah15.ai351.com#Telegram+@vmessorg
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#Telegram+@vmessorg
@@ -30,8 +30,6 @@ vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&a
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;host=eN.TwiTtER.cOM.%3A8880&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#Telegram+vmessorg
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nb-de.nitter.ir&amp;fp=chrome&amp;type=ws&amp;sni=nitter.ir#Telegram+@vmessorg
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah15.ai351.com&amp;type=ws&amp;sni=ah15.ai351.com#Telegram+@vmessorg
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#Telegram+@vmessorg
@@ -62,8 +60,6 @@ vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&a
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;host=eN.TwiTtER.cOM.%3A8880&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#Telegram+vmessorg
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nb-de.nitter.ir&amp;fp=chrome&amp;type=ws&amp;sni=nitter.ir#Telegram+@vmessorg
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah15.ai351.com&amp;type=ws&amp;sni=ah15.ai351.com#Telegram+@vmessorg
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#Telegram+@vmessorg
@@ -94,8 +90,6 @@ vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&a
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;host=eN.TwiTtER.cOM.%3A8880&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#Telegram+vmessorg
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nb-de.nitter.ir&amp;fp=chrome&amp;type=ws&amp;sni=nitter.ir#Telegram+@vmessorg
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah15.ai351.com&amp;type=ws&amp;sni=ah15.ai351.com#Telegram+@vmessorg
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=0ost.amazon-osishop.ir&amp;type=httpupgrade#Telegram+@vmessorg
@@ -126,8 +120,8 @@ vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&a
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@vmessorg
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;host=eN.TwiTtER.cOM.%3A8880&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#Telegram+vmessorg
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=nb-de.nitter.ir&amp;fp=chrome&amp;type=ws&amp;sni=nitter.ir#Telegram+@vmessorg
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#Telegram+@vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#Telegram+@vmessorg
 vless://10d3b490-fd71-4459-aa50-190966b3d6e8@all1.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?path=%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=de3radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&amp;fp=firefox&amp;type=ws&amp;sni=de3radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#Telegram+@vmessorg
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&amp;security=none&amp;encryption=none&amp;host=barayeiran.nastaranh.dpdns.org&amp;type=ws#Telegram+@vmessorg
 vless://9e876ddd-97f0-472f-b825-e450800ba28a@good.srvice.shop:5050?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#Telegram+@vmessorg
