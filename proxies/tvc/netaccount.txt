@@ -1,5 +1,3 @@
-vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D2560&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://8eca541e-8202-4381-b9f3-6d0b38c3ebb1@151.101.195.8:80?type=xhttp&amp;mode=auto&amp;host=dwellestablishment.global.ssl.fastly.net&amp;path=/-@ProxySnipe--@ProxySnipe--@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe?ed%3D2048#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@NetAccount
@@ -11,8 +9,6 @@ vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?security=real
 vless://9a85ea24-bd5a-4380-94cb-ffb773cafb33@91.99.237.120:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=amol.tas-bazi.com#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=tina.tas-bazi.com#NetAccount
-vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D2560&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://8eca541e-8202-4381-b9f3-6d0b38c3ebb1@151.101.195.8:80?type=xhttp&amp;mode=auto&amp;host=dwellestablishment.global.ssl.fastly.net&amp;path=/-@ProxySnipe--@ProxySnipe--@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe?ed%3D2048#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@NetAccount
@@ -24,8 +20,6 @@ vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?security=real
 vless://9a85ea24-bd5a-4380-94cb-ffb773cafb33@91.99.237.120:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=amol.tas-bazi.com#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=tina.tas-bazi.com#NetAccount
-vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D2560&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://8eca541e-8202-4381-b9f3-6d0b38c3ebb1@151.101.195.8:80?type=xhttp&amp;mode=auto&amp;host=dwellestablishment.global.ssl.fastly.net&amp;path=/-@ProxySnipe--@ProxySnipe--@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe?ed%3D2048#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@NetAccount
@@ -37,8 +31,6 @@ vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?security=real
 vless://9a85ea24-bd5a-4380-94cb-ffb773cafb33@91.99.237.120:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=amol.tas-bazi.com#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=tina.tas-bazi.com#NetAccount
-vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D2560&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://8eca541e-8202-4381-b9f3-6d0b38c3ebb1@151.101.195.8:80?type=xhttp&amp;mode=auto&amp;host=dwellestablishment.global.ssl.fastly.net&amp;path=/-@ProxySnipe--@ProxySnipe--@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe?ed%3D2048#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@NetAccount
@@ -50,8 +42,6 @@ vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?security=real
 vless://9a85ea24-bd5a-4380-94cb-ffb773cafb33@91.99.237.120:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=amol.tas-bazi.com#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=tina.tas-bazi.com#NetAccount
-vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?security=none&amp;type=ws&amp;path=/?ed%3D2560&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&amp;sid=91355b9b818617&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
