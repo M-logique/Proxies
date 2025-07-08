@@ -233,6 +233,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.34.231:443#Net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#NetAccount
 vless://8eca541e-8202-4381-b9f3-6d0b38c3ebb1@151.101.195.8:80?type=xhttp&amp;mode=auto&amp;host=dwellestablishment.global.ssl.fastly.net&amp;path=/-@ProxySnipe--@ProxySnipe--@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe-@ProxySnipe--@ProxySnipe-@ProxySnipe--@ProxySnipe?ed%3D2048#NetAccount
+vless://a9874b38-d920-4d92-a252-e8deac80aa63@62.60.179.65:18191?type=tcp&amp;path=%2F&amp;host=cloud.ir&amp;headerType=http&amp;security=none#NetAccount
 vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?security=none&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
