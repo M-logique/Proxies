@@ -42,6 +42,9 @@ vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?security=real
 vless://9a85ea24-bd5a-4380-94cb-ffb773cafb33@91.99.237.120:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=amol.tas-bazi.com#NetAccount
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=firefox&amp;type=xhttp&amp;sni=tina.tas-bazi.com#NetAccount
+vless://f6b41fd4-9a3e-477e-ba1e-35c192cfd93c@parmis.crocodileserver.ir:443?security=reality&amp;sni=rtf.crocodileserver.ir&amp;fp=firefox&amp;pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&amp;sid=1da8d08f24e92861&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://3d554bba-9c77-499f-9055-1eb42058ed00@230920393.f-sub.com:3799?security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://7b5732b8-abdb-4691-a06d-b03c2752889b@wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053?security=tls&amp;sni=hheydudethisworldisshet.siasia.ir&amp;alpn=h3,h2&amp;fp=randomized&amp;type=ws&amp;path=/apiii&amp;host=hheydudethisworldisshet.siasia.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&amp;sid=91355b9b818617&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
