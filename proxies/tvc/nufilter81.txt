@@ -1,6 +1,2 @@
-vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#Telegram+@NuFilter81
-vless://3ac27215-cf7c-4d75-98b3-4e83b5d97623@85.133.195.84:8854?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#NuFilter81
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?host=redfree8mahsang6.redfree8.ir&amp;type=ws&amp;security=none&amp;path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;encryption=none#telegram-@NuFilter81
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?host=br.presskiwi.dpdns.org&amp;type=ws&amp;security=&amp;path=%2F%3Fed%3D2560&amp;encryption=none#Telegram+@NuFilter81
-vless://mahanvpn-vip-chanell@172.67.160.192:2052?path=%2FmAhAnkarNanaNd.kouRdneTpluSedAte.iR%2C%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%91Tel%40NuFilter81-telegram
-vless://mahanvpn-vip-chanell@172.67.160.192:2052?path=%2FmAhAnkarNanaNd.kouRdneTpluSedAte.iR%2C%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%91Tel%40NuFilter81-telegram
+vless://e56ba2d6-aac1-4262-a5f0-8052e913d6c9@892389823.webnama.com.tr:1517?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NuFilter81%20-%20tunnel
+vless://e56ba2d6-aac1-4262-a5f0-8052e913d6c9@230920393.f-sub.com:3799?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NuFilter81%20-%20tunnel
