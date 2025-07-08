@@ -1,5 +1,5 @@
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBv…
-vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@speedtest.net:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-2
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@151.101.3.8:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-1
@@ -66,7 +66,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBv…
-vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@speedtest.net:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-2
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@151.101.3.8:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-1
@@ -133,7 +133,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBv…
-vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@speedtest.net:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-2
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@151.101.3.8:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-1
@@ -200,7 +200,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBv…
-vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@speedtest.net:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-2
 vless://00d029b3-331d-4f5d-b927-594842d3feb0@151.101.3.8:80?type=xhttp&amp;path=&amp;host=hame.global.ssl.fastly.net&amp;mode=auto&amp;security=none#%D8%AA-V2ran-1
@@ -267,11 +267,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBv…
-vmess://eyJhZGQiOiAiODEuMjguMTIuMTIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZXJ2ZXJ2bGVzcy5jbSIsICJpZCI6ICI0NDA4MzcxZS0wMGViLTRlYzgtYjFkZC00MzdiMmI2NDM4MWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBcdTA2NDdcdTA2NDVcdTA2NDcgXHUwNjQ2XHUwNjJhKDEwMzM0MTY1NzZfMDkxZikgW1ZNZXNzIC0gd3NdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=grpc&amp;serviceName=%40v2ran&amp;authority=&amp;security=reality&amp;pbk=J16xookBYAnMPvzeUrenWFifaDLYiUk84pI6IXCU9yI&amp;fp=chrome&amp;sni=stackoverflow.com&amp;sid=3e83ade3&amp;spx=%2F#Ygg-@V2ran
 vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=grpc&amp;serviceName=%40v2ran&amp;authority=&amp;security=reality&amp;pbk=J16xookBYAnMPvzeUrenWFifaDLYiUk84pI6IXCU9yI&amp;fp=chrome&amp;sni=stackoverflow.com&amp;sid=3e83ade3&amp;spx=%2F#Ygg-@V2ran
 vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=grpc&amp;serviceName=%40v2ran&amp;authority=&amp;security=reality&amp;pbk=J16xookBYAnMPvzeUrenWFifaDLYiUk84pI6IXCU9yI&amp;fp=chrome&amp;sni=stackoverflow.com&amp;sid=3e83ade3&amp;spx=%2F#Ygg-@V2ran
 vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=grpc&amp;serviceName=%40v2ran&amp;authority=&amp;security=reality&amp;pbk=J16xookBYAnMPvzeUrenWFifaDLYiUk84pI6IXCU9yI&amp;fp=chrome&amp;sni=stackoverflow.com&amp;sid=3e83ade3&amp;spx=%2F#Ygg-@V2ran
-vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
