@@ -1,5 +1,4 @@
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?security=tls&amp;encryption=none&amp;type=ws&amp;host=dash.beginnertopro.ir&amp;path=/C7OSXPN9yV234T1Y?ed%3D2560&amp;sni=dash.beginnertopro.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#Tel-NiRVAN_VIP
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?security=tls&amp;encryption=none&amp;type=ws&amp;host=dash.beginnertopro.ir&amp;path=/C7OSXPN9yV234T1Y?ed%3D2560&amp;sni=dash.beginnertopro.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#Tel-NiRVAN_VIP
@@ -7,6 +6,7 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?security=tls&amp;encryption=none&amp;type=ws&amp;host=dash.beginnertopro.ir&amp;path=/C7OSXPN9yV234T1Y?ed%3D2560&amp;sni=dash.beginnertopro.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#Tel-NiRVAN_VIP
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?security=tls&amp;encryption=none&amp;type=ws&amp;host=dash.beginnertopro.ir&amp;path=/C7OSXPN9yV234T1Y?ed%3D2560&amp;sni=dash.beginnertopro.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#Tel-NiRVAN_VIP
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?security=tls&amp;encryption=none&amp;type=ws&amp;host=dash.beginnertopro.ir&amp;path=/C7OSXPN9yV234T1Y?ed%3D2560&amp;sni=dash.beginnertopro.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#Tel-NiRVAN_VIP
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#Tel-@NiRVAN_VPN
 vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?security=tls&amp;encryption=none&amp;type=ws&amp;host=dash.beginnertopro.ir&amp;path=/C7OSXPN9yV234T1Y?ed%3D2560&amp;sni=dash.beginnertopro.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#Tel-NiRVAN_VIP
