@@ -102,6 +102,10 @@ vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&amp;sni=y
 vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&amp;sid=91355b9b818617&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=turboo-server1.game&amp;type=xhttp#NetAccount
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;fp=randomized&amp;type=ws#NetAccount
 vless://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=none&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#NetAccount
@@ -148,10 +152,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.34.231:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#NetAccount
-vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&amp;sid=91355b9b818617&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=turboo-server1.game&amp;type=xhttp#NetAccount
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;fp=randomized&amp;type=ws#NetAccount
 vless://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=none&amp;encryption=none&amp;host=exo.ir&amp;headerType=http&amp;type=tcp#NetAccount
