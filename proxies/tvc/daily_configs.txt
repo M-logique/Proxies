@@ -37,6 +37,7 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D256
 vless://971be015-f5ca-4639-bc9d-e6ea97905bf3@V2sh.ananasv2.xyz:2047?security=none&amp;encryption=none&amp;host=Speedtest.net&amp;headerType=http&amp;type=tcp#%40Daily_Configs
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D%23TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3D%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#%40Daily_Configs
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&amp;security=none&amp;encryption=none&amp;host=%2FFREEV2RNGBIA_CHANEL%40FREEV2RNG&amp;type=ws#%40Daily_Configs
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#…
 vmess://eyJhZGQiOiI5MS45OS4xNTguMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmNWEwZDBjLWM4OTgtNGE1MS1iYTZhLTQ3MTc5ZDQ4M2U0MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTIyNjIiLCJwcyI6IkBEYWlseV9Db25maWdzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://080fd5bd-db7b-400b-bf04-f2b7c19965d6@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#%40Daily_Configs
@@ -49,7 +50,6 @@ vless://186afaf8-214f-4437-add3-0aadaaa53a81@liteb.myfootage.top:443?security=no
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=sub.divib.dynv6.net&amp;type=ws&amp;sni=sub.divib.dynv6.net#%40Daily_Configs
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3DTelegram%40mtmvpn---Telegram%40mtmvpn%3D%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#%40Daily_Configs
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;type=ws#%40Daily_Configs
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#…
 vless://627712cf-d0e1-4545…
 vless://a8f7da6e-e26b-4a57-fdfe-19aea862342a@85.133.253.219:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Daily_Configs
 vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f3-fef1f.yfjcs.com:443?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yfjp.xn--4gq62f52gppi29k.com#%40Daily_Configs
