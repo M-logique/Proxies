@@ -55,8 +55,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%40rxv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
-trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bats-paper-chump.stark-industries.solutions#%40rxv2ray
 vless://d1d00b07-7324-4250-809c-e20fcc223340@nv149.momdping.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=nv149.momdping.com#test
 vless://8da6ef42-7cf0-484e-876c-80bd8b95230d@direct.shopmajor.ir:4000?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
@@ -75,6 +73,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%40rxv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bats-paper-chump.stark-industries.solutions#%40rxv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bats-paper-chump.stark-industries.solutions#%40rxv2ray
 vless://5cfba4ac-105a-452a-ac10-88b1adf784ee@accounting.vinamarketcenter.ir:443?security=reality&amp;encryption=none&amp;pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tgju.org&amp;sid=105e89ba3d2a1c3b#%40rxv2ray
