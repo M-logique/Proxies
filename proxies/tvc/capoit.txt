@@ -58,6 +58,9 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D256
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=&amp;encryption=none&amp;host=ua.yektanet.com&amp;headerType=http&amp;type=tcp#@Capoit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@45.63.116.235:8313#@Capoit
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F&amp;security=&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#@Capoit
+vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=%2FyayPR7DCW3dDdcCPPcNB6&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=bluegp.nl&amp;fp=chrome&amp;type=ws&amp;sni=bluegp.nl#@Capoit
+vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=%2FyayPR7DCW3dDdcCPPcNB6&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=bluegp.nl&amp;fp=chrome&amp;type=ws&amp;sni=bluegp.nl#@Capoit
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@Capoit
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Capoit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#@Capoit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#@Capoit
