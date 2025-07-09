@@ -142,11 +142,6 @@ vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
-vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=grpc&amp;serviceName=%40v2ran&amp;authority=&amp;security=reality&amp;pbk=J16xookBYAnMPvzeUrenWFifaDLYiUk84pI6IXCU9yI&amp;fp=chrome&amp;sni=stackoverflow.com&amp;sid=3e83ade3&amp;spx=%2F#Ygg-@V2ran
-vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
-vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
-vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
-vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.141.93:443#TelegramID%20%E2%8C%B2v2ran%20%F0%9F%92%B0%D9%85%D8%B1%D8%AC%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40v2ran%20-%203
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;fp=randomized&amp;type=ws&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%40v2ran
@@ -220,6 +215,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&amp;sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%40v2ran...%E2%9D%A4%EF%B8%8F%E2%9A%98%EF%B8%8F
+vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=grpc&amp;serviceName=%40v2ran&amp;authority=&amp;security=reality&amp;pbk=J16xookBYAnMPvzeUrenWFifaDLYiUk84pI6IXCU9yI&amp;fp=chrome&amp;sni=stackoverflow.com&amp;sid=3e83ade3&amp;spx=%2F#Ygg-@V2ran
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
+vless://6ef237ef-81a1-4b9b-907d-acefbab46a89@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=v2ran.global.ssl.fastly.net&amp;type=xhttp#v2ran🐋
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.141.93:443#TelegramID%20%E2%8C%B2v2ran%20%F0%9F%92%B0%D9%85%D8%B1%D8%AC%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40v2ran%20-%203
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;fp=randomized&amp;type=ws&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#%D8%A8%D8%B1%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%40v2ran
