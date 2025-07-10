@@ -11,11 +11,6 @@ vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4i
 vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@nt1.yasharteam.com:500?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NetAccount
 vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#@NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.145.189:443?security=tls&amp;sni=KKkkKKKkkkkKLO.999824.xYz&amp;alpn=http/1.1&amp;fp=chrome&amp;type=ws&amp;path=/wU3lZaUTRQTqot0LE&amp;host=kkkkkkkkkkkklo.999824.xyz&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
@@ -37,11 +32,6 @@ vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4i
 vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@nt1.yasharteam.com:500?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NetAccount
 vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#@NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.145.189:443?security=tls&amp;sni=KKkkKKKkkkkKLO.999824.xYz&amp;alpn=http/1.1&amp;fp=chrome&amp;type=ws&amp;path=/wU3lZaUTRQTqot0LE&amp;host=kkkkkkkkkkkklo.999824.xyz&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
@@ -63,11 +53,6 @@ vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4i
 vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@nt1.yasharteam.com:500?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NetAccount
 vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#@NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.145.189:443?security=tls&amp;sni=KKkkKKKkkkkKLO.999824.xYz&amp;alpn=http/1.1&amp;fp=chrome&amp;type=ws&amp;path=/wU3lZaUTRQTqot0LE&amp;host=kkkkkkkkkkkklo.999824.xyz&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
@@ -89,9 +74,4 @@ vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4i
 vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@nt1.yasharteam.com:500?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NetAccount
 vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#NetAccount
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.17.147.22:2087?path=%2FErkw2ygbmWGKKrhw%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&amp;security=tls&amp;encryption=none&amp;host=FReedOm.paNotosU.StORe&amp;fp=randomized&amp;type=ws&amp;sni=FReedOm.paNotosU.StORe#%40NetAccount
