@@ -7,6 +7,7 @@ vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&a
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?host=pari.parinazz.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#Telegram+@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#Telegram-@vmesskhodam
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#Telegram+@vmesskhodam
+vless://2140887e-eebe-46a5-873d-0a027873ff7a@vizzpn.freenet.vizzfrag.ir:8443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@vmesskhodam
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.205.101:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram-@vmesskhodam
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram-@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram-@vmesskhodam
@@ -19,6 +20,7 @@ vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&a
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?host=pari.parinazz.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#Telegram+@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#Telegram-@vmesskhodam
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#Telegram+@vmesskhodam
+vless://2140887e-eebe-46a5-873d-0a027873ff7a@vizzpn.freenet.vizzfrag.ir:8443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@vmesskhodam
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.205.101:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram-@vmesskhodam
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram-@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram-@vmesskhodam
@@ -31,6 +33,7 @@ vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&a
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?host=pari.parinazz.dpdns.org&amp;type=ws&amp;security=none&amp;path=%2F%3Fed%3D2560&amp;encryption=none#Telegram+@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#Telegram-@vmesskhodam
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?host=zula.ir&amp;type=tcp&amp;security=none&amp;headerType=http&amp;encryption=none#Telegram+@vmesskhodam
+vless://2140887e-eebe-46a5-873d-0a027873ff7a@vizzpn.freenet.vizzfrag.ir:8443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@vmesskhodam
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.205.101:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram-@vmesskhodam
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram-@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram-@vmesskhodam
@@ -68,4 +71,3 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?host=zula.ir&amp;
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws&amp;security=none&amp;path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;encryption=none#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+vmesskhodam
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws&amp;security=none&amp;path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;encryption=none#test-wifi@vmesskhodam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+vmesskhodam
-vless://2140887e-eebe-46a5-873d-0a027873ff7a@vizzpn.freenet.vizzfrag.ir:8443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@vmesskhodam
