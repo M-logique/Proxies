@@ -59,7 +59,6 @@ vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=no
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&amp;host=kawaiifreevpn-7ds.pages.dev&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=kawaiifreevpn-7ds.pages.dev#@MuX_VPN%20%F0%9F%9A%80
-vmess://eyJhZGQiOiIxODUuMTA0LjE1MS4xMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVwdHZzLmNvbSIsImlkIjoiMGRjMGQyMmMtNjhlNS00NDBhLTk0NjUtOTdjYWQ4ZDFjZjMzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDYiLCJwcyI6Ilvwn4e38J+Hul10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://3f0c3cef-75c0-4253-a62e-d89f5a45dcc1@vpconnect.ahadbala.ir:80?type=xhttp&amp;mode=auto&amp;host=turin10.global.ssl.fastly.net&amp;path=/&amp;security=none#@MuX_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456?type=tcp#@MuX_VPN%20%F0%9F%9A%80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330?type=tcp#@MuX_VPN%20%F0%9F%9A%80
@@ -121,7 +120,6 @@ vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=no
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&amp;host=kawaiifreevpn-7ds.pages.dev&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=kawaiifreevpn-7ds.pages.dev#@MuX_VPN%20%F0%9F%9A%80
-vmess://eyJhZGQiOiIxODUuMTA0LjE1MS4xMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVwdHZzLmNvbSIsImlkIjoiMGRjMGQyMmMtNjhlNS00NDBhLTk0NjUtOTdjYWQ4ZDFjZjMzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDYiLCJwcyI6Ilvwn4e38J+Hul10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://3f0c3cef-75c0-4253-a62e-d89f5a45dcc1@vpconnect.ahadbala.ir:80?type=xhttp&amp;mode=auto&amp;host=turin10.global.ssl.fastly.net&amp;path=/&amp;security=none#@MuX_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456?type=tcp#@MuX_VPN%20%F0%9F%9A%80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330?type=tcp#@MuX_VPN%20%F0%9F%9A%80
@@ -183,7 +181,6 @@ vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=no
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&amp;host=kawaiifreevpn-7ds.pages.dev&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=kawaiifreevpn-7ds.pages.dev#@MuX_VPN%20%F0%9F%9A%80
-vmess://eyJhZGQiOiIxODUuMTA0LjE1MS4xMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVwdHZzLmNvbSIsImlkIjoiMGRjMGQyMmMtNjhlNS00NDBhLTk0NjUtOTdjYWQ4ZDFjZjMzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDYiLCJwcyI6Ilvwn4e38J+Hul10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://3f0c3cef-75c0-4253-a62e-d89f5a45dcc1@vpconnect.ahadbala.ir:80?type=xhttp&amp;mode=auto&amp;host=turin10.global.ssl.fastly.net&amp;path=/&amp;security=none#@MuX_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456?type=tcp#@MuX_VPN%20%F0%9F%9A%80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330?type=tcp#@MuX_VPN%20%F0%9F%9A%80
@@ -245,7 +242,19 @@ vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80?security=no
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&amp;host=kawaiifreevpn-7ds.pages.dev&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=kawaiifreevpn-7ds.pages.dev#@MuX_VPN%20%F0%9F%9A%80
-vmess://eyJhZGQiOiIxODUuMTA0LjE1MS4xMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVwdHZzLmNvbSIsImlkIjoiMGRjMGQyMmMtNjhlNS00NDBhLTk0NjUtOTdjYWQ4ZDFjZjMzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDYiLCJwcyI6Ilvwn4e38J+Hul10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://d3f7d069-890f-43b9-ae8f-823443270113@104.18.26.90:2096?path=%2Fexyyutws&amp;security=tls&amp;encryption=none&amp;host=638874929583751598.zagreb-prx-dnraaad.info&amp;type=ws&amp;sni=638874929583751598.zagreb-prx-dnraaad.info#%40MuX_VPN%20%F0%9F%9A%80
+trojan://vpn@45.82.14.144:2025?path=%2F&amp;security=tls&amp;host=dns.google.com&amp;type=ws#%40MuX_VPN%20%F0%9F%9A%80
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&amp;encryption=none&amp;pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=86#%40MuX_VPN%20%F0%9F%9A%80
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40MuX_VPN%20%F0%9F%9A%80
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40MuX_VPN%20%F0%9F%9A%80
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40MuX_VPN%20%F0%9F%9A%80
+vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&amp;security=tls&amp;encryption=none&amp;host=638874929583954786.zagreb-prx-dnraaad.info&amp;type=ws&amp;sni=638874929583954786.zagreb-prx-dnraaad.info#%40MuX_VPN%20%F0%9F%9A%80
+vless://fb29e858-0aee-44c5-8a57-57f7b797c16e@193.233.133.124:80?security=reality&amp;encryption=none&amp;pbk=bwoJ6SyPEsQ--wHp8WTUNTqe3FG9Vb0H8qJ2HHtmLGY&amp;headerType=none&amp;fp=chrome&amp;spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&amp;type=tcp&amp;sni=www.latimes.com&amp;sid=e2#%40MuX_VPN%20%F0%9F%9A%80
+vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.159:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135004002.sec20org.com#%40MuX_VPN%20%F0%9F%9A%80
+vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40MuX_VPN%20%F0%9F%9A%80
 vmess://eyJhZGQiOiJmaW4xLm5zcGF5LnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyOWU1MGM5Mi04OWZkLTRhYjctYjZiOS00ZjFjZmVmMDk4MjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1NjAwIiwicHMiOiJATXVYX1ZQTiDwn5qAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://8f36d89f-2aa7-4616-b43a-088db3945dc0@104.18.26.90:2096?path=%2Fddfkmmws&amp;security=tls&amp;encryption=none&amp;host=638874931195901893.kish-prx-dnraaaf.info&amp;type=ws&amp;sni=638874931195901893.kish-prx-dnraaaf.info#%40MuX_VPN%20%F0%9F%9A%80
 vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=%2Fmmdhmrws&amp;security=tls&amp;encryption=none&amp;host=638868951946670036.amsterdam-prx-dnraaal.info&amp;type=ws&amp;sni=638868951946670036.amsterdam-prx-dnraaal.info#%40MuX_VPN%20%F0%9F%9A%80
