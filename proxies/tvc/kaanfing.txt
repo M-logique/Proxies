@@ -26,8 +26,6 @@ vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@srv5.raykaservers.com:10215?path=%2
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#%F0%9F%86%94%40kaanfing
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#%F0%9F%86%94%40kaanfing
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;fp=chrome&amp;type=grpc&amp;serviceName=refersion.com&amp;sni=refersion.com&amp;sid=bc063769cb#%F0%9F%86%94%40kaanfing
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com#%F0%9F%86%94%40kaanfing
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com#%F0%9F%86%94%40kaanfing
@@ -40,6 +38,8 @@ vless://b7ef3741-92f4-4302-9b06-9f943f3700e5@bot.nimeshab-nabod.info:80?mode=aut
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=random&amp;type=ws&amp;sni=my.ski1plag.ir#%F0%9F%86%94%40kaanfing
 vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@srv5.raykaservers.com:10215?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%86%94%40kaanfing
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#%F0%9F%86%94%40kaanfing
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#%F0%9F%86%94%40kaanfing
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;fp=chrome&amp;type=grpc&amp;serviceName=refersion.com&amp;sni=refersion.com&amp;sid=bc063769cb#%F0%9F%86%94%40kaanfing
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com#%F0%9F%86%94%40kaanfing
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com#%F0%9F%86%94%40kaanfing
