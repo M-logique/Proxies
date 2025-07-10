@@ -1,3 +1,5 @@
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:443?path=%2Fupload&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=random&amp;type=ws&amp;sni=my.ski1plag.ir#
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:443?path=%2Fupload&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=my.ski1plag.ir&amp;fp=random&amp;type=ws&amp;sni=my.ski1plag.ir#
 vless://6f6946ff-d061-4bc9-9c3c-b927c9bad3cb@hh.somo44.sbs:8080?path=%2Fhhvghhv&amp;security=none&amp;encryption=none&amp;host=Hoo.som…
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#
