@@ -1,3 +1,4 @@
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;encryption=none&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=/?ed%3D2560#|
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?security=reality&amp;encryption=none&amp;type=grpc&amp;sni=refersion.com&amp;sid=bc063769cb&amp;fp=chrome&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;serviceName=refersion.com#|
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com&amp;fp=chrome#|
@@ -13,6 +14,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&amp;
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#|
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;path=/&amp;headerType=http#|
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;encryption=none&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=/?ed%3D2560#|
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?security=reality&amp;encryption=none&amp;type=grpc&amp;sni=refersion.com&amp;sid=bc063769cb&amp;fp=chrome&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;serviceName=refersion.com#|
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com&amp;fp=chrome#|
@@ -28,6 +30,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&amp;
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#|
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;path=/&amp;headerType=http#|
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;encryption=none&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=/?ed%3D2560#|
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?security=reality&amp;encryption=none&amp;type=grpc&amp;sni=refersion.com&amp;sid=bc063769cb&amp;fp=chrome&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;serviceName=refersion.com#|
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com&amp;fp=chrome#|
@@ -43,6 +46,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&amp;
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#|
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;path=/&amp;headerType=http#|
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#@free_serverir
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&amp;encryption=none&amp;type=ws&amp;host=sib.sibzamini.dpdns.org&amp;path=/?ed%3D2560#|
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?security=reality&amp;encryption=none&amp;type=grpc&amp;sni=refersion.com&amp;sid=bc063769cb&amp;fp=chrome&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;serviceName=refersion.com#|
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?security=tls&amp;encryption=none&amp;type=httpupgrade&amp;sni=note.filemanagerplusonline.com&amp;fp=chrome#|
@@ -58,6 +62,13 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&amp;
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#|
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#|
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&amp;encryption=none&amp;type=tcp&amp;host=eN.TwiTtER.cOM.:8880&amp;path=/&amp;headerType=http#|
+vless://e96adc51-70f2-451d-83c5-77094b9d680f@canine.origamimarketings.com:9999?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=tgju.org&amp;sid=42c0b628ba6a42a9&amp;fp=firefox&amp;pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&amp;headerType=none#بیا
+trojan://trojan@azadnet-9ya.pages.dev:443?security=tls&amp;sni=azadnet-9ya.pages.dev&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2560#بیا
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&amp;sni=x1-germany-digitalocean-v2.devefun.org&amp;fp=chrome&amp;headerType=none&amp;type=tcp#بیا
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#بیا
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2ZkQGFkbWluLmMxLndlYnJhbXouY286NDQz#|
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXNoMzYwLmNvOjQ0Mw==#|
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBMQDc0LjE3Ny4xOTkuMTM1OjQ0Mw==#بیا
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:2083?security=tls&amp;encryption=none&amp;type=ws&amp;host=freedom.panotosu.store&amp;path=/6fqYRq6DD1shcFIO/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D?ed%3D2560&amp;sni=FrEEdoM.pAnOtOSU.sTORe&amp;fp=chrome&amp;alpn=http/1.1#…کانال
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.137.129:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=freedom.panotosu.store&amp;path=/vRpve4WyyyBMiVSu/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D?ed%3D2560&amp;sni=FReedOM.pANoToSu.StorE&amp;fp=randomized&amp;alpn=http/1.1#..کانال
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&amp;encryption=none&amp;type=tcp&amp;host=testspeed-foreign.tci.ir&amp;path=/&amp;headerType=http#|
@@ -101,4 +112,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2ZkQGFkbWluLmMxLndlYnJhbXouY286NDQz#|
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXNoMzYwLmNvOjQ0Mw==#|
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi52YXJ6ZXNoMzYwLmNvOjQ0Mw==#|
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#@free_serverir
