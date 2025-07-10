@@ -5,8 +5,8 @@ vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?security=tls&amp;sni=havvas.shohreh.dpdns.org&amp;fp=random&amp;type=ws&amp;path=/?ed%3D@Selinc/?N&amp;host=havvas.shohreh.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://185cd292-e501-4622-a310-7ea64ea85efb@subeighteen.iranfreedomserver.com:20340?security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#NetAccount
@@ -19,8 +19,8 @@ vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?security=tls&amp;sni=havvas.shohreh.dpdns.org&amp;fp=random&amp;type=ws&amp;path=/?ed%3D@Selinc/?N&amp;host=havvas.shohreh.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://185cd292-e501-4622-a310-7ea64ea85efb@subeighteen.iranfreedomserver.com:20340?security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#NetAccount
@@ -33,8 +33,8 @@ vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?security=tls&amp;sni=havvas.shohreh.dpdns.org&amp;fp=random&amp;type=ws&amp;path=/?ed%3D@Selinc/?N&amp;host=havvas.shohreh.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://185cd292-e501-4622-a310-7ea64ea85efb@subeighteen.iranfreedomserver.com:20340?security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#NetAccount
@@ -47,8 +47,6 @@ vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?security=tls&amp;sni=havvas.shohreh.dpdns.org&amp;fp=random&amp;type=ws&amp;path=/?ed%3D@Selinc/?N&amp;host=havvas.shohreh.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://185cd292-e501-4622-a310-7ea64ea85efb@subeighteen.iranfreedomserver.com:20340?security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#@NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp;type=ws&amp;path=/Telegram@server_free2/?ed%3D2560&amp;host=reedfree8mahsang2.redorg.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.145.189:443?security=tls&amp;sni=KKkkKKKkkkkKLO.999824.xYz&amp;alpn=http/1.1&amp;fp=chrome&amp;type=ws&amp;path=/wU3lZaUTRQTqot0LE&amp;host=kkkkkkkkkkkklo.999824.xyz&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
@@ -68,5 +66,3 @@ vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@all.yasharteam.com:500?security=non
 vless://qeshmserver@151.101.3.8:80?mode=auto&amp;security=none&amp;encryption=none&amp;host=qeshmserverfree.global.ssl.fastly.net&amp;type=xhttp#%40NetAccount
 vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYW52YS5jb20iLCJpZCI6IjU0OTA0NzEzLWI2MTEtNGU4ZS1iZTc3LWEwMWQ4MjBiOWMxYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwOTAiLCJwcyI6IkBOZXRBY2NvdW50Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@nt1.yasharteam.com:500?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40NetAccount
-vless://80cc4513-108c-4d1f-86fd-2d6916135a2f@fastly.extvay.ir:80?security=none&amp;type=ws&amp;path=/&amp;host=externalch.org&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
