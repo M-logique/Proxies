@@ -1,3 +1,5 @@
+vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+@vmessorg
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANNEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram+@vmessorg
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@fardadvpn2
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;type=ws#@fardadvpn2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram+@fardadvpn2
@@ -49,8 +51,8 @@ vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
 vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram@fardadvpn2
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#Telegram+@fardadvpn2
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@fardadvpn2
-vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+fardadvpn2
+vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+@vmessorg
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANNEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram+@vmessorg
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@fardadvpn2
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;type=ws#@fardadvpn2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram+@fardadvpn2
@@ -102,8 +104,8 @@ vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
 vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram@fardadvpn2
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#Telegram+@fardadvpn2
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@fardadvpn2
-vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+fardadvpn2
+vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+@vmessorg
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANNEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram+@vmessorg
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@fardadvpn2
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;type=ws#@fardadvpn2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram+@fardadvpn2
@@ -155,8 +157,8 @@ vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
 vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram@fardadvpn2
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#Telegram+@fardadvpn2
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@fardadvpn2
-vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+fardadvpn2
+vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+@vmessorg
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANNEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram+@vmessorg
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@fardadvpn2
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&amp;security=none&amp;encryption=none&amp;host=dw.alibichareh.dpdns.org&amp;type=ws#@fardadvpn2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram+@fardadvpn2
@@ -208,8 +210,8 @@ vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram+@fardadvpn2
 vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram@fardadvpn2
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#Telegram+@fardadvpn2
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=my.ski1plag.ir&amp;type=ws#Telegram+@fardadvpn2
-vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xiazitong.zone.id&amp;fp=randomized&amp;type=ws&amp;sni=a.xiazitong.zone.id#Telegram+fardadvpn2
+vless://397d3af1-ab9e-4239-8494-cba34fc8534e@94.130.170.105:30864?security=none&amp;encryption=none&amp;host=ripe.net&amp;headerType=http&amp;type=tcp#Telegram+@vmessorg
+vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@full.VIGIlantecOllecTIOn.shop:666?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+@vmessorg
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#IRAN%20226%20%28%40Outline_Vpn%29%20free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#IRAN%20225%20%28%40Outline_Vpn%29%20free
 vmess://eyJhZGQiOiI0Ny4xMDQuMTg2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDAyIiwicHMiOiJJUkFOIDIyNCAoQE91dGxpbmVfVnBuKSBmcmVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -261,5 +263,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Telegram+@vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.64.226:443#Telegram+@vmessorg
 vless://8039a8e7-9460-4ba8-9532-1f1946fcf169@meIli.heartina.ir:1002?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+@vmessorg
-vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+@vmessorg
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANNEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=sib.sibzamini.dpdns.org&amp;type=ws#Telegram+@vmessorg
