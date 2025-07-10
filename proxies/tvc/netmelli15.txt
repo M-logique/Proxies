@@ -5,7 +5,8 @@ vless://6f6a5d6a-cb63-453b-ae06-dfdff5b13446@142.132.227.65:14832?type=tcp&amp;s
 vless://ff0b5218-8680-41e8-a127-386e9ad3af05@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_4
 vless://0e9868a2-1609-40d1-9ede-c94e0a990787@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_3
 vless://a7316bc8-4169-4547-bf1b-8b5a5bfcd59a@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_2
-vless://3bb6f56c-835a-424a-9fe3-ac35a541a628@142.132.227.65:14832?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-_1
+vless://d2a82195-d43d-4534-959a-89411c127f75@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-8
+vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-7
 vless://413aac92-46cb-4d23-856e-6dbc8c5e9cbf@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-5
 vless://13e211dc-81a6-4e7e-aabf-e679e5bbba32@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-6
 vless://099b4185-8f96-483a-9c4f-1d595f9bbe88@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-_3
@@ -15,7 +16,8 @@ vless://6f6a5d6a-cb63-453b-ae06-dfdff5b13446@142.132.227.65:14832?type=tcp&amp;s
 vless://ff0b5218-8680-41e8-a127-386e9ad3af05@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_4
 vless://0e9868a2-1609-40d1-9ede-c94e0a990787@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_3
 vless://a7316bc8-4169-4547-bf1b-8b5a5bfcd59a@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_2
-vless://3bb6f56c-835a-424a-9fe3-ac35a541a628@142.132.227.65:14832?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-_1
+vless://d2a82195-d43d-4534-959a-89411c127f75@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-8
+vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-7
 vless://413aac92-46cb-4d23-856e-6dbc8c5e9cbf@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-5
 vless://13e211dc-81a6-4e7e-aabf-e679e5bbba32@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-6
 vless://099b4185-8f96-483a-9c4f-1d595f9bbe88@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-_3
@@ -25,7 +27,8 @@ vless://6f6a5d6a-cb63-453b-ae06-dfdff5b13446@142.132.227.65:14832?type=tcp&amp;s
 vless://ff0b5218-8680-41e8-a127-386e9ad3af05@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_4
 vless://0e9868a2-1609-40d1-9ede-c94e0a990787@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_3
 vless://a7316bc8-4169-4547-bf1b-8b5a5bfcd59a@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_2
-vless://3bb6f56c-835a-424a-9fe3-ac35a541a628@142.132.227.65:14832?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-_1
+vless://d2a82195-d43d-4534-959a-89411c127f75@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-8
+vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-7
 vless://413aac92-46cb-4d23-856e-6dbc8c5e9cbf@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-5
 vless://13e211dc-81a6-4e7e-aabf-e679e5bbba32@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-6
 vless://099b4185-8f96-483a-9c4f-1d595f9bbe88@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-_3
@@ -35,7 +38,8 @@ vless://6f6a5d6a-cb63-453b-ae06-dfdff5b13446@142.132.227.65:14832?type=tcp&amp;s
 vless://ff0b5218-8680-41e8-a127-386e9ad3af05@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_4
 vless://0e9868a2-1609-40d1-9ede-c94e0a990787@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_3
 vless://a7316bc8-4169-4547-bf1b-8b5a5bfcd59a@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_2
-vless://3bb6f56c-835a-424a-9fe3-ac35a541a628@142.132.227.65:14832?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-_1
+vless://d2a82195-d43d-4534-959a-89411c127f75@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-8
+vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-7
 vless://413aac92-46cb-4d23-856e-6dbc8c5e9cbf@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-5
 vless://13e211dc-81a6-4e7e-aabf-e679e5bbba32@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-6
 vless://099b4185-8f96-483a-9c4f-1d595f9bbe88@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-_3
@@ -45,7 +49,6 @@ vless://6f6a5d6a-cb63-453b-ae06-dfdff5b13446@142.132.227.65:14832?type=tcp&amp;s
 vless://ff0b5218-8680-41e8-a127-386e9ad3af05@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_4
 vless://0e9868a2-1609-40d1-9ede-c94e0a990787@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_3
 vless://a7316bc8-4169-4547-bf1b-8b5a5bfcd59a@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_2
-vless://3bb6f56c-835a-424a-9fe3-ac35a541a628@142.132.227.65:14832?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-_1
 vless://381169fe-a8b5-4ad4-866b-776ba77e9e27@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-%E2%9D%A4%EF%B8%8F
 vless://2877f342-164b-4699-9adb-7cc6ff954aa4@ir238.cdnscloud.org:7777?security=none&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#%40netmelli15
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Telegram%20%3A%20%40PouRia_Cheat&amp;sni=www.cloudflare.com&amp;sid=8d9c20be72b4#%40netmelli15
@@ -62,5 +65,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-7
 vless://2ac14286-2005-4c78-a32c-5c7f8ad86bb4@142.132.227.65:1194?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%DA%86%D9%86%D9%84-%40netmelli15
 vless://1561be8b-7000-42c7-80ae-036bcf3ea3a9@142.132.227.65:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-0
-vless://d2a82195-d43d-4534-959a-89411c127f75@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-8
-vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?type=tcp&amp;security=none#%40netmelli15-7
