@@ -47,13 +47,13 @@ vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&
 vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?security=none&amp;encryption=none&amp;type=tcp&amp;host=myket.ir&amp;path=/&amp;headerType=http#Tel:
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40vpnade
 vless://6566c416-2053-4fa7-95a1-5f72bf4145ae@mcc.kangavar20.info:26842?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#vpnade
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#@vpnade
 vless://f6232313-e4bc-4861-834d-85fd98ba642a@mci.dl101movis.ir:80?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/&amp;mode=auto#Tel:
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=s4.main-2.workers.dev&amp;path=/kBoXBiT5qlTK5H01?ed&amp;sni=S4.MaiN-2.WORkErS.Dev&amp;fp=randomized#@vpnade
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#@vpnade
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran.nastaranh.dpdns.org&amp;path=/?ed%3D2560#@vpnade
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&amp;encryption=none&amp;type=ws&amp;host=my.ski1plag.ir&amp;path=/upload#@vpnade
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v16.vxlimir.com:1370?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=refersion.com&amp;sid=e1afb93bfe75a34b&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;headerType=none#@vpnade
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@5.182.46.64:2054?security=none&amp;encryption=none&amp;type=tcp&amp;host=snapp.taxi&amp;path=/&amp;headerType=http#Tel:
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=s4.main-2.workers.dev&amp;path=/kBoXBiT5qlTK5H01?ed&amp;sni=S4.MaiN-2.WORkErS.Dev&amp;fp=randomized#@vpnade
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#🇩🇪@vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBMQGFkbWluLmMyLndlYnJhbXouY286NDQz#🇬🇧tel:vpnade
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=ybvhf.christopher-motalebegarbashhamishe.info&amp;path=/tiger&amp;sni=ybvhf.christopher-motalebegarbashhamishe.info&amp;fp=chrome#(🇨🇦@vpade)
