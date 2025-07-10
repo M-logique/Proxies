@@ -322,6 +322,7 @@ vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;en
 vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=ipcloudflaretamiz.io&amp;type=xhttp#hibyevpnn
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?path=%2F%3Fed%3D2560%2F%3Fhibyevpnn&amp;security=tls&amp;encryption=none&amp;host=havvas.shohreh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=havvas.shohreh.dpdns.org#hibyevpnn
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#hibyevpnn
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?path=%2FTelegram-mtmvpn%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=free.cfdns.online&amp;type=ws&amp;sni=Telegram-channel-WangCai2#%40HiByeVPNN
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&amp;path=%2FZed&amp;security=none&amp;encryption=none&amp;host=Ryanjames.global.ssl.fastly.net&amp;type=xhttp#%40HiByeVPNN%E2%9C%85
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&amp;path=%2FZed&amp;security=none&amp;encryption=none&amp;host=Ryanjames.global.ssl.fastly.net&amp;type=xhttp#%40HiByeVPNN%E2%9C%85
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&amp;path=%2FZed&amp;security=none&amp;encryption=none&amp;host=Ryanjames.global.ssl.fastly.net&amp;type=xhttp#%40HiByeVPNN%E2%9C%85
