@@ -26,6 +26,9 @@ vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=%2FTelegram-X
 vless://058ee2d7-e79e-4acc-9996-d62cd275d7b7@freeconfig.fergalvpnmod.com:48388?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%40FergalVpnMod&amp;pbk=YcokCTOrwj0MFEvKZVRZl25esRSF4Rjeq_A5qmboQRE&amp;fp=randomized&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40FergalVpnMod&amp;sni=sony.com&amp;sid=0c63f4c7ea#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#NetAccount
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://301d049f-26d9-15ba-a83c-b1d5111d4444@62.60.244.252:25888?security=reality&amp;sni=www.microsoft.com&amp;fp=chrome&amp;pbk=1wWJ_HJdLChMyEqb1agU0pQr26966K5SK4u7ehst-VQ&amp;sid=8c5f97c86a710a&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#@NetAccount
 vless://fc191c1c-da21-4333-83de-37c1e6657baa@d13.sinapp1.com:12017?type=tcp&amp;headerType=http&amp;host=speedtest.net&amp;security=none#NetAccount
 ss://YWVzLTEyOC1nY206MDI2ZjExMWQtYzUxZi00NmY3LWExZWYtMzA0YWU4ZjllYmE0@eu2.dns-node.top:46302#NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.138:8880?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#NetAccount
