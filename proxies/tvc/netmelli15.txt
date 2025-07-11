@@ -2,7 +2,6 @@ vless://6f6a5d6a-cb63-453b-ae06-dfdff5b13446@142.132.227.65:14832?type=tcp&amp;s
 vless://ff0b5218-8680-41e8-a127-386e9ad3af05@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_4
 vless://0e9868a2-1609-40d1-9ede-c94e0a990787@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%E2%9A%A1%40Proxymtira
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%E2%9A%A1%40Proxymtira
 vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-7
 vless://2ac14286-2005-4c78-a32c-5c7f8ad86bb4@142.132.227.65:1194?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%DA%86%D9%86%D9%84-%40netmelli15
 vless://1561be8b-7000-42c7-80ae-036bcf3ea3a9@142.132.227.65:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-0
@@ -16,6 +15,7 @@ vless://b131cb41-4f46-4827-9ed8-b6c0572dffcf@pq-unitedstates1.09vpn.com:80?path=
 vless://6f6a5d6a-cb63-453b-ae06-dfdff5b13446@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_5
 vless://ff0b5218-8680-41e8-a127-386e9ad3af05@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_4
 vless://0e9868a2-1609-40d1-9ede-c94e0a990787@142.132.227.65:14832?type=tcp&amp;security=none#%40netmelli15-_3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%E2%9A%A1%40Proxymtira
 vless://bdaf0d93-e31e-4398-ad10-31b092c8a5b5@142.132.227.65:33036?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-7
 vless://2ac14286-2005-4c78-a32c-5c7f8ad86bb4@142.132.227.65:1194?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%DA%86%D9%86%D9%84-%40netmelli15
 vless://1561be8b-7000-42c7-80ae-036bcf3ea3a9@142.132.227.65:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40netmelli15-0
