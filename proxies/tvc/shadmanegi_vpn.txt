@@ -6,12 +6,12 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:8443?path=%2F&amp;secu
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=GqAlTbPs16.aBbAsAlIrAhMaTdIkH.OrG&amp;type=ws&amp;sni=GqAlTbPs16.aBbAsAlIrAhMaTdIkH.OrG#ger
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?encryption=none&amp;security=none&amp;type=grpc#shadmanegi_vpn
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=XyBaZoCt15.jOoLaJoOlA.OrG&amp;type=ws&amp;sni=XyBaZoCt15.jOoLaJoOlA.OrG#shadmanegi_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?encryption=none&amp;security=none&amp;type=grpc#shadmanegi_vpn
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=XyBaZoCt15.jOoLaJoOlA.OrG&amp;type=ws&amp;sni=XyBaZoCt15.jOoLaJoOlA.OrG#shadmanegi_vpn
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;sni=rc8.freeguard.org&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#telegram%3A%20%40shadmanegi_vpn
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;sni=rc8.freeguard.org&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#telegram%3A%20%40shadmanegi_vpn
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=YkMyEiSc15.aBbAsAlIrAhMaTdIkH.OrG&amp;type=ws&amp;sni=YkMyEiSc15.aBbAsAlIrAhMaTdIkH.OrG#hol
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=GqAlTbPs16.aBbAsAlIrAhMaTdIkH.OrG&amp;type=ws&amp;sni=GqAlTbPs16.aBbAsAlIrAhMaTdIkH.OrG#ger
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?encryption=none&amp;security=none&amp;type=grpc#shadmanegi_vpn
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=XyBaZoCt15.jOoLaJoOlA.OrG&amp;type=ws&amp;sni=XyBaZoCt15.jOoLaJoOlA.OrG#shadmanegi_vpn
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;sni=rc8.freeguard.org&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#telegram%3A%20%40shadmanegi_vpn
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;sni=rc8.freeguard.org&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#telegram%3A%20%40shadmanegi_vpn
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=YkMyEiSc15.aBbAsAlIrAhMaTdIkH.OrG&amp;type=ws&amp;sni=YkMyEiSc15.aBbAsAlIrAhMaTdIkH.OrG#hol
