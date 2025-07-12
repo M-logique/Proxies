@@ -432,8 +432,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#%F0%9F%8D%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%F0%9F%8D%92%20%40FreeVirGoolNet%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%F0%9F%8D%92%20%40FreeVirGoolNet%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#%F0%9F%8D%92%20%40FreeVirGoolNet%201
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&amp;security=tls&amp;encryption=none&amp;host=638874929583954786.zagreb-prx-dnraaad.info&amp;type=ws&amp;sni=638874929583954786.zagreb-prx-dnraaad.info#%F0%9F%87%A8%F0%9F%87%A6%20%40FreeVirGoolNet%202
-vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&amp;path=%2FZed&amp;security=none&amp;encryption=none&amp;host=Ryanjames.global.ssl.fastly.net&amp;type=xhttp#%F0%9F%87%A8%F0%9F%87%BF%20%40FreeVirGoolNet%201
+vless://65f1d033-cf8f-42a8-9600-ad363c47e3ff@104.21.43.168:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=s1.sUbUrl.OrG&amp;fp=chrome&amp;type=ws&amp;sni=s1.sUbUrl.OrG#%E2%9C%A8%EF%B8%8F%20%40FreeVirGoolNet%204
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%E2%9C%A8%EF%B8%8F%20%40FreeVirGoolNet%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%E2%9C%A8%EF%B8%8F%20%40FreeVirGoolNet%202
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=simorgh.hpcode.ir&amp;fp=firefox&amp;type=ws&amp;sni=simorgh.hpcode.ir#%E2%9C%A8%EF%B8%8F%20%40FreeVirGoolNet%201
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%91%BE%20%40FreeVirGoolNet%2019
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%91%BE%20%40FreeVirGoolNet%2018
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=photographipictureai.ir&amp;fp=randomized&amp;type=ws&amp;sni=pHOTOgrApHipiCTureaI.IR#%F0%9F%91%BE%20%40FreeVirGoolNet%2017
