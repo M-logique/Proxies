@@ -1,3 +1,6 @@
+vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:8080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=store.steampowered.com#%40config_green
+vless://1d845272-528e-4d76-a721-9de31bf1326f@dl2.pokerad.sbs:80?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40config_green
+vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40config_green
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%40config_green
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%40config_green
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%40config_green
