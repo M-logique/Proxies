@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://3ac27215-cf7c-4d75-98b3-4e83b5d97623@85.133.195.84:8854?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;type=ws#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
@@ -35,6 +37,8 @@ vless://3678c6db-91dc-4b5d-9158-0cef407cef52@91.99.224.10:443?security=none&amp;
 vmess://eyJhZGQiOiI5My4xMTUuMTcyLjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hleXBvb3IuY29tIiwiaWQiOiIwNTZkM2QzNS1hNzI5LTRhYjQtYmJhZS1kNzFkODQ1OGFmMTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjU0MCIsInBzIjoiW/Cfh7Pwn4exXSDinqAgQFYycmF5X0dsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTguMi4yMTguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ4ODMiLCJwcyI6Ilvwn4e68J+HuF0g4p6gIEBWMnJheV9HbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=x1-germany-digitalocean-v2.devefun.org#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%E2%9E%A0%20%40V2ray_Gl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://3ac27215-cf7c-4d75-98b3-4e83b5d97623@85.133.195.84:8854?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;type=ws#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
@@ -72,6 +76,8 @@ vless://3678c6db-91dc-4b5d-9158-0cef407cef52@91.99.224.10:443?security=none&amp;
 vmess://eyJhZGQiOiI5My4xMTUuMTcyLjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hleXBvb3IuY29tIiwiaWQiOiIwNTZkM2QzNS1hNzI5LTRhYjQtYmJhZS1kNzFkODQ1OGFmMTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjU0MCIsInBzIjoiW/Cfh7Pwn4exXSDinqAgQFYycmF5X0dsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTguMi4yMTguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ4ODMiLCJwcyI6Ilvwn4e68J+HuF0g4p6gIEBWMnJheV9HbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=x1-germany-digitalocean-v2.devefun.org#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%E2%9E%A0%20%40V2ray_Gl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://3ac27215-cf7c-4d75-98b3-4e83b5d97623@85.133.195.84:8854?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;type=ws#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
@@ -109,6 +115,8 @@ vless://3678c6db-91dc-4b5d-9158-0cef407cef52@91.99.224.10:443?security=none&amp;
 vmess://eyJhZGQiOiI5My4xMTUuMTcyLjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hleXBvb3IuY29tIiwiaWQiOiIwNTZkM2QzNS1hNzI5LTRhYjQtYmJhZS1kNzFkODQ1OGFmMTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjU0MCIsInBzIjoiW/Cfh7Pwn4exXSDinqAgQFYycmF5X0dsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTguMi4yMTguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ4ODMiLCJwcyI6Ilvwn4e68J+HuF0g4p6gIEBWMnJheV9HbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=x1-germany-digitalocean-v2.devefun.org#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%E2%9E%A0%20%40V2ray_Gl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://3ac27215-cf7c-4d75-98b3-4e83b5d97623@85.133.195.84:8854?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.loseyourself.dpdns.org&amp;type=ws#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
@@ -146,6 +154,8 @@ vless://3678c6db-91dc-4b5d-9158-0cef407cef52@91.99.224.10:443?security=none&amp;
 vmess://eyJhZGQiOiI5My4xMTUuMTcyLjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hleXBvb3IuY29tIiwiaWQiOiIwNTZkM2QzNS1hNzI5LTRhYjQtYmJhZS1kNzFkODQ1OGFmMTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMjU0MCIsInBzIjoiW/Cfh7Pwn4exXSDinqAgQFYycmF5X0dsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTguMi4yMTguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ4ODMiLCJwcyI6Ilvwn4e68J+HuF0g4p6gIEBWMnJheV9HbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=x1-germany-digitalocean-v2.devefun.org#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%E2%9E%A0%20%40V2ray_Gl
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet-7py.pages.dev#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
+vless://a94aed17-d42d-44eb-b93b-f9dae97b063e@bmi.raheaiande.ir:1001?security=reality&amp;encryption=none&amp;pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&amp;headerType=http&amp;fp=edge&amp;spx=%2F&amp;type=tcp&amp;sni=ea.com&amp;sid=c7bc4d#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20%E2%9E%A0%20%40V2ray_Gl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://06edae88-3917-4853-a352-f70c2c6e14ae@viop.fast.hosting-ip.com:80?mode=auto&amp;path=%2Frezataheri%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reasmodeus.global.ssl.fastly.net&amp;type=xhttp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%E2%9E%A0%20%40V2ray_Gl
@@ -170,5 +180,3 @@ vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&amp
 vless://2466eb01-4400-4281-9c1a-1cb96f9a5083@good.srvice.shop:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%5B%F0%9F%9A%80%5D%20%E2%9E%A0%20%40V2ray_Gl
