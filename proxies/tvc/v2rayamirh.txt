@@ -1,3 +1,4 @@
+vless://4432ed67-5714-42b3-b92a-345be16ec596@hh.green1.sbs:9808?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#👉🏻🆔@V2rayAmirh
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=%2Ftest%3Dtrue&amp;security=none&amp;encryption=none&amp;host=d1.hetzner.com&amp;type=ws#👉🏻🆔@V2rayAmirh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#👉🏻🆔@V2rayAmirh
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;alpn=h3&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#👉🏻🆔@V2rayAmirh
@@ -23,8 +24,7 @@ vless://a87cea64-42d8-46c3-b617-e02ec175fe98@www.speedtest.net:2096?path=%2F%3Fe
 vless://890cc8de-0c7a-4c70-b945-879ce892e196@www.speedtest.net:8880?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=arm1.dollardoon.com&amp;type=httpupgrade#👉🏻🆔@V2rayAmirh
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.14…
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;alpn=h3&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#👉🏻🆔@V2rayAmirh
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG#👉🏻🆔@V2rayAmirh
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramMARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://fc64f952-bec8-4bed-b112-64303030f97f@j3s1i.proxyfire.xyz:8000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#0👉🏻🆔@V2rayAmirh
@@ -55,8 +55,7 @@ vless://a87cea64-42d8-46c3-b617-e02ec175fe98@www.speedtest.net:2096?path=%2F%3Fe
 vless://890cc8de-0c7a-4c70-b945-879ce892e196@www.speedtest.net:8880?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=arm1.dollardoon.com&amp;type=httpupgrade#👉🏻🆔@V2rayAmirh
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.14…
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;alpn=h3&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#👉🏻🆔@V2rayAmirh
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG#👉🏻🆔@V2rayAmirh
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramMARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://fc64f952-bec8-4bed-b112-64303030f97f@j3s1i.proxyfire.xyz:8000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#0👉🏻🆔@V2rayAmirh
@@ -87,8 +86,7 @@ vless://a87cea64-42d8-46c3-b617-e02ec175fe98@www.speedtest.net:2096?path=%2F%3Fe
 vless://890cc8de-0c7a-4c70-b945-879ce892e196@www.speedtest.net:8880?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=arm1.dollardoon.com&amp;type=httpupgrade#👉🏻🆔@V2rayAmirh
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.14…
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;alpn=h3&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#👉🏻🆔@V2rayAmirh
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG#👉🏻🆔@V2rayAmirh
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramMARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://fc64f952-bec8-4bed-b112-64303030f97f@j3s1i.proxyfire.xyz:8000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#0👉🏻🆔@V2rayAmirh
@@ -118,8 +116,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 vless://a87cea64-42d8-46c3-b617-e02ec175fe98@www.speedtest.net:2096?path=%2F%3Fed%3D2096&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=arm1.dollardoon.com&amp;fp=chrome&amp;type=ws&amp;sni=arm1.dollardoon.com#👉🏻🆔@V2rayAmirh
 vless://890cc8de-0c7a-4c70-b945-879ce892e196@www.speedtest.net:8880?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=arm1.dollardoon.com&amp;type=httpupgrade#👉🏻🆔@V2rayAmirh
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.14…
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;encryption=none&amp;alpn=h3&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#👉🏻🆔@V2rayAmirh
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://Parsashonam-282@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=FragmentFi.Rubika.cYoU.&amp;type=ws#👉🏻🆔@V2rayAmirh
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#👉🏻🆔@V2rayAmirh
@@ -140,4 +136,3 @@ vless://f0ab68c4-2391-4968-9cf2-dd8630e8cbb1@62.60.156.102:80?security=reality&a
 vless://36995721-8b3c-442d-a945-02da2daab83c@uae.momashost.ir:8028?security=reality&amp;encryption=none&amp;pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=journalofbigdata.springeropen.com&amp;sid=0ae86db71378173b#👉🏻🆔@V2rayAmirh
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;type=ws&amp;sni=azadnet-7py.pages.dev#👉🏻🆔@V2rayAmirh
 vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=DO-iTforyOu-E1P.PAgeS.dEV&amp;fp=chrome&amp;type=ws&amp;sni=DO-iTforyOu-E1P.PAgeS.dEV#👉🏻🆔@V2rayAmirh
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#👉🏻🆔@V2rayAmirh
