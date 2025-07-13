@@ -1,4 +1,3 @@
-vless://141d5fe2-5c0f-48e9-88aa-f90a83f262a0@142.132.227.65:34560?type=tcp&amp;security=none#%40netmelli15-_1
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ensHOLP-91s.pageS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=ensHOLP-91s.pageS.DEv#proxy_kafee
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?path=%2FTelegram-mtmvpn%2F%3Fed&amp;security=&amp;encryption=none&amp;host=free.cfdns.online&amp;type=ws&amp;sni=Telegram-channel-WangCai2#proxy_kafee
 vless://3d201b52-f10d-45e2-9759-ca7e65dad00f@5.75.202.170:2052?security=&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#proxy_kafee
@@ -8,7 +7,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxy_kafee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#proxy_kafee
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tfs733.pages.dev&amp;type=ws&amp;sni=pages.dev#proxy_kafee
-vless://141d5fe2-5c0f-48e9-88aa-f90a83f262a0@142.132.227.65:34560?type=tcp&amp;security=none#%40netmelli15-_1
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ensHOLP-91s.pageS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=ensHOLP-91s.pageS.DEv#proxy_kafee
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?path=%2FTelegram-mtmvpn%2F%3Fed&amp;security=&amp;encryption=none&amp;host=free.cfdns.online&amp;type=ws&amp;sni=Telegram-channel-WangCai2#proxy_kafee
 vless://3d201b52-f10d-45e2-9759-ca7e65dad00f@5.75.202.170:2052?security=&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#proxy_kafee
@@ -18,7 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxy_kafee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#proxy_kafee
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tfs733.pages.dev&amp;type=ws&amp;sni=pages.dev#proxy_kafee
-vless://141d5fe2-5c0f-48e9-88aa-f90a83f262a0@142.132.227.65:34560?type=tcp&amp;security=none#%40netmelli15-_1
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ensHOLP-91s.pageS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=ensHOLP-91s.pageS.DEv#proxy_kafee
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?path=%2FTelegram-mtmvpn%2F%3Fed&amp;security=&amp;encryption=none&amp;host=free.cfdns.online&amp;type=ws&amp;sni=Telegram-channel-WangCai2#proxy_kafee
 vless://3d201b52-f10d-45e2-9759-ca7e65dad00f@5.75.202.170:2052?security=&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#proxy_kafee
@@ -28,7 +25,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxy_kafee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#proxy_kafee
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tfs733.pages.dev&amp;type=ws&amp;sni=pages.dev#proxy_kafee
-vless://141d5fe2-5c0f-48e9-88aa-f90a83f262a0@142.132.227.65:34560?type=tcp&amp;security=none#%40netmelli15-_1
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ensHOLP-91s.pageS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=ensHOLP-91s.pageS.DEv#proxy_kafee
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?path=%2FTelegram-mtmvpn%2F%3Fed&amp;security=&amp;encryption=none&amp;host=free.cfdns.online&amp;type=ws&amp;sni=Telegram-channel-WangCai2#proxy_kafee
 vless://3d201b52-f10d-45e2-9759-ca7e65dad00f@5.75.202.170:2052?security=&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#proxy_kafee
@@ -38,7 +34,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxy_kafee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#proxy_kafee
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tfs733.pages.dev&amp;type=ws&amp;sni=pages.dev#proxy_kafee
-vless://141d5fe2-5c0f-48e9-88aa-f90a83f262a0@142.132.227.65:34560?type=tcp&amp;security=none#%40netmelli15-_1
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ensHOLP-91s.pageS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=ensHOLP-91s.pageS.DEv#proxy_kafee
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?path=%2FTelegram-mtmvpn%2F%3Fed&amp;security=&amp;encryption=none&amp;host=free.cfdns.online&amp;type=ws&amp;sni=Telegram-channel-WangCai2#proxy_kafee
 vless://3d201b52-f10d-45e2-9759-ca7e65dad00f@5.75.202.170:2052?security=&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#proxy_kafee
@@ -48,7 +43,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#proxy_kafee
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#proxy_kafee
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tfs733.pages.dev&amp;type=ws&amp;sni=pages.dev#proxy_kafee
-vless://141d5fe2-5c0f-48e9-88aa-f90a83f262a0@142.132.227.65:34560?type=tcp&amp;security=none#%40netmelli15-_1
 vless://898a1e7e-5f3d-498f-aa87-08580b34ba87@tr.shop.snapppro.nikastoring.ir:1818?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&amp;sid=#%F0%9F%87%B9%F0%9F%87%B7%20Turkey-2
 vless://898a1e7e-5f3d-498f-aa87-08580b34ba87@taxi.snapprlt2.nikastoring.ir:1818?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&amp;sid=#%F0%9F%87%A9%F0%9F%87%AA%20Germany-5
 vless://898a1e7e-5f3d-498f-aa87-08580b34ba87@shop.snapprlt1.nikastoring.ir:1845?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=95RdZE7c9sHqTX0ymuRN7qgCH9vq547cKjr9zUvI3zI&amp;sid=#%F0%9F%87%A9%F0%9F%87%AA%20Germany-4
