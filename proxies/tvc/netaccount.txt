@@ -27,8 +27,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp
 vmess://ee3f37b1-e805-4bdc-9d46-80df181899df@138.199.146.181:13411?encryption=auto&amp;security=none&amp;fp=&amp;type=tcp#@NetAccount
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.23:80?path=Telegram%40WangCai2%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;type=ws#NetAccount
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.varzesh.dpdns.org&amp;type=ws#NetAccount
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&amp;security=tls&amp;encryption=none&amp;host=azadnet1-706.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet1-706.pages.dev#NetAccount
@@ -77,8 +75,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp
 vmess://ee3f37b1-e805-4bdc-9d46-80df181899df@138.199.146.181:13411?encryption=auto&amp;security=none&amp;fp=&amp;type=tcp#@NetAccount
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.23:80?path=Telegram%40WangCai2%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;type=ws#NetAccount
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.varzesh.dpdns.org&amp;type=ws#NetAccount
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&amp;security=tls&amp;encryption=none&amp;host=azadnet1-706.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet1-706.pages.dev#NetAccount
@@ -127,8 +123,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp
 vmess://ee3f37b1-e805-4bdc-9d46-80df181899df@138.199.146.181:13411?encryption=auto&amp;security=none&amp;fp=&amp;type=tcp#@NetAccount
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@NetAccount
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.23:80?path=Telegram%40WangCai2%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;type=ws#NetAccount
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.varzesh.dpdns.org&amp;type=ws#NetAccount
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=%2Fazadnet1-706.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&amp;security=tls&amp;encryption=none&amp;host=azadnet1-706.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet1-706.pages.dev#NetAccount
@@ -177,8 +171,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?security=none&amp
 vmess://ee3f37b1-e805-4bdc-9d46-80df181899df@138.199.146.181:13411?encryption=auto&amp;security=none&amp;fp=&amp;type=tcp#@NetAccount
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@NetAccount
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@NetAccount
 vless://7c05cbda-3034-4b0d-8e76-eee13986b3de@mmdamin.2.dragonspeed.top:5701?security=none&amp;type=tcp&amp;headerType=http&amp;host=refersion.com,fast.com,P30afzar.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?security=none&amp;type=ws&amp;path=/Pak91jqn-Mehskl.ir.shop.com?ed%3D2048&amp;host=By6ie-4h9.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://509f1edc-e6cf-4d21-9b89-5ea5d54a7cb2@real-all3.sdcards1.ir:8520?security=reality&amp;sni=tgju.org&amp;fp=firefox&amp;pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&amp;sid=e701a013553059ba&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
