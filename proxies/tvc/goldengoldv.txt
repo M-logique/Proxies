@@ -1,3 +1,5 @@
+vless://f5f34aeb-b632-4ac4-9af4-9c00b460486f@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengold-231351-30016
+vless://aeea6d1f-3e33-4795-be13-e0fbe74a0766@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#https%3A%2F%2Ft.me%2FGoldengoldv-231138-88272
 vless://f0a2b92f-5526-4bd6-a94c-3f684234e21f@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-230375-96123
 vless://1a417985-7ee7-4b38-83b7-13ba950910f7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-230050-84942
 vless://e9a02fb3-8fe8-4fab-b8c9-d15915fc8fa1@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-229428-57991
@@ -26,8 +28,6 @@ vless://d1bd0348-eb37-430d-80c7-b28cc305c756@irc.testvp2.sbs:443?type=tcp&amp;pa
 vless://9f3e308e-ae91-4cc4-99d7-fc5e9d9dd2f5@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-227743-26459
 vless://dbce56ad-fea0-44e0-a088-6ef3b8a7a12e@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-227705-22369
 vless://5826957b-3d23-4159-a277-66d36defb019@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-227613-28745
-vless://c23cec34-ab2f-4d63-a4c8-6c2d429e50ee@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-227577-59028
-vless://68dfa7f2-cee9-4084-b698-69d3b7de3e9b@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-227489-13261
 vless://c23cec34-ab2f-4d63-a4c8-6c2d429e50ee@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-227577-59028
 vless://68dfa7f2-cee9-4084-b698-69d3b7de3e9b@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-227489-13261
 vless://f5f34aeb-b632-4ac4-9af4-9c00b460486f@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengold-231351-30016
