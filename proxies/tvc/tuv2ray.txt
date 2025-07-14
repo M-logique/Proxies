@@ -75,13 +75,6 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&amp;security=none&amp;type=ws&amp;host=onlytesla1.xz027.com&amp;path=%2F#@TuV2ray
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&amp;security=tls&amp;sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;type=ws&amp;host=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;path=%2F#@TuV2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=%2F#@TuV2ray
-vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
-vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
-vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=%2F#@TuV2ray
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&amp;security=none&amp;type=ws&amp;host=onlytesla1.xz027.com&amp;path=%2F#@TuV2ray
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&amp;security=tls&amp;sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;type=ws&amp;host=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;path=%2F#@TuV2ray
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=%2F#@TuV2ray
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;type=ws&amp;sni=azadnet-7py.pages.dev#@TuV2ray
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
@@ -125,6 +118,13 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&amp;security=none&amp;type=ws&amp;host=onlytesla1.xz027.com&amp;path=%2F#@TuV2ray
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&amp;security=tls&amp;sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;type=ws&amp;host=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;path=%2F#@TuV2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=%2F#@TuV2ray
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=%2F#@TuV2ray
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?encryption=none&amp;security=none&amp;type=ws&amp;host=onlytesla1.xz027.com&amp;path=%2F#@TuV2ray
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&amp;security=tls&amp;sni=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;type=ws&amp;host=Ft77Ta8Q1m.EmShAbKhObE.oRg&amp;path=%2F#@TuV2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=%2F#@TuV2ray
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#@TuV2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=%2F#@TuV2ray
