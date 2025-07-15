@@ -90,7 +90,6 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.56.112:80?path=%2FBaRAyeIran
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.79.134:8443?path=%2FTelegram%40V2ray_Alpha%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=freedom.panotosu.store&amp;fp=randomized&amp;type=ws&amp;sni=freEDom.paNoToSU.STORE#%40V2ray_cartel
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=nv137.momdping.com#%40V2ray_cartel
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray_cartel
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
 vless://9368b093-d790…
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#v2ray_cartel
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&amp;security=tls&amp;host=top-azx.pages.dev&amp;type=ws&amp;sni=top-azx.pages.dev#v2ray_cartel
