@@ -1,4 +1,3 @@
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.198.16.221:80?security=&amp;type=ws&amp;path=/&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@v2ray_configs_pools
 vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321?security=&amp;type=tcp&amp;encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20@v2ray_configs_pools
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=&amp;allowInsecure=1&amp;fp=chrome&amp;type=tcp&amp;encryption=none#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20@v2ray_configs_pools
 vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=&amp;type=tcp&amp;encryption=none#%F0%9F%87%BB%F0%9F%87%B3VN%20%7C%20@v2ray_configs_pools
@@ -8,8 +7,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg==@95.164.44.221:8388#[46562]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#[46561]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#[46560]
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792…
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All²
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---@v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All¹
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8…
 vless://77eb0a34-e172-48fa-8093-6c488664da44@94.182.83.109:8085/?type=tcp&amp;encryption=none&amp;flow=#✅@v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880/?type=grpc&amp;encryption=none#✅@v2ray_configs_pools
 vless://9516661c-7433-4959-b40c-ec77ff36625a@Hh.somo44.sbs:8080?path=%2Fhhvghhv&amp;security=none&amp;encryption=none&amp;host=Hoo.somo44.sbs&amp;type=ws#✅@v2ray_configs_pools
@@ -92,8 +90,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg==@95.164.44.221:8388#[46562]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#[46561]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#[46560]
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792…
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All²
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---@v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All¹
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8…
 vless://77eb0a34-e172-48fa-8093-6c488664da44@94.182.83.109:8085/?type=tcp&amp;encryption=none&amp;flow=#✅@v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880/?type=grpc&amp;encryption=none#✅@v2ray_configs_pools
 vless://9516661c-7433-4959-b40c-ec77ff36625a@Hh.somo44.sbs:8080?path=%2Fhhvghhv&amp;security=none&amp;encryption=none&amp;host=Hoo.somo44.sbs&amp;type=ws#✅@v2ray_configs_pools
@@ -176,8 +173,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg==@95.164.44.221:8388#[46562]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#[46561]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#[46560]
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792…
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All²
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---@v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All¹
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8…
 vless://77eb0a34-e172-48fa-8093-6c488664da44@94.182.83.109:8085/?type=tcp&amp;encryption=none&amp;flow=#✅@v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880/?type=grpc&amp;encryption=none#✅@v2ray_configs_pools
 vless://9516661c-7433-4959-b40c-ec77ff36625a@Hh.somo44.sbs:8080?path=%2Fhhvghhv&amp;security=none&amp;encryption=none&amp;host=Hoo.somo44.sbs&amp;type=ws#✅@v2ray_configs_pools
@@ -260,8 +256,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg==@95.164.44.221:8388#[46562]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#[46561]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#[46560]
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792…
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All²
-vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?security=&amp;encryption=none=---@v2ray_configs_pools---@v2ray_configs_poolshost=cloud.ir&amp;headerType=http&amp;type=tcp#All¹
 vless://71705031-92d3-4dc5-8011-e48a59e6c88b@51.195.101.116:187…
 vless://fc26a536-91b7-4c25-8a39-977847eb82da@fdsaf.mxspeed8-3.ir:6311?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=s3.amazonaws.com#✅@v2ray_configs_pools
 vless://fc26a536-91b7-4c25-8a39-977847eb82da@vxaf.mxspeed8-3.ir:1885?security=none&amp;type=tcp&amp;headerType=none&amp;path=&amp;host=#✅@v2ray_configs_pools
@@ -394,4 +388,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=%2F34COh9NC
 vless://554e89e9-5d47-408a-ee92-2fa8506bc78c@zula.ir:2087?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Hopev2.hopebook75zulawu.online.&amp;fp=chrome&amp;type=ws&amp;sni=Hopev2.hopebook75zulawu.online#✅@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#✅@v2ray_configs_pools
 vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=brmahasang.ahaysiahzangi.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=brmahasang.ahaysiahzangi.dpdns.org#✅@v2ray_configs_pools
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8…
