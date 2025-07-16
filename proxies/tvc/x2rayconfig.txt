@@ -1,3 +1,4 @@
+vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=VAST-RAdIo.zuLAIR.oRG&amp;path=%2F%3Fed%3D2048#X2rayConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?encryption=none&amp;security=none&amp;type=grpc#X2rayConfig
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=MoenTechProxy.global.ssl.fastly.net&amp;path=%2FBeraghsa#X2rayConfig
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=NIce-APartMEnt.ZULAir.ORg&amp;path=%2F%3Fed%3D2048#X2rayConfig
@@ -16,7 +17,7 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#X2rayConfig
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#X2rayConfig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&amp;sni=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;host=vpn.stupidworld.web.id&amp;path=%2FStupid-World%2F103.106.228.126-2053#X2rayConfig
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=reality&amp;sni=check-host.net&amp;fp=ios&amp;type=xhttp&amp;path=%2Fhellothere&amp;mode=auto#X2rayConfig
+vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=VAST-RAdIo.zuLAIR.oRG&amp;path=%2F%3Fed%3D2048#X2rayConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?encryption=none&amp;security=none&amp;type=grpc#X2rayConfig
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=MoenTechProxy.global.ssl.fastly.net&amp;path=%2FBeraghsa#X2rayConfig
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=NIce-APartMEnt.ZULAir.ORg&amp;path=%2F%3Fed%3D2048#X2rayConfig
@@ -35,7 +36,7 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#X2rayConfig
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#X2rayConfig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&amp;sni=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;host=vpn.stupidworld.web.id&amp;path=%2FStupid-World%2F103.106.228.126-2053#X2rayConfig
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=reality&amp;sni=check-host.net&amp;fp=ios&amp;type=xhttp&amp;path=%2Fhellothere&amp;mode=auto#X2rayConfig
+vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=VAST-RAdIo.zuLAIR.oRG&amp;path=%2F%3Fed%3D2048#X2rayConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?encryption=none&amp;security=none&amp;type=grpc#X2rayConfig
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=MoenTechProxy.global.ssl.fastly.net&amp;path=%2FBeraghsa#X2rayConfig
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=NIce-APartMEnt.ZULAir.ORg&amp;path=%2F%3Fed%3D2048#X2rayConfig
@@ -54,7 +55,7 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#X2rayConfig
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#X2rayConfig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&amp;sni=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;host=vpn.stupidworld.web.id&amp;path=%2FStupid-World%2F103.106.228.126-2053#X2rayConfig
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=reality&amp;sni=check-host.net&amp;fp=ios&amp;type=xhttp&amp;path=%2Fhellothere&amp;mode=auto#X2rayConfig
+vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=VAST-RAdIo.zuLAIR.oRG&amp;path=%2F%3Fed%3D2048#X2rayConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?encryption=none&amp;security=none&amp;type=grpc#X2rayConfig
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=MoenTechProxy.global.ssl.fastly.net&amp;path=%2FBeraghsa#X2rayConfig
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=NIce-APartMEnt.ZULAir.ORg&amp;path=%2F%3Fed%3D2048#X2rayConfig
@@ -73,7 +74,8 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#X2rayConfig
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#X2rayConfig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&amp;sni=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;host=vpn.stupidworld.web.id&amp;path=%2FStupid-World%2F103.106.228.126-2053#X2rayConfig
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=reality&amp;sni=check-host.net&amp;fp=ios&amp;type=xhttp&amp;path=%2Fhellothere&amp;mode=auto#X2rayConfig
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#X2rayConfig
+vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#X2rayConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#X2rayConfig
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#X2rayConfig
 ss://YWVzLTI1Ni1nY206MDU4Nzk4ZDlhMzA4N2U0Mw%3D%3D@185.22.153.235:10201#X2rayConfig
@@ -102,4 +104,3 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?encryption=none&a
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2F6TvG8D6HimXKgdp2%3Fed%3D2560#X2rayConfig
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560#X2rayConfig
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560#X2rayConfig
-vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=VAST-RAdIo.zuLAIR.oRG&amp;path=%2F%3Fed%3D2048#X2rayConfig
