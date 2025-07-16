@@ -1,4 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443?type=tcp#Altura%20VPN
+vless://310dffcd-5f4b-43eb-ba9b-6d74eab01a40@world1.royalping.org:44283?type=tcp&amp;headerType=http&amp;host=alibaba.com&amp;security=none#Altura%20VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443?type=tcp#Altura%20VPN
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&amp;host=simorgh.hpcode.ir&amp;path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=simorgh.hpcode.ir#Altura%20VPN
 vless://5e75197e-53ca-4256-bf1c-c356c7a378b3@46.31.79.119:80?type=xhttp&amp;mode=auto&amp;host=wellp.global.ssl.fastly.net&amp;path=/wellp&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=rFRgOG1YES2qi6d1xyihs21ourOyv7xRi9MnLd-3x1U&amp;sid=d99c&amp;spx=/#Altura%20VPN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=…
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?type=ws&amp;host=638874929583333723.zagreb-prx-dnraaad.info&amp;path=/aucvumws&amp;security=tls&amp;sni=638874929583333723.zagreb-prx-dnraaad.info#Altura%20VPN
@@ -19,6 +24,7 @@ vless://310dffcd-5f4b-43eb-ba9b-6d74eab01a40@world1.royalping.org:44283?type=tcp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443?type=tcp#Altura%20VPN
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&amp;host=simorgh.hpcode.ir&amp;path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=simorgh.hpcode.ir#Altura%20VPN
 vless://5e75197e-53ca-4256-bf1c-c356c7a378b3@46.31.79.119:80?type=xhttp&amp;mode=auto&amp;host=wellp.global.ssl.fastly.net&amp;path=/wellp&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=rFRgOG1YES2qi6d1xyihs21ourOyv7xRi9MnLd-3x1U&amp;sid=d99c&amp;spx=/#Altura%20VPN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=…
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?type=ws&amp;host=638874929583333723.zagreb-prx-dnraaad.info&amp;path=/aucvumws&amp;security=tls&amp;sni=638874929583333723.zagreb-prx-dnraaad.info#Altura%20VPN
@@ -39,6 +45,7 @@ vless://310dffcd-5f4b-43eb-ba9b-6d74eab01a40@world1.royalping.org:44283?type=tcp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443?type=tcp#Altura%20VPN
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&amp;host=simorgh.hpcode.ir&amp;path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=simorgh.hpcode.ir#Altura%20VPN
 vless://5e75197e-53ca-4256-bf1c-c356c7a378b3@46.31.79.119:80?type=xhttp&amp;mode=auto&amp;host=wellp.global.ssl.fastly.net&amp;path=/wellp&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=rFRgOG1YES2qi6d1xyihs21ourOyv7xRi9MnLd-3x1U&amp;sid=d99c&amp;spx=/#Altura%20VPN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=…
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?type=ws&amp;host=638874929583333723.zagreb-prx-dnraaad.info&amp;path=/aucvumws&amp;security=tls&amp;sni=638874929583333723.zagreb-prx-dnraaad.info#Altura%20VPN
@@ -59,6 +66,7 @@ vless://310dffcd-5f4b-43eb-ba9b-6d74eab01a40@world1.royalping.org:44283?type=tcp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443?type=tcp#Altura%20VPN
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&amp;host=simorgh.hpcode.ir&amp;path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=simorgh.hpcode.ir#Altura%20VPN
 vless://5e75197e-53ca-4256-bf1c-c356c7a378b3@46.31.79.119:80?type=xhttp&amp;mode=auto&amp;host=wellp.global.ssl.fastly.net&amp;path=/wellp&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=rFRgOG1YES2qi6d1xyihs21ourOyv7xRi9MnLd-3x1U&amp;sid=d99c&amp;spx=/#Altura%20VPN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=…
 vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiQWx0dXJhJTIwVlBOIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImFkZCI6Ing1LnhyYXl2cG4udG9wIiwicG9ydCI6IjU3MTQ3IiwiaWQiOiI2ZTI2NWUyMC0zOTYyLTQ5ODYtYjZkOS0yNWY5YWVmMDFhODAiLCJ0bHMiOiJub25lIn0=
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?type=ws&amp;host=638874929583333723.zagreb-prx-dnraaad.info&amp;path=/aucvumws&amp;security=tls&amp;sni=638874929583333723.zagreb-prx-dnraaad.info#Altura%20VPN
@@ -79,6 +87,7 @@ vless://310dffcd-5f4b-43eb-ba9b-6d74eab01a40@world1.royalping.org:44283?type=tcp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443?type=tcp#Altura%20VPN
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&amp;host=simorgh.hpcode.ir&amp;path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=simorgh.hpcode.ir#Altura%20VPN
 vless://5e75197e-53ca-4256-bf1c-c356c7a378b3@46.31.79.119:80?type=xhttp&amp;mode=auto&amp;host=wellp.global.ssl.fastly.net&amp;path=/wellp&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=rFRgOG1YES2qi6d1xyihs21ourOyv7xRi9MnLd-3x1U&amp;sid=d99c&amp;spx=/#Altura%20VPN
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.26.6.89:8443?type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=/&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG#Altura%20VPN
 vless://c98a16e4…
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@69.84.182.169:443?type=ws&amp;host=ensHOLP-91s.pageS.DEv&amp;path=/dQMN2VQLkaE52qWD?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=ensHOLP-91s.pageS.DEv#Altura%20VPN
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?type=tcp&amp;headerType=none&amp;security=none#Altura%20VPN
@@ -129,4 +138,3 @@ vless://baf334b7-f07e-420d-8efb-060cb3fff630@end.fast.hosting-ip.com:80?type=xht
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?type=tcp&amp;headerType=http&amp;host=exo.ir&amp;security=none#Altura%20VPN
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?type=ws&amp;host=2.lINK-KoN.IR&amp;path=/bDUGlAj9BFG7zebG?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=2.link-kon.ir&amp;alpn=h3,h2,http/1.1#Altura%20VPN
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?type=ws&amp;host=net-aCcOUNt02.Pages.DEv&amp;path=/dy26vBaDi5RTblzP?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=net-aCcOUNt02.Pages.DEv#Altura%20VPN
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
