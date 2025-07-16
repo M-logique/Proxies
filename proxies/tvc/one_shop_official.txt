@@ -49,7 +49,6 @@ vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-o
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#%40one_shop_official
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40one_shop_official
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&amp;path=%2Ftas&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=ali.tas-bazi.com&amp;fp=firefox&amp;type=xhttp&amp;sni=ali.tas-bazi.com#%40one_shop_official
-vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbC…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#%40one_shop_official
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=019309B7.XyZ0.PaGeS.dEV&amp;type=ws&amp;sni=019309B7.XyZ0.PaGeS.dEV#%40one_shop_official
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan-supra.parisa.dpdns.org&amp;type=ws&amp;sni=rayan-supra.parisa.dpdns.org#%40one_shop_official
@@ -86,6 +85,7 @@ vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-o
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#%40one_shop_official
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40one_shop_official
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&amp;path=%2Ftas&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=ali.tas-bazi.com&amp;fp=firefox&amp;type=xhttp&amp;sni=ali.tas-bazi.com#%40one_shop_official
+vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbC…
 vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbC…
 vmess://eyJhZGQiOiI0NS44NC4xOTYuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLC…
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%40one_shop_official&amp;fp=chrome&amp;type=grpc#%40one_shop_official
