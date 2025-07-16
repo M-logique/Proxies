@@ -8,7 +8,6 @@ vless://078bdc30-21df-4694-85d9-66b1404f3272@ir1.phantompanel.shop:19309?securit
 vless://078bdc30-21df-4694-85d9-66b1404f3272@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://ceb88225-0f18-4915-869f-1e61b0980bdf@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#@zedbaz_vpn
 vless://ceb88225-0f18-4915-869f-1e61b0980bdf@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#@zedbaz_vpn
-vless://003bbc5c-6a2f-46d4-a484-feb67f305a4e@109.122.241.46:2099?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Ffavicon.ico&amp;host=speedtest.net#@zedbaz_vpn
 vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://689704e7-1c9b-420a-b685-aaee7d530a4e@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
@@ -20,7 +19,6 @@ vless://078bdc30-21df-4694-85d9-66b1404f3272@ir1.phantompanel.shop:19309?securit
 vless://078bdc30-21df-4694-85d9-66b1404f3272@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://ceb88225-0f18-4915-869f-1e61b0980bdf@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#@zedbaz_vpn
 vless://ceb88225-0f18-4915-869f-1e61b0980bdf@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#@zedbaz_vpn
-vless://003bbc5c-6a2f-46d4-a484-feb67f305a4e@109.122.241.46:2099?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Ffavicon.ico&amp;host=speedtest.net#@zedbaz_vpn
 vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://689704e7-1c9b-420a-b685-aaee7d530a4e@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
@@ -32,7 +30,7 @@ vless://078bdc30-21df-4694-85d9-66b1404f3272@ir1.phantompanel.shop:19309?securit
 vless://078bdc30-21df-4694-85d9-66b1404f3272@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://ceb88225-0f18-4915-869f-1e61b0980bdf@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#@zedbaz_vpn
 vless://ceb88225-0f18-4915-869f-1e61b0980bdf@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#@zedbaz_vpn
-vless://003bbc5c-6a2f-46d4-a484-feb67f305a4e@109.122.241.46:2099?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Ffavicon.ico&amp;host=speedtest.net#@zedbaz_vpn
+vless://5cc4d358-6190-4818-bfc0-dc6af583529b@91.107.170.231:42370/?type=grpc&amp;serviceName=@ZedBaz_vpn&amp;authority=&amp;security=reality&amp;pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&amp;fp=…
 vless://5cc4d358-6190-4818-bfc0-dc6af583529b@91.107.170.231:42370/?type=grpc&amp;serviceName=@ZedBaz_vpn&amp;authority=&amp;security=reality&amp;pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&amp;fp=chrome&amp;sni=yahoo.com&amp;sid=479f4834&amp;spx=%2F#@zedbaz_vpn
 vless://a533ba4d-3496-450c-91c3-5922f660fa4c@91.107.170.231:42370/?type=grpc&amp;serviceName=@ZedBaz_vpn&amp;authority=&amp;security=reality&amp;pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&amp;fp=…
 vless://a533ba4d-3496-450c-91c3-5922f660fa4c@91.107.170.231:42370/?type=grpc&amp;serviceName=@ZedBaz_vpn&amp;authority=&amp;security=reality&amp;pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&amp;fp=chrome&amp;sni=yahoo.com&amp;sid=479f4834&amp;spx=%2F#@zedbaz_vpn
