@@ -1,15 +1,3 @@
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=%2Fv2ray_configs_pools%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=brmahasang.ahaysiahzangi.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=brmahasang.ahaysiahzangi.dpdns.org#✅@v2ray_configs_pools
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;type=ws&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG#✅@v2ray_configs_pools
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#✅@v2ray_configs_pools
-vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=DO-iTforyOu-E1P.PAgeS.dEV&amp;fp=chrome&amp;type=ws&amp;sni=DO-iTforyOu-E1P.PAgeS.dEV#✅@v2ray_configs_pools
-vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FbPJ4mgkJbA7CnY7q%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=nOCTYq.pAGES.DEV&amp;type=ws&amp;sni=nOCTYq.pAGES.DEV#✅@v2ray_configs_pools
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=nkAnG2rEpLACE.airlineSHoma.Com&amp;fp=randomized&amp;type=ws&amp;sni=nkAnG2rEpLACE.airlineSHoma.Com#✅@v2ray_configs_pools
-vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=am.komanserver.ir.#✅@v2ray_configs_pools
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;type=tcp#✅@v2ray_configs_pools
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&amp;mode=gun&amp;security=none#✅@v2ray_configs_pools
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&amp;host=gghdfa.pages.dev&amp;path=/8WuhXm4QjK0L68Uf?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=gGHDFa.pAgeS.Dev#✅@v2ray_configs_pools
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?type=ws&amp;host=NpFzCqA01g.V2pLuSmLm.OrG&amp;path=/&amp;security=tls&amp;sni=NpFzCqA01g.V2pLuSmLm.OrG#✅@v2ray_configs_pools
-vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=%2Fdy26vBaDi5RTblzP%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=net-aCcOUNt02.Pages.DEv&amp;fp=randomized&amp;type=ws&amp;sni=net-aCcOUNt02.Pages.DEv#✅@v2ray_configs_pools
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2052?security=&amp;fp=chrome&amp;type=ws&amp;path=/&amp;host=omidyzvg2.kamaleriz.info&amp;encryption=none#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20@v2ray_configs_pools
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:2096?allowInsecure=0&amp;sni=sourceforge.net&amp;fp=chrome&amp;security=tls#✅@v2ray_configs_pools
 vless://a07841b5-2764-41ee-bbe7-960a23402075@2.189.85.154:92?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#✅@v2ray_configs_pools
@@ -28,7 +16,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;s
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?security=tls&amp;sni=pqh23v5.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20@v2ray_configs_pools
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.198.16.221:80?security=&amp;type=ws&amp;path=/&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@v2ray_configs_pools
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321?security=&amp;type=tcp&amp;encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20@v2ray_configs_pools
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:…
 vless://997744ee-c8bb-45e8-ab86-583e58a30b6e@91.99.98.186:30618?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#✅@v2ray_configs_pools
 vless://a68a6e60-5f70-4972-efc7-e1a3120db501@65.109.194.104:38639?type=tcp&amp;path=%2F&amp;host=notion.so&amp;headerType=http&amp;security=none#✅@v2ray_configs_pools
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#✅@v2ray_configs_pools
@@ -174,7 +162,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;s
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?security=tls&amp;sni=pqh23v5.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20@v2ray_configs_pools
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.198.16.221:80?security=&amp;type=ws&amp;path=/&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@v2ray_configs_pools
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321?security=&amp;type=tcp&amp;encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20@v2ray_configs_pools
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:…
 vless://997744ee-c8bb-45e8-ab86-583e58a30b6e@91.99.98.186:30618?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#✅@v2ray_configs_pools
 vless://a68a6e60-5f70-4972-efc7-e1a3120db501@65.109.194.104:38639?type=tcp&amp;path=%2F&amp;host=notion.so&amp;headerType=http&amp;security=none#✅@v2ray_configs_pools
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#✅@v2ray_configs_pools
@@ -320,7 +308,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;s
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?security=tls&amp;sni=pqh23v5.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20@v2ray_configs_pools
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.198.16.221:80?security=&amp;type=ws&amp;path=/&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@v2ray_configs_pools
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321?security=&amp;type=tcp&amp;encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20@v2ray_configs_pools
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:…
 vless://997744ee-c8bb-45e8-ab86-583e58a30b6e@91.99.98.186:30618?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#✅@v2ray_configs_pools
 vless://a68a6e60-5f70-4972-efc7-e1a3120db501@65.109.194.104:38639?type=tcp&amp;path=%2F&amp;host=notion.so&amp;headerType=http&amp;security=none#✅@v2ray_configs_pools
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#✅@v2ray_configs_pools
@@ -466,7 +454,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;s
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?security=tls&amp;sni=pqh23v5.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B3IN%20%7C%20@v2ray_configs_pools
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.198.16.221:80?security=&amp;type=ws&amp;path=/&amp;encryption=none#%F0%9F%87%AE%F0%9F%87%B7IR%20%7C%20@v2ray_configs_pools
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321?security=&amp;type=tcp&amp;encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20@v2ray_configs_pools
+vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?security=tls&amp;sni=pq-japan3.09vpn.com&amp;allowInsecure=1&amp;type=ws&amp;path=/vless/&amp;encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.246.60:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;encryption=none#%F0%9F%87%A8%F0%9F%87%BCCW%20%7C%20@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.1…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#✅@v2ray_configs_pools
@@ -558,4 +546,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.181.172:2…
 vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?encryption=none&amp;security=tls&amp;sni=NGINX-Z.pages.DEV&amp;alpn=h3&amp;fp=chrome&amp;type=ws&amp;host=nginx-z.pages.dev&amp;path=%2Fassets%3Fed%3D2560#[46933]
 trojan://telegram-id-privatevpns@63.176.181.172:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[46932]
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.181.172:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-v2ray_configs_pools&amp;sni=trojan.burgerip.co.uk#[46931]
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:…
