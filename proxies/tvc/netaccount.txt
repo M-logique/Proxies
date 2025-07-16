@@ -82,6 +82,8 @@ vless://6d288402-6ef9-4092-9d52-c528690fb693@134.122.100.178:10108?path=%2FNu8bH
 vless://8b883c3f-61ed-4961-90f9-24f1f661b382@91.99.234.241:18730?security=reality&amp;encryption=none&amp;pbk=4i4VmtZlXzsNQwiGYOpxUCH7hygnGM8bVfDOeSd2G2A&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=yahoo.com&amp;sid=877fa74f#NetAccount
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Telegram%20%3A%20%40PouRia_Cheat&amp;sni=www.cloudflare.com&amp;sid=8d9c20be72b4#NetAccount
 vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=acc.eternalping.ir#NetAccount
+vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://541b75c0-4648-4074-bf12-685d53ec2eea@nl.dnszone.top:45600?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?security=tls&amp;sni=statue.lnmarketplace.net&amp;alpn=h2&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=TW.kKpopH4Zmc.ZUlaIr.orG&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?security=none&amp;type=ws&amp;path=/&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
