@@ -6,7 +6,6 @@ ss://YWVzLTI1Ni1nY206YXRqZ3NKWG1jdg==@103.15.91.171:52327?type=tcp#Altura%20VPN
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?type=ws&amp;host=rayan-12.leila.dpdns.org&amp;path=/@Rayan_Config&amp;security=tls&amp;fp=chrome&amp;sni=rAyAn-12.LeIlA.DpDnS.OrG#Altura%20VPN
 trojan://123456@104.25.165.81:8443?type=ws&amp;host=top-azx.pages.dev&amp;path=/Az1.vpn.33.TOP/?ed%3D2560&amp;security=tls&amp;sni=top-azx.pages.dev#Altura%20VPN
 vmess://eyJhZGQiOiJ4NS54cmF5dnBuLnRvcCIsImlkIjoiNDViZWE5OTktMjU0OS00ZDZlLThmYzQtMzc2MDc2OGZjYzNiIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwicG9ydCI6IjU3MTQ3IiwicHMiOiJBbHR1cmElMjBWUE4iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJub25lIn0=
-vmess://eyJhZGQiOiJ4NS54cmF5dnBuLnRvcCIsImlkIjoiNDViZWE5OTktMjU0OS00ZDZlLThmYzQtMzc2MDc2OGZjYzNiIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwicG9ydCI6IjU3MTQ3IiwicHMiOiJBbHR1cmElMjBWUE4iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJub25lIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&amp;mode=gun&amp;security=none#Altura%20VPN
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=/@Prime_Verse?ed%3D2560&amp;security=tls&amp;sni=PaGes.deV#Altura%20VPN
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
@@ -50,6 +49,7 @@ vless://7e91c270-c067-4c9c-9231-9208471487ce@www.speedtest.net:8880?type=httpupg
 ss://YWVzLTI1Ni1nY206YXRqZ3NKWG1jdg==@103.15.91.171:52327?type=tcp#Altura%20VPN
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?type=ws&amp;host=rayan-12.leila.dpdns.org&amp;path=/@Rayan_Config&amp;security=tls&amp;fp=chrome&amp;sni=rAyAn-12.LeIlA.DpDnS.OrG#Altura%20VPN
 trojan://123456@104.25.165.81:8443?type=ws&amp;host=top-azx.pages.dev&amp;path=/Az1.vpn.33.TOP/?ed%3D2560&amp;security=tls&amp;sni=top-azx.pages.dev#Altura%20VPN
+vmess://eyJhZGQiOiJ4NS54cmF5dnBuLnRvcCIsImlkIjoiNDViZWE5OTktMjU0OS00ZDZlLThmYzQtMzc2MDc2OGZjYzNiIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwicG9ydCI6IjU3MTQ3IiwicHMiOiJBbHR1cmElMjBWUE4iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJub25lIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&amp;mode=gun&amp;security=none#Altura%20VPN
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=/@Prime_Verse?ed%3D2560&amp;security=tls&amp;sni=PaGes.deV#Altura%20VPN
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
