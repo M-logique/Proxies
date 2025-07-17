@@ -98,8 +98,6 @@ vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?encryption=no
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=%2F193.123.81.105%3D443#%40Daily_Configs
 vless://8ba6c101…
 vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#%40Daily_Configs
-vless://8ba6c101…
-vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#%40Daily_Configs
 vless://bf742aa8-0168-4081-b01f-3c3e994b054f@85.133.233.59:8080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Daily_Configs
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@wwwwww.mohsen.com.it.studentcp.ir:16532?encryption=none&amp;security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc&amp;sid=327f5a20cef62bbb&amp;type=xhttp&amp;path=%2Findex.html#%40Daily_Configs
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#%40Daily_Configs
@@ -198,6 +196,8 @@ vless://a4a05a57-3eee-4566-9548-6363e780537b@45.93.168.118:8880?encryption=none&
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?encryption=none&amp;security=reality&amp;sni=www.cloudflare.com&amp;fp=chrome&amp;pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&amp;sid=8d9c20be72b4&amp;spx=%2F&amp;type=grpc&amp;authority=&amp;serviceName=Telegram%20%3A%20%40PouRia_Cheat&amp;mode=gun#%40Daily_Configs
 vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?encryption=none&amp;security=reality&amp;sni=zula.ir&amp;fp=randomized&amp;pbk=Pbw9c39ihEuOP53vnsbivCHh6Y11TdzYrfJ9RGVix1Y&amp;sid=281409ed&amp;spx=%2F&amp;type=tcp&amp;headerType=none#%40Daily_Configs
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=%2F193.123.81.105%3D443#%40Daily_Configs
+vless://8ba6c101…
+vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#%40Daily_Configs
 vless://bf742aa8-0168-4081-b01f-3c3e994b054f@85.133.233.59:8080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Daily_Configs
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@wwwwww.mohsen.com.it.studentcp.ir:16532?encryption=none&amp;security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc&amp;sid=327f5a20cef62bbb&amp;type=xhttp&amp;path=%2Findex.html#%40Daily_Configs
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#%40Daily_Configs
