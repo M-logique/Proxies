@@ -69,12 +69,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?security=none&amp
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/Beraghsa&amp;mode=auto&amp;extra=%7B%0A%20%20%22noGRPCHeader%22%20:%20false,%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22,%0A%20%20%22scMaxEachPostBytes%22%20:%201000000,%0A%20%20%22scMaxConcurrentPosts%22%20:%20100,%0A%20%20%22scMinPostsIntervalMs%22%20:%2030%0A%7D#@Vrayzone
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
 vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=NGINX-Z.pages.DEV&amp;path=/assets?ed%3D2560&amp;sni=NGINX-Z.pages.DEV&amp;fp=chrome#@Vrayzone
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.gerald81.dpdns.org&amp;path=/Barayeiranmahsang/----@-?ed%3D2560#@Vrayzone
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
-vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/Beraghsa&amp;mode=auto&amp;extra=%7B%0A%20%20%22noGRPCHeader%22%20:%20false,%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22,%0A%20%20%22scMaxEachPostBytes%22%20:%201000000,%0A%20%20%22scMaxConcurrentPosts%22%20:%20100,%0A%20%20%22scMinPostsIntervalMs%22%20:%2030%0A%7D#@Vrayzone
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
-vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzExQDE4NS4xOTMuMTAyLjc6NTc0NTY=#@Vrayzone
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&amp;security=none&amp;type=grpc#%2540Vrayzone%25203
@@ -128,6 +122,12 @@ vless://0a7a6ade-c0f3-4242-9958-3c0c76adb88e@iptz-47.almass22.ir:2086?encryption
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?encryption=none&amp;security=none&amp;type=ws&amp;host=vkvd127.mycdn.me&amp;path=%2F#%40Vrayzone%200
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone%200
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=KtT44fPtXh.DaStAtSaRd.OrG&amp;path=/&amp;sni=KtT44fPtXh.DaStAtSaRd.OrG&amp;fp=chrome#@Vrayzone
+vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=NGINX-Z.pages.DEV&amp;path=/assets?ed%3D2560&amp;sni=NGINX-Z.pages.DEV&amp;fp=chrome#@Vrayzone
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.gerald81.dpdns.org&amp;path=/Barayeiranmahsang/----@-?ed%3D2560#@Vrayzone
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
+vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/Beraghsa&amp;mode=auto&amp;extra=%7B%0A%20%20%22noGRPCHeader%22%20:%20false,%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22,%0A%20%20%22scMaxEachPostBytes%22%20:%201000000,%0A%20%20%22scMaxConcurrentPosts%22%20:%20100,%0A%20%20%22scMinPostsIntervalMs%22%20:%2030%0A%7D#@Vrayzone
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
+vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzExQDE4NS4xOTMuMTAyLjc6NTc0NTY=#@Vrayzone
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&amp;security=none&amp;type=grpc#%2540Vrayzone%25203
