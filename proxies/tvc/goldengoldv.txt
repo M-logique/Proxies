@@ -14,7 +14,6 @@ vless://f0a2b92f-5526-4bd6-a94c-3f684234e21f@irc.testvp2.sbs:443?type=tcp&amp;pa
 vless://1a417985-7ee7-4b38-83b7-13ba950910f7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-230050-84942
 vless://e9a02fb3-8fe8-4fab-b8c9-d15915fc8fa1@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-229428-57991
 vless://c618cc36-05ad-4689-9e3b-caaef0251710@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228791-92554
-vless://08b37d9e-9be4-4a54-a990-12da25f61fa4@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228536-66331
 vless://111456a7-d279-4842-a88d-6d207b0b930f@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-234246-36953
 vless://15ec76ad-6f94-4d3d-b643-58a7b698fcbd@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234166-67985
 vless://2a51556f-daf8-476f-9920-d83588598db7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234112-44065
@@ -31,7 +30,6 @@ vless://f0a2b92f-5526-4bd6-a94c-3f684234e21f@irc.testvp2.sbs:443?type=tcp&amp;pa
 vless://1a417985-7ee7-4b38-83b7-13ba950910f7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-230050-84942
 vless://e9a02fb3-8fe8-4fab-b8c9-d15915fc8fa1@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-229428-57991
 vless://c618cc36-05ad-4689-9e3b-caaef0251710@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228791-92554
-vless://08b37d9e-9be4-4a54-a990-12da25f61fa4@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228536-66331
 vless://111456a7-d279-4842-a88d-6d207b0b930f@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-234246-36953
 vless://15ec76ad-6f94-4d3d-b643-58a7b698fcbd@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234166-67985
 vless://2a51556f-daf8-476f-9920-d83588598db7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234112-44065
@@ -48,7 +46,6 @@ vless://f0a2b92f-5526-4bd6-a94c-3f684234e21f@irc.testvp2.sbs:443?type=tcp&amp;pa
 vless://1a417985-7ee7-4b38-83b7-13ba950910f7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-230050-84942
 vless://e9a02fb3-8fe8-4fab-b8c9-d15915fc8fa1@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-229428-57991
 vless://c618cc36-05ad-4689-9e3b-caaef0251710@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228791-92554
-vless://08b37d9e-9be4-4a54-a990-12da25f61fa4@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228536-66331
 vless://111456a7-d279-4842-a88d-6d207b0b930f@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-234246-36953
 vless://15ec76ad-6f94-4d3d-b643-58a7b698fcbd@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234166-67985
 vless://2a51556f-daf8-476f-9920-d83588598db7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234112-44065
@@ -65,8 +62,8 @@ vless://f0a2b92f-5526-4bd6-a94c-3f684234e21f@irc.testvp2.sbs:443?type=tcp&amp;pa
 vless://1a417985-7ee7-4b38-83b7-13ba950910f7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-230050-84942
 vless://e9a02fb3-8fe8-4fab-b8c9-d15915fc8fa1@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-229428-57991
 vless://c618cc36-05ad-4689-9e3b-caaef0251710@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228791-92554
-vless://08b37d9e-9be4-4a54-a990-12da25f61fa4@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-228536-66331
-vless://a4489746-6093-45a4-88bc-cac8565abbbf@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#golden%20goldv-236716-45625
+vless://f2b0842b-dcac-4b21-9ff2-3c419c950d77@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-236879-67435
+vless://f2b0842b-dcac-4b21-9ff2-3c419c950d77@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-236879-67435
 vless://a4489746-6093-45a4-88bc-cac8565abbbf@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#golden%20goldv-236716-45625
 vless://4a8f216a-3869-402d-8696-50f93d39b691@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-236567-33404
 vless://d9fbf99f-850f-4c1c-83b9-a554b1c9b9bb@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-236525-49476
