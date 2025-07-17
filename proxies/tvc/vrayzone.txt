@@ -1,3 +1,6 @@
+vless://0a7a6ade-c0f3-4242-9958-3c0c76adb88e@iptz-47.almass22.ir:2086?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=er7cdn47.almass22.ir&amp;path=%2FAar%2Cd-F%3Fed%3D2086#%40Vrayzone%200
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?encryption=none&amp;security=none&amp;type=ws&amp;host=vkvd127.mycdn.me&amp;path=%2F#%40Vrayzone%200
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone%200
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=KtT44fPtXh.DaStAtSaRd.OrG&amp;path=/&amp;sni=KtT44fPtXh.DaStAtSaRd.OrG&amp;fp=chrome#@Vrayzone
 vmess://eyJpZCI6ImQ4MTgzZTRiLThmOWUtNDk3Yi04Y2Q3LWE5MGU2NGVmNzRlOCIsInNlcnZpY2VOYW1lIjoibm9uZSIsImhlYWRlclR5cGUiOiJodHRwIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImZyYWdtZW50IjoiIiwic2VlZCI6IiIsInBzIjoiQFZyYXl6b25lIiwiZnAiOiIiLCJ2IjoiMiIsInBvcnQiOiIyNzk0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsImFscG4iOiIiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoYWJlcjcuY29tIiwicGF0aCI6IlwvdHVya2V5IiwiZGV2aWNlSUQiOiIiLCJtb2RlIjoiIiwiZXh0cmEiOiIiLCJhZGQiOiJ0cmEuZ2FtZXMtc2hvcC1pLXIuc2JzIn0=
 trojan://0RiSuJPsug%23v@2.lINK-KoN.IR:443?security=tls&amp;sni=2.link-kon.ir&amp;fp=randomized&amp;alpn=h2,h3,http/1.1&amp;type=ws&amp;path=/trTcwZRw8JC0TPp6d1?ed%3D2560#@Vrayzone
@@ -5,7 +8,7 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?security=tls&amp;
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?encryption=none&amp;security=tls&amp;sni=nOCTYq.pAGES.DEV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=nOCTYq.pAGES.DEV&amp;path=%2FbPJ4mgkJbA7CnY7q%3Fed#%40Vrayzone%201
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%201
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=%2F193.123.81.105%3D443#%40Vrayzone%201
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%204
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&amp;security=none&amp;type=grpc#%2540Vrayzone%25203
 trojan://0RiSuJPsug%23v@104.21.32.1:443?security=tls&amp;sni=gEtASa.Ir&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=getasa.ir&amp;path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560#%40Vrayzone%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU%3D@194.87.31.68:443#%40Vrayzone%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40Vrayzone%201
@@ -62,7 +65,7 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?security=tls&amp;
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?encryption=none&amp;security=tls&amp;sni=nOCTYq.pAGES.DEV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=nOCTYq.pAGES.DEV&amp;path=%2FbPJ4mgkJbA7CnY7q%3Fed#%40Vrayzone%201
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%201
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=%2F193.123.81.105%3D443#%40Vrayzone%201
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%204
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&amp;security=none&amp;type=grpc#%2540Vrayzone%25203
 trojan://0RiSuJPsug%23v@104.21.32.1:443?security=tls&amp;sni=gEtASa.Ir&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=getasa.ir&amp;path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560#%40Vrayzone%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU%3D@194.87.31.68:443#%40Vrayzone%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40Vrayzone%201
@@ -119,7 +122,7 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?security=tls&amp;
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?encryption=none&amp;security=tls&amp;sni=nOCTYq.pAGES.DEV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=nOCTYq.pAGES.DEV&amp;path=%2FbPJ4mgkJbA7CnY7q%3Fed#%40Vrayzone%201
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%201
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=%2F193.123.81.105%3D443#%40Vrayzone%201
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%204
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&amp;security=none&amp;type=grpc#%2540Vrayzone%25203
 trojan://0RiSuJPsug%23v@104.21.32.1:443?security=tls&amp;sni=gEtASa.Ir&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=getasa.ir&amp;path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560#%40Vrayzone%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU%3D@194.87.31.68:443#%40Vrayzone%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40Vrayzone%201
@@ -176,7 +179,7 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?security=tls&amp;
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?encryption=none&amp;security=tls&amp;sni=nOCTYq.pAGES.DEV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=nOCTYq.pAGES.DEV&amp;path=%2FbPJ4mgkJbA7CnY7q%3Fed#%40Vrayzone%201
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%201
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=%2F193.123.81.105%3D443#%40Vrayzone%201
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%204
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&amp;security=none&amp;type=grpc#%2540Vrayzone%25203
 trojan://0RiSuJPsug%23v@104.21.32.1:443?security=tls&amp;sni=gEtASa.Ir&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=getasa.ir&amp;path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560#%40Vrayzone%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU%3D@194.87.31.68:443#%40Vrayzone%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%40Vrayzone%201
@@ -233,7 +236,10 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?security=tls&amp;
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?encryption=none&amp;security=tls&amp;sni=nOCTYq.pAGES.DEV&amp;alpn=http%2F1.1&amp;type=ws&amp;host=nOCTYq.pAGES.DEV&amp;path=%2FbPJ4mgkJbA7CnY7q%3Fed#%40Vrayzone%201
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%201
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=%2F193.123.81.105%3D443#%40Vrayzone%201
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=PaGes.deV&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=%2F%40Prime_Verse%3Fed%3D2560#%40Vrayzone%204
+vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?security=none&amp;encryption=none&amp;type=ws&amp;host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&amp;path=/?ed%3D2560#@Vrayzone
+vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.24.157.37:80?security=none&amp;encryption=none&amp;type=ws&amp;host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&amp;path=/?ed%3D2560#@Vrayzone
+vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?security=none&amp;encryption=none&amp;type=ws&amp;host=icy-bar-399d-ppal03.pomoyes509.workers.dev&amp;path=/?ed%3D2560#@Vrayzone
+vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=falcunargo.c2259d7c10.workers.dev&amp;path=/?ed%3D2048#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;path=/?ed%3D2560#@Vrayzone
@@ -278,4 +284,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&amp
 vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?security=none&amp;encryption=none&amp;type=grpc#@Vrayzone
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzExQDE4NS4xOTMuMTAyLjc6NTc0NTY=#@Vrayzone
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&amp;security=none&amp;type=grpc#%2540Vrayzone%25203
