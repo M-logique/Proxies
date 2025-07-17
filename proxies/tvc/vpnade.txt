@@ -1,3 +1,4 @@
+vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan-olala.parvaneh.dpdns.org&amp;type=ws&amp;sni=rayan-olala.parvaneh.dpdns.org#[🇨🇦]t.me/vpnade
 vless://927667f7-6ee3-4487-83c4-5be03fcd81a3@89.34.230.117:57134?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#[🇳🇱]t.me/vpnade
 vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 trojan://Aimer@5.182.85.255:2096?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇷🇺]t.me/vpnade
@@ -17,7 +18,7 @@ vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@35.87.226.4:443?security=reality&am
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#[🇨🇦]t.me/vpnade
 trojan://Aimer@192.0.54.221:2083?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇺🇸]t.me/vpnade
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#[🇳🇱]t.me/vpnade
-vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=%2Ftel-%40v2ray_alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mmd-p9k.PagEs.Dev&amp;fp=chrome&amp;type=ws&amp;sni=mmd-p9k.PagEs.Dev#[🇨🇦]t.me/vpnade
+vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan-olala.parvaneh.dpdns.org&amp;type=ws&amp;sni=rayan-olala.parvaneh.dpdns.org#[🇨🇦]t.me/vpnade
 vless://927667f7-6ee3-4487-83c4-5be03fcd81a3@89.34.230.117:57134?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#[🇳🇱]t.me/vpnade
 vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 trojan://Aimer@5.182.85.255:2096?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇷🇺]t.me/vpnade
@@ -37,7 +38,7 @@ vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@35.87.226.4:443?security=reality&am
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#[🇨🇦]t.me/vpnade
 trojan://Aimer@192.0.54.221:2083?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇺🇸]t.me/vpnade
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#[🇳🇱]t.me/vpnade
-vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=%2Ftel-%40v2ray_alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mmd-p9k.PagEs.Dev&amp;fp=chrome&amp;type=ws&amp;sni=mmd-p9k.PagEs.Dev#[🇨🇦]t.me/vpnade
+vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan-olala.parvaneh.dpdns.org&amp;type=ws&amp;sni=rayan-olala.parvaneh.dpdns.org#[🇨🇦]t.me/vpnade
 vless://927667f7-6ee3-4487-83c4-5be03fcd81a3@89.34.230.117:57134?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#[🇳🇱]t.me/vpnade
 vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 trojan://Aimer@5.182.85.255:2096?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇷🇺]t.me/vpnade
@@ -57,7 +58,7 @@ vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@35.87.226.4:443?security=reality&am
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#[🇨🇦]t.me/vpnade
 trojan://Aimer@192.0.54.221:2083?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇺🇸]t.me/vpnade
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#[🇳🇱]t.me/vpnade
-vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=%2Ftel-%40v2ray_alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mmd-p9k.PagEs.Dev&amp;fp=chrome&amp;type=ws&amp;sni=mmd-p9k.PagEs.Dev#[🇨🇦]t.me/vpnade
+vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan-olala.parvaneh.dpdns.org&amp;type=ws&amp;sni=rayan-olala.parvaneh.dpdns.org#[🇨🇦]t.me/vpnade
 vless://927667f7-6ee3-4487-83c4-5be03fcd81a3@89.34.230.117:57134?security=none&amp;encryption=none&amp;host=sheypoor.com&amp;headerType=http&amp;type=tcp#[🇳🇱]t.me/vpnade
 vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 trojan://Aimer@5.182.85.255:2096?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇷🇺]t.me/vpnade
@@ -77,7 +78,7 @@ vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@35.87.226.4:443?security=reality&am
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#[🇨🇦]t.me/vpnade
 trojan://Aimer@192.0.54.221:2083?allowInsecure=0&amp;sni=ngep.ambercc.filegear-sg.me#[🇺🇸]t.me/vpnade
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#[🇳🇱]t.me/vpnade
-vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=%2Ftel-%40v2ray_alpha%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=mmd-p9k.PagEs.Dev&amp;fp=chrome&amp;type=ws&amp;sni=mmd-p9k.PagEs.Dev#[🇨🇦]t.me/vpnade
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#🇫🇷
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#🇨🇦t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZDQ1OE1GeENsdnZLUXA5Z1pIWU9X@23.177.185.63:49454#🇺🇸t.me/vpnade
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=IyFpLkXk17.jOoLaJoOlA.OrG&amp;fp=chrome&amp;type=ws&amp;sni=IyFpLkXk17.jOoLaJoOlA.OrG#🇨🇦t.me/vpnade
@@ -96,4 +97,3 @@ vless://a703e3f8-0f60-4342-b27e-7c6c5ea8e2b6@212.162.155.204:80?mode=auto&amp;pa
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?path=%2FTel-%40v2ray_configs_pools&amp;security=tls&amp;encryption=none&amp;host=111-aw3.pages.dev&amp;type=ws&amp;sni=111-aw3.pages.dev#[🇨🇦]t.me/vpnade
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🏁]t.me/vpnade
 trojan://3763495894587285504@18.180.126.191:443?allowInsecure=0&amp;sni=top-aphid.goat627.mom#[🏁]t.me/vpnade
-vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan-olala.parvaneh.dpdns.org&amp;type=ws&amp;sni=rayan-olala.parvaneh.dpdns.org#[🇨🇦]t.me/vpnade
