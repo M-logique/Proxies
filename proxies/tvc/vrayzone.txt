@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU%3D@194.87.31.68:443#%40Vrayzone
+vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#%40Vrayzone
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone
+vless://0a7a6ade-c0f3-4242-9958-3c0c76adb88e@iptz-47.almass22.ir:2086?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=er7cdn47.almass22.ir&amp;path=%2FAar%2Cd-F%3Fed%3D2086#%40Vrayzone
+vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=exo.ir#%40Vrayzone
 vless://0a7a6ade-c0f3-4242-9958-3c0c76adb88e@iptz-47.almass22.ir:2086?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=er7cdn47.almass22.ir&amp;path=%2FAar%2Cd-F%3Fed%3D2086#%40Vrayzone
 vless://e23f8d6a-b596-489c-98ac-d0d2414a71f0@104.248.194.230:80?encryption=none&amp;security=reality&amp;sni=marzijooon.adas.monster&amp;fp=chrome&amp;pbk=z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE&amp;sid=2a70224f5466&amp;spx=%2F&amp;type=xhttp&amp;host=sha834ydtrfcvshin3877.global.ssl.fastly.net&amp;path=%2Fshahinshams%3Fed%3D2560&amp;mode=auto#%40Vrayzone
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&amp;security=none&amp;type=grpc#%40Vrayzone
@@ -16,7 +21,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Vrayzone%200
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%40Vrayzone%200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40Vrayzone%200
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone%209
+vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMjAxNyIsImhlYWRlclR5cGUiOiJub25lIiwiZnJhZ21lbnQiOiIiLCJhaWQiOiIwIiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsInRscyI6Im5vbmUiLCJzZWVkIjoiIiwiZGV2aWNlSUQiOiIiLCJzbmkiOiIiLCJmcCI6IiIsIm1vZGUiOiIiLCJhbHBuIjoiIiwiZXh0cmEiOiIiLCJ2IjoiMiIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJwcyI6IkBWcmF5em9uZSIsInNlcnZpY2VOYW1lIjoibm9uZSJ9
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
+vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Vrayzone
 vmess://eyJwYXRoIjoiXC8iLCJwb3J0IjoiNDA1OTEiLCJmcCI6IiIsInNuaSI6IiIsImV4dHJhIjoiIiwiYWRkIjoiNjYuMTUxLjQwLjE3MCIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInBzIjoiQFZyYXl6b25lIiwiaWQiOiI5NmZmMTVjMi1hMWM4LTRlNzEtZDU2Yi1mMjY3YTM2NTdkNjQiLCJ0bHMiOiJub25lIiwic2VlZCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsIm1vZGUiOiIiLCJoZWFkZXJUeXBlIjoiIiwiZGV2aWNlSUQiOiIiLCJuZXQiOiJ3cyIsImZyYWdtZW50IjoiIiwiaG9zdCI6IiIsInYiOiIyIiwiYWxwbiI6IiJ9
@@ -75,7 +83,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Vrayzone%200
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%40Vrayzone%200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40Vrayzone%200
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone%209
+vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMjAxNyIsImhlYWRlclR5cGUiOiJub25lIiwiZnJhZ21lbnQiOiIiLCJhaWQiOiIwIiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsInRscyI6Im5vbmUiLCJzZWVkIjoiIiwiZGV2aWNlSUQiOiIiLCJzbmkiOiIiLCJmcCI6IiIsIm1vZGUiOiIiLCJhbHBuIjoiIiwiZXh0cmEiOiIiLCJ2IjoiMiIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJwcyI6IkBWcmF5em9uZSIsInNlcnZpY2VOYW1lIjoibm9uZSJ9
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
+vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Vrayzone
 vmess://eyJwYXRoIjoiXC8iLCJwb3J0IjoiNDA1OTEiLCJmcCI6IiIsInNuaSI6IiIsImV4dHJhIjoiIiwiYWRkIjoiNjYuMTUxLjQwLjE3MCIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInBzIjoiQFZyYXl6b25lIiwiaWQiOiI5NmZmMTVjMi1hMWM4LTRlNzEtZDU2Yi1mMjY3YTM2NTdkNjQiLCJ0bHMiOiJub25lIiwic2VlZCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsIm1vZGUiOiIiLCJoZWFkZXJUeXBlIjoiIiwiZGV2aWNlSUQiOiIiLCJuZXQiOiJ3cyIsImZyYWdtZW50IjoiIiwiaG9zdCI6IiIsInYiOiIyIiwiYWxwbiI6IiJ9
@@ -134,7 +145,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Vrayzone%200
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%40Vrayzone%200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40Vrayzone%200
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone%209
+vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMjAxNyIsImhlYWRlclR5cGUiOiJub25lIiwiZnJhZ21lbnQiOiIiLCJhaWQiOiIwIiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsInRscyI6Im5vbmUiLCJzZWVkIjoiIiwiZGV2aWNlSUQiOiIiLCJzbmkiOiIiLCJmcCI6IiIsIm1vZGUiOiIiLCJhbHBuIjoiIiwiZXh0cmEiOiIiLCJ2IjoiMiIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJwcyI6IkBWcmF5em9uZSIsInNlcnZpY2VOYW1lIjoibm9uZSJ9
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
+vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Vrayzone
 vmess://eyJwYXRoIjoiXC8iLCJwb3J0IjoiNDA1OTEiLCJmcCI6IiIsInNuaSI6IiIsImV4dHJhIjoiIiwiYWRkIjoiNjYuMTUxLjQwLjE3MCIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInBzIjoiQFZyYXl6b25lIiwiaWQiOiI5NmZmMTVjMi1hMWM4LTRlNzEtZDU2Yi1mMjY3YTM2NTdkNjQiLCJ0bHMiOiJub25lIiwic2VlZCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsIm1vZGUiOiIiLCJoZWFkZXJUeXBlIjoiIiwiZGV2aWNlSUQiOiIiLCJuZXQiOiJ3cyIsImZyYWdtZW50IjoiIiwiaG9zdCI6IiIsInYiOiIyIiwiYWxwbiI6IiJ9
@@ -193,7 +207,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Vrayzone%200
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%40Vrayzone%200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40Vrayzone%200
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone%209
+vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMjAxNyIsImhlYWRlclR5cGUiOiJub25lIiwiZnJhZ21lbnQiOiIiLCJhaWQiOiIwIiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsInRscyI6Im5vbmUiLCJzZWVkIjoiIiwiZGV2aWNlSUQiOiIiLCJzbmkiOiIiLCJmcCI6IiIsIm1vZGUiOiIiLCJhbHBuIjoiIiwiZXh0cmEiOiIiLCJ2IjoiMiIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJwcyI6IkBWcmF5em9uZSIsInNlcnZpY2VOYW1lIjoibm9uZSJ9
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
+vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Vrayzone
 vmess://eyJwYXRoIjoiXC8iLCJwb3J0IjoiNDA1OTEiLCJmcCI6IiIsInNuaSI6IiIsImV4dHJhIjoiIiwiYWRkIjoiNjYuMTUxLjQwLjE3MCIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInBzIjoiQFZyYXl6b25lIiwiaWQiOiI5NmZmMTVjMi1hMWM4LTRlNzEtZDU2Yi1mMjY3YTM2NTdkNjQiLCJ0bHMiOiJub25lIiwic2VlZCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsIm1vZGUiOiIiLCJoZWFkZXJUeXBlIjoiIiwiZGV2aWNlSUQiOiIiLCJuZXQiOiJ3cyIsImZyYWdtZW50IjoiIiwiaG9zdCI6IiIsInYiOiIyIiwiYWxwbiI6IiJ9
@@ -252,7 +269,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40Vrayzone%200
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%40Vrayzone%200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40Vrayzone%200
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Vrayzone%209
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=/?ed%3D2560&amp;sni=PaGes.deV&amp;fp=chrome#@Vrayzone
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.gerald81.dpdns.org&amp;path=/Barayeiranmahsang/----@-?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/J5aLQOY1R9ONWYCM?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/6TvG8D6HimXKgdp2?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
@@ -297,7 +316,3 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?security=tls&amp;
 vmess://eyJuZXQiOiJ3cyIsImFscG4iOiIiLCJ0bHMiOiJ0bHMiLCJhaWQiOiIwIiwic25pIjoiIiwibW9kZSI6IiIsImRldmljZUlEIjoiIiwiZnJhZ21lbnQiOiIiLCJwcyI6IkBWcmF5em9uZSAxIiwiYWRkIjoib3YtZ2VybWFueTcuMDl2cG4uY29tIiwiaWQiOiI4YjdlYzk4ZC1jMjkxLTQwMzQtOTcxOS1lNmQ2MjA1MTYzNmEiLCJmcCI6ImNocm9tZSIsInNlZWQiOiIiLCJleHRyYSI6IiIsInBhdGgiOiJcL3ZtZXNzXC8iLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwb3J0IjoiODQ0MyIsInYiOiIyIiwiaGVhZGVyVHlwZSI6IiJ9
 vless://ce7882f8-059e-482a-8df9-a64da1bc443c@elipii2.digi-elipii.ir:80?security=tls&amp;encryption=none&amp;type=tcp&amp;host=google.com&amp;path=/&amp;sni=digi-elipii.ir&amp;fp=firefox&amp;headerType=http&amp;alpn=h2,http/1.1#@Vrayzone
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?security=none&amp;encryption=none&amp;type=httpupgrade#@Vrayzone
-vmess://eyJ0eXBlIjoibm9uZSIsInBvcnQiOiIzMjAxNyIsImhlYWRlclR5cGUiOiJub25lIiwiZnJhZ21lbnQiOiIiLCJhaWQiOiIwIiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsInRscyI6Im5vbmUiLCJzZWVkIjoiIiwiZGV2aWNlSUQiOiIiLCJzbmkiOiIiLCJmcCI6IiIsIm1vZGUiOiIiLCJhbHBuIjoiIiwiZXh0cmEiOiIiLCJ2IjoiMiIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJwcyI6IkBWcmF5em9uZSIsInNlcnZpY2VOYW1lIjoibm9uZSJ9
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone

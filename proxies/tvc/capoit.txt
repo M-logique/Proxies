@@ -10,8 +10,6 @@ vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F-----
 vless://530cf76c-defc-4e0d-f1c6-771c3afbb2f7@31.15.16.231:80?security=&amp;seed=YUM5umGtzF&amp;encryption=none&amp;headerType=none&amp;type=kcp#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Boy9ja.abdo.fr&amp;type=ws#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Babakari.ir&amp;type=ws#@Capoit
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Capoit
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F--------ff_kikor-----%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=my.digikala.dynv6.net&amp;type=ws&amp;sni=my.digikala.dynv6.net#@Capoit
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet-7py.pages.dev#@Capoit
 vless://turboo-server@146.75.55.82:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=turboo-server-bot.com&amp;type=xhttp#@Capoit
 vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=truboo-server.us&amp;type=xhttp#@Capoit
@@ -24,8 +22,6 @@ vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F-----
 vless://530cf76c-defc-4e0d-f1c6-771c3afbb2f7@31.15.16.231:80?security=&amp;seed=YUM5umGtzF&amp;encryption=none&amp;headerType=none&amp;type=kcp#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Boy9ja.abdo.fr&amp;type=ws#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Babakari.ir&amp;type=ws#@Capoit
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Capoit
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F--------ff_kikor-----%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=my.digikala.dynv6.net&amp;type=ws&amp;sni=my.digikala.dynv6.net#@Capoit
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet-7py.pages.dev#@Capoit
 vless://turboo-server@146.75.55.82:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=turboo-server-bot.com&amp;type=xhttp#@Capoit
 vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=truboo-server.us&amp;type=xhttp#@Capoit
@@ -38,8 +34,6 @@ vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F-----
 vless://530cf76c-defc-4e0d-f1c6-771c3afbb2f7@31.15.16.231:80?security=&amp;seed=YUM5umGtzF&amp;encryption=none&amp;headerType=none&amp;type=kcp#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Boy9ja.abdo.fr&amp;type=ws#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Babakari.ir&amp;type=ws#@Capoit
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Capoit
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F--------ff_kikor-----%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=my.digikala.dynv6.net&amp;type=ws&amp;sni=my.digikala.dynv6.net#@Capoit
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet-7py.pages.dev#@Capoit
 vless://turboo-server@146.75.55.82:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=turboo-server-bot.com&amp;type=xhttp#@Capoit
 vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=truboo-server.us&amp;type=xhttp#@Capoit
@@ -52,8 +46,6 @@ vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F-----
 vless://530cf76c-defc-4e0d-f1c6-771c3afbb2f7@31.15.16.231:80?security=&amp;seed=YUM5umGtzF&amp;encryption=none&amp;headerType=none&amp;type=kcp#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Boy9ja.abdo.fr&amp;type=ws#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Babakari.ir&amp;type=ws#@Capoit
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Capoit
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F--------ff_kikor-----%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=my.digikala.dynv6.net&amp;type=ws&amp;sni=my.digikala.dynv6.net#@Capoit
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet-7py.pages.dev#@Capoit
 vless://turboo-server@146.75.55.82:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=turboo-server-bot.com&amp;type=xhttp#@Capoit
 vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=truboo-server.us&amp;type=xhttp#@Capoit
@@ -66,8 +58,6 @@ vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F-----
 vless://530cf76c-defc-4e0d-f1c6-771c3afbb2f7@31.15.16.231:80?security=&amp;seed=YUM5umGtzF&amp;encryption=none&amp;headerType=none&amp;type=kcp#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Boy9ja.abdo.fr&amp;type=ws#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Babakari.ir&amp;type=ws#@Capoit
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Capoit
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F--------ff_kikor-----%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=my.digikala.dynv6.net&amp;type=ws&amp;sni=my.digikala.dynv6.net#@Capoit
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=azadnet-7py.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=azadnet-7py.pages.dev#@Capoit
 vless://turboo-server@146.75.55.82:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=turboo-server-bot.com&amp;type=xhttp#@Capoit
 vless://turboo-server@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=truboo-server.us&amp;type=xhttp#@Capoit
@@ -80,8 +70,9 @@ vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F-----
 vless://530cf76c-defc-4e0d-f1c6-771c3afbb2f7@31.15.16.231:80?security=&amp;seed=YUM5umGtzF&amp;encryption=none&amp;headerType=none&amp;type=kcp#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Boy9ja.abdo.fr&amp;type=ws#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Babakari.ir&amp;type=ws#@Capoit
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=nginx.nscl.ir&amp;type=ws&amp;sni=NGINX.NSCl.IR#@Capoit
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F--------ff_kikor-----%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=my.digikala.dynv6.net&amp;type=ws&amp;sni=my.digikala.dynv6.net#@Capoit
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#@Capoit
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#@Capoit
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318&amp;security=tls&amp;encryption=none&amp;host=privasi.turah.my.id&amp;fp=chrome&amp;type=ws&amp;sni=privasi.turah.my.id#@Capoit
 vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tbs-80p.pages.dev&amp;type=ws&amp;sni=pages.dev#@Capoit
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=azadnet-3dr.pages.dev&amp;fp=random&amp;type=ws&amp;sni=azadnet-3dr.pages.dev#@Capoit
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318&amp;security=tls&amp;encryption=none&amp;host=privasi.turah.my.id&amp;fp=chrome&amp;type=ws&amp;sni=privasi.turah.my.id#@Capoit
