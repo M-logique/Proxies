@@ -111,6 +111,7 @@ vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?type=tcp&amp;he
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@5.75.193.108:443?type=tcp&amp;headerType=http&amp;host=exo.ir&amp;security=none#Altura%20VPN
 vmess://eyJhZGQiOiJ4NS54cmF5dnBuLnRvcCIsInRscyI6Im5vbmUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwiaWQiOiI4NmJhNDlhNy1iZDAxLTQ5ZWUtOTEzNC0wNDJlYzZjMTFhNzMiLCJwcyI6IkFsdHVyYSUyMFZQTiIsInBvcnQiOiI1NzE0NyIsInR5cGUiOiJub25lIn0=…
 vmess://eyJhZGQiOiJ4NS54cmF5dnBuLnRvcCIsInRscyI6Im5vbmUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwiaWQiOiI4NmJhNDlhNy1iZDAxLTQ5ZWUtOTEzNC0wNDJlYzZjMTFhNzMiLCJwcyI6IkFsdHVyYSUyMFZQTiIsInBvcnQiOiI1NzE0NyIsInR5cGUiOiJub25lIn0=
+vless://9767a982-d18d-4634-ad2b-c93489cbffae@5.75.193.108:443?type=tcp&amp;headerType=http&amp;host=exo.ir&amp;security=none#Altura%20VPN
 vless://f6a1d517-de1d-494f-ab76-730f61e019e3@my.zarlate-ok7.ir:23971?type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;security=none#Altura%20VPN
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.26.6.89:8443?type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=/&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG#Altura%20VPN
 vless://c98a16e4…
@@ -156,7 +157,6 @@ vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?type=tcp&amp;he
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@5.75.193.108:443?type=tcp&amp;headerType=http&amp;host=exo.ir&amp;security=none#Altura%20VPN
 vmess://eyJhZGQiOiJ4NS54cmF5dnBuLnRvcCIsInRscyI6Im5vbmUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwiaWQiOiI4NmJhNDlhNy1iZDAxLTQ5ZWUtOTEzNC0wNDJlYzZjMTFhNzMiLCJwcyI6IkFsdHVyYSUyMFZQTiIsInBvcnQiOiI1NzE0NyIsInR5cGUiOiJub25lIn0=…
 vmess://eyJhZGQiOiJ4NS54cmF5dnBuLnRvcCIsInRscyI6Im5vbmUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwiaWQiOiI4NmJhNDlhNy1iZDAxLTQ5ZWUtOTEzNC0wNDJlYzZjMTFhNzMiLCJwcyI6IkFsdHVyYSUyMFZQTiIsInBvcnQiOiI1NzE0NyIsInR5cGUiOiJub25lIn0=
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@5.75.193.108:443?type=tcp&amp;headerType=http&amp;host=exo.ir&amp;security=none#Altura%20VPN
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@5.75.193.108:443?type=tcp&amp;headerType=http&amp;host=exo.ir&amp;security=none#Altura%20VPN
 vless://idTel--SRCVPN--@88.99.87.227:2090?type=grpc&amp;mode=gun&amp;serviceName=32135vless&amp;authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&amp;sid=aa0dd5ba&amp;spx=/#Altura%20VPN
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560&amp;security=none#Altura%20VPN
