@@ -1,5 +1,5 @@
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://541b75c0-4648-4074-bf12-685d53ec2eea@nl.dnszone.top:45600?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?security=tls&amp;sni=statue.lnmarketplace.net&amp;alpn=h2&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=TW.kKpopH4Zmc.ZUlaIr.orG&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?security=tls&amp;sni=statue.lnmarketplace.net&amp;alpn=h2&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=TW.kKpopH4Zmc.ZUlaIr.orG&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&amp;type=ws&amp;path=/1ycR2zb3KeELWRha?ed%3D2560&amp;host=VngSuPpLY.IP-DdnS.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
