@@ -29,7 +29,7 @@ vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?securit
 vless://727ca3b9-8cb6-44da-a24c-d44da6332436@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://689704e7-1c9b-420a-b685-aaee7d530a4e@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
 vless://689704e7-1c9b-420a-b685-aaee7d530a4e@ir1.phantompanel.shop:19309?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2Frobots.txt&amp;host=towhidshop.org#🇩🇪
-vless://10fd3ef1-0def-40a1-9d52-bda77444e56b@91.107.170.231:2053/?type=tcp&amp;path=@ZedBaz_vpn&amp;host=bmw.com&amp;headerType=http&amp;security=none#@ZedBaz_vpn
+vless://10fd3ef1-0def-40a1-9d52-bda77444e56b@91.107.170.231:2053/?type=tcp&amp;path=/@ZedBaz_vpn&amp;host=bmw.com&amp;headerType=http&amp;security=none#@ZedBaz_vpn
 vless://a1a168b4-8405-4e98-93f8-7d00de708f0f@91.107.170.231:2053/?type=tcp&amp;path=/@ZedBaz_vpn&amp;host=bmw.com&amp;headerType=http&amp;security=none#@ZedBaz_vpn
 vless://a1a168b4-8405-4e98-93f8-7d00de708f0f@91.107.170.231:2053/?type=tcp&amp;path=/@ZedBaz_vpn&amp;host=bmw.com&amp;headerType=http&amp;security=none#@ZedBaz_vpn
 vless://bf64140e-70f0-4d20-8753-ad453e820ed5@91.107.170.231:2053?type=tcp&amp;path=/@ZedBaz_vpn&amp;host=bmw.com&amp;headerType=http&amp;security=none#@ZedBaz_vpn
