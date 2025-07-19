@@ -1,3 +1,5 @@
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@jobscareertoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
 vmess://eyJhZGQiOiIxMzguMTk5LjE0Ni4xODEiLCJwb3J0IjoiMTM0MTEiLCJpZCI6ImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MWQ3NTA1YS1kYWYyLTRiNzEtYTdiZS1lOGMzODE3Y2Q0NDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NTAwIiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
@@ -15,8 +17,8 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN29lSnFpUllxNUVKRk1icFlWTDhN@83.172.138.148:8443#[🇩🇪]t.me/vpnade
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=uivtfybyi.com&amp;path=ws%2F%3Fed%3D2048#[🇨🇦]t.me/vpnade
 trojan://0RiSuJPsug%23v@104.21.32.1:443?path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=getasa.ir&amp;fp=randomized&amp;type=ws&amp;sni=gEtASa.Ir#[🇨🇦]t.me/vpnade
-vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.16.60.155:443?security=tls&amp;sni=lhxt.xiaomi.win&amp;type=ws&amp;host=lhxt.xiaomi.win&amp;allowInsecure=0#[🇨🇦]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQUdac3FucjUyQlJsZjJpS1lYeTBs@185.122.187.192:8443#[🇩🇪]t.me/vpnade
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@jobscareertoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
 vmess://eyJhZGQiOiIxMzguMTk5LjE0Ni4xODEiLCJwb3J0IjoiMTM0MTEiLCJpZCI6ImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MWQ3NTA1YS1kYWYyLTRiNzEtYTdiZS1lOGMzODE3Y2Q0NDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NTAwIiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
@@ -34,8 +36,8 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN29lSnFpUllxNUVKRk1icFlWTDhN@83.172.138.148:8443#[🇩🇪]t.me/vpnade
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=uivtfybyi.com&amp;path=ws%2F%3Fed%3D2048#[🇨🇦]t.me/vpnade
 trojan://0RiSuJPsug%23v@104.21.32.1:443?path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=getasa.ir&amp;fp=randomized&amp;type=ws&amp;sni=gEtASa.Ir#[🇨🇦]t.me/vpnade
-vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.16.60.155:443?security=tls&amp;sni=lhxt.xiaomi.win&amp;type=ws&amp;host=lhxt.xiaomi.win&amp;allowInsecure=0#[🇨🇦]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQUdac3FucjUyQlJsZjJpS1lYeTBs@185.122.187.192:8443#[🇩🇪]t.me/vpnade
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@jobscareertoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
 vmess://eyJhZGQiOiIxMzguMTk5LjE0Ni4xODEiLCJwb3J0IjoiMTM0MTEiLCJpZCI6ImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MWQ3NTA1YS1kYWYyLTRiNzEtYTdiZS1lOGMzODE3Y2Q0NDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NTAwIiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
@@ -53,8 +55,8 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN29lSnFpUllxNUVKRk1icFlWTDhN@83.172.138.148:8443#[🇩🇪]t.me/vpnade
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=uivtfybyi.com&amp;path=ws%2F%3Fed%3D2048#[🇨🇦]t.me/vpnade
 trojan://0RiSuJPsug%23v@104.21.32.1:443?path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=getasa.ir&amp;fp=randomized&amp;type=ws&amp;sni=gEtASa.Ir#[🇨🇦]t.me/vpnade
-vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.16.60.155:443?security=tls&amp;sni=lhxt.xiaomi.win&amp;type=ws&amp;host=lhxt.xiaomi.win&amp;allowInsecure=0#[🇨🇦]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQUdac3FucjUyQlJsZjJpS1lYeTBs@185.122.187.192:8443#[🇩🇪]t.me/vpnade
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@jobscareertoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
 vmess://eyJhZGQiOiIxMzguMTk5LjE0Ni4xODEiLCJwb3J0IjoiMTM0MTEiLCJpZCI6ImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MWQ3NTA1YS1kYWYyLTRiNzEtYTdiZS1lOGMzODE3Y2Q0NDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NTAwIiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
@@ -72,8 +74,8 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN29lSnFpUllxNUVKRk1icFlWTDhN@83.172.138.148:8443#[🇩🇪]t.me/vpnade
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=uivtfybyi.com&amp;path=ws%2F%3Fed%3D2048#[🇨🇦]t.me/vpnade
 trojan://0RiSuJPsug%23v@104.21.32.1:443?path=%2Ftrwyloqpds7opA6LuX%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=getasa.ir&amp;fp=randomized&amp;type=ws&amp;sni=gEtASa.Ir#[🇨🇦]t.me/vpnade
-vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.16.60.155:443?security=tls&amp;sni=lhxt.xiaomi.win&amp;type=ws&amp;host=lhxt.xiaomi.win&amp;allowInsecure=0#[🇨🇦]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQUdac3FucjUyQlJsZjJpS1lYeTBs@185.122.187.192:8443#[🇩🇪]t.me/vpnade
+vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#[🇨🇦]t.me/vpnade
+trojan://f0eb8c92ce8946aaba856569cff1a16b@jobscareerfortoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
 vless://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?path=%2F%3F--%40FREEV2RNG--Bia-FREEV2rng--Kanal-%40FREEv2RNG--&amp;security=none&amp;encryption=none&amp;type=ws#[🇨🇦]t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU@194.87.31.68:443#[🇳🇱]t.me/vpnade
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh30v8.waipdirect.shop#[🇺🇸]t.me/vpnade
@@ -92,5 +94,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.4:443?security=tls&amp;
 vless://2db2fd8c-1df8-40be-b428-eb58982732b4@151.101.2.133:443?security=tls&amp;sni=live.wkrq.com&amp;type=ws&amp;host=Tehran2.Org&amp;path=%2FVpnWedbaz---VpnWedBaZ%3Fed&amp;fp=firefox&amp;alpn=h2#[🇨🇦]t.me/vpnade
 vless://caabbac-aabc-aacb-badc-ccaababccbba@127.0.0.1:1080?security=tls&amp;type=tcp#[🏁]t.me/vpnade
 trojan://f0eb8c92ce8946aaba856569cff1a16b@jobscareerfortoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@jobscareertoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
