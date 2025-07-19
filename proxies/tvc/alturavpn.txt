@@ -34,9 +34,6 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.26.6.89:8443?type=ws&amp;host=I
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443?type=tcp#Altura%20VPN
 vless://Parsashonam-284@185.146.173.39:8880?type=httpupgrade&amp;host=De.Parsashonam.CfD.&amp;path=/Parsashonam-Parsashonam-Parsashonam/?ed%3D2056&amp;security=none#Altura%20VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443?type=tcp#Altura%20VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443?type=tcp#Altura%20VPN
-vless://Parsashonam-284@185.146.173.39:8880?type=httpupgrade&amp;host=De.Parsashonam.CfD.&amp;path=/Parsashonam-Parsashonam-Parsashonam/?ed%3D2056&amp;security=none#Altura%20VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443?type=tcp#Altura%20VPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?type=grpc&amp;mode=gun&amp;security=none#Altura%20VPN
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=/proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm?ed%3D2560&amp;security=tls&amp;sni=PaGes.deV#Altura%20VPN
 vless://1cfbf08c-6e6f-4f2f-9345-c513a8e1b916@94.183.158.11:8083?type=ws&amp;path=/&amp;security=none#Altura%20VPN
@@ -54,6 +51,9 @@ vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&amp;sid=974a74bf#Altura%20VPN
 vless://f6a1d517-de1d-494f-ab76-730f61e019e3@my.zarlate-ok7.ir:23971?type=tcp&amp;headerType=http&amp;host=zula.ir&amp;path=/&amp;security=none#Altura%20VPN
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.26.6.89:8443?type=ws&amp;host=IyFpLkXk10.jOoLaJoOlA.OrG&amp;path=/&amp;security=tls&amp;sni=IyFpLkXk10.jOoLaJoOlA.OrG#Altura%20VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443?type=tcp#Altura%20VPN
+vless://Parsashonam-284@185.146.173.39:8880?type=httpupgrade&amp;host=De.Parsashonam.CfD.&amp;path=/Parsashonam-Parsashonam-Parsashonam/?ed%3D2056&amp;security=none#Altura%20VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443?type=tcp#Altura%20VPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?type=grpc&amp;mode=gun&amp;security=none#Altura%20VPN
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&amp;host=MydigiKala.pAges.dEv&amp;path=/proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm?ed%3D2560&amp;security=tls&amp;sni=PaGes.deV#Altura%20VPN
 vless://1cfbf08c-6e6f-4f2f-9345-c513a8e1b916@94.183.158.11:8083?type=ws&amp;path=/&amp;security=none#Altura%20VPN
