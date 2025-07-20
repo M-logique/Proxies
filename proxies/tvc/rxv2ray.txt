@@ -31,6 +31,8 @@ vless://d99c54fb-2cba-4b0e-b140-beee2fd6ea7b@nv163.momdping.com:443?path=%2F&amp
 vless://d1d00b07-7324-4250-809c-e20fcc223340@nv149.momdping.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=nv149.momdping.com#test
 vless://d1d00b07-7324-4250-809c-e20fcc223340@nv149.momdping.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=nv149.momdping.com#test
 vless://d1d00b07-7324-4250-809c-e20fcc223340@nv149.momdping.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=nv149.momdping.com#test
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40rxv2ray
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%40rxv2ray
