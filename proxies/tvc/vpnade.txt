@@ -1,3 +1,5 @@
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/vpnade
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 trojan://bcacaba-abac-aabc-cabd-accbababccab@127.0.0.1:1080?security=tls&amp;type=tcp#[🏁]t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg%3D%3D@ca.opensocks.site:1443#[🇨🇦]t.me/vpnade
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
@@ -16,8 +18,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?encryption=none&
 vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#[🇩🇪]t.me/vpnade
 trojan://2cba4104747d49d18319e5ade1b93ab5@jobscareerfortoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#[🇳🇱]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/vpnade
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 trojan://bcacaba-abac-aabc-cabd-accbababccab@127.0.0.1:1080?security=tls&amp;type=tcp#[🏁]t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg%3D%3D@ca.opensocks.site:1443#[🇨🇦]t.me/vpnade
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
@@ -36,8 +38,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?encryption=none&
 vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#[🇩🇪]t.me/vpnade
 trojan://2cba4104747d49d18319e5ade1b93ab5@jobscareerfortoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#[🇳🇱]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/vpnade
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 trojan://bcacaba-abac-aabc-cabd-accbababccab@127.0.0.1:1080?security=tls&amp;type=tcp#[🏁]t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg%3D%3D@ca.opensocks.site:1443#[🇨🇦]t.me/vpnade
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
@@ -56,8 +58,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?encryption=none&
 vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#[🇩🇪]t.me/vpnade
 trojan://2cba4104747d49d18319e5ade1b93ab5@jobscareerfortoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#[🇳🇱]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/vpnade
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 trojan://bcacaba-abac-aabc-cabd-accbababccab@127.0.0.1:1080?security=tls&amp;type=tcp#[🏁]t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg%3D%3D@ca.opensocks.site:1443#[🇨🇦]t.me/vpnade
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#[🇬🇧]t.me/vpnade
@@ -76,8 +78,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?encryption=none&
 vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#[🇩🇪]t.me/vpnade
 trojan://2cba4104747d49d18319e5ade1b93ab5@jobscareerfortoday.com:443?allowInsecure=1#[🇺🇸]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#[🇳🇱]t.me/vpnade
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?type=tcp&amp;headerType=none#[🇺🇸]t.me/vpnade
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
+vless://dc316ea1-2449-4217-a6fb-12db67a9177d@151.101.2.228:80?security=none&amp;type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net#[🇨🇦]t.me/vpnade
 vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@104.21.43.168:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&amp;path=%2Ftelegram-v2ray_configs_pools%3Fed%3D80#[🇨🇦]t.me/vpnade
 vless://caabbac-aabc-aacb-badc-ccaababccbba@127.0.0.1:1080?security=tls&amp;type=tcp#[🏁]t.me/vpnade
 vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@91.247.171.93:27817?security=none&amp;type=tcp&amp;host=speedtest.net&amp;headerType=http#[🇮🇷]t.me/vpnade
@@ -94,5 +96,3 @@ vless://e850397d-a5c6-4582-a7f0-85fee8aa14e4@37.152.183.131:35021?security=&amp;
 vless://85ce2e37-819c-4d57-83ec-b6d6215a47ff@deu236.bypassall.org:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.bing.com&amp;fp=chrome&amp;pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&amp;spx=%2F&amp;type=tcp&amp;headerType=none#[🇩🇪]t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#[🇬🇧]t.me/vpnade
 vless://cc7cf5fb-25c2-48cf-a418-1bb8f7821605@142.132.227.65:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇩🇪]t.me/vpnade
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/vpnade
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
