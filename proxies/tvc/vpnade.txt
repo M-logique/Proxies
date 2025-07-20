@@ -1,3 +1,5 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.29.76:22224?encryption=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=%2Ftelegram-channel-v2ray_configs_pools#[🇫🇷]t.me/vpnade
+vless://42f8b774-f998-476d-ada2-2915588c7f45@95.217.192.56:2010?security=none&amp;encryption=none&amp;host=skyroom.online%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=%2FeJ5JZ3A1HxfU0bPO%3Fed%3D2560%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vNgSUppLy.IP-dDnS.COm#[🇨🇦]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&amp;encryption=none&amp;pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=maviks.ru&amp;sid=0f917152a871e9c0#[🇷🇺]t.me/vpnade
@@ -16,8 +18,8 @@ vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyo
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?security=tls&amp;type=httpupgrade&amp;headerType=&amp;path=%2FXRAYVPNHTTPUPGRADE&amp;host=nl1.blackismyfavorite.ir&amp;sni=nl1.blackismyfavorite.ir&amp;fp=firefox#[🇫🇷]t.me/vpnade
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇺🇸]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%3Fed#[🇨🇦]t.me/vpnade
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#[🇨🇦]t.me/vpnade
-vless://7b0ee47d-1a25-4897-9a6d-429886f62128@65.109.209.201:7642?type=tcp#[🇫🇮]t.me/vpnade
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.29.76:22224?encryption=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=%2Ftelegram-channel-v2ray_configs_pools#[🇫🇷]t.me/vpnade
+vless://42f8b774-f998-476d-ada2-2915588c7f45@95.217.192.56:2010?security=none&amp;encryption=none&amp;host=skyroom.online%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=%2FeJ5JZ3A1HxfU0bPO%3Fed%3D2560%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vNgSUppLy.IP-dDnS.COm#[🇨🇦]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&amp;encryption=none&amp;pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=maviks.ru&amp;sid=0f917152a871e9c0#[🇷🇺]t.me/vpnade
@@ -36,8 +38,8 @@ vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyo
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?security=tls&amp;type=httpupgrade&amp;headerType=&amp;path=%2FXRAYVPNHTTPUPGRADE&amp;host=nl1.blackismyfavorite.ir&amp;sni=nl1.blackismyfavorite.ir&amp;fp=firefox#[🇫🇷]t.me/vpnade
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇺🇸]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%3Fed#[🇨🇦]t.me/vpnade
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#[🇨🇦]t.me/vpnade
-vless://7b0ee47d-1a25-4897-9a6d-429886f62128@65.109.209.201:7642?type=tcp#[🇫🇮]t.me/vpnade
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.29.76:22224?encryption=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=%2Ftelegram-channel-v2ray_configs_pools#[🇫🇷]t.me/vpnade
+vless://42f8b774-f998-476d-ada2-2915588c7f45@95.217.192.56:2010?security=none&amp;encryption=none&amp;host=skyroom.online%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=%2FeJ5JZ3A1HxfU0bPO%3Fed%3D2560%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vNgSUppLy.IP-dDnS.COm#[🇨🇦]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&amp;encryption=none&amp;pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=maviks.ru&amp;sid=0f917152a871e9c0#[🇷🇺]t.me/vpnade
@@ -56,8 +58,8 @@ vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyo
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?security=tls&amp;type=httpupgrade&amp;headerType=&amp;path=%2FXRAYVPNHTTPUPGRADE&amp;host=nl1.blackismyfavorite.ir&amp;sni=nl1.blackismyfavorite.ir&amp;fp=firefox#[🇫🇷]t.me/vpnade
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇺🇸]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%3Fed#[🇨🇦]t.me/vpnade
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#[🇨🇦]t.me/vpnade
-vless://7b0ee47d-1a25-4897-9a6d-429886f62128@65.109.209.201:7642?type=tcp#[🇫🇮]t.me/vpnade
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.29.76:22224?encryption=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=%2Ftelegram-channel-v2ray_configs_pools#[🇫🇷]t.me/vpnade
+vless://42f8b774-f998-476d-ada2-2915588c7f45@95.217.192.56:2010?security=none&amp;encryption=none&amp;host=skyroom.online%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=%2FeJ5JZ3A1HxfU0bPO%3Fed%3D2560%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vNgSUppLy.IP-dDnS.COm#[🇨🇦]t.me/vpnade
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇫🇷]t.me/vpnade
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&amp;encryption=none&amp;pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=maviks.ru&amp;sid=0f917152a871e9c0#[🇷🇺]t.me/vpnade
@@ -76,8 +78,8 @@ vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyo
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?security=tls&amp;type=httpupgrade&amp;headerType=&amp;path=%2FXRAYVPNHTTPUPGRADE&amp;host=nl1.blackismyfavorite.ir&amp;sni=nl1.blackismyfavorite.ir&amp;fp=firefox#[🇫🇷]t.me/vpnade
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#[🇺🇸]t.me/vpnade
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%20KING_V2RAAY_%3Fed#[🇨🇦]t.me/vpnade
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#[🇨🇦]t.me/vpnade
-vless://7b0ee47d-1a25-4897-9a6d-429886f62128@65.109.209.201:7642?type=tcp#[🇫🇮]t.me/vpnade
+ss://YWVzLTI1Ni1nY206ZGU2YTA1YjctNjc3MC00NmI4LTgxYjUtNzA2NzUzOTFkYjZh@vmvmvm123.jmvks.cn:32001#[🏁]t.me/vpnade
+vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&amp;encryption=none&amp;host=igap.net&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@hk.fastsoonlink.com:40000#[🏁]t.me/vpnade
 vless://d4fa2f07-b925-4448-b921-9039bb5e6257@balanced-pl.irancdngame.com:2012?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=www.pcmag.com&amp;fp=firefox&amp;pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&amp;sid=#[🏁]t.me/vpnade
 vless://acbacba-cbaa-baac-dcab-cbaabababccc@127.0.0.1:8080?security=tls&amp;type=tcp#[🏁]t.me/vpnade
@@ -94,5 +96,3 @@ vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@91.247.171.93:27817?security=none&a
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=%2Fdy26vBaDi5RTblzP%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=net-aCcOUNt02.Pages.DEv&amp;fp=randomized&amp;type=ws&amp;sni=net-aCcOUNt02.Pages.DEv#[🇨🇦]t.me/vpnade
 vless://5d52e8ae-c7a3-4e2b-9edd-9253226f1ec1@speed.sorenajanebi.ir:2053?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#[🇮🇷]t.me/vpnade
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.19.218.151:8080?path=%2FijiDwDw8BcM9ieHc%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=v2ngsupply2.ip-ddns.com&amp;type=ws#[🇨🇦]t.me/vpnade
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.29.76:22224?encryption=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=%2Ftelegram-channel-v2ray_configs_pools#[🇫🇷]t.me/vpnade
-vless://42f8b774-f998-476d-ada2-2915588c7f45@95.217.192.56:2010?security=none&amp;encryption=none&amp;host=skyroom.online%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;headerType=none&amp;type=tcp#[🇫🇮]t.me/vpnade
