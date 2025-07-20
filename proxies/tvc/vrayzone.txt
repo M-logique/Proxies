@@ -1,3 +1,4 @@
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=simowebsitespeedtest.ir&amp;path=/8DBpLq5GSEtdR3Da/MTM1LjE4MS4xNjguMzA&amp;sni=SimOwEBSitEsPEEDtEst.ir&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=nginx.nscl.ir&amp;path=/assets&amp;sni=NGINX.NSCl.IR&amp;fp=chrome&amp;alpn=h3#@Vrayzone
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
@@ -67,9 +68,7 @@ vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&a
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;path=/?ed%3D2560#@Vrayzone
-vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=simowebsitespeedtest.ir&amp;path=/8DBpLq5GSEtdR3Da/MTM1LjE4MS4xNjguMzA&amp;sni=SimOwEBSitEsPEEDtEst.ir&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=nginx.nscl.ir&amp;path=/assets&amp;sni=NGINX.NSCl.IR&amp;fp=chrome&amp;alpn=h3#@Vrayzone
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
@@ -139,9 +138,7 @@ vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&a
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;path=/?ed%3D2560#@Vrayzone
-vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=simowebsitespeedtest.ir&amp;path=/8DBpLq5GSEtdR3Da/MTM1LjE4MS4xNjguMzA&amp;sni=SimOwEBSitEsPEEDtEst.ir&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=nginx.nscl.ir&amp;path=/assets&amp;sni=NGINX.NSCl.IR&amp;fp=chrome&amp;alpn=h3#@Vrayzone
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
@@ -211,9 +208,7 @@ vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&a
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;path=/?ed%3D2560#@Vrayzone
-vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=simowebsitespeedtest.ir&amp;path=/8DBpLq5GSEtdR3Da/MTM1LjE4MS4xNjguMzA&amp;sni=SimOwEBSitEsPEEDtEst.ir&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=nginx.nscl.ir&amp;path=/assets&amp;sni=NGINX.NSCl.IR&amp;fp=chrome&amp;alpn=h3#@Vrayzone
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#@Vrayzone
@@ -283,9 +278,7 @@ vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&a
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;path=/?ed%3D2560#@Vrayzone
-vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;encryption=none&amp;type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/fgvtHUpS6R8Rv8s5?ed%3D2560#@Vrayzone
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9qQDQ1Ljg3LjE3NS4xNjc6ODA4MA==#@Vrayzone
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?security=tls&amp;encryption=none&amp;type=ws&amp;host=gghdfa.pages.dev&amp;path=/8WuhXm4QjK0L68Uf?ed%3D2560&amp;sni=gGHDFa.pAgeS.Dev&amp;fp=chrome#@Vrayzone
@@ -323,4 +316,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&amp
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/fgvtHUpS6R8Rv8s5?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=/1ycR2zb3KeELWRha?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/J5aLQOY1R9ONWYCM?ed%3D2560#@Vrayzone
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=simowebsitespeedtest.ir&amp;path=/8DBpLq5GSEtdR3Da/MTM1LjE4MS4xNjguMzA&amp;sni=SimOwEBSitEsPEEDtEst.ir&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
