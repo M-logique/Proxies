@@ -1,11 +1,3 @@
-vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Op.mciickoir.ir:9620?security=none&amp;e…
-trojan://telegram-id-privatevpns@3.121.254.201:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#v2ray_cartel
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#v2ray_cartel
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#v2ray_cartel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#@v2ray_cartel
-vless://7ed5bedd-c593-42e9-89a5-5e1e61930b3b@tunel.smartpanel.com.tr:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=turkiye-smartbot.global.ssl.fastly.net&amp;type=xhttp#v2ray_cartel
-vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Op.mciickoir.ir:9620?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#v2ray_cartel
-trojan://telegram-id-privatevpns@3.121.254.201:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#v2ray_cartel
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&amp;sni=my.ski1plag.ir&amp;alpn=h2,http/1.1&amp;fp=random&amp;type=ws&amp;path=/Telegram@V2ray_Alpha&amp;host=my.ski1plag.ir&amp;packetEncoding=xudp&amp;encryption=none#v2ray_cartel
 vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=%2Fmmdhmrws&amp;security=tls&amp;encryption=none&amp;host=638868951946670036.amsterdam-prx-dnraaal.info&amp;type=ws&amp;sni=638868951946670036.amsterdam-prx-dnraaal.info#%40V2ray_cartel
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=x1-germany-digitalocean-v2.devefun.org#%40V2ray_cartel
