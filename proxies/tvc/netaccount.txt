@@ -1,8 +1,3 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
-trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#@NetAccount
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
@@ -17,11 +12,6 @@ vless://4a8c5dde-908b-4a8f-84ed-669fbce496c9@nl-one.vipshopiran.ir:2299?security
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;sni=simOWeBSItESPeeDtESt.Ir&amp;alpn=http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/1QVex5pL4u1tKIK6?ed%3D2560&amp;host=simowebsitespeedtest.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://9d5cf123-416b-45f4-a56b-b1fe9002b819@cellone.learn-new.ir:443?security=reality&amp;sni=khanacademy.org&amp;alpn=http/1.1&amp;pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&amp;sid=6acf3ba5790e4324&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vmess://9d5cf123-416b-45f4-a56b-b1fe9002b819@prom.learn-new.ir:80?encryption=auto&amp;security=none&amp;sni=soft98.ir&amp;fp=&amp;type=tcp&amp;headerType=http&amp;host=soft98.ir#@NetAccount
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
-trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#@NetAccount
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
@@ -36,11 +26,6 @@ vless://4a8c5dde-908b-4a8f-84ed-669fbce496c9@nl-one.vipshopiran.ir:2299?security
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;sni=simOWeBSItESPeeDtESt.Ir&amp;alpn=http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/1QVex5pL4u1tKIK6?ed%3D2560&amp;host=simowebsitespeedtest.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://9d5cf123-416b-45f4-a56b-b1fe9002b819@cellone.learn-new.ir:443?security=reality&amp;sni=khanacademy.org&amp;alpn=http/1.1&amp;pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&amp;sid=6acf3ba5790e4324&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vmess://9d5cf123-416b-45f4-a56b-b1fe9002b819@prom.learn-new.ir:80?encryption=auto&amp;security=none&amp;sni=soft98.ir&amp;fp=&amp;type=tcp&amp;headerType=http&amp;host=soft98.ir#@NetAccount
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
-trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#@NetAccount
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
@@ -55,11 +40,6 @@ vless://4a8c5dde-908b-4a8f-84ed-669fbce496c9@nl-one.vipshopiran.ir:2299?security
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;sni=simOWeBSItESPeeDtESt.Ir&amp;alpn=http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/1QVex5pL4u1tKIK6?ed%3D2560&amp;host=simowebsitespeedtest.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://9d5cf123-416b-45f4-a56b-b1fe9002b819@cellone.learn-new.ir:443?security=reality&amp;sni=khanacademy.org&amp;alpn=http/1.1&amp;pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&amp;sid=6acf3ba5790e4324&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vmess://9d5cf123-416b-45f4-a56b-b1fe9002b819@prom.learn-new.ir:80?encryption=auto&amp;security=none&amp;sni=soft98.ir&amp;fp=&amp;type=tcp&amp;headerType=http&amp;host=soft98.ir#@NetAccount
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
-trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#@NetAccount
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
@@ -74,11 +54,6 @@ vless://4a8c5dde-908b-4a8f-84ed-669fbce496c9@nl-one.vipshopiran.ir:2299?security
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&amp;sni=simOWeBSItESPeeDtESt.Ir&amp;alpn=http/1.1&amp;fp=randomized&amp;type=ws&amp;path=/1QVex5pL4u1tKIK6?ed%3D2560&amp;host=simowebsitespeedtest.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://9d5cf123-416b-45f4-a56b-b1fe9002b819@cellone.learn-new.ir:443?security=reality&amp;sni=khanacademy.org&amp;alpn=http/1.1&amp;pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&amp;sid=6acf3ba5790e4324&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vmess://9d5cf123-416b-45f4-a56b-b1fe9002b819@prom.learn-new.ir:80?encryption=auto&amp;security=none&amp;sni=soft98.ir&amp;fp=&amp;type=tcp&amp;headerType=http&amp;host=soft98.ir#@NetAccount
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
-trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?security=reality&amp;sni=cloudflare.com&amp;fp=chrome&amp;pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&amp;sid=1e&amp;type=grpc&amp;serviceName=Telegram:@FergalVpnMod&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vmess://94440946-20d3-48e3-9acc-bca519c6791f@91.99.209.224:32821?encryption=auto&amp;security=none&amp;fp=&amp;type=tcp#@NetAccount
