@@ -1,3 +1,8 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?security=none&amp;type=ws&amp;path=/?ed%3D2048&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
+trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#@NetAccount
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#@NetAccount
