@@ -87,6 +87,9 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?path=%2Fapi%2Fv1&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=arc-448.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=ARC-448.Pages.DEV#IRAN%20344%20%28%40Cook_Vpn%29%20free
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://bfa01d9d-b7ad-4ca0-a9e7-d94a7db02f4a@139.162.187.176:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=cdn39030.marzban-l.ir&amp;path=%2F%3Fed%3D2048#%40V2ray_Market11
+vless://5b72e595-de09-4192-8b94-f46bbe0f0bd2@zn.boshrachoice.ir:4433?encryption=none&amp;security=reality&amp;sni=sourceforge.net&amp;fp=chrome&amp;pbk=IUk4LR6VI6CnvLMY_ks1KdOHvB1_byMvQM3gZfuU5S0&amp;sid=6762f9cf85154ca2&amp;type=tcp&amp;headerType=none#%40v2ray_market11
+vless://5b72e595-de09-4192-8b94-f46bbe0f0bd2@zn.boshrachoice.ir:9944?encryption=none&amp;security=reality&amp;sni=sourceforge.net&amp;fp=chrome&amp;pbk=IUk4LR6VI6CnvLMY_ks1KdOHvB1_byMvQM3gZfuU5S0&amp;sid=6762f9cf85154ca2&amp;type=tcp&amp;headerType=none#%40v2ray_market11
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=&amp;encryption=none&amp;host=www.varzesh3.com&amp;headerType=http&amp;type=tcp#@taktazgoldبرای
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
