@@ -1,8 +1,8 @@
 vmess://eyJhZGQiOiJnZXJtYW55LXNvbHV0aW9uLmJuaXdyaW5nLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGl2YXJjZG4uY29tIiwiaWQiOiIzNDc0ZWJhOS02ZjQ2LTQxNGMtYTk0Zi1iZjI3OTI4YTY0YTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI3OTc3IiwicHMiOiJATklNX1ZQTl9pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@Irancloud.okamii.ir:2095?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NIM_VPN_ir
+vless://0652d836-573c-4505-9617-fde1a595f14f@okamitamzimovahrat.ivy-net.ir:2080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=parsabr.com#%20%40NIM_VPN_ir
 vless://48113b57-8b64-465c-91ef-898f7577b312@v2shop2.bing-net.com:4902?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40NIM_VPN_ir
 vmess://eyJhZGQiOiIxMDkuOTUuNjcuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRmYTBmZWNhLWRmODEtNGMxYS05YWMzLTQ5MzhlMTE3NWI1YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MiIsInBzIjoi2KjYsdin24wg2K/YsduM2KfZgdiqINiz2LHZiNixINmH2KfbjCDZvtixINiz2LHYudiqIEBOSU1fVlBOX2lyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://0652d836-573c-4505-9617-fde1a595f14f@okamitamzimovahrat.ivy-net.ir:2080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=parsabr.com#%20%40NIM_VPN_ir
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=Ryanjames.global.ssl.fastly.net&amp;path=%2FZed&amp;mode=auto#%20%40NIM_VPN_ir
 vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@9f.startrich.site:8441?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#%20%40NIM_VPN_ir
 vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@2f.startrich.site:8441?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#%20%40NIM_VPN_ir

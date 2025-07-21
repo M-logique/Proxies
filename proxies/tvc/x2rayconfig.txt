@@ -1,13 +1,3 @@
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2F6TvG8D6HimXKgdp2%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=%2F1ycR2zb3KeELWRha%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=%2F1ycR2zb3KeELWRha%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560#X2rayConfig
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560#X2rayConfig
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2F6TvG8D6HimXKgdp2%3Fed%3D2560#X2rayConfig
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560#X2rayConfig
@@ -138,6 +128,12 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YU
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=%2F6TvG8D6HimXKgdp2%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#X2rayConfig
 vless://8e75bda1-bd74-4a43-8468-18a3d3dcffa9@83.217.9.233:443?security=reality&amp;encryption=none&amp;pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=19aa22f681923dc8#X2rayConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws#X2rayConfig
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?encryption=none&amp;security=tls&amp;sni=iran.akcovufun.ir&amp;fp=chrome&amp;type=ws&amp;host=iran.akcovufun.ir&amp;path=%2F#X2rayConfig
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?encryption=none&amp;security=none&amp;type=grpc#X2rayConfig
+vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?encryption=none&amp;security=reality&amp;sni=www.cloudflare.com&amp;fp=chrome&amp;pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&amp;sid=8d9c20be72b4&amp;type=grpc&amp;authority=&amp;serviceName=Telegram%20%3A%20%40PouRia_Cheat&amp;mode=gun#X2rayConfig
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?encryption=none&amp;security=none&amp;type=xhttp&amp;path=%2Fxhttp&amp;mode=auto#X2rayConfig
+vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?encryption=none&amp;security=none&amp;type=xhttp&amp;path=%2Fxhttp&amp;mode=stream-one#X2rayConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#X2rayConfig
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&amp;sid=3c&amp;type=tcp&amp;headerType=none#X2rayConfig
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@nod-all1.sdcards.ir:8501?encryption=none&amp;security=reality&amp;sni=tgju.org&amp;fp=firefox&amp;pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&amp;sid=e701a013553059ba&amp;type=tcp&amp;headerType=none#X2rayConfig
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;sid=9d90d7ada8&amp;type=tcp&amp;headerType=none#X2rayConfig
