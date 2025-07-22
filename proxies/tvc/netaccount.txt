@@ -6,6 +6,8 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?security=none&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#@NetAccount
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#@NetAccount
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#@NetAccount
 vless://6c816599-2e8b-427f-ad2f-f342d8c20a8b@91.107.170.231:31248?security=none&amp;type=tcp&amp;path=/&amp;headerType=http&amp;host=bmw.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
