@@ -39,6 +39,7 @@ vless://a6dfc8a1-3dce-4d3f-a18a-4099f8e604c8@irc.testvp2.sbs:443?encryption=none
 vless://b5451ae4-0c22-4894-94e4-fee54ba851b3@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-234731-71691
 vless://111456a7-d279-4842-a88d-6d207b0b930f@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-234246-36953
 vless://15ec76ad-6f94-4d3d-b643-58a7b698fcbd@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234166-67985
+vless://2a51556f-daf8-476f-9920-d83588598db7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234112-44065
 vless://4a8f216a-3869-402d-8696-50f93d39b691@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-236567-33404
 vless://d9fbf99f-850f-4c1c-83b9-a554b1c9b9bb@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-236525-49476
 vless://9ec24cc6-4f03-4a69-96b4-dd81f428b36e@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-236357-41017
@@ -52,7 +53,6 @@ vless://a6dfc8a1-3dce-4d3f-a18a-4099f8e604c8@irc.testvp2.sbs:443?encryption=none
 vless://b5451ae4-0c22-4894-94e4-fee54ba851b3@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-234731-71691
 vless://111456a7-d279-4842-a88d-6d207b0b930f@irc.testvp2.sbs:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#goldengoldv-234246-36953
 vless://15ec76ad-6f94-4d3d-b643-58a7b698fcbd@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234166-67985
-vless://2a51556f-daf8-476f-9920-d83588598db7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234112-44065
 vless://2a51556f-daf8-476f-9920-d83588598db7@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#jahanvpnbot-234112-44065
 vless://66b1d56a-a5e1-49c8-89dd-30474e743ddf@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#goldengoldv-238415-21400
 vless://66b1d56a-a5e1-49c8-89dd-30474e743ddf@irc.testvp2.sbs:443?type=tcp&amp;path=%2F&amp;headerType=none&amp;security=none#goldengoldv-238415-21400
