@@ -27,6 +27,7 @@ vless://05d53516-fbf5-49a5-b84c-3f18b0e2bdd9@em-5.webnama.com.tr:4928?security=n
 vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&amp;security=reality&amp;sni=tesla.com&amp;fp=chrome&amp;pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&amp;sid=b4&amp;type=tcp&amp;headerType=none#@Maryamv2ray
 vless://e6709700-7332-4fe6-a125-fbb781ce7a35@193.238.153.69:28279?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#@Maryamv2ray
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/xhttp&amp;mode=stream-one#@Maryamv2ray
+vless://58935cac-942f-2ef4-3561-425e8c9e3e55@js6.arvinmoradi.sbs:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#@Maryamv2ray
 vless://58935cac-942f-2ef4-3561-425e8c9e3e55@js6.arvinmoradi.sbs:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#@Maryamv2ray
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
