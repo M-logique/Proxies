@@ -19,6 +19,8 @@ vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&amp;t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5anU5Tjhock5GR1ZwOEVXNm1pazli@23.177.185.63:49454#@NetAccount
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSzZvRkZvUXVuQ0xkVkYweklWbFlH@23.177.185.63:49454#@NetAccount
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8080?security=none&amp;type=ws&amp;path=/&amp;host=v2ngsupply2.ip-ddns.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#@NetAccount
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&amp;sni=speed.cloudflare.com&amp;fp=chrome&amp;pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vmess://268f7e36-625d-4fba-dc73-fb87cf90a104@xc133.meiziba5566.com:443?encryption=auto&amp;security=tls&amp;fp=&amp;type=ws&amp;path=/268f7e36&amp;host=xc133.meiziba5566.com#@NetAccount
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?security=none&amp;type=ws&amp;path=/&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
