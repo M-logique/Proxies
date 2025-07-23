@@ -1,3 +1,4 @@
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40netv2reyng
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?type=ws&amp;security=tls&amp;encryption=none&amp;host=netv2reyng.simoweb.proxy.ir&amp;sni=netv2reyng.simoweb.proxy.ir&amp;fp=randomized&amp;alpn=http/1.1&amp;path=%2Fnetv2reyng%2FKFh3HO76VUQPJDgM#@netv2reyng
 vless://37c38568-d2fb-46f4-a107-ca15890f5cdf@em-3.webnama.com.tr:1429?type=tcp&amp;security=none&amp;encryption=none&amp;host=netv2reyng.varzesh3.proxy.ir&amp;headerType=http#@netv2reyng
 vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?type=grpc&amp;mode=gun&amp;security=reality&amp;encryption=none&amp;fp=chrome&amp;serviceName=@netv2reyng&amp;sni=netv2reyng.cloudflare.proxy.ir&amp;sid=netv2reyng&amp;pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik#@netv2reyng
@@ -26,7 +27,6 @@ vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYo
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#@netv2reyng
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048&amp;security=none#@netv2reyng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#@netv2reyng
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/fgvtHUpS6R8Rv8s5?ed%3D2560&amp;security=none#@netv2reyng
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/fgvtHUpS6R8Rv8s5?ed%3D2560&amp;security=none#@netv2reyng
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40netv2reyng
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?type=ws&amp;security=tls&amp;encryption=none&amp;host=netv2reyng.simoweb.proxy.ir&amp;sni=netv2reyng.simoweb.proxy.ir&amp;fp=randomized&amp;alpn=http/1.1&amp;path=%2Fnetv2reyng%2FKFh3HO76VUQPJDgM#@netv2reyng
