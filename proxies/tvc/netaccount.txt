@@ -1,7 +1,3 @@
-vless://6c816599-2e8b-427f-ad2f-f342d8c20a8b@91.107.170.231:31248?security=none&amp;type=tcp&amp;path=/&amp;headerType=http&amp;host=bmw.com&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://b09c332f-7ca8-4e9a-a87c-6cec90a2d28c@172.236.195.11:443?security=none&amp;type=tcp&amp;path=/&amp;headerType=http&amp;host=zula.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?security=none&amp;type=ws&amp;path=/193.123.81.105%3D443&amp;host=zoomgov.vipren.biz.id&amp;packetEncoding=xudp&amp;encryption=none#MTN%20@NetAccount
 vless://80128acc-ff7f-41fe-af34-62f4108635ca@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&amp;sni=638880231667527799.madrid-prx-dnraaao.info&amp;type=ws&amp;path=/jzkedews&amp;host=638880231667527799.madrid-prx-dnraaao.info&amp;packetEncoding=xudp&amp;encryption=none#MTN%20@NetAccount
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=tls&amp;sni=barayeiran-mahsang.taraneh.dpdns.org&amp;fp=random&amp;type=ws&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;packetEncoding=xudp&amp;encryption=none#MTN%20@NetAccount
