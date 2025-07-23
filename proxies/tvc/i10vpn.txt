@@ -30,6 +30,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5anU5Tjhock5GR1ZwOEVXNm1pazli@23.177.185.63:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSzZvRkZvUXVuQ0xkVkYweklWbFlH@23.177.185.63:49454#%40i10VPN%20%F0%9F%94%93
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=v2ngsupply2.ip-ddns.com&amp;type=ws#%40i10VPN%20%F0%9F%94%93
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=%2Ftelegram%40v2ray_configs_pools&amp;security=none&amp;encryption=none&amp;host=cloudflare.com&amp;type=ws#%40i10VPN%20%F0%9F%94%93
+vless://b847c699-a570-4357-88fa-62789a29fee2@fr.marzban-locations.com:3032?security=reality&amp;encryption=none&amp;pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%40kinds_of_vibes%20%E2%9A%A1
+vless://b847c699-a570-4357-88fa-62789a29fee2@uk.marzban-locations.com:3033?security=reality&amp;encryption=none&amp;pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%40kinds_of_vibes%20%E2%9A%A1
 vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40i10VPN%20%F0%9F%94%A5
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;type=ws#%40i10VPN%20%F0%9F%94%A5
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#%40i10VPN%20%F0%9F%94%A5
@@ -74,8 +76,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5anU5Tjhock5GR1ZwOEVXNm1pazli@23.177.185.63:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSzZvRkZvUXVuQ0xkVkYweklWbFlH@23.177.185.63:49454#%40i10VPN%20%F0%9F%94%93
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=v2ngsupply2.ip-ddns.com&amp;type=ws#%40i10VPN%20%F0%9F%94%93
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=%2Ftelegram%40v2ray_configs_pools&amp;security=none&amp;encryption=none&amp;host=cloudflare.com&amp;type=ws#%40i10VPN%20%F0%9F%94%93
-vless://b847c699-a570-4357-88fa-62789a29fee2@fr.marzban-locations.com:3032?security=reality&amp;encryption=none&amp;pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%40kinds_of_vibes%20%E2%9A%A1
-vless://b847c699-a570-4357-88fa-62789a29fee2@uk.marzban-locations.com:3033?security=reality&amp;encryption=none&amp;pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%40kinds_of_vibes%20%E2%9A%A1
 vless://b847c699-a570-4357-88fa-62789a29fee2@fr.marzban-locations.com:3032?security=reality&amp;encryption=none&amp;pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%40kinds_of_vibes%20%E2%9A%A1
 vless://b847c699-a570-4357-88fa-62789a29fee2@uk.marzban-locations.com:3033?security=reality&amp;encryption=none&amp;pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%40kinds_of_vibes%20%E2%9A%A1
 vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40i10VPN%20%F0%9F%94%A5
