@@ -6,7 +6,6 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&amp;encryption=none&amp;pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=33#@Maryamv2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@Maryamv2ray
 vless://faeba5b7-b0a4-4e49-b017-35088ebe0d4e@em-4.webnama.com.tr:3789?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
-vless://faeba5b7-b0a4-4e49-b017-35088ebe0d4e@em-4.webnama.com.tr:3789?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
 vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pishgam.pinpen.ir.&amp;fp=chrome&amp;type=ws&amp;sni=pishgam.pinpen.ir.#%40@Maryamv2ray
 vless://faeba5b7-b0a4-4e49-b017-35088ebe0d4e@300232332.webnama.com.tr:1517?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
@@ -14,6 +13,7 @@ vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&a
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkBBcnRlbWlzdnBuMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&amp;encryption=none&amp;pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=33#@Maryamv2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@Maryamv2ray
+vless://faeba5b7-b0a4-4e49-b017-35088ebe0d4e@em-4.webnama.com.tr:3789?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
 vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pishgam.pinpen.ir.&amp;fp=chrome&amp;type=ws&amp;sni=pishgam.pinpen.ir.#%40@Maryamv2ray
 vless://faeba5b7-b0a4-4e49-b017-35088ebe0d4e@300232332.webnama.com.tr:1517?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%40@Maryamv2ray
