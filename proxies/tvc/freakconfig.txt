@@ -1,3 +1,12 @@
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#%E2%9C%85%40FreakConfig
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#%E2%9C%85%40FreakConfig
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%E2%9C%85%40FreakConfig
+vless://a6bc389a-80df-43e4-adbc-e9d6ae018c43@library98.ir:54?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%E2%9C%85%40FreakConfig
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#%E2%9C%85%40FreakConfig
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%E2%9C%85%40FreakConfig
+vmess://eyJhZGQiOiIxOTMuMTUxLjE1MS45MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUyMjYyIiwicHMiOiLinIVARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@rose1.camellia2.shop:1991?security=none&amp;encryption=none&amp;host=bama.ir&amp;headerType=http&amp;type=tcp#%E2%9C%85%40FreakConfig
+vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2020?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9C%85%40FreakConfig
 vless://e8918c01-95da-41dc-ac23-94f33481a475@104.18.26.90:80?path=%2F%40V2rayNGcloud---Telegram---v2rayNGcloud---%40V2rayNGcloud---Telegram---%40V2rayNGcloud---Telegram---%40V2rayNGcloud---%40V2rayNGcloud---Telegram---v2rayNGcloud---%40V2rayNGcloud---Telegram---%40V2rayNGcloud---Telegram---%40V2rayNGcloud%3Fed%3D2087&amp;security=none&amp;encryption=none&amp;host=amiri2.server-dev2.ir&amp;type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 vless://dbafa937-f8d3-4585-a266-71a324afd449@31.47.45.97:18811?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
