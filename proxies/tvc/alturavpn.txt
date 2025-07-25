@@ -12,8 +12,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&amp;host=
 vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?type=ws&amp;path=/&amp;security=none#Altura%20VPN
 vless://4d86fbab-d15f-4e7f-8ac7-3b4d90568444@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
 vless://5d744d08-1f24-4c50-a587-94c2e6ddf924@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
-vless://27d32caf-84d0-45b1-aedf-cf45b4d25ec9@dl.dataserverplus.top:2082?type=ws&amp;host=refersion.com&amp;path=/&amp;security=none#Altura%20VPN
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&amp;mode=stream-one&amp;host=statue.lnmarketplace.net&amp;path=/statue&amp;security=tls&amp;sni=statue.lnmarketplace.net&amp;alpn=h2#Altura%20VPN
+vless://2186876d-1871-5fa7-a4e0-212220792583@167.99.242.2:80?ty…
+vless://2186876d-1871-5fa7-a4e0-212220792583@139.162.173.22:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-06.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-05.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
@@ -88,6 +88,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&amp;host=
 vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?type=ws&amp;path=/&amp;security=none#Altura%20VPN
 vless://4d86fbab-d15f-4e7f-8ac7-3b4d90568444@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
 vless://5d744d08-1f24-4c50-a587-94c2e6ddf924@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
+vless://2186876d-1871-5fa7-a4e0-212220792583@167.99.242.2:80?ty…
+vless://2186876d-1871-5fa7-a4e0-212220792583@139.162.173.22:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-06.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-05.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
@@ -162,10 +164,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&amp;host=
 vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?type=ws&amp;path=/&amp;security=none#Altura%20VPN
 vless://4d86fbab-d15f-4e7f-8ac7-3b4d90568444@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
 vless://5d744d08-1f24-4c50-a587-94c2e6ddf924@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
-vless://27d32caf-84d0-45b1-aedf-cf45b4d25ec9@dl.dataserverplus.top:2082?type=ws&amp;host=refersion.com&amp;path=/&amp;security=none#Altura%20VPN
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&amp;mode=stream-one&amp;host=statue.lnmarketplace.net&amp;path=/statue&amp;security=tls&amp;sni=statue.lnmarketplace.net&amp;alpn=h2#Altura%20VPN
-vless://27d32caf-84d0-45b1-aedf-cf45b4d25ec9@dl.dataserverplus.top:2082?type=ws&amp;host=refersion.com&amp;path=/&amp;security=none#Altura%20VPN
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&amp;mode=stream-one&amp;host=statue.lnmarketplace.net&amp;path=/statue&amp;security=tls&amp;sni=statue.lnmarketplace.net&amp;alpn=h2#Altura%20VPN
+vless://2186876d-1871-5fa7-a4e0-212220792583@167.99.242.2:80?ty…
+vless://2186876d-1871-5fa7-a4e0-212220792583@139.162.173.22:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-06.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-05.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
@@ -240,8 +240,7 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&amp;host=
 vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?type=ws&amp;path=/&amp;security=none#Altura%20VPN
 vless://4d86fbab-d15f-4e7f-8ac7-3b4d90568444@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
 vless://5d744d08-1f24-4c50-a587-94c2e6ddf924@5.133.102.59:80?type=xhttp&amp;mode=auto&amp;host=bread.global.ssl.fastly.net&amp;path=/bread&amp;security=reality&amp;fp=chrome&amp;sni=journalofbigdata.springeropen.com&amp;pbk=6xEqt7g9Q7zJD8rtAzA_8rODvZ9ZJwlv3uOH1cXujzI&amp;sid=43&amp;spx=/#Altura%20VPN
-vless://27d32caf-84d0-45b1-aedf-cf45b4d25ec9@dl.dataserverplus.top:2082?type=ws&amp;host=refersion.com&amp;path=/&amp;security=none#Altura%20VPN
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&amp;mode=stream-one&amp;host=statue.lnmarketplace.net&amp;path=/statue&amp;security=tls&amp;sni=statue.lnmarketplace.net&amp;alpn=h2#Altura%20VPN
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?type=ws&amp;host=mylearn-8zx.pages.dev&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=mylearn-8zx.pages.dev#Altura%20VPN
 vless://33586eec-0e06-555d-b0e4-ea4852798b02@v-06.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://33586eec-0e06-555d-b0e4-ea4852798b02@v-05.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://33586eec-0e06-555d-b0e4-ea4852798b02@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
@@ -322,7 +321,5 @@ vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-03.artemis-vpn.org:80?type=tcp&am
 vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-05.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-06.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
-vless://2186876d-1871-5fa7-a4e0-212220792583@167.99.242.2:80?ty…
-vless://2186876d-1871-5fa7-a4e0-212220792583@139.162.173.22:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://2186876d-1871-5fa7-a4e0-212220792583@167.99.242.2:80?ty…
 vless://2186876d-1871-5fa7-a4e0-212220792583@139.162.173.22:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
