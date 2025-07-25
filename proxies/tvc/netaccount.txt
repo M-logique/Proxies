@@ -1,3 +1,5 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
+vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?security=none&amp;type=httpupgrade&amp;path=/?ed%3D2052&amp;host=cdncloud-direct-public.beraghsa.ir&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.28.202:22224?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws&amp;path=/telegram-channel-vlessconfig&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 trojan://telegram-id-directvpn@15.236.28.202:22223?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
 trojan://telegram-id-privatevpns@15.236.28.202:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#@NetAccount
