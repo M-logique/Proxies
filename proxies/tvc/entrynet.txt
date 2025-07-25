@@ -1,3 +1,5 @@
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585722349745
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#t.me/entryNET/config=1838585597146671
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585536134380
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?security=tls&amp;encryption=none&amp;type=grpc#t.me/entryNET/config=1838585408644613
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585345881909
@@ -16,8 +18,8 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#t.me/entryNET/config=
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838578425188654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#t.me/entryNET/config=1838578110302037
 trojan://telegram-id-privatevpns@13.61.134.83:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838574903824532
-vless://bba23e38-ae2d-48ea-b8b0-ad10b33ba89a@direct.yasharteam.com:443?security=reality&amp;encryption=none&amp;pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e54b5ad736ae4c38#t.me/entryNET/config=1838574901590517
-vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?security=&amp;type=tcp&amp;encryption=none#t.me/entryNET/config=1838574335436334
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585722349745
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#t.me/entryNET/config=1838585597146671
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585536134380
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?security=tls&amp;encryption=none&amp;type=grpc#t.me/entryNET/config=1838585408644613
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585345881909
@@ -36,8 +38,8 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#t.me/entryNET/config=
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838578425188654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#t.me/entryNET/config=1838578110302037
 trojan://telegram-id-privatevpns@13.61.134.83:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838574903824532
-vless://bba23e38-ae2d-48ea-b8b0-ad10b33ba89a@direct.yasharteam.com:443?security=reality&amp;encryption=none&amp;pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e54b5ad736ae4c38#t.me/entryNET/config=1838574901590517
-vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?security=&amp;type=tcp&amp;encryption=none#t.me/entryNET/config=1838574335436334
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585722349745
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#t.me/entryNET/config=1838585597146671
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585536134380
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?security=tls&amp;encryption=none&amp;type=grpc#t.me/entryNET/config=1838585408644613
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585345881909
@@ -56,8 +58,8 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#t.me/entryNET/config=
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838578425188654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#t.me/entryNET/config=1838578110302037
 trojan://telegram-id-privatevpns@13.61.134.83:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838574903824532
-vless://bba23e38-ae2d-48ea-b8b0-ad10b33ba89a@direct.yasharteam.com:443?security=reality&amp;encryption=none&amp;pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e54b5ad736ae4c38#t.me/entryNET/config=1838574901590517
-vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?security=&amp;type=tcp&amp;encryption=none#t.me/entryNET/config=1838574335436334
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585722349745
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#t.me/entryNET/config=1838585597146671
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585536134380
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?security=tls&amp;encryption=none&amp;type=grpc#t.me/entryNET/config=1838585408644613
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585345881909
@@ -76,8 +78,8 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#t.me/entryNET/config=
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838578425188654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#t.me/entryNET/config=1838578110302037
 trojan://telegram-id-privatevpns@13.61.134.83:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838574903824532
-vless://bba23e38-ae2d-48ea-b8b0-ad10b33ba89a@direct.yasharteam.com:443?security=reality&amp;encryption=none&amp;pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e54b5ad736ae4c38#t.me/entryNET/config=1838574901590517
-vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?security=&amp;type=tcp&amp;encryption=none#t.me/entryNET/config=1838574335436334
+vless://bd8c8e7c-a71d-4d9b-b2e6-f224604c6055@surfiran.com:2052?type=ws&amp;path=%2F@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&amp;host=dAta.bAckup.hafeZejanEbi.scaptapsi.snapFoodsuPport.onliNe.&amp;security=none#t.me/entryNET/config=1838595852843699
+vless://da128246-33b0-4c88-a44e-d91e9e0a1e05@[2606:4700:3034::ac43:d09b]:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=sssccvvbgnhj.2030.pp.ua&amp;path=%2Fh7mdGDLZfB9JsgTazwz9&amp;security=tls&amp;sni=SsscCvVbgnhJ.2030.Pp.ua&amp;alpn=http%2F1.1&amp;fp=chrome&amp;packetEncoding=xudp#t.me/entryNET/config=1838595474805356
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2052?security=none&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838594783317940
 vless://655a6618-4d41-46e8-a8e1-9e9f47798985@45.80.230.190:65076?security=reality&amp;encryption=none&amp;pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&amp;headerType=none&amp;fp=randomized&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=f481#t.me/entryNET/config=1838594593912405
 vless://34c13de4-7cec-5238-a730-a78f5ae8f890@5.39.249.119:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=5.39.249.119&amp;path=%2Fvless&amp;security=tls&amp;sni=zula.ir&amp;allowInsecure=1&amp;fp=chrome&amp;packetEncoding=xudp#t.me/entryNET/config=1838593720832741
@@ -96,5 +98,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?security=&amp;
 vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?path=%2F&amp;security=&amp;encryption=none&amp;host=crimson-cell-5828-ppal03.febox45376.workers.dev&amp;type=ws#t.me/entryNET/config=1838585911872349
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#t.me/entryNET/config=1838585849390841
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:2082?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585785819063
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#t.me/entryNET/config=1838585722349745
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=f5#t.me/entryNET/config=1838585597146671
