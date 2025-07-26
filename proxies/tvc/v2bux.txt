@@ -1,3 +1,4 @@
+vless://7c6136e8-3b0a-4239-84e9-31ac4bcec72f@speedy.mooo.info:80?type=xhttp&amp;security=none&amp;host=2.ir&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22cMaxLifetimeMs%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#@V2BUX%7C%5B%F0%9F%87%B3%F0%9F%87%B1%5D
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@74.177.199.135:443?type=raw&amp;security=none#@V2BUX%7C%F0%9F%87%A9%F0%9F%87%AA
 vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?type=raw&amp;security=none#%F0%9F%87%AD%F0%9F%87%B0%7C@V2BUX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&amp;security=none&amp;mode=gun#%F0%9F%87%AB%F0%9F%87%B7%7C@V2BUX
