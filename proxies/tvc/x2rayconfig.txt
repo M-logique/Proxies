@@ -1,3 +1,6 @@
+vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=eDg.SpEeDtEsT2029.CoM&amp;fp=firefox&amp;type=ws&amp;sni=eDg.SpEeDtEsT2029.CoM#X2rayConfig
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#X2rayConfig
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#X2rayConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://19029831-477f-498e-a280-bd5291e955fb@5.231.29.29:443?security=reality&amp;encryption=none&amp;pbk=E1oJ5W7lA10Eum9t5cSlnq_GEirJat2lf2PWRfJDyVg&amp;host=www.tgju.org&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tgju.org&amp;sid=f7f1058c#X2rayConfig
@@ -59,7 +62,9 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&amp
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#X2rayConfig
+vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=eDg.SpEeDtEsT2029.CoM&amp;fp=firefox&amp;type=ws&amp;sni=eDg.SpEeDtEsT2029.CoM#X2rayConfig
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#X2rayConfig
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#X2rayConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://19029831-477f-498e-a280-bd5291e955fb@5.231.29.29:443?security=reality&amp;encryption=none&amp;pbk=E1oJ5W7lA10Eum9t5cSlnq_GEirJat2lf2PWRfJDyVg&amp;host=www.tgju.org&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tgju.org&amp;sid=f7f1058c#X2rayConfig
@@ -121,7 +126,9 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&amp
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#X2rayConfig
+vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=eDg.SpEeDtEsT2029.CoM&amp;fp=firefox&amp;type=ws&amp;sni=eDg.SpEeDtEsT2029.CoM#X2rayConfig
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#X2rayConfig
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#X2rayConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://19029831-477f-498e-a280-bd5291e955fb@5.231.29.29:443?security=reality&amp;encryption=none&amp;pbk=E1oJ5W7lA10Eum9t5cSlnq_GEirJat2lf2PWRfJDyVg&amp;host=www.tgju.org&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tgju.org&amp;sid=f7f1058c#X2rayConfig
@@ -183,7 +190,9 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&amp
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#X2rayConfig
+vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=eDg.SpEeDtEsT2029.CoM&amp;fp=firefox&amp;type=ws&amp;sni=eDg.SpEeDtEsT2029.CoM#X2rayConfig
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#X2rayConfig
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#X2rayConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://19029831-477f-498e-a280-bd5291e955fb@5.231.29.29:443?security=reality&amp;encryption=none&amp;pbk=E1oJ5W7lA10Eum9t5cSlnq_GEirJat2lf2PWRfJDyVg&amp;host=www.tgju.org&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tgju.org&amp;sid=f7f1058c#X2rayConfig
@@ -245,7 +254,11 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&amp
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#X2rayConfig
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&amp;security=&amp;encryption=none&amp;authority=sinvt-sinvt&amp;type=grpc#X2rayConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystrivpn.ru:443#X2rayConfig
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#X2rayConfig
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#X2rayConfig
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=barayeiran.mahiozonboroon.qzz.io&amp;fp=random&amp;type=ws&amp;sni=barayeiran.mahiozonboroon.qzz.io#X2rayConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#X2rayConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#X2rayConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#X2rayConfig
@@ -318,6 +331,3 @@ vless://12fd53ec-9184-41a0-8ab5-1910ad8d6e8d@gr.dnszone.top:45500?security=none&
 vless://83b1b380-b0cf-4b4a-910b-154420def5d7@gr.dnszone.top:45500?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#X2rayConfig
 vless://423f4d1b-90d8-4185-8404-bbf6ab6840cc@gr.dnszone.top:45500?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#X2rayConfig
 vless://ca9c98f8-9d27-43bc-8dfd-ede3efcc4cfc@gr.dnszone.top:45500?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#X2rayConfig
-vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=eDg.SpEeDtEsT2029.CoM&amp;fp=firefox&amp;type=ws&amp;sni=eDg.SpEeDtEsT2029.CoM#X2rayConfig
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#X2rayConfig
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#X2rayConfig
