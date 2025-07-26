@@ -6,8 +6,6 @@ vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?sec
 vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-tr-cdn.easy-upload.org:2010?security=none&amp;encryption=none&amp;host=igap.net&amp;headerType=none&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20-%20%40v2ray_vpn_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%A9%F0%9F%87%AA-%40s0013_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
@@ -22,6 +20,8 @@ vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-uae-cdn.easy-upload.org:2010?se
 vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-se-cdn.easy-upload.org:2010?security=none&amp;encryption=none&amp;host=igap.net&amp;headerType=none&amp;type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%20-%20%40v2ray_vpn_ir
 vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&amp;encryption=none&amp;host=gharar.ir&amp;headerType=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%40v2ray_vpn_ir
 vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-tr-cdn.easy-upload.org:2010?security=none&amp;encryption=none&amp;host=igap.net&amp;headerType=none&amp;type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20-%20%40v2ray_vpn_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%A9%F0%9F%87%AA-%40s0013_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%A9%F0%9F%87%AA-%40V2ray_vpn_iir
