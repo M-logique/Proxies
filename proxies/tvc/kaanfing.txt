@@ -28,11 +28,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vmess://eyJhZGQiOiI0Mi4yLjExMy4xMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjA5ZDgxNjJhLXN2NmhzMC10NTk2M20tMWV4NWEuaGsucDVwdi5jb20iLCJpZCI6Ijk4ZDJiNjYwLTcyMTgtMTFlYy1iZDdjLWYyM2M5MTNjOGQyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfhpRAa2FhbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://eec58f80-ae24-4754-8697-c03a67d43553@g.gpty999qed.ir:13157?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DDnS.com&amp;type=ws#%F0%9F%86%94%40kaanfing
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#%F0%9F%86%94%40kaanfing
@@ -104,11 +99,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vmess://eyJhZGQiOiI0Mi4yLjExMy4xMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjA5ZDgxNjJhLXN2NmhzMC10NTk2M20tMWV4NWEuaGsucDVwdi5jb20iLCJpZCI6Ijk4ZDJiNjYwLTcyMTgtMTFlYy1iZDdjLWYyM2M5MTNjOGQyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfhpRAa2FhbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://eec58f80-ae24-4754-8697-c03a67d43553@g.gpty999qed.ir:13157?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DDnS.com&amp;type=ws#%F0%9F%86%94%40kaanfing
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#%F0%9F%86%94%40kaanfing
@@ -180,11 +170,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vmess://eyJhZGQiOiI0Mi4yLjExMy4xMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjA5ZDgxNjJhLXN2NmhzMC10NTk2M20tMWV4NWEuaGsucDVwdi5jb20iLCJpZCI6Ijk4ZDJiNjYwLTcyMTgtMTFlYy1iZDdjLWYyM2M5MTNjOGQyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfhpRAa2FhbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://eec58f80-ae24-4754-8697-c03a67d43553@g.gpty999qed.ir:13157?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DDnS.com&amp;type=ws#%F0%9F%86%94%40kaanfing
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-DdnS.com&amp;type=ws#%F0%9F%86%94%40kaanfing
@@ -256,11 +241,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vmess://eyJhZGQiOiI0Mi4yLjExMy4xMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjA5ZDgxNjJhLXN2NmhzMC10NTk2M20tMWV4NWEuaGsucDVwdi5jb20iLCJpZCI6Ijk4ZDJiNjYwLTcyMTgtMTFlYy1iZDdjLWYyM2M5MTNjOGQyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfhpRAa2FhbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://eec58f80-ae24-4754-8697-c03a67d43553@g.gpty999qed.ir:13157?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
-vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%86%94%40kaanfing
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-Ddns.com&amp;type=ws#%F0%9F%86%94%40kaanfing
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%86%94%40kaanfing
