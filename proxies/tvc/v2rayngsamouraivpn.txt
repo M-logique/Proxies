@@ -115,9 +115,6 @@ vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.u
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
-vless://29ef3067-6550-4f9b-9926-7427e0d0c1dc@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#samourai+vpn%F0%9F%8E%8C
-vless://7a6c9ca7-83eb-487f-9dab-1473af55914c@37.152.183.131:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
-vless://993e5eda-739a-4594-945f-785782916511@37.152.183.131:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://5ab576a3-333f-41e1-bfdd-4814b7b1cc12@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://47898187-2bdf-45d0-bc6f-a2f5533c705f@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://faeba5b7-b0a4-4e49-b017-35088ebe0d4e@300232332.webnama.com.tr:1517?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#Samourai
@@ -235,6 +232,9 @@ vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.u
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
+vless://29ef3067-6550-4f9b-9926-7427e0d0c1dc@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#samourai+vpn%F0%9F%8E%8C
+vless://7a6c9ca7-83eb-487f-9dab-1473af55914c@37.152.183.131:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
+vless://993e5eda-739a-4594-945f-785782916511@37.152.183.131:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://29ef3067-6550-4f9b-9926-7427e0d0c1dc@xpanel-ir.panelfreedom.com:2092?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#samourai+vpn%F0%9F%8E%8C
 vless://7a6c9ca7-83eb-487f-9dab-1473af55914c@37.152.183.131:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://993e5eda-739a-4594-945f-785782916511@37.152.183.131:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
