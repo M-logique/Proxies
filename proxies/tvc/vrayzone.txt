@@ -18,9 +18,7 @@ vless://f7f0f020-3153-41b5-854b-304245d7bd0b@all97-vip.f-sub.com:1517?security=n
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/reklaz1FsDrIv7mW?ed%3D?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/G8ZDmBYwOAz3ahmR?ed%3D2560#@Vrayzone
-vless://f7f0f020-3153-41b5-854b-304245d7bd0b@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;type=tcp&amp;host=varzesh3.com&amp;path=/&amp;headerType=http#@Vrayzone
-vless://96457dda-f79a-4087-89d6-dc973fdf41cc@182910.www.11338899.servers801.ir:2096?security=none&amp;encryption=none&amp;type=ws&amp;host=45f4d22d.Mareza.pages.dev&amp;path=/fscsxfVgdzhrefjgsBgaa?ed%3D80#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/?ed%3D2560&amp;sni=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/?ed%3D2560&amp;sni=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/fgvtHUpS6R8Rv8s5?ed%3D2560#@Vrayzone
@@ -51,9 +49,7 @@ vless://f7f0f020-3153-41b5-854b-304245d7bd0b@all97-vip.f-sub.com:1517?security=n
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/reklaz1FsDrIv7mW?ed%3D?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/G8ZDmBYwOAz3ahmR?ed%3D2560#@Vrayzone
-vless://f7f0f020-3153-41b5-854b-304245d7bd0b@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;type=tcp&amp;host=varzesh3.com&amp;path=/&amp;headerType=http#@Vrayzone
-vless://96457dda-f79a-4087-89d6-dc973fdf41cc@182910.www.11338899.servers801.ir:2096?security=none&amp;encryption=none&amp;type=ws&amp;host=45f4d22d.Mareza.pages.dev&amp;path=/fscsxfVgdzhrefjgsBgaa?ed%3D80#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/?ed%3D2560&amp;sni=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/?ed%3D2560&amp;sni=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/fgvtHUpS6R8Rv8s5?ed%3D2560#@Vrayzone
@@ -84,9 +80,7 @@ vless://f7f0f020-3153-41b5-854b-304245d7bd0b@all97-vip.f-sub.com:1517?security=n
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/reklaz1FsDrIv7mW?ed%3D?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/G8ZDmBYwOAz3ahmR?ed%3D2560#@Vrayzone
-vless://f7f0f020-3153-41b5-854b-304245d7bd0b@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;type=tcp&amp;host=varzesh3.com&amp;path=/&amp;headerType=http#@Vrayzone
-vless://96457dda-f79a-4087-89d6-dc973fdf41cc@182910.www.11338899.servers801.ir:2096?security=none&amp;encryption=none&amp;type=ws&amp;host=45f4d22d.Mareza.pages.dev&amp;path=/fscsxfVgdzhrefjgsBgaa?ed%3D80#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/?ed%3D2560&amp;sni=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&amp;encryption=none&amp;type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/?ed%3D2560&amp;sni=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;alpn=http/1.1#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/fgvtHUpS6R8Rv8s5?ed%3D2560#@Vrayzone
@@ -117,9 +111,8 @@ vless://f7f0f020-3153-41b5-854b-304245d7bd0b@all97-vip.f-sub.com:1517?security=n
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/reklaz1FsDrIv7mW?ed%3D?ed%3D2560#@Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vngsupply.ip-ddns.com&amp;path=/G8ZDmBYwOAz3ahmR?ed%3D2560#@Vrayzone
-vless://f7f0f020-3153-41b5-854b-304245d7bd0b@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;type=tcp&amp;host=varzesh3.com&amp;path=/&amp;headerType=http#@Vrayzone
-vless://96457dda-f79a-4087-89d6-dc973fdf41cc@182910.www.11338899.servers801.ir:2096?security=none&amp;encryption=none&amp;type=ws&amp;host=45f4d22d.Mareza.pages.dev&amp;path=/fscsxfVgdzhrefjgsBgaa?ed%3D80#@Vrayzone
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560#@Vrayzone
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?security=tls&amp;encryption=none&amp;type=ws&amp;host=vl.hongkong6.qzz.io&amp;path=/?ed%3D2560&amp;sni=vl.hongkong6.qzz.io&amp;fp=random#Vrayzone
+vless://70d7aa22-1078-4e69-80c2-a37fb329f277@gem.talashit.com:8282?security=none&amp;encryption=none&amp;type=tcp&amp;host=cloudflare.com&amp;path=/&amp;headerType=http#Vrayzone
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=VngSuPpLY.IP-Ddns.com&amp;path=/1ycR2zb3KeELWRha?ed%3D2560#Vrayzone
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/xhttp&amp;mode=stream-one#Vrayzone
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/xhttp&amp;mode=stream-one#Vrayzone
@@ -178,4 +171,3 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?security=none&amp
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=zula.ir&amp;path=/&amp;headerType=http#@Vrayzone
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMjNEdENyNlNMZjdPcXhDZm9KY1JsQGgxMTB2cG5jaC5vdXRsaW5la2V5cy5uZXQ6NDI0OA==#@Vrayzone
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZlQ5cFBQMGxLYVY2QzE2azZaekpEQGgxMTB2cG5ubC5vdXRsaW5la2V5cy5uZXQ6NTI1NzE=#@Vrayzone
-vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@Vrayzone
