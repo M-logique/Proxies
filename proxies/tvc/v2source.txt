@@ -11,6 +11,13 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?encryption=none&
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@v2Source🇮🇷
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R1dNYjRRcEcrbzJkeUc3UU96aS9sYXpqOHY1RTFvV2lWTC9UM0NMSFU0ST06NUxBU0wwa3pQdHo4VW1KbWVoK1NrekpvL1NQdDRhTkMrN01GbnRjSVc1RT0%3D@80.209.239.158:53755#@v2Source🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@v2Source🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#@v2Source🇦🇹
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&amp;type=grpc#@v2Source🇺🇸
+vless://19e70f3b-8c62-42d7-b8a2-381e086a1397@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638886055652724471.warsaw-prx-dnraaao.info&amp;type=ws&amp;host=638886055652724471.warsaw-prx-dnraaao.info&amp;path=%2Fnqbispws#@v2Source🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#@v2Source🇳🇱
+vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&amp;sid=a31a8d04622560&amp;type=tcp&amp;headerType=none&amp;host=%2F-%3Fed#@v2Source🇬🇧
+vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&amp;security=reality&amp;sni=tesla.com&amp;fp=chrome&amp;pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&amp;sid=b4&amp;type=tcp&amp;headerType=none#@v2Source🇹🇼
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh30v8.waipdirect.shop#@v2Source🇺🇸
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan-roof.atena.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=rayan-roof.atena.dpdns.org#@v2Source🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#@v2Source🇨🇴
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=lease-20.access.name.ng&amp;type=ws&amp;sni=lease-20.access.name.ng#@v2Source🇨🇦
@@ -24,13 +31,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?encryption=none&
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@v2Source🇮🇷
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R1dNYjRRcEcrbzJkeUc3UU96aS9sYXpqOHY1RTFvV2lWTC9UM0NMSFU0ST06NUxBU0wwa3pQdHo4VW1KbWVoK1NrekpvL1NQdDRhTkMrN01GbnRjSVc1RT0%3D@80.209.239.158:53755#@v2Source🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@v2Source🇫🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#@v2Source🇦🇹
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&amp;type=grpc#@v2Source🇺🇸
-vless://19e70f3b-8c62-42d7-b8a2-381e086a1397@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638886055652724471.warsaw-prx-dnraaao.info&amp;type=ws&amp;host=638886055652724471.warsaw-prx-dnraaao.info&amp;path=%2Fnqbispws#@v2Source🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#@v2Source🇳🇱
-vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&amp;sid=a31a8d04622560&amp;type=tcp&amp;headerType=none&amp;host=%2F-%3Fed#@v2Source🇬🇧
-vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&amp;security=reality&amp;sni=tesla.com&amp;fp=chrome&amp;pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&amp;sid=b4&amp;type=tcp&amp;headerType=none#@v2Source🇹🇼
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh30v8.waipdirect.shop#@v2Source🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#@v2Source🇦🇹
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&amp;type=grpc#@v2Source🇺🇸
 vless://19e70f3b-8c62-42d7-b8a2-381e086a1397@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638886055652724471.warsaw-prx-dnraaao.info&amp;type=ws&amp;host=638886055652724471.warsaw-prx-dnraaao.info&amp;path=%2Fnqbispws#@v2Source🇨🇦
