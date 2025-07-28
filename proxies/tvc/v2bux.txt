@@ -1,4 +1,4 @@
-vless://7c6136e8-3b0a-4239-84e9-31ac4bcec72f@speedy.mooo.info:80?type=xhttp&amp;security=none&amp;host=2.ir&amp;path=%2F&amp;mode=auto&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22cMaxLifetimeMs%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#@V2BUX%7C%5B%F0%9F%87%B3%F0%9F%87%B1%5D
+ss://Y2hhY2hhMjAtcG9seTEzMDU6MzYwZTIxZDIxOTc3ZGMxMQ==@216.173.70.187:57456?type=raw&amp;security=none#%F0%9F%87%B1%F0%9F%87%BB%7C@V2BUX
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Y3ZJSTg1VHJXNm4wT0d5ZnBIVlMxdQ==@45.87.175.171:8080?type=raw&amp;security=none#%F0%9F%87%AB%F0%9F%87%B7%7C@V2BUX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&amp;security=none&amp;mode=gun#%F0%9F%87%AB%F0%9F%87%B7%7C@V2BUX
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&amp;security=none&amp;path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&amp;host=VngSuPpLY.IP-Ddns.com#%F0%9F%87%BA%F0%9F%87%B8%7C@V2BUX
