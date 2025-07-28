@@ -5,7 +5,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?path=%2Fapi%2Fv1&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=arc-448.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=ARC-448.Pages.DEV#IRAN%20344%20%28%40Cook_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#Config%20VIP%20%40Cook_Vpn
 vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
-vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
+vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383…
 vless://6a35ed9b-051e-4b76-a470-8bb18a03e4e2@188.114.98.68:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40Kia_Net
 vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383?security=reality&amp;encryption=none&amp;pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=zhaket.com&amp;sid=821bbc44dd7a4e15#%F0%9F%94%B9%20%40Kia_Net%7C15T%20%F0%9F%87%A9%F0%9F%87%AA
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.sh…
@@ -20,7 +20,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?path=%2Fapi%2Fv1&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=arc-448.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=ARC-448.Pages.DEV#IRAN%20344%20%28%40Cook_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#Config%20VIP%20%40Cook_Vpn
 vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
-vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
+vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383…
 vless://6a35ed9b-051e-4b76-a470-8bb18a03e4e2@188.114.98.68:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40Kia_Net
 vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383?security=reality&amp;encryption=none&amp;pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=zhaket.com&amp;sid=821bbc44dd7a4e15#%F0%9F%94%B9%20%40Kia_Net%7C15T%20%F0%9F%87%A9%F0%9F%87%AA
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.sh…
@@ -35,7 +35,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?path=%2Fapi%2Fv1&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=arc-448.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=ARC-448.Pages.DEV#IRAN%20344%20%28%40Cook_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#Config%20VIP%20%40Cook_Vpn
 vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
-vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
+vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383…
 vless://6a35ed9b-051e-4b76-a470-8bb18a03e4e2@188.114.98.68:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40Kia_Net
 vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383?security=reality&amp;encryption=none&amp;pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=zhaket.com&amp;sid=821bbc44dd7a4e15#%F0%9F%94%B9%20%40Kia_Net%7C15T%20%F0%9F%87%A9%F0%9F%87%AA
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.sh…
@@ -49,7 +49,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;sec
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#IRAN%20343%20%28%40Cook_Vpn%29%20free
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?path=%2Fapi%2Fv1&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=arc-448.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=ARC-448.Pages.DEV#IRAN%20344%20%28%40Cook_Vpn%29%20free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#Config%20VIP%20%40Cook_Vpn
-vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
 vless://78163b85-0a24-407d-aa9c-72a63e6d9843@em-5.webnama.com.tr:4928?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40cook_Vpn
 vless://24acb01b-4b53-40da-9e09-ffb54ef21602@se.marzban-locations.com:5059?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refe…
 vless://24acb01b-4b53-40da-9e09-ffb54ef21602@cz.marzban-locations.com:5065?security=reality&amp;encryption=none&amp;pbk=SIZUCP8kFTMNONyzojhPmYWM_530dU3MEJVsJAV_604&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com#%F0%9F%87%A8%F0%9F%87%BF%20%20%20Cook_%20vpn%20%29
@@ -67,5 +66,4 @@ vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?security=&amp;
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%40Cook_Vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://6a35ed9b-051e-4b76-a470-8bb18a03e4e2@188.114.98.68:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%40Kia_Net
 vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383?security=reality&amp;encryption=none&amp;pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=zhaket.com&amp;sid=821bbc44dd7a4e15#%F0%9F%94%B9%20%40Kia_Net%7C15T%20%F0%9F%87%A9%F0%9F%87%AA
-vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383…
 vless://c4c97176-9084-6b50-3b87-b3575cee9124@91.107.156.69:44383…
