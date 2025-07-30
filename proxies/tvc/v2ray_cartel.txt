@@ -1,3 +1,9 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?type=ws&amp;host…
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
+vmess://eyJpZCI6ImM3ZjE2OWEzLTJlOWEtNDg5NC1iYTUzLTdiMmZhNmZkMDhiNCIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwiYWRkIjoiMTUuMjA0LjIzNC4yMDAiLCJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU3QyUyMCU0MHYycmF5X2NhcnRlbCIsInR5cGUiOiJub25lIiwicG9ydCI6IjQxMTAwIiwic2N5IjoiYXV0byJ9
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?type=ws&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;path=/?ed%3D2048&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B2%7C@v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&amp;security=tls&amp;host=vpn.stupidworl…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%40V2ray_cartel
 vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=dETeRMiNeD-COuRT.oneEaT.CO&amp;type=ws#%40V2ray_cartel
@@ -13,8 +19,6 @@ vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2FTel-%40V2r
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FTel-%40V2ray_Alpha&amp;security=tls&amp;encryption=none&amp;host=nOCTYq.pAGES.DEV&amp;type=ws&amp;sni=nOCTYq.pAGES.DEV#%40V2ray_cartel
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#%40V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%40V2ray_cartel
-vless://9368b093-d790…
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#v2ray_cartel
 vless://b28eb861-1748-4200-ba72-278669edc33b@27.50.48.21:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=barayeiranmahsang.mahmoodchitooz.dpdns.org&amp;type=ws&amp;sni=barayeiranmahsang.mahmoodchitooz…
 vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pishgam.pinpen.ir.&amp;fp=chrome&amp;type=ws&amp;sni=pishgam.pinpen.ir.#v2ray_cartel
 vless://0EBCBB23-C337-0909-4655-BC85BCDCFC02@wild-resonance-23be.vpnetwork3567.workers.dev:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=wild-resonance-23be.vpnetwork3567.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=wild-resonance-23be.vpnetwork3567.workers.dev#v2ray_cartel
@@ -83,8 +87,6 @@ vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2FTel-%40V2r
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FTel-%40V2ray_Alpha&amp;security=tls&amp;encryption=none&amp;host=nOCTYq.pAGES.DEV&amp;type=ws&amp;sni=nOCTYq.pAGES.DEV#%40V2ray_cartel
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#%40V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%40V2ray_cartel
-vless://9368b093-d790…
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#v2ray_cartel
 vless://b28eb861-1748-4200-ba72-278669edc33b@27.50.48.21:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=barayeiranmahsang.mahmoodchitooz.dpdns.org&amp;type=ws&amp;sni=barayeiranmahsang.mahmoodchitooz…
 vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pishgam.pinpen.ir.&amp;fp=chrome&amp;type=ws&amp;sni=pishgam.pinpen.ir.#v2ray_cartel
 vless://0EBCBB23-C337-0909-4655-BC85BCDCFC02@wild-resonance-23be.vpnetwork3567.workers.dev:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=wild-resonance-23be.vpnetwork3567.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=wild-resonance-23be.vpnetwork3567.workers.dev#v2ray_cartel
@@ -153,8 +155,7 @@ vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2FTel-%40V2r
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=%2FTel-%40V2ray_Alpha&amp;security=tls&amp;encryption=none&amp;host=nOCTYq.pAGES.DEV&amp;type=ws&amp;sni=nOCTYq.pAGES.DEV#%40V2ray_cartel
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#%40V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%40V2ray_cartel
-vless://9368b093-d790…
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=gghdfa.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=gGHDFa.pAgeS.Dev#v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
 vmess://eyJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJwYXRoIjoiIiwi…
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&amp;mode=gun&amp;security=none#v2ray_cartel
