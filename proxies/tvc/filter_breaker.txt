@@ -84,11 +84,6 @@ vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@91.99.96.120:9999?security=reality&amp;encryption=none&amp;pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&amp;headerType=none&amp;fp=firefox&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=tgju.org&amp;sid=42c0b628ba6a42a9#@Filter_breaker
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#@Filter_breaker
 vless://74f0dc16-cb28-4566-acea-6794f560466e@45.129.36.85:3500?security=none&amp;encryption=none&amp;host=Atinad.ir&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://2ba7f887-9172-4cf4-a8e7-e5094c313890@85.133.202.69:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@37.152.189.81:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-3.webnama.com.tr:1429?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🏴
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-1.webnama.com.tr:3799?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🇫🇷
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🇺🇸
@@ -175,11 +170,6 @@ vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@91.99.96.120:9999?security=reality&amp;encryption=none&amp;pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&amp;headerType=none&amp;fp=firefox&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=tgju.org&amp;sid=42c0b628ba6a42a9#@Filter_breaker
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#@Filter_breaker
 vless://74f0dc16-cb28-4566-acea-6794f560466e@45.129.36.85:3500?security=none&amp;encryption=none&amp;host=Atinad.ir&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://2ba7f887-9172-4cf4-a8e7-e5094c313890@85.133.202.69:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@37.152.189.81:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-3.webnama.com.tr:1429?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🏴
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-1.webnama.com.tr:3799?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🇫🇷
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🇺🇸
@@ -266,11 +256,6 @@ vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@91.99.96.120:9999?security=reality&amp;encryption=none&amp;pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&amp;headerType=none&amp;fp=firefox&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=tgju.org&amp;sid=42c0b628ba6a42a9#@Filter_breaker
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#@Filter_breaker
 vless://74f0dc16-cb28-4566-acea-6794f560466e@45.129.36.85:3500?security=none&amp;encryption=none&amp;host=Atinad.ir&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://2ba7f887-9172-4cf4-a8e7-e5094c313890@85.133.202.69:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@37.152.189.81:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-3.webnama.com.tr:1429?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🏴
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-1.webnama.com.tr:3799?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🇫🇷
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#@Filter_breaker_🇺🇸
@@ -357,11 +342,6 @@ vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?path=%2Fe49RZLgIb
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@91.99.96.120:9999?security=reality&amp;encryption=none&amp;pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&amp;headerType=none&amp;fp=firefox&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=tgju.org&amp;sid=42c0b628ba6a42a9#@Filter_breaker
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&amp;encryption=none&amp;pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=dash.cloudflare.com&amp;sid=bf517367267685#@Filter_breaker
 vless://74f0dc16-cb28-4566-acea-6794f560466e@45.129.36.85:3500?security=none&amp;encryption=none&amp;host=Atinad.ir&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://2ba7f887-9172-4cf4-a8e7-e5094c313890@85.133.202.69:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@37.152.189.81:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@Filter_breaker
-vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#@Filter_breaker
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?security=reality&amp;sni=www.tgju.org&amp;fp=chrome&amp;pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&amp;sid=cd0b&amp;type=xhttp&amp;packetEncoding=xudp&amp;encryption=none#🇩🇪⛓️
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?security=reality&amp;sni=smtp.zoho.com&amp;fp=ios&amp;pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&amp;sid=7f2798f9&amp;type=xhttp&amp;packetEncoding=xudp&amp;encryption=none#🇳🇱⛓️
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?security=tls&amp;sni=parsdl.xyz&amp;alpn=http/1.1&amp;allowInsecure=1&amp;fp=chrome&amp;type=ws&amp;path=/hajmi?ed%3D2560&amp;host=nb-de.parsdl.xyz&amp;packetEncoding=xudp&amp;encryption=none#🇩🇪☁️
