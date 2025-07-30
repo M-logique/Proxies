@@ -1,5 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?security=none&amp;type=ws&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&amp;sid=788456bc&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&amp;sni=speed.cloudflare.com&amp;fp=chrome&amp;pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2082?security=none&amp;type=ws&amp;host=/@v2ray_configs_pools&amp;packetEncoding=xudp&amp;encryption=none#@NetAccount
