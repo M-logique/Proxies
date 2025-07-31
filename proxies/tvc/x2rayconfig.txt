@@ -53,11 +53,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&am
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#X2rayConfig
 vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?security=none&amp;encryption=none&amp;host=zhaket.com&amp;headerType=http&amp;type=tcp#X2rayConfig
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.pottermore.com&amp;fp=chrome&amp;pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&amp;sid=75&amp;spx=%2F&amp;type=tcp&amp;headerType=none#X2rayConfig
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#X2rayConfig
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-Ddns.com&amp;type=ws#X2rayConfig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&amp;security=tls&amp;host=vpn.stupidworld.web.id&amp;fp=chrome&amp;type=ws&amp;sni=vpn.stupidworld.web.id#X2rayConfig
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#X2rayConfig
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#X2rayConfig
@@ -113,6 +108,11 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&am
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#X2rayConfig
 vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?security=none&amp;encryption=none&amp;host=zhaket.com&amp;headerType=http&amp;type=tcp#X2rayConfig
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.pottermore.com&amp;fp=chrome&amp;pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&amp;sid=75&amp;spx=%2F&amp;type=tcp&amp;headerType=none#X2rayConfig
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#X2rayConfig
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#X2rayConfig
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-Ddns.com&amp;type=ws#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#X2rayConfig
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#X2rayConfig
