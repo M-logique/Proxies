@@ -45,13 +45,6 @@ vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?
 trojan://Lbj6pUya7KVKU7kqPKTb8A@www.speedtest.net:2087?security=tls&amp;sni=jfkgfuiodghlf.ahmadinabaz.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=jfkgfuiodghlf.ahmadinabaz.ir&amp;path=%2Fspeedtest#@v2Source🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#@v2Source🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#@v2Source🇺🇸
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&amp;sid=fa&amp;type=tcp&amp;headerType=none#@v2Source🇰🇿
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2FPRUOXYI_BIA_CHANEL%40PRUOXYI&amp;type=grpc#@v2Source🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza1.digipedia.shop:443#@v2Source🇬🇧
-vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=hls-svod.itunes.apple.com&amp;fp=chrome&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=48720c&amp;type=tcp&amp;headerType=none#@v2Source🇮🇳
-trojan://Lbj6pUya7KVKU7kqPKTb8A@www.speedtest.net:2087?security=tls&amp;sni=jfkgfuiodghlf.ahmadinabaz.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=jfkgfuiodghlf.ahmadinabaz.ir&amp;path=%2Fspeedtest#@v2Source🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#@v2Source🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#@v2Source🇺🇸
 vless://19e70f3b-8c62-42d7-b8a2-381e086a1397@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638886055652724471.warsaw-prx-dnraaao.info&amp;type=ws&amp;alpn=&amp;host=638886055652724471.warsaw-prx-dnraaao.info&amp;path=/nqbispws#@v2Source🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#@v2Source🇫🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@v2Source🇫🇷
@@ -65,6 +58,13 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeir
 vless://9c7b6571-bf05-4072-98c3-fc8bec98551b@0.0.0.einetwork.news:8443?encryption=none&amp;security=tls&amp;sni=Mail.EiNetwork.News&amp;fp=randomized&amp;type=ws&amp;host=Mail.EiNetwork.News&amp;path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram#@v2Source🇨🇦
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?path=%2FFree-CF-Proxy-AU11&amp;security=tls&amp;encryption=none&amp;host=freevpn.xhamster.biz.id&amp;type=ws&amp;sni=freevpn.xhamster.biz.id#@v2Source🇨🇦
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@v2Source🇨🇦
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&amp;sid=fa&amp;type=tcp&amp;headerType=none#@v2Source🇰🇿
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2FPRUOXYI_BIA_CHANEL%40PRUOXYI&amp;type=grpc#@v2Source🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza1.digipedia.shop:443#@v2Source🇬🇧
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=hls-svod.itunes.apple.com&amp;fp=chrome&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=48720c&amp;type=tcp&amp;headerType=none#@v2Source🇮🇳
+trojan://Lbj6pUya7KVKU7kqPKTb8A@www.speedtest.net:2087?security=tls&amp;sni=jfkgfuiodghlf.ahmadinabaz.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=jfkgfuiodghlf.ahmadinabaz.ir&amp;path=%2Fspeedtest#@v2Source🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#@v2Source🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#@v2Source🇺🇸
 vless://19e70f3b-8c62-42d7-b8a2-381e086a1397@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638886055652724471.warsaw-prx-dnraaao.info&amp;type=ws&amp;alpn=&amp;host=638886055652724471.warsaw-prx-dnraaao.info&amp;path=/nqbispws#@v2Source🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#@v2Source🇫🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@v2Source🇫🇷
