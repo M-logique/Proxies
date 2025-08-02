@@ -6,6 +6,4 @@ vless://Parsashonam-294@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryptio
 vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@khodeet_bashi
 vless://Parsashonam-294@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@khodeet_bashi
 vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@khodeet_bashi
-vless://Parsashonam-294@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@khodeet_bashi
-vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@khodeet_bashi
 ss://,
