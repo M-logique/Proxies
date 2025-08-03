@@ -27,7 +27,6 @@ vless://440769a2-35c6-40b9-8763-a9c3244434e0@77.110.121.191:32472?security=none&
 vless://b2465f21-e52e-4256-8e55-1d971ce4bcbb@185.239.104.38:2020?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#fastkanfig%20chanl
 vless://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&amp;encryption=none&amp;pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=4c7c9606f7#fastkanfig%20%F0%9F%87%B7%F0%9F%87%BA
 vless://turboo-server@85.9.96.92:55797?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#fastkanfig
-vless://turboo-server@85.9.96.92:55797?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#fastkanfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#telegram%20-%20%40fastkanfig
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40fastkanfig
 vmess://eyJhZGQiOiJ0dXJib28tc2VydmVyLmFmdGFiei5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhbnZhLmNvbSIsImlkIjoidHVyYm9vLXNlcnZlciIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTUiLCJwcyI6ImZhc3RrYW5maWcg8J+HqPCfh78iLCJzY3kiOiJhdXRvIiwic25pIjo…
@@ -43,6 +42,7 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&amp
 vless://440769a2-35c6-40b9-8763-a9c3244434e0@77.110.121.191:32472?security=none&amp;encryption=none&amp;host=Sheypoor.com&amp;headerType=http&amp;type=tcp#Hamrah-%40fastkanfig
 vless://b2465f21-e52e-4256-8e55-1d971ce4bcbb@185.239.104.38:2020?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#fastkanfig%20chanl
 vless://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&amp;encryption=none&amp;pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=4c7c9606f7#fastkanfig%20%F0%9F%87%B7%F0%9F%87%BA
+vless://turboo-server@85.9.96.92:55797?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#fastkanfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#telegram%20-%20%40fastkanfig
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40fastkanfig
 vmess://eyJhZGQiOiJ0dXJib28tc2VydmVyLmFmdGFiei5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhbnZhLmNvbSIsImlkIjoidHVyYm9vLXNlcnZlciIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTUiLCJwcyI6ImZhc3RrYW5maWcg8J+HqPCfh78iLCJzY3kiOiJhdXRvIiwic25pIjo…
