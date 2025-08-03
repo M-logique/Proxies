@@ -102,8 +102,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc%3D@89.23.103.229:443#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg%3D%3D@83.147.18.163:8388#@c
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%40configfu
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=%2FC5itOz6YmbLanD7F%3Fed%3D2560&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vngsUPPly.IP-DDnS.CoM#Telegram%40configfu
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#Vasl%20bemoon%20%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlBQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#Vasl%20bemoon%20@configfu
 vmess://eyJoZWFkZXJUeXBlIjoiIiwic2VlZCI6IiIsInNuaSI6IiIsImRldmljZUlEIjoiIiwibW9kZSI6IiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsInNlcnZpY2VOYW1lIjoiIiwiZnAiOiIiLCJhbHBuIjoiIiwicHMiOiJAY29uZmlnZnXYs9ix2YjYsdmH2KfbjOKAjNio24zYtNiq2LEiLCJpZCI6IjJlZDgwMjY2LTBiMGEtNDc4Yy04NmZkLTI3OGZmYjg0Y2Q0NCIsImV4dHJhIjoiIiwiaG9zdCI6IiIsInRscyI6Im5vbmUiLCJhZGQiOiJtZWxpX3Byb3h5eS52aXAtcGxhbi5vcmciLCJmcmFnbWVudCI6IiIsIm5ldCI6ImdycGMiLCJ2IjoiMiIsImFpZCI6IjAiLCJwYXRoIjoiIn0=
@@ -208,8 +206,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc%3D@89.23.103.229:443#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg%3D%3D@83.147.18.163:8388#@c
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%40configfu
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=%2FC5itOz6YmbLanD7F%3Fed%3D2560&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vngsUPPly.IP-DDnS.CoM#Telegram%40configfu
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#Vasl%20bemoon%20%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlBQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#Vasl%20bemoon%20@configfu
 vmess://eyJoZWFkZXJUeXBlIjoiIiwic2VlZCI6IiIsInNuaSI6IiIsImRldmljZUlEIjoiIiwibW9kZSI6IiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsInNlcnZpY2VOYW1lIjoiIiwiZnAiOiIiLCJhbHBuIjoiIiwicHMiOiJAY29uZmlnZnXYs9ix2YjYsdmH2KfbjOKAjNio24zYtNiq2LEiLCJpZCI6IjJlZDgwMjY2LTBiMGEtNDc4Yy04NmZkLTI3OGZmYjg0Y2Q0NCIsImV4dHJhIjoiIiwiaG9zdCI6IiIsInRscyI6Im5vbmUiLCJhZGQiOiJtZWxpX3Byb3h5eS52aXAtcGxhbi5vcmciLCJmcmFnbWVudCI6IiIsIm5ldCI6ImdycGMiLCJ2IjoiMiIsImFpZCI6IjAiLCJwYXRoIjoiIn0=
@@ -314,8 +310,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc%3D@89.23.103.229:443#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg%3D%3D@83.147.18.163:8388#@c
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%40configfu
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=%2FC5itOz6YmbLanD7F%3Fed%3D2560&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vngsUPPly.IP-DDnS.CoM#Telegram%40configfu
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?security=none&amp;encryption=none&amp;type=ws&amp;path=/#Vasl%20bemoon%20%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlBQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#Vasl%20bemoon%20@configfu
 vmess://eyJoZWFkZXJUeXBlIjoiIiwic2VlZCI6IiIsInNuaSI6IiIsImRldmljZUlEIjoiIiwibW9kZSI6IiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsInNlcnZpY2VOYW1lIjoiIiwiZnAiOiIiLCJhbHBuIjoiIiwicHMiOiJAY29uZmlnZnXYs9ix2YjYsdmH2KfbjOKAjNio24zYtNiq2LEiLCJpZCI6IjJlZDgwMjY2LTBiMGEtNDc4Yy04NmZkLTI3OGZmYjg0Y2Q0NCIsImV4dHJhIjoiIiwiaG9zdCI6IiIsInRscyI6Im5vbmUiLCJhZGQiOiJtZWxpX3Byb3h5eS52aXAtcGxhbi5vcmciLCJmcmFnbWVudCI6IiIsIm5ldCI6ImdycGMiLCJ2IjoiMiIsImFpZCI6IjAiLCJwYXRoIjoiIn0=
@@ -420,8 +414,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVm5UellBcVhFSHc%3D@89.23.103.229:443#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg%3D%3D@83.147.18.163:8388#@c
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#%40configfu
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=%2FC5itOz6YmbLanD7F%3Fed%3D2560&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;fp=randomized&amp;type=ws&amp;sni=vngsUPPly.IP-DDnS.CoM#Telegram%40configfu
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&amp;path=%2Fds&amp;security=&amp;encryption=none&amp;type=xhttp#%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlBQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#Vasl%20bemoon%20@configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40configfu
