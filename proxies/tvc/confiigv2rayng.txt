@@ -1,3 +1,5 @@
+vless://2f96ed36-b98a-4aee-f7f6-6443c22d2939@77.81.81.69:49822?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20npv_ir%40
+vless://2f96ed36-b98a-4aee-f7f6-6443c22d2939@77.81.81.69:16032?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20Npv_ir%40
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=light-presence.oneeat.co&amp;type=ws#https%3A%2F%2Ft.me%2Fsw_vpnbot%E2%98%AF%EF%B8%8F
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#https%3A%2F%2Ft.me%2Fsw_vpnbot%E2%98%AF%EF%B8%8F
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#https%3A%2F%2Ft.me%2Fsw_vpnbot%E2%98%AF%EF%B8%8F
