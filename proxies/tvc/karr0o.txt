@@ -1,3 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8E%B516%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#21%F0%9F%8E%B5%40karr0o
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#31%F0%9F%8E%B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%8E%B573%40karr0o
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135001195.sec22org.com#11%F0%9F%8E%B5%40karr0o
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#%F0%9F%8E%B559%40karr0o
@@ -17,6 +20,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%94%8B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%94%8B9%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%94%8B6%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8E%B516%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#21%F0%9F%8E%B5%40karr0o
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#31%F0%9F%8E%B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%8E%B573%40karr0o
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135001195.sec22org.com#11%F0%9F%8E%B5%40karr0o
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#%F0%9F%8E%B559%40karr0o
@@ -36,6 +42,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%94%8B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%94%8B9%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%94%8B6%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8E%B516%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#21%F0%9F%8E%B5%40karr0o
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#31%F0%9F%8E%B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%8E%B573%40karr0o
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135001195.sec22org.com#11%F0%9F%8E%B5%40karr0o
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#%F0%9F%8E%B559%40karr0o
@@ -55,6 +64,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%94%8B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%94%8B9%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%94%8B6%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8E%B516%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#21%F0%9F%8E%B5%40karr0o
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#31%F0%9F%8E%B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%8E%B573%40karr0o
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135001195.sec22org.com#11%F0%9F%8E%B5%40karr0o
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#%F0%9F%8E%B559%40karr0o
@@ -74,6 +86,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%94%8B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%94%8B9%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%94%8B6%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8E%B516%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#21%F0%9F%8E%B5%40karr0o
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#31%F0%9F%8E%B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%8E%B573%40karr0o
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135001195.sec22org.com#11%F0%9F%8E%B5%40karr0o
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#%F0%9F%8E%B559%40karr0o
@@ -93,6 +108,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%94%8B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%94%8B9%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%94%8B6%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8E%B516%40karr0o
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#21%F0%9F%8E%B5%40karr0o
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#31%F0%9F%8E%B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%8E%B573%40karr0o
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=147135001195.sec22org.com#11%F0%9F%8E%B5%40karr0o
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#%F0%9F%8E%B559%40karr0o
@@ -112,6 +130,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%94%8B5%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%94%8B9%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%94%8B6%40karr0o
+vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?security=reality&amp;encryption=none&amp;pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=canva.com&amp;sid=03e60665#%F0%9F%AB%9167%40karr0o
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1%F0%9F%AB%91%40karr0o
 vless://82488ab1-59e0-42fb-959e-ec90ec2f3165@167.172.186.211:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;host=167.172.186.211&amp;fp=chrome&amp;type=ws&amp;sni=zula.ir#%F0%9F%AB%9C98%40karr0o
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@de01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=31#%F0%9F%A6%913%40karr0o
@@ -125,6 +144,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#2%F0%9F%8E%B5%40karr0o
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU3MDkiLCJwcyI6IvCfjYkxNEBrYXJyMG8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://878879e6-4f80-4e85-a415-85533b536d13@v16.vxlimir.com:1370?security=reality&amp;encryption=none&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=e1afb93bfe75a34b#%F0%9F%8D%8975%40karr0o
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8E%B516%40karr0o
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#21%F0%9F%8E%B5%40karr0o
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#31%F0%9F%8E%B5%40karr0o
