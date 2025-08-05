@@ -1,3 +1,8 @@
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pq-2.access.name.ng&amp;type=ws&amp;sni=pq-2.access.name.ng#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh29v1.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh29v1.hiddendom.shop#@TuV2ray
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&amp;path=%2Fds&amp;host=&amp;mode=auto&amp;security=none#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
@@ -65,7 +70,11 @@ vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&a
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pq-2.access.name.ng&amp;type=ws&amp;sni=pq-2.access.name.ng#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh29v1.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh29v1.hiddendom.shop#@TuV2ray
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&amp;path=%2Fds&amp;host=&amp;mode=auto&amp;security=none#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
@@ -133,7 +142,11 @@ vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&a
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pq-2.access.name.ng&amp;type=ws&amp;sni=pq-2.access.name.ng#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh29v1.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh29v1.hiddendom.shop#@TuV2ray
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&amp;path=%2Fds&amp;host=&amp;mode=auto&amp;security=none#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
@@ -201,7 +214,11 @@ vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&a
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pq-2.access.name.ng&amp;type=ws&amp;sni=pq-2.access.name.ng#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh29v1.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh29v1.hiddendom.shop#@TuV2ray
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&amp;path=%2Fds&amp;host=&amp;mode=auto&amp;security=none#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#@TuV2ray
@@ -269,7 +286,8 @@ vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&a
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
+vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
@@ -341,8 +359,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encrypti
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&amp;path=%2Fds&amp;host=&amp;mode=auto&amp;security=none#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&amp;encryption=none&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;type=tcp#@TuV2ray
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pq-2.access.name.ng&amp;type=ws&amp;sni=pq-2.access.name.ng#@TuV2ray
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&amp;security=tls&amp;sni=pqh29v1.hiddendom.shop&amp;alpn=h2&amp;type=grpc&amp;host=pqh29v1.hiddendom.shop#@TuV2ray
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&amp;path=%2Fds&amp;host=&amp;mode=auto&amp;security=none#@TuV2ray
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
