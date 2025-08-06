@@ -1,12 +1,5 @@
-vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
-vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
-vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
-vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
-vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
-vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
-vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
-vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
-vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
-vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
-vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
-vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@khodeet_bashi
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@khodeet_bashi
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@khodeet_bashi
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@khodeet_bashi
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@khodeet_bashi
