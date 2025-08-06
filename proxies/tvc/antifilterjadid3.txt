@@ -1,3 +1,5 @@
+vless://cdf6627b-71c1-4ffa-b19b-881058c6b61a@de2.hpcdn.info:80?encryption=none&amp;security=none&amp;type=ws&amp;host=de2.hpcdn.info&amp;path=%2F34078%2FwsMMad#%F0%9F%87%A9%F0%9F%87%AA274MMad-WS
+vless://66aa4ad1-6fda-48c3-8a4d-7d03db5dafa1@de2.hpcdn.info:80?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=de2.hpcdn.info&amp;path=%2F15235%2FhMMad#%F0%9F%87%A9%F0%9F%87%AA274MMad-H
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@khodeet_bashi
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@khodeet_bashi
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@khodeet_bashi
