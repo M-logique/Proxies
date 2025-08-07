@@ -196,6 +196,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@ZenixVPN_Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#@ZenixVPN_Channel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc#@ZenixVPN_Channel
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&amp;encryption=none&amp;host=z…
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&amp;path=%2Fds&amp;security=none&amp;encryption=none&amp;type=xhttp#@ZenixVPN_Channel
 vless://91d233a2-08a8-4006-ac8b-597fb41ea2bb@panke1.dadasoratmolayi.com:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@ZenixVPN_Channel
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&amp;encryption=none&amp;host=speedtest.net%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#@ZenixVPN_Channel
