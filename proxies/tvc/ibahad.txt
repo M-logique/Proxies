@@ -66,6 +66,8 @@ vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?s
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=31#%F0%9F%87%B9%F0%9F%87%B7%20Telegram%20%F0%9F%86%94ibahad
 vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=cdncloud-direct-public.beraghsa.ir&amp;type=httpupgrade#%F0%9F%87%AB%F0%9F%87%B7%20Telegram%20%F0%9F%86%94ibahad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcHJoUng3alRRdTdhZmNHWTNhbXNE@85.208.139.158:25607#Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW1pYmFoYWQ%3D@57.129.15.177:8444#Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://tunnel-telegramibahad@57.129.15.177:8441?security=tls&amp;alpn=http%2F1.1&amp;host=57.129.15.177&amp;headerType=none&amp;type=tcp&amp;sni=varzesh3.com#Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%A9%F0%9F%87%AA
 vless://turboo-server@95.211.46.25:43978?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram%20%F0%9F%86%94%EF%B8%8Fibahad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%B9%F0%9F%87%B7
 trojan://tunnel-telegram-ibahad@193.124.46.134:8441?security=tls&amp;alpn=http%2F1.1&amp;host=tr-1.stunnel.cc&amp;headerType=none&amp;type=tcp&amp;sni=creativecommons.org#Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%B9%F0%9F%87%B7
