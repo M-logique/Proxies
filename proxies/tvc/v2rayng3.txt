@@ -477,7 +477,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#S567-197405
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#S566-196305
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#S581-200105
-vless://70cb3e28-554f-462d-f3c1-8446ea394fbf@85.90.207.130:22872?type=ws&amp;security=none&amp;path=%2F#S580-199555
+vless://81037af4-f79d-458e-b3b4-8254ebffb848@85.90.207.130:21357?type=ws&amp;security=none&amp;path=%2F#S580-199555
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.183.142:10920?type=ws&amp;security=none#S560-187501
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.192.5:10504?type=ws&amp;security=none#S558-187080
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&amp;security=none#OPT
