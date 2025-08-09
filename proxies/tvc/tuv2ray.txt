@@ -1,3 +1,4 @@
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://48c8ddde-e4b9-41ce-bf7d-9e44c14f8a70@91.99.18.180:8558?type=tcp&amp;security=none#@TuV2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D%23%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@TuV2ray
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=PmQ1cCsP9x.GhEiChI.oRg&amp;type=ws&amp;sni=PmQ1cCsP9x.GhEiChI.oRg#@TuV2ray
@@ -74,10 +75,7 @@ vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#@TuV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://48c8ddde-e4b9-41ce-bf7d-9e44c14f8a70@91.99.18.180:8558?type=tcp&amp;security=none#@TuV2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D%23%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@TuV2ray
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=PmQ1cCsP9x.GhEiChI.oRg&amp;type=ws&amp;sni=PmQ1cCsP9x.GhEiChI.oRg#@TuV2ray
@@ -154,10 +152,7 @@ vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#@TuV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://48c8ddde-e4b9-41ce-bf7d-9e44c14f8a70@91.99.18.180:8558?type=tcp&amp;security=none#@TuV2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D%23%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@TuV2ray
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=PmQ1cCsP9x.GhEiChI.oRg&amp;type=ws&amp;sni=PmQ1cCsP9x.GhEiChI.oRg#@TuV2ray
@@ -234,10 +229,7 @@ vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#@TuV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
 vless://48c8ddde-e4b9-41ce-bf7d-9e44c14f8a70@91.99.18.180:8558?type=tcp&amp;security=none#@TuV2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D%23%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=random&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#@TuV2ray
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=PmQ1cCsP9x.GhEiChI.oRg&amp;type=ws&amp;sni=PmQ1cCsP9x.GhEiChI.oRg#@TuV2ray
@@ -314,10 +306,11 @@ vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#@TuV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#@TuV2ray
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=lease-18.access.name.ng&amp;fp=random&amp;type=ws&amp;sni=lease-18.access.name.ng#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=JdYq2881Un.GhEiChI.oRg&amp;fp=chrome&amp;type=ws&amp;sni=JdYq2881Un.GhEiChI.oRg#@TuV2ray
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
+vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Fdahstrws%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=638901790535253494.brussels-prx-dnraaal.info&amp;type=ws&amp;sni=638901790535253494.brussels-prx-dnraaal.info#@TuV2ray
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=lease-18.access.name.ng&amp;fp=random&amp;type=ws&amp;sni=lease-18.access.name.ng#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=JdYq2881Un.GhEiChI.oRg&amp;fp=chrome&amp;type=ws&amp;sni=JdYq2881Un.GhEiChI.oRg#@TuV2ray
@@ -386,4 +379,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dzani.yae
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#@TuV2ray
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F%3Fed%3D%23%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=bitget1.asdasd.click&amp;fp=chrome&amp;type=ws&amp;sni=bitget1.asdasd.click#@TuV2ray
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@TuV2ray
