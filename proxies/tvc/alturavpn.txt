@@ -39,9 +39,9 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444?type=tcp#Altura%20VPN
 vmess://eyJob3N0IjoidG9tY2F0LmFwYWNoZS5vcmciLCJwYXRoIjoiXC8iLCJwcyI6IkFsdHVyYSUyMFZQTiIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaWQiOiI4N2YwOGY4Yi00OTM0LTRhMGItODVhNi01NWI1YTc5MzQ3MGMiLCJwb3J0IjoiMTAyIiwiYWRkIjoiNTcuMTI5Ljc3LjE3OSIsInNjeSI6ImF1dG8ifQ==
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&amp;host=verina.ccantarella.dns-dynamic.net&amp;path=/proxyip&amp;security=tls&amp;fp=randomized&amp;sni=verina.ccantarella.dns-dynamic.net&amp;alpn=http/1.1#Altura%20VPN
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/&amp;security=tls&amp;sni=carlotta.shoorekeeper.cloudns.org#Altura%20VPN
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/proxyip%3Dzani.yaemiko.ggff.net/?&amp;security=tls&amp;fp=random&amp;sni=carlotta.shoorekeeper.c…
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/proxyip%3Dzani.yaemiko.ggff.net/?&amp;security=tls&amp;fp=random&amp;sni=carlotta.shoorekeeper.cloudns.org#Altura%20VPN
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/&amp;security=tls&amp;sni=carlotta.shoorekeeper.cloudns.org#Altura%20VPN
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;security=tls&amp;fp=random&amp;sni=carlotta.shoorekeeper.cloudns.org&amp;alpn=h2,http/1.1#Altura%20VPN
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&amp;host=verina.ccantarella.dns-dynamic.net&amp;path=/proxyip&amp;security=tls&amp;fp=randomized&amp;sni=verina.ccantarella.dns-dynamic.net&amp;alpn=http/1.1#Altura%20VPN
 vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&amp;headerType=none#Altura%20VPN
