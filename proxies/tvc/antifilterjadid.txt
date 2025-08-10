@@ -1,3 +1,5 @@
+vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
+vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
 vless://8ee694ba-cb27-4551-acfa-c94f2207a5f5@de.mmad.news:443?encryption=none&amp;security=tls&amp;sni=de.mmad.news&amp;fp=random&amp;type=ws&amp;host=de.mmad.news&amp;path=%2F40671%2Fws#%F0%9F%87%A9%F0%9F%87%AA276MMad-WS-TLS
 vless://9f4f9861-0589-4172-90ef-357578581ca1@de.mmad.news:443?encryption=none&amp;security=tls&amp;sni=de.mmad.news&amp;fp=random&amp;type=httpupgrade&amp;host=de.mmad.news&amp;path=%2F13801%2Fh#%F0%9F%87%A9%F0%9F%87%AA276MMad-H-TLS
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
