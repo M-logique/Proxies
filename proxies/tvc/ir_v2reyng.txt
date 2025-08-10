@@ -36,6 +36,8 @@ vless://ecde4254-f631-47de-b498-44c1c988a016@94.74.164.71:3443?security=reality&
 vless://8657fada-f21d-422b-9a2d-3c47d93c11bd@91.99.231.102:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%2069%20%20
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%F0%9F%94%B5%202
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%2046%20%20
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel-رایگان-نامحدود
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel-رایگان-نامحدود
 vless://6e7aad6a-3744-4cc1-8d67-3e652b413276@www.speedtest.net:2095/?type=httpupgrade&amp;path=/@ir_v2reyng--@ir_v2reyng--@ir_v2reyng--@ir_v2reyng--@ir_v2reyng--@ir_v2reyng--@ir_v2reyng--@ir_v2reyng--@ir_v2reyng--&amp;host=w1.wtezar.site&amp;security=none#Iran-2wdzu6qi
 vless://8a564247-d052-4477-a34b-a9b2c910c769@www.speedtest.net:8880?type=httpupgrade&amp;path=%2F%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn…
 vless://8a564247-d052-4477-a34b-a9b2c910c769@www.speedtest.net:8880?type=httpupgrade&amp;path=%2F%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%3Fed%3D2560&amp;host=w1.wtezar.site&amp;security=none#@ZedBaz_vpn
