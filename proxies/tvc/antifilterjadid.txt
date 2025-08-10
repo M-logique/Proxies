@@ -8,10 +8,10 @@ vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryptio
 vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
 vless://8ee694ba-cb27-4551-acfa-c94f2207a5f5@de.mmad.news:443?encryption=none&amp;security=tls&amp;sni=de.mmad.news&amp;fp=random&amp;type=ws&amp;host=de.mmad.news&amp;path=%2F40671%2Fws#%F0%9F%87%A9%F0%9F%87%AA276MMad-WS-TLS
 vless://9f4f9861-0589-4172-90ef-357578581ca1@de.mmad.news:443?encryption=none&amp;security=tls&amp;sni=de.mmad.news&amp;fp=random&amp;type=httpupgrade&amp;host=de.mmad.news&amp;path=%2F13801%2Fh#%F0%9F%87%A9%F0%9F%87%AA276MMad-H-TLS
-vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
-vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
 vless://8ee694ba-cb27-4551-acfa-c94f2207a5f5@de.mmad.news:443?encryption=none&amp;security=tls&amp;sni=de.mmad.news&amp;fp=random&amp;type=ws&amp;host=de.mmad.news&amp;path=%2F40671%2Fws#%F0%9F%87%A9%F0%9F%87%AA276MMad-WS-TLS
 vless://9f4f9861-0589-4172-90ef-357578581ca1@de.mmad.news:443?encryption=none&amp;security=tls&amp;sni=de.mmad.news&amp;fp=random&amp;type=httpupgrade&amp;host=de.mmad.news&amp;path=%2F13801%2Fh#%F0%9F%87%A9%F0%9F%87%AA276MMad-H-TLS
+vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
+vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Antifilterjadid
 vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&amp;path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&amp;host=De.Parsashonam.CfD.&amp;security=none#@Antifilterjadid
 vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?security=reality&amp;encryption=none&amp;pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com#233boy-reality-89.117.78.129
