@@ -7,9 +7,8 @@ vless://turboo-s…
 vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
 vless://turboo-s…
 vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
-vless://ea5351df-68ef-4416-a861-33e56ea72343@165.232.82.89:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%283%29
-vless://turboo-server@telegram.turboo-server.com.co:2095?security=&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#Confing_hup%282%29
-vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
+vmess://eyJhZGQiOiIxMDQuMjQuNjYuMTc1IiwiYWlkIjo…
+vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?path=%2Fwww.speedtest.net%2Findex.html-www.google.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dfghjk.farcadezero.ir&amp;type=ws#Confing_hup%281%29
 vless://ff5aaa73-612d-49f5-8080-9a1c2bfd9410@185.14.160.73:26287?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Confing_hup%285%29
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Confing_hup%284%29
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&amp;path=%2Fsc&amp;security=none&amp;encryption=none&amp;type=xhttp#Confing_hup%283%29
@@ -61,9 +60,8 @@ vless://turboo-s…
 vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
 vless://turboo-s…
 vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
-vless://ea5351df-68ef-4416-a861-33e56ea72343@165.232.82.89:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%283%29
-vless://turboo-server@telegram.turboo-server.com.co:2095?security=&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#Confing_hup%282%29
-vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
+vmess://eyJhZGQiOiIxMDQuMjQuNjYuMTc1IiwiYWlkIjo…
+vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?path=%2Fwww.speedtest.net%2Findex.html-www.google.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dfghjk.farcadezero.ir&amp;type=ws#Confing_hup%281%29
 vless://ff5aaa73-612d-49f5-8080-9a1c2bfd9410@185.14.160.73:26287?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Confing_hup%285%29
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Confing_hup%284%29
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&amp;path=%2Fsc&amp;security=none&amp;encryption=none&amp;type=xhttp#Confing_hup%283%29
@@ -114,9 +112,6 @@ vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.181.7:443?mode=auto&amp;secur
 vless://turboo-s…
 vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
 vless://turboo-s…
-vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
-vless://ea5351df-68ef-4416-a861-33e56ea72343@165.232.82.89:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%283%29
-vless://turboo-server@telegram.turboo-server.com.co:2095?security=&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#Confing_hup%282%29
 vless://ea5351df-68ef-4416-a861-33e56ea72343@de1.seluna.ir:8990?security=reality&amp;encryption=none&amp;pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=9912311de4630f2d#Confing_hup%281%29
 vmess://eyJhZGQiOiIxODguMjEy…
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%281%29
@@ -155,7 +150,5 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@repo-mobile.org:2096?path=%2Fproxyi
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%283%29%F0%9F%87%A9%F0%9F%87%AA
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Confing_hup%282%29%F0%9F%87%A9%F0%9F%87%AA
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@repo-mobile.org:2096?path=%2Fproxyip%3Drobin.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=verina.ccantarella.dns-dynamic.net&amp;fp=randomized&amp;type=ws&amp;sni=verina.ccantarella.dns-dynamic.net#Confing_hup%281%29%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiIxMDQuMjQuNjYuMTc1IiwiYWlkIjo…
-vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?path=%2Fwww.speedtest.net%2Findex.html-www.google.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dfghjk.farcadezero.ir&amp;type=ws#Confing_hup%281%29
 vmess://eyJhZGQiOiIxMDQuMjQuNjYuMTc1IiwiYWlkIjo…
 vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?path=%2Fwww.speedtest.net%2Findex.html-www.google.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dfghjk.farcadezero.ir&amp;type=ws#Confing_hup%281%29
