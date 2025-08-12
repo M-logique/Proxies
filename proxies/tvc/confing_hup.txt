@@ -1,3 +1,10 @@
+vmess://eyJhZGQiOiIxMDQuMjQuNjYuMTc1IiwiYWlkIjo…
+vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?path=%2Fwww.speedtest.net%2Findex.html-www.google.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dfghjk.farcadezero.ir&amp;type=ws#Confing_hup%281%29
+vless://ff5aaa73-612d-49f5-8080-9a1c2bfd9410@185.14.160.73:26287?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Confing_hup%285%29
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Confing_hup%284%29
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&amp;path=%2Fsc&amp;security=none&amp;encryption=none&amp;type=xhttp#Confing_hup%283%29
+vmess://eyJhZGQiOiIxMDQuMjQuNjYuMTc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZnBoZGRlMS5yZWFjaGhlYWRwaG9uZXMuY29tIiwiaWQiOiIzMTIwOWU0MC1iZTYwLTRkNjAtYWQ0OC05NzY1YTBjNWQwODciLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MyL25leHRsaWZlIiwicG9ydCI6IjgwODAiLCJwcyI6IkNvbmZpbmdfaHVwKDIpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?path=%2Fwww.speedtest.net%2Findex.html-www.google.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dfghjk.farcadezero.ir&amp;type=ws#Confing_hup%281%29
 vless://747d4612…
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2FBIA_CHANEL%40JKVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=verina.ccantarella.dns-dynamic.net&amp;fp=chrome&amp;type=ws&amp;sni=verina.ccantarella.dns-dynamic.net#Confing_hup%281%29
 vless://8fa56720-6d4f-49ab-8529-7cbb82299894@filmnet.filimnet.com:80?mode=packet-up&amp;path=%2Fcdn%2Fassets%3Fv%3D12&amp;security=none&amp;encryption=none&amp;host=abriconf.global.ssl.fastly.net&amp;type=xhttp#Confing_hup%283%29
@@ -5,8 +12,8 @@ vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.207.141:13430?security=none&
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2FBIA_CHANEL%40JKVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=verina.ccantarella.dns-dynamic.net&amp;fp=chrome&amp;type=ws&amp;sni=verina.ccantarella.dns-dynamic.net#Confing_hup%281%29
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?pat…
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#Confing_hup%281%29
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?pat…
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#Confing_hup%281%29
+vless://30f2d443-af46…
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%281%29%F0%9F%87%A9%F0%9F%87%AA
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?path=V2rayBaaz&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=verina.ccantarella.dns-dynamic.net&amp;fp=chrome&amp;type=ws&amp;sni=verina.ccantarella.dns-dynamic.net#Confing_hup%284%29%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJhZGQiOiIxMDQuMjEuMjQuMTgwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZmhkbmwuY2xvY2tkZW55Mi5ldSIsImlkIjoiY2YxZmM1OWYtMjdjOS00MmI3LWEzYjQtODViMDZlZTljZmU3IiwibmV0Ijoid3MiLCJwYXRoIjoiLzIwMzg2L25lWHRMaWZlIiwicG9ydCI6IjgwODAiLCJwcyI6IkNvbmZpbmdfaHVwKDMp8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%282%29%F0%9F%87%A9%F0%9F%87%AA
@@ -47,8 +54,8 @@ vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.207.141:13430?security=none&
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2FBIA_CHANEL%40JKVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=verina.ccantarella.dns-dynamic.net&amp;fp=chrome&amp;type=ws&amp;sni=verina.ccantarella.dns-dynamic.net#Confing_hup%281%29
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?pat…
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#Confing_hup%281%29
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?pat…
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#Confing_hup%281%29
+vless://30f2d443-af46…
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%281%29%F0%9F%87%A9%F0%9F%87%AA
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?path=V2rayBaaz&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=verina.ccantarella.dns-dynamic.net&amp;fp=chrome&amp;type=ws&amp;sni=verina.ccantarella.dns-dynamic.net#Confing_hup%284%29%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJhZGQiOiIxMDQuMjEuMjQuMTgwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZmhkbmwuY2xvY2tkZW55Mi5ldSIsImlkIjoiY2YxZmM1OWYtMjdjOS00MmI3LWEzYjQtODViMDZlZTljZmU3IiwibmV0Ijoid3MiLCJwYXRoIjoiLzIwMzg2L25lWHRMaWZlIiwicG9ydCI6IjgwODAiLCJwcyI6IkNvbmZpbmdfaHVwKDMp8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%282%29%F0%9F%87%A9%F0%9F%87%AA
@@ -87,8 +94,6 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2FBIA_CHANEL
 vless://8fa56720-6d4f-49ab-8529-7cbb82299894@filmnet.filimnet.com:80?mode=packet-up&amp;path=%2Fcdn%2Fassets%3Fv%3D12&amp;security=none&amp;encryption=none&amp;host=abriconf.global.ssl.fastly.net&amp;type=xhttp#Confing_hup%283%29
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.207.141:13430?security=none&amp;encryption=none&amp;type=ws#Confing_hup%282%29
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=%2FBIA_CHANEL%40JKVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=verina.ccantarella.dns-dynamic.net&amp;fp=chrome&amp;type=ws&amp;sni=verina.ccantarella.dns-dynamic.net#Confing_hup%281%29
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?pat…
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#Confing_hup%281%29
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?pat…
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=fin.channel.digicyber.click&amp;type=ws#Confing_hup%281%29
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4…
@@ -120,7 +125,5 @@ vless://8b2555c2-44da-421d-847c-87bc680540cd@ipstaticf.teampluss.ir:81?path=%2F&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@promo9v.bystrivpn.ru:443#Confing_hup%283%29
 vmess://eyJhZGQiOiIxODguMjEyLjk2LjIzNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZmUyOGQxMi04Y2YxLTQ3OGQtYjRkNC1lMzhjNTIxMjM1NGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIxIiwicHMiOiJDb25maW5nX2h1cCgyKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%281%29
-vless://30f2d443-af46…
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%281%29%F0%9F%87%A9%F0%9F%87%AA
 vless://30f2d443-af46…
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Confing_hup%281%29%F0%9F%87%A9%F0%9F%87%AA
