@@ -1,7 +1,3 @@
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40rxv2ray
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%40rxv2ray
-vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=user2-P2L.pAgES.dev&amp;type=ws&amp;sni=user2-P2L.pAgES.dev#%40rxv2ray
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@w325.pages.dev:443?path=%2FUzqdLlugYzBpZgQx%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=w325.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=W325.paGeS.Dev#%40rxv2ray
