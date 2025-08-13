@@ -1,3 +1,4 @@
+trojan://bbbbbbbb-cccc-4ddd-eeee-ffffffffffff@vipren.biz.id:443?path=%2FNeoxide-X%2F194.87.62.236-443&amp;security=tls&amp;host=vipren.biz.id&amp;type=ws&amp;sni=vipren.biz.id#NL%20-%20Baykov%20Ilya%20Sergeevich
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=server7.coin.name.ng&amp;type=ws&amp;sni=server7.coin.name.ng#Germany%207
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=server8.coin.name.ng&amp;type=ws&amp;sni=server8.coin.name.ng#Germany%208
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%9F%87%B3%F0%9F%87%B1%40radiofarex
