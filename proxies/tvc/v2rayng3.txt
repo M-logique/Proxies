@@ -424,8 +424,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&amp;s
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#S566-196305
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#S581-200105
 vless://fb2faf39-a134-40ce-cb3b-4abc60a6d05b@85.90.207.130:56551?type=ws&amp;security=none&amp;path=%2F#S580-199555
-vless://86fcb53f-5485-4f72-9bf3-3428a5f5ccdd@95.217.25.238:13555?type=ws&amp;security=none#S560-190131
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.196.173:10504?type=ws&amp;security=none#S558-187080
+vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@95.217.246.212:10504?type=ws&amp;security=none#S558-187080
+vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@95.217.246.212:10504?type=ws&amp;security=none#S558-187080
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&amp;security=none#OPT
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
 vless://c95740bb-b3be-44f9-9fa4-260c3fbec6de@37.27.15.167:2089?security=reality&amp;encryption=none&amp;pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=e3c5c005cae07eb8#@V2rayNG3
