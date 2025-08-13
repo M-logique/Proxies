@@ -4,8 +4,6 @@ vmess://eyJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU3QyUyMCU0MHYycmF5X2NhcnRl
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%7C@v2ray_cartel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&amp;headerType=none&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B2%7Cv2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
-vmess://eyJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJwYXRoIjoiIiwi…
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&amp;host=rayan-roof.atena.dpdns.org&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=rayan-roof.atena.dpdns.org#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel…
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
@@ -35,8 +33,6 @@ vmess://eyJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU3QyUyMCU0MHYycmF5X2NhcnRl
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%7C@v2ray_cartel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&amp;headerType=none&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B2%7Cv2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
-vmess://eyJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJwYXRoIjoiIiwi…
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&amp;host=rayan-roof.atena.dpdns.org&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=rayan-roof.atena.dpdns.org#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel…
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
@@ -66,8 +62,6 @@ vmess://eyJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU3QyUyMCU0MHYycmF5X2NhcnRl
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%7C@v2ray_cartel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&amp;headerType=none&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B2%7Cv2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
-vmess://eyJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJwYXRoIjoiIiwi…
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&amp;host=rayan-roof.atena.dpdns.org&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=rayan-roof.atena.dpdns.org#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel…
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&amp;host=VngSuPpLY.IP-DdnS.com&amp;path=/Etb1L6YUdZFZuTOr?ed%3D2560&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
@@ -97,8 +91,6 @@ vmess://eyJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU3QyUyMCU0MHYycmF5X2NhcnRl
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%7C@v2ray_cartel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&amp;headerType=none&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B2%7Cv2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
-vmess://eyJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJwYXRoIjoiIiwi…
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 vmess://eyJzY3kiOiJhdXRvIiwicGF0aCI6IiIsIn…
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?type=ws&amp;host=LzHeTzMuDm.GiTi3.OrG&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=LzHeTzMuDm.GiTi3.OrG#@V2ray_cartel
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?type=ws&amp;host=dl1-uk-cdn.easy-upload.org&amp;path=/&amp;security=tls&amp;sni=dl1-uk-cdn.easy-upload.org#%F0%9F%87%AC%F0%9F%87%A7%20UK%20-%20Telegram%20:%20@v2ray_cartel
