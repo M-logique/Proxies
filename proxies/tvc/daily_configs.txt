@@ -1,11 +1,6 @@
-vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=varzesh3.com&amp;sid=7c0b6c88fe5c#%40Daily_Configs
-vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?mode=auto&amp;path=%2FApi%2FAS&amp;security=reality&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20750000%2C%20%22scMaxConcurrentPosts%22%3A%2040%2C%20%22scMinPostsIntervalMs%22%3A%2020%2C%20%22xPaddingBytes%22%3A%20%22500-1500%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&amp;fp=firefox&amp;type=xhttp&amp;sni=cdn.jsdelivr.net#%40Daily_Configs
-vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@185.138.164.3:2096?path=%2Ftjkqcpws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
-vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#%40Daily_Configs
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=Vk1YdTaPjV.wAsAbI1.oRg&amp;fp=chrome&amp;type=ws&amp;sni=Vk1YdTaPjV.wAsAbI1.oRg#%40Daily_Configs
-vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?path=%2Fyohyowws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
-vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=%2Flfcinsws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
-vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?path=%2Feoppydws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://0f7e89d6-9f35…
+vless://ab06d644-210d-4193-b31a-2c4604ae856d@all85-vip.f-sub.com:1517?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40Daily_Configs
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=balancer-1.access.name.ng&amp;fp=chrome&amp;type=ws&amp;sni=balancer…
 vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?mode=auto&amp;path=%2FApi%2FAS&amp;security=reality&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%20750000%2C%20%22scMaxConcurrentPosts%22%3A%2040%2C%20%22scMinPostsIntervalMs%22%3A%2020%2C%20%22xPaddingBytes%22%3A%20%22500-1500%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&amp;fp=firefox&amp;type=xhttp&amp;sni=cdn.jsdelivr.net#%40Daily_Configs
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&amp;encryption=none&amp;host=khamenei.ir&amp;headerType=http&amp;type=tcp#%40Daily_Configs
 vmess://eyJhZGQiOiI1Ny4xMjkuNzcuMTc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0b21jYXQuYXBhY2hlLm9yZyIsImlkIjoiODdmMDhmOGItNDkzNC00YTBiLTg1YTYtNTViNWE3OTM0NzBjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTAyIiwicHMiOiJARGFpbHlfQ29uZmlncyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
@@ -17,8 +12,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3D
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=server12.coin.name.ng&amp;type=ws&amp;sni=server12.coin.name.ng#%40Daily_Configs
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=server10.coin.name.ng&amp;type=ws&amp;sni=server10.coin.name.ng#%40Daily_Configs
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=balancer-1.access.name.ng&amp;fp=chrome&amp;type=ws&amp;sni=balancer-1.access.name.ng#%40Daily_Configs
-vless://0f7e89d6-9f35…
-vless://ab06d644-210d-4193-b31a-2c4604ae856d@all85-vip.f-sub.com:1517?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40Daily_Configs
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://fb8cfe34-8d8e-4882-8c2e-e27c5342e1d5@www.speedtest.net:80?path=%2Fali&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&amp;type=ws#%40Daily_Configs
 vless://4e4dc1ac-b66f-4c27-8dd2-ba791e92b869@91.99.18.180:8558?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Daily_Configs
