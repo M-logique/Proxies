@@ -1,7 +1,8 @@
 vless://c1d16861-5a8b-46d9-bfd3-032b9abcb68f@192.142.15.95:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=hls-svod.itunes.apple.com&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=48720c&amp;spx=/#Altura%20VPN
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/proxyip%3Dzani.yaemiko.ggff.net/?&amp;security=tls&amp;fp=random&amp;sni=carlotta.shoorekeeper.cloudns.org#Altura%20VPN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
 vless://a8a386a7-ee32-4dd7-bbe5-5b4ebaa42fd7@45.144.31.234:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=hls-svod.itunes.apple.com&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=f79448a30d&amp;spx=/#Altura%20VPN
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?type=ws&amp;host=vpn.stupidworld.web.id&amp;path=/Stupid-World/103.106.228.126-2053&amp;security=tls&amp;fp=chrome&amp;sni=vpn.stupidworld.web.id#Altura%20VPN
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=/proxyip%3Dzani.yaemiko.ggff.net/?&amp;security=tls&amp;fp=random&amp;sni=carlotta.shoorekeeper.cloudns.org#Altura%20VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMjZaTHhESTBWSGlBUjJ1S1V2RE96@197.140.142.74:8443?type=tcp#Altura%20VPN
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@45.12.143.147:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=hls-svod.itunes.apple.com&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=31&amp;spx=/#Altura%20VPN
 vless://65506f4e-363c-5b37-a225-91be0604217a@v-06.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
