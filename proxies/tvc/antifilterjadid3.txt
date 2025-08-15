@@ -33,3 +33,7 @@ vless://3d6687ef-de9f-4f66-9fd3-c8bf38826b3e@188.245.108.31:80?encryption=none&a
 vless://3d6687ef-de9f-4f66-9fd3-c8bf38826b3e@185.146.173.39:80?encryption=none&amp;security=none&amp;type=ws&amp;host=de1.mmad.news&amp;path=%2F11921%2Fwsgoogle#%F0%9F%87%A9%F0%9F%87%AA280MMad-WS-noTLS1
 vless://e73f6908-d248-4c22-86f3-2a299db04ea8@188.245.108.31:80?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=de1.mmad.news&amp;path=%2F47267%2Fhgoogle#%F0%9F%87%A9%F0%9F%87%AA280MMad-H-noTLS2
 vless://e73f6908-d248-4c22-86f3-2a299db04ea8@185.146.173.39:80?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=de1.mmad.news&amp;path=%2F47267%2Fhgoogle#%F0%9F%87%A9%F0%9F%87%AA280MMad-H-noTLS1
+vless://4d6bad54-1217-49c0-8569-2fe1df2b8914@91.98.35.181:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=de2.mmad.news&amp;path=%2F8880%2FwsGoogle#%F0%9F%87%A9%F0%9F%87%AA281MMad%F0%9F%96%A4-WS2-noTLS
+vless://4d6bad54-1217-49c0-8569-2fe1df2b8914@185.146.173.39:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=de2.mmad.news&amp;path=%2F8880%2FwsGoogle#%F0%9F%87%A9%F0%9F%87%AA281MMad%F0%9F%96%A4-WS1-noTLS
+vless://2d0cfde1-688a-4dd1-bcc2-415044b6da88@91.98.35.181:80?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=de2.mmad.news&amp;path=%2F51002%2Fh#%F0%9F%87%A9%F0%9F%87%AA281MMad%F0%9F%96%A4-H2-noTLS
+vless://2d0cfde1-688a-4dd1-bcc2-415044b6da88@185.146.173.39:80?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=de2.mmad.news&amp;path=%2F51002%2Fh#%F0%9F%87%A9%F0%9F%87%AA281MMad%F0%9F%96%A4-H1-noTLS
