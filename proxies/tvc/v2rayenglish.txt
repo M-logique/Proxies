@@ -1,4 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#Telegram+%3A+%40V2rayEnglish
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#Telegram+%3A+%40V2rayEnglish
 vless://turboo-server@91.99.224.53:60123?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss13712.tas-bazi.com:443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#Telegram+%3A+%40V2rayEnglish
