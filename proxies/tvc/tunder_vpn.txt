@@ -417,6 +417,7 @@ vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&amp;path=%2FZed&amp;security=none&amp;encryption=none&amp;host=Ryanjames.global.ssl.fastly.net&amp;type=xhttp#%40Tunder_vpn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.81:8880?path=%2FTelegram%40V2ray_Alpha&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#Telegram@Tunder_vpn
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=019309B7.XyZ0.PaGeS.dEV&amp;type=ws&amp;sni=019309B7.XyZ0.PaGeS.dEV#Telegram@Tunder_vpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;zedbaz_vpn+join+sho
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%40Tunder_vpn
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.147.22:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.net.&amp;type=ws#%40Tunder_vpn
 trojan://%3AbC5%5Elakx%3E%24d@172.66.45.9:443?path=%2FtrNs9G5VJ2vI0PxgP2&amp;security=tls&amp;alpn=http%2F1.1&amp;host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv#%40Tunder_vpn
