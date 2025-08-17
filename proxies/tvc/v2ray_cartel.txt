@@ -1,11 +1,5 @@
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80…
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
-vmess://eyJ0eXBlIjoibm9uZSIsImlkIjoiYzdmMTY5YTMtMmU5YS00ODk0LWJhNTMtN2IyZmE2ZmQwOGI0IiwiaG9zdCI6IiIsInNjeSI6ImF1dG8iLCJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU3QyUyMCU0MHYycmF5X2NhcnRlbCIsInBvcnQiOiI0MTEwMCIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJhZGQiOiIxNS4yMDQuMjM0LjIwMCJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%7C@v2ray_cartel
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80…
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.12…
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#@v2ray_cartel
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=%3Dzani.yaemiko.ggff.net/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=chrome&amp;sni=carlotta.shoorekeeper.cloudns.org#@v2ray_cartel%20%F0%9F%92%9C%F0%9F%92%99
@@ -47,6 +41,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;
 vmess://eyJ0eXBlIjoibm9uZSIsImlkIjoiYzdmMTY5YTMtMmU5YS00ODk0LWJhNTMtN2IyZmE2ZmQwOGI0IiwiaG9zdCI6IiIsInNjeSI6ImF1dG8iLCJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU3QyUyMCU0MHYycmF5X2NhcnRlbCIsInBvcnQiOiI0MTEwMCIsInBhdGgiOiIiLCJuZXQiOiJ0Y3AiLCJhZGQiOiIxNS4yMDQuMjM0LjIwMCJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%7C@v2ray_cartel
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80…
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80…
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%7C@v2ray_cartel
