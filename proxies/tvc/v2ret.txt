@@ -52,8 +52,8 @@ vless://V2RET---V2RET---V2RET@5.144.179.107:443?mode=auto&amp;path=%2F&amp;secur
 vless://999ede55-0aaa-4b54-9dad-c2abe0188940@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=okamigreen.com&amp;type=ws#V2RET%20-%20%F0%9F%87%AB%F0%9F%87%AE%20-%20FREE
 vless://877be3a0-91d0-496c-a224-4413dd6fcc6b@fr.lalegan.shop:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=wizard&amp;sni=marzban.negintel.xyz#%F0%9F%94%B9%EF%B8%8F%20gRPC%20Connection%20%F0%9F%87%AB%F0%9F%87%B7
 vless://bc6b04f7-951b-4e02-b5e6-83bad04c0acb@germany.ggping.xyz:3993?path=%3Fed%3D2084&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=marzban.negintel.xyz#V2RET%20-%20%F0%9F%87%A9%F0%9F%87%AA%20-%20Germany
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318&amp;security=tls&amp;encryption=none&amp;host=privasi.turah.my.i…
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318&amp;security=tls&amp;encryption=none&amp;host=privasi.turah.my.id&amp;fp=chrome&amp;type=ws&amp;sni=privasi.turah.my.id#V2RET
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET…
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFree-CF-Proxy-AD192.3.113.4-19318%3Fed%3D2048%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET--%40V2RET&amp;security=tls&amp;encryption=none&amp;host=privasi.turah.my.id&amp;fp=chrome&amp;type=ws&amp;sni=privasi.turah.my.id#V2RET%20%F0%9F%87%A9%F0%9F%87%AA
 vless://683eb1fd-5575-4da5-b5f0-953507b11b86@5.75.197.56:2095?sec…
 vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?type=tcp&amp;security=none#V2RET
 vless://683eb1fd-5575-4da5-b5f0-953507b11b86@5.75.197.56:2095?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#V2RET
