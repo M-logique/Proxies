@@ -1,5 +1,8 @@
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=random&amp;sni=indeed.com&amp;pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&amp;sid=9f2b1f07#Altura%20VPN
 vless://yutlQRef@104.18.26.90:443?type=ws&amp;host=us.sharkpv.ir&amp;path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;fp=edge&amp;sni=us.sharkpv.ir&amp;alpn=http/1.1#Altura%20VPN
+vless://a8a386a7-ee32-4dd7-bbe5-5b4ebaa42fd7@45.144.31.234:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=hls-svod.itunes.apple.com&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=f79448a30d&amp;spx=/#Altura%20VPN
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?type=ws&amp;host=vpn.stupidworld.web.id&amp;path=/Stupid-World/103.106.228.126-2053&amp;security=tls&amp;fp=chrome&amp;sni=vpn.stupidworld.web.id#Altura%20VPN
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=reality&amp;fp=random&amp;sni=indeed.com&amp;pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&amp;sid=9f2b1f07#Altura%20VPN
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#Altura%20VPN
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
