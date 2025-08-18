@@ -71,6 +71,7 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2Fvpn%3Fed%3
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#Samourai
 vless://ee7e1462-e7f0-4c53-a2c4-b003d6c19617@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Sanourai
 vless://be9e1815-6e00-451a-a769-15062611e8d0@91.98.22.208:34740?type=tcp&amp;security=reality&amp;pbk=JDSTYjEb6zmHeQgfmRmTSDFyhRhr3hvDGxM3-Ynb9mE&amp;fp=chrome&amp;sni=preview.redd.it&amp;sid=90afa1acd3&amp;spx=%2F&amp;flow=xtls-rprx-vision#Samourai
+vless://45319cdb-baf5-4bd8-b46a-c74ef91b7c3c@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Samourai
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-Ddns.com&amp;type=ws#Samourai
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#Samourai
@@ -144,7 +145,6 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2Fvpn%3Fed%3
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#Samourai
 vless://ee7e1462-e7f0-4c53-a2c4-b003d6c19617@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Sanourai
 vless://be9e1815-6e00-451a-a769-15062611e8d0@91.98.22.208:34740?type=tcp&amp;security=reality&amp;pbk=JDSTYjEb6zmHeQgfmRmTSDFyhRhr3hvDGxM3-Ynb9mE&amp;fp=chrome&amp;sni=preview.redd.it&amp;sid=90afa1acd3&amp;spx=%2F&amp;flow=xtls-rprx-vision#Samourai
-vless://45319cdb-baf5-4bd8-b46a-c74ef91b7c3c@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://45319cdb-baf5-4bd8-b46a-c74ef91b7c3c@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Samourai
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=VngSuPpLY.IP-Ddns.com&amp;type=ws#Samourai
