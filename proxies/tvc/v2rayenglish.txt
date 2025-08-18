@@ -27,7 +27,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&amp;secu
 vless://turboo-server@91.99.224.53:60123?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss13712.tas-bazi.com:443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#Telegram+%3A+%40V2rayEnglish
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Telegram+%3A+%40V2rayEnglish
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stream-one&amp;path=%2Fsef&amp;security=none&amp;encryption=none&amp;type=xhttp#Telegram+%3A+%40V2rayEnglish
 vless://67007ba4-fadb-48c6-bf2f-125d18279d1b@www.speedtest.net:80?path=%2F---VPNCUSTOMIZE---VPNCUSTOMIZE---www.speedtest.net%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=s1.vpncustomize.ip-ddns.com.&amp;type=ws#Telegram+%3A+%40V2rayEnglish
@@ -45,6 +44,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&amp;secu
 vless://turboo-server@91.99.224.53:60123?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss13712.tas-bazi.com:443?mode=stream-one&amp;path=%2Fxhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#Telegram+%3A+%40V2rayEnglish
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Telegram+%3A+%40V2rayEnglish
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Telegram+%3A+%40V2rayEnglish
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram+%3A+%40V2rayEnglish
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stream-one&amp;path=%2Fsef&amp;security=none&amp;encryption=none&amp;type=xhttp#Telegram+%3A+%40V2rayEnglish
