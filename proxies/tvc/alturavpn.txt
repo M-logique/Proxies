@@ -9,7 +9,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&amp;host=zoo
 vless://a8a386a7-ee32-4dd7-bbe5-5b4ebaa42fd7@45.144.31.234:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=hls-svod.itunes.apple.com&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=f79448a30d&amp;spx=/#Altura%20VPN
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?type=ws&amp;host=vpn.stupidworld.web.id&amp;path=/Stupid-World/103.106.228.126-2053&amp;security=tls&amp;fp=chrome&amp;sni=vpn.stupidworld.web.id#Altura%20VPN
 vless://yutlQRef@104.18.26.90:443?type=ws&amp;host=us.sharkpv.ir&amp;path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;fp=edge&amp;sni=us.sharkpv.ir&amp;alpn=http/1.1#Altura%20VPN
-vless://yutlQRef@104.18.26.90:443?type=ws&amp;host=us.sharkpv.ir&amp;path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;fp=edge&amp;sni=us.sharkpv.ir&amp;alpn=http/1.1#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@v-01.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@139.162.173.22:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
@@ -57,6 +56,7 @@ vless://d0a86835-954b-4c2d-9f35-584ce0e052be@185.248.144.97:443?flow=xtls-rprx-v
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#Altura%20VPN
 vless://a8a386a7-ee32-4dd7-bbe5-5b4ebaa42fd7@45.144.31.234:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=hls-svod.itunes.apple.com&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=f79448a30d&amp;spx=/#Altura%20VPN
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?type=ws&amp;host=vpn.stupidworld.web.id&amp;path=/Stupid-World/103.106.228.126-2053&amp;security=tls&amp;fp=chrome&amp;sni=vpn.stupidworld.web.id#Altura%20VPN
+vless://yutlQRef@104.18.26.90:443?type=ws&amp;host=us.sharkpv.ir&amp;path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;fp=edge&amp;sni=us.sharkpv.ir&amp;alpn=http/1.1#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@v-01.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@139.162.173.22:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
