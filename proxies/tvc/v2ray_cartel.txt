@@ -98,6 +98,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&amp;host=zoo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?type=tcp&amp;headerType=none&amp;security=none#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B3%7C@v2ray_cartel
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&amp;host=rayan-roof.atena.dpdns.org&amp;path=/?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=rayan-roof.atena.dpdns.org#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%7C@v2ray_cartel…
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel+join+sho
 vmess://eyJpZCI6IjVkN…
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&amp;host=bitget1.asdasd.click&amp;path=/?ed%3D2560&amp;security=tls&amp;sni=bitget1.asdasd.click#@v2ray_cartel%7BAll%20operator%7D
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&amp;mode=auto&amp;path=/ds&amp;security=none#@v2ray_cartel
