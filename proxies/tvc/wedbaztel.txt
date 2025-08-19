@@ -1,4 +1,2 @@
-vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app…
-vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg10&amp;security=tls&amp;encryption=none&amp;host=app-stg.gopay.co.id.servpn.my.id&amp;type=ws&amp;sni=app-stg.gopay.co.id.servpn.my.id#WedBaZ
-vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app…
-vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg10&amp;security=tls&amp;encryption=none&amp;host=app-stg.gopay.co.id.servpn.my.id&amp;type=ws&amp;sni=app-stg.gopay.co.id.servpn.my.id#WedBaZ
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=grpc&amp;serviceName=Telegram
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=grpc&amp;serviceName=Telegram

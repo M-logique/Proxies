@@ -1,3 +1,4 @@
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&amp;host=privasi.turah.my.id&amp;path=/Free-CF-Proxy-AD192.3.113.4-19318&amp;security=tls&amp;fp=chrome&amp;sni=privasi.turah.my.id#Altura%20VPN
 vless://yutlQRef@104.18.26.90:443?type=ws&amp;host=us.sharkpv.ir&amp;path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;fp=edge&amp;sni=us.sharkpv.ir&amp;alpn=http/1.1#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@v-04.artemis-vpn-tl.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
 vless://c6ecf8b4-40a6-57af-ac46-101f3d750b59@v-01.artemis-vpn.org:80?type=tcp&amp;headerType=http&amp;path=/@Artemis_Vpn#Altura%20VPN
@@ -15,7 +16,6 @@ vless://a6c5638d-dc8d-4303-a64c-a7f08a6aa1d4@95.164.113.4:443?flow=xtls-rprx-vis
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=random&amp;sni=indeed.com&amp;pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&amp;sid=9f2b1f07#Altura%20VPN
 vless://yutlQRef@104.18.26.90:443?type=ws&amp;host=us.sharkpv.ir&amp;path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;fp=edge&amp;sni=us.sharkpv.ir&amp;alpn=http/1.1#Altura%20VPN
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=reality&amp;fp=random&amp;sni=indeed.com&amp;pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&amp;sid=9f2b1f07#Altura%20VPN
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&amp;host=privasi.turah.my.id&amp;path=/Free-CF-Proxy-AD192.3.113.4-19318&amp;security=tls&amp;fp=chrome&amp;sni=privasi.turah.my.id#Altura%20VPN
 trojan://LG7HKcZFIJ@45.155.54.117:110?type=tcp&amp;headerType=none&amp;security=tls&amp;sni=sws.ftpcomand.com#Altura%20VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?type=tcp#Altura%20VPN
 vless://e73f6908-d248-4c22-86f3-2a299db04ea8@188.245.108.31:80?type=httpupgrade&amp;host=de1.mmad.news&amp;path=/47267/hgoogle&amp;security=none#Altura%20VPN
