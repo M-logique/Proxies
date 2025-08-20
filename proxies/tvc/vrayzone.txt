@@ -1,3 +1,11 @@
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@VrayZoneBot
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/sc&amp;mode=stream-one#@VrayZoneBot
+vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@VrayZoneBot
+vless://da72472e-05d3-40d4-b6b0-34c4e498ab96@38.180.122.124:26113?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@VrayZoneBot
+vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@VrayZoneBot
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/xhttp&amp;mode=stream-one#@Vrayzone
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vghavi32.ip-ddns.com&amp;path=/7YVyoVNnbaVzgl6D?ed%3D2560#@VrayZoneBot
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vghavi32.ip-ddns.com&amp;path=/7YVyoVNnbaVzgl6D?ed%3D2560#@VrayZoneBot
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=rayan-roof.atena.dpdns.org&amp;path=/?ed%3D2560&amp;sni=rayan-roof.atena.dpdns.org&amp;fp=chrome#@Vrayzone
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/xhttp&amp;mode=stream-one#@Vrayzone
@@ -35,14 +43,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?security=none&
 vless://07ec7e56-f3e7-48c3-98a8-8886d5d87f74@85.9.200.197:26143?flow=xtls-rprx-vision&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;sni=steampowered.com&amp;sid=0d&amp;fp=chrome&amp;pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI&amp;headerType=none#@VrayZoneBot
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&amp;encryption=none&amp;type=ws&amp;host=barayeiran-mahsang.taraneh.dpdns.org#@VrayZoneBot
 vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333?security=none&amp;encryption=none&amp;type=tcp&amp;host=meet.google.com&amp;path=/&amp;headerType=http#@VrayZoneBot
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vghavi32.ip-ddns.com&amp;path=/7YVyoVNnbaVzgl6D?ed%3D2560#@VrayZoneBot
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@VrayZoneBot
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/sc&amp;mode=stream-one#@VrayZoneBot
-vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@VrayZoneBot
-vless://da72472e-05d3-40d4-b6b0-34c4e498ab96@38.180.122.124:26113?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@VrayZoneBot
-vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&amp;encryption=none&amp;type=tcp&amp;headerType=none#@VrayZoneBot
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?security=none&amp;encryption=none&amp;type=xhttp&amp;path=/xhttp&amp;mode=stream-one#@Vrayzone
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vghavi32.ip-ddns.com&amp;path=/7YVyoVNnbaVzgl6D?ed%3D2560#@VrayZoneBot
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?security=none&amp;encryption=none&amp;type=ws&amp;host=vghavi32.ip-ddns.com&amp;path=/7YVyoVNnbaVzgl6D?ed%3D2560#@VrayZoneBot
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=rayan-roof.atena.dpdns.org&amp;path=/?ed%3D2560&amp;sni=rayan-roof.atena.dpdns.org&amp;fp=chrome#@Vrayzone
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?security=none&amp;encryption=none&amp;type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443#@Vrayzone
