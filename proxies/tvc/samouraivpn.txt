@@ -1,3 +1,4 @@
+vless://6bcb137e-26a5-4235-926e-bf232ac4f96b@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://50db31ba-2022-45ec-b475-58f331889160@162.55.188.221:1010?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-JKVPN_JKVPN_JKVPN%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
@@ -79,7 +80,7 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=%2F&amp;se
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3Fv2ray_configs_pools_BIA_CHANEL%40v2ray_configs_pools&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3D%40HiByeVPNN&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://0423757c-7dbc-45b8-8a0c-44cc2d7a5855@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
-vless://03c2f7f6-44b5-4a8f-af37-eacec6fbb4ee@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
+vless://6bcb137e-26a5-4235-926e-bf232ac4f96b@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://50db31ba-2022-45ec-b475-58f331889160@162.55.188.221:1010?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-JKVPN_JKVPN_JKVPN%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
@@ -161,7 +162,7 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=%2F&amp;se
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3Fv2ray_configs_pools_BIA_CHANEL%40v2ray_configs_pools&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3D%40HiByeVPNN&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://0423757c-7dbc-45b8-8a0c-44cc2d7a5855@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
-vless://03c2f7f6-44b5-4a8f-af37-eacec6fbb4ee@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
+vless://6bcb137e-26a5-4235-926e-bf232ac4f96b@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://50db31ba-2022-45ec-b475-58f331889160@162.55.188.221:1010?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-JKVPN_JKVPN_JKVPN%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
@@ -243,7 +244,7 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=%2F&amp;se
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3Fv2ray_configs_pools_BIA_CHANEL%40v2ray_configs_pools&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3D%40HiByeVPNN&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://0423757c-7dbc-45b8-8a0c-44cc2d7a5855@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
-vless://03c2f7f6-44b5-4a8f-af37-eacec6fbb4ee@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
+vless://6bcb137e-26a5-4235-926e-bf232ac4f96b@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://50db31ba-2022-45ec-b475-58f331889160@162.55.188.221:1010?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-JKVPN_JKVPN_JKVPN%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
@@ -325,7 +326,9 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=%2F&amp;se
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3Fv2ray_configs_pools_BIA_CHANEL%40v2ray_configs_pools&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3D%40HiByeVPNN&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#Samourai
 vless://0423757c-7dbc-45b8-8a0c-44cc2d7a5855@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
-vless://03c2f7f6-44b5-4a8f-af37-eacec6fbb4ee@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
+vless://18f09670-c679-417c-9ceb-956705d566e3@s07.dnseagle.com:2096?security=none&amp;type=tcp&amp;headerType=&amp;path=&amp;host=#Samourai
+vless://18f09670-c679-417c-9ceb-956705d566e3@s05.eagledns.org:8443?security=none&amp;type=tcp&amp;headerType=&amp;path=&amp;host=#Samourai
+vless://18f09670-c679-417c-9ceb-956705d566e3@s06.eagleresolver.net:2083?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=ixqkmlbd.AHESPD2.mci.ir#Samourai
 vless://132b4ff6-c0fe-4dec-875d-d3aaa174a1b2@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
 vless://9fc7d4dd-8173-4597-a79d-6d81981acd57@95.38.210.142:35021?security=none&amp;type=tcp&amp;headerType=&amp;path=&amp;host=#Samourai
 vless://d814beb3-f48d-4bbe-b6ba-b084ffea4d91@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
@@ -363,4 +366,3 @@ vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=&amp;e
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=PmQ1cCsP9x.GhEiChI.oRg&amp;type=ws&amp;sni=PmQ1cCsP9x.GhEiChI.oRg#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
 vless://9453d30f-cbd7-430e-8352-22e315b7d97f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fcopbywws&amp;security=tls&amp;encryption=none&amp;host=638894516851829772.yasuj-prx-dnraaao.info&amp;type=ws&amp;sni=638894516851829772.yasuj-prx-dnraaao.info#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Samourai%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
-vless://6bcb137e-26a5-4235-926e-bf232ac4f96b@37.32.6.8:35021?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=skyroom.online#Samourai
