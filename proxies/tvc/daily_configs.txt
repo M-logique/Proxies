@@ -1,6 +1,3 @@
-vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@…
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
-vless://3727fb4c-d6d5-447e-918b-25f675234544@kanale-dailyconfigs.easypeasytech.ir:51709?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cHOnubHyIw_PcVvrDACg0vEkLYjQnLbhloeP9SoGoC4&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D1024&amp;sni=tgju.org&amp;sid=eb#%40Daily_Configs
 vless://d17ce7c2-7440-456c-8dcf-eaacd4515b86@kanale-dailyconfigs.easypeasytech.ir:51709?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=cHOnubHyIw_PcVvrDACg0vEkLYjQnLbhloeP9SoGoC4&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D1024&amp;sni=tgju.org&amp;sid=eb#%40Daily_Configs%20%C2%AB%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?encryption=none&amp;security=tls&amp;sni=pqh23v4.hiddendom.shop&amp;type=grpc#%40Daily_Configs
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=zula.ir#%40Daily_Configs
@@ -180,8 +177,6 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.3:8443?path=%2F&amp;secur
 vless://fede9e1e-069e-4bfc-b4fb-34f92d075dd5@f.vcheat.ir:2530?security=none&amp;encryption=none&amp;host=f.vcheat.ir&amp;headerType=none&amp;type=tcp#%40Daily_Configs
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Daily_Configs
-vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@…
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=speed.cloudflare.com&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;type=tcp&amp;headerType=none#%40Daily_Configs
 vless://bc50f2ec-5bb8-4641-8f7b-39b0e4000977@er.kerosred.info:56444?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Fast.com#%40Daily_Configs
 vless://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?encryption=none&amp;security=tls&amp;type=ws&amp;host=mAXNeTVIpaP-clOUD205.NETKH3.SIte&amp;path=%2Flinkws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#%40Daily_Configs
@@ -229,6 +224,19 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.3:8443?path=%2F&amp;secur
 vless://fede9e1e-069e-4bfc-b4fb-34f92d075dd5@f.vcheat.ir:2530?security=none&amp;encryption=none&amp;host=f.vcheat.ir&amp;headerType=none&amp;type=tcp#%40Daily_Configs
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@…
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=%2Fqnbufdws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://e73f6908-d248-4c22-86f3-2a299db04ea8@188.245.108.31:80?path=%2F47267%2Fhgoogle&amp;security=none&amp;encryption=none&amp;host=de1.mmad.news&amp;type=httpupgrade#%40Daily_Configs
+vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Daily_Configs
+vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Gp_Config%20%F0%9F%94%BA%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D8%A7
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.3:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://fede9e1e-069e-4bfc-b4fb-34f92d075dd5@f.vcheat.ir:2530?security=none&amp;encryption=none&amp;host=f.vcheat.ir&amp;headerType=none&amp;type=tcp#%40Daily_Configs
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@…
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@…
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?encryption=none&amp;security=none&amp;type=xhttp&amp;path=%2Fxhttp&amp;mode=stream-one#%40Daily_Configs
