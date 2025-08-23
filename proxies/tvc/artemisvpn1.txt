@@ -12,6 +12,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&amp;secu
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Artemisvpn1
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Artemisvpn1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Artemisvpn1
+vless://7de06fba-8c43-4957-aab1-690c2d2499f7@ov-canada2.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Artemisvpn1%20%F0%9F%87%A8%F0%9F%87%A6
+vless://7de06fba-8c43-4957-aab1-690c2d2499f7@ov-canada2.09vpn.com:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Artemisvpn1%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3b40219d-541c-4a8e-aa19-377bd68f1f62@cache.netflix.com.unlimited.spauu.web.id:443?path=%2Fvl%3D129.150.49.58%3D18650&amp;security=tls&amp;encryption=none&amp;host=cache.netflix.com.unlimited.spauu.web.id&amp;type=ws&amp;sni=cache.netflix.com.unlimited.spauu.web.id#%40Artemisvpn1
 vless://583e3af8-a550-42a4-9301-5a689cfdbb1b@unlimited.spauu.web.id:443?path=%2Fvl%3D129.150.49.58%3D18650&amp;security=tls&amp;encryption=none&amp;host=unlimited.spauu.web.id&amp;type=ws&amp;sni=unlimited.spauu.web.id#%40Artemisvpn1
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Artemisvpn1
@@ -26,8 +28,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&amp;secu
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Artemisvpn1
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Artemisvpn1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Artemisvpn1
-vless://7de06fba-8c43-4957-aab1-690c2d2499f7@ov-canada2.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Artemisvpn1%20%F0%9F%87%A8%F0%9F%87%A6
-vless://7de06fba-8c43-4957-aab1-690c2d2499f7@ov-canada2.09vpn.com:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Artemisvpn1%20%F0%9F%87%A8%F0%9F%87%A6
 vless://7de06fba-8c43-4957-aab1-690c2d2499f7@ov-canada2.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Artemisvpn1%20%F0%9F%87%A8%F0%9F%87%A6
 vless://7de06fba-8c43-4957-aab1-690c2d2499f7@ov-canada2.09vpn.com:8443?path=%2Fvless%2F&amp;security=tls&amp;encryption=none&amp;type=ws#%40Artemisvpn1%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3b40219d-541c-4a8e-aa19-377bd68f1f62@cache.netflix.com.unlimited.spauu.web.id:443?path=%2Fvl%3D129.150.49.58%3D18650&amp;security=tls&amp;encryption=none&amp;host=cache.netflix.com.unlimited.spauu.web.id&amp;type=ws&amp;sni=cache.netflix.com.unlimited.spauu.web.id#%40Artemisvpn1
