@@ -17,12 +17,12 @@ vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybo
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=F1.paRsa.fiLegEar-Sg.Me&amp;type=ws&amp;sni=F1.paRsa.fiLegEar-Sg.Me#%40Artemisvpn1
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=bitget1.asdasd.click&amp;type=ws&amp;sni=bitget1.asdasd.click#%40Artemisvpn1
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=bitget1.asdasd.click&amp;type=ws&amp;sni=bitget1.asdasd.click#%40Artemisvpn1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Artemisvpn1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Artemisvpn1
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Artemisvpn1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Artemisvpn1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%40Artemisvpn1
 vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&amp;encryption=none&amp;pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=816473be23c2#%40Artemisvpn1
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=iphoster-quran-iran-2.coin.name.ng&amp;fp=chrome&amp;type=ws&amp;sni=iphoster-quran-iran-2.coin.name.ng#%40Artemisvpn1
