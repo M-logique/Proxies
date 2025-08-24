@@ -1,7 +1,3 @@
-vless://0a9063d1-c21d-487f-a182-f199d2eaf889@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://0a9063d1-c21d-487f-a182-f199d2eaf889@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://644b00bd-f142-4a0c-cc23-0241b2fda502@45.82.161.120:19011?type=tcp&amp;security=none#%F0%9F%87%BA%F0%9F%87%B8-ol9j7gv04
-vless://644b00bd-f142-4a0c-cc23-0241b2fda502@45.82.161.120:19011?type=tcp&amp;security=none#%F0%9F%87%BA%F0%9F%87%B8-ol9j7gv04
 vless://f725aa0d-e505-4a47-ba67-b1b4a7279685@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://f725aa0d-e505-4a47-ba67-b1b4a7279685@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
@@ -9,6 +5,9 @@ vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&a
 vless://1ef8a652-2e7e-458e-da96-e51c3b1c93ca@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://1ef8a652-2e7e-458e-da96-e51c3b1c93ca@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://108920a8-65d6-41d5-c0ac-b2a118d36570@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://108920a8-65d6-41d5-c0ac-b2a118d36570@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://0a9063d1-c21d-487f-a182-f199d2eaf889@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://0a9063d1-c21d-487f-a182-f199d2eaf889@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://108920a8-65d6-41d5-c0ac-b2a118d36570@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://0a9063d1-c21d-487f-a182-f199d2eaf889@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://0a9063d1-c21d-487f-a182-f199d2eaf889@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
