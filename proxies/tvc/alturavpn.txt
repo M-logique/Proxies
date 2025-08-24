@@ -40,6 +40,7 @@ vless://6b96d465-3caf-46b6-a30e-d9e49d81a0a5@109.172.55.78:443?flow=xtls-rprx-vi
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?type=ws&amp;host=blog.ruangguru.com.servpn.my.id&amp;path=/id5?ed%3D2560/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;sni=blog.ruangguru.com.servpn.my.id#Altura%20VPN
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?type=ws&amp;host=app-stg.gopay.co.id.servpn.my.id&amp;path=/sg3/?-JKVPN_TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&amp;security=tls&amp;fp=chrome&amp;sni=app-stg.gopay.co.id.servpn.my.id#Altura%20VPN
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?type=ws&amp;host=007.xingfu.qzz.io&amp;path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=random&amp;sni=007.xingfu.qzz.io#Altura%20VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456?type=tcp#Altura%20VPN
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?type=tcp&amp;headerType=none#Altura%20VPN
 vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=yahoo.com&amp;pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&amp;sid=ecd6615548c2bddb#Altura%20VPN
 ss://YWVzLTI1Ni1nY206ZWIzZDhlNTdlOTgzNDNhZA==@212.192.221.139:50901?type=tcp#Altura%20VPN
@@ -50,7 +51,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443?type=tcp
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.129.208.19:34045?type=tcp&amp;headerType=none&amp;security=reality&amp;sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&amp;pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&amp;sid=e8ab71d0#Altura%20VPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&amp;mode=gun#Altura%20VPN
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&amp;mode=gun#Altura%20VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456?type=tcp#Altura%20VPN
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?type=ws&amp;host=blog.ruangguru.com.servpn.my.id&amp;path=/MTMVPN---MTMVPN---MTMVPN---MTMVPN?ed%3D2560&amp;security=tls&amp;sni=blog.ruangguru.com.servpn.my.id#Altura%20VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080?type=tcp#Altura%20VPN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?type=tcp#Altura%20VPN
