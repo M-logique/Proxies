@@ -10,3 +10,6 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=hetzner-8.cache.name.ng&amp;type=ws&amp;sni=hetzner-8.cache.name.ng#Hetz-8
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=hetzner-7.boss.name.ng&amp;type=ws&amp;sni=hetzner-7.boss.name.ng#Hetz-7
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=lease-17.access.name.ng&amp;type=ws&amp;sni=lease-17.access.name.ng#CL-238133235
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=hetzner-8.cache.name.ng&amp;type=ws&amp;sni=hetzner-8.cache.name.ng#Hetz-8
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=hetzner-7.boss.name.ng&amp;type=ws&amp;sni=hetzner-7.boss.name.ng#Hetz-7
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=lease-17.access.name.ng&amp;type=ws&amp;sni=lease-17.access.name.ng#CL-238133235
