@@ -192,6 +192,7 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.245:2053?path=%2F&amp;sec
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.238:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=dl1-uk-cdn.easy-upload.org&amp;type=ws&amp;sni=dl1-uk-cdn.easy-upload.org#%40V2ray1_Ng
 vless://turboo-server@91.99.224.53:60123?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=7195vless&amp;authority=&amp;mode=gun#V2
+vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=7195vless&amp;authority=&amp;mode=gun#V2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%40NpvV2rayFilTer
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
