@@ -22,11 +22,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#میخوای
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IkNvbmZpZyBWSVAgQGFtaXJ3X3Nob3BfcSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?mode=stream-one&amp;path=/xhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#Channel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#فیلترشکن
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#🟢
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#میخوای
-vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IkNvbmZpZyBWSVAgQGFtaXJ3X3Nob3BfcSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?mode=stream-one&amp;path=/xhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#Channel
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.58.254:80?encryption=none&amp;security=none&amp;type=ws&amp;host=barayeiranmahsang.bahareh.dpdns.org&amp;path=?ed=2560#Telegram:@amirw_shop_q
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪join:@amirw_shop_q
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#کانال+ما+در+تلگرام+@amirw_shop_q
@@ -50,6 +45,11 @@ vless://9a407093-e267-4f2a-91da-b7bfc63dcaf6@172.67.157.75:443?encryption=none&a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8319#
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/Telegram@V2ray_Alpha/?ed=2560&amp;security=tls&amp;encryption=none&amp;host=yx.yushan.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=yx.yushan.dpdns.org#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#فیلترشکن
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#🟢
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#میخوای
+vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IkNvbmZpZyBWSVAgQGFtaXJ3X3Nob3BfcSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?mode=stream-one&amp;path=/xhttp&amp;security=none&amp;encryption=none&amp;type=xhttp#Channel
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.58.254:80?encryption=none&amp;security=none&amp;type=ws&amp;host=barayeiranmahsang.bahareh.dpdns.org&amp;path=?ed=2560#Telegram:@amirw_shop_q
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪join:@amirw_shop_q
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#کانال+ما+در+تلگرام+@amirw_shop_q
