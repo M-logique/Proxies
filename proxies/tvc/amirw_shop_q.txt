@@ -10,8 +10,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;s
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=/&amp;security=tls&amp;encryption=none&amp;host=007.xingfu.qzz.io&amp;fp=chrome&amp;type=ws&amp;sni=007.xingfu.qzz.io#Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40amirw_shop_q%20%5B18%5D
-vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@92.114.17.6:29878?security=none&amp;encryption=none&amp;host=khamenei.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40STAPersiaNews
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=6389113402676776513.VtNeT.infO#Channel%20id%3A%20%40singbox1%20%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkNoYW5uZWwgaWQ6IEBzaW5nYm94MfCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Channel%20id%3A%20%40singbox1%20%F0%9F%87%A9%F0%9F%87%AA
@@ -112,6 +110,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;s
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=/&amp;security=tls&amp;encryption=none&amp;host=007.xingfu.qzz.io&amp;fp=chrome&amp;type=ws&amp;sni=007.xingfu.qzz.io#Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40amirw_shop_q%20%5B18%5D
+vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@92.114.17.6:29878?security=none&amp;encryption=none&amp;host=khamenei.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40STAPersiaNews
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@92.114.17.6:29878?security=none&amp;encryption=none&amp;host=khamenei.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40STAPersiaNews
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=6389113402676776513.VtNeT.infO#Channel%20id%3A%20%40singbox1%20%F0%9F%87%A8%F0%9F%87%A6
