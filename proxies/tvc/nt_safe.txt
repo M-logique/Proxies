@@ -1,11 +1,3 @@
-vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
-vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8-%40NT_Safe
-vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8-%40NT_Safe
 vless://1ce535ce-5f0a-42ad-aa6c-a9240b45c44c@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://1ce535ce-5f0a-42ad-aa6c-a9240b45c44c@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://1ce535ce-5f0a-42ad-aa6c-a9240b45c44c@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
@@ -24,6 +16,13 @@ vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&a
 vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8-%40NT_Safe
+vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8-%40NT_Safe
+vless://1ce535ce-5f0a-42ad-aa6c-a9240b45c44c@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://1ce535ce-5f0a-42ad-aa6c-a9240b45c44c@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
+vless://1ce535ce-5f0a-42ad-aa6c-a9240b45c44c@138.199.239.38:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://52b73082-d873-49ee-c0a9-574b083d859e@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NT_Safe%F0%9F%87%BA%F0%9F%87%B8
