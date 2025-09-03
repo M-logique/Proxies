@@ -4,9 +4,9 @@ vless://b4938593-bc8a-48ee-afc5-5b479caf8f5b@www.speedtest.net:8443?type=httpupg
 vless://turboo-server@91.99.224.53:60123?type=tcp&amp;headerType=http&amp;host=tgju.org&amp;security=none#AKLISvpn%F0%9F%93%B4%F0%9F%87%A6%F0%9F%87%BF
 vless://b4938593-bc8a-48ee-afc5-5b479caf8f5b@www.speedtest.net:8443?type=httpupgrade&amp;host=de2.penubit.com&amp;path=/VLSDECF&amp;security=tls&amp;fp=firefox&amp;sni=de2.penubit.com&amp;al…
 vless://b4938593-bc8a-48ee-afc5-5b479caf8f5b@www.speedtest.net:8443?type=httpupgrade&amp;host=de2.penubit.com&amp;path=/VLSDECF&amp;security=tls&amp;fp=firefox&amp;sni=de2.penubit.com&amp;alpn=http/1.1&amp;mux=8#AKLISvpn%F0%9F%93%B2%F0%9F%87%BA%F0%9F%87%B8VIP
-vless://turboo-server@91.99.224.53:60123?type=tcp&amp;headerType=http&amp;host=tgju.org&amp;security=none#AKLISvpn%F0%9F%93%B4%F0%9F%87%A6%F0%9F%87%BF
 vless://b4938593-bc8a-48ee-afc5-5b479caf8f5b@www.speedtest.net:8443?type=httpupgrade&amp;host=de2.penubit.com&amp;path=/VLSDECF&amp;security=tls&amp;fp=firefox&amp;sni=de2.penubit.com&amp;al…
 vless://b4938593-bc8a-48ee-afc5-5b479caf8f5b@www.speedtest.net:8443?type=httpupgrade&amp;host=de2.penubit.com&amp;path=/VLSDECF&amp;security=tls&amp;fp=firefox&amp;sni=de2.penubit.com&amp;alpn=http/1.1&amp;mux=8#AKLISvpn%F0%9F%93%B2%F0%9F%87%BA%F0%9F%87%B8VIP
+vless://turboo-server@91.99.224.53:60123?type=tcp&amp;headerType=http&amp;host=tgju.org&amp;security=none#AKLISvpn%F0%9F%93%B4%F0%9F%87%A6%F0%9F%87%BF
 vless://turboo-server@91.99.224.53:60123?type=tcp&amp;headerType=http&amp;host=tgju.org&amp;security=none#AKLISvpn%F0%9F%93%B4%F0%9F%87%A6%F0%9F%87%BF
 vless://id6686739236@185.145.245.36:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=edge&amp;sni=apple.com&amp;pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&amp;sid=bd&amp;spx=/zKnRxx4WCRdSPiT#AklisVpn%F0%9F%87%B1%F0%9F%87%BB%20La
 vless://id6686739236@185.145.245.36:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=edge&amp;sni=apple.com&amp;pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0S…
