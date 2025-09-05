@@ -35,10 +35,10 @@ vmess://eyJhZGQiOiIxOTMuMTYzLjIwMS4xODEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=vkvd127.mycdn.me&amp;type=ws#%40rxv2ray
 vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#%40rxv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
-vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiran-mahsang.gerald81.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=barayeiran-mahsang.gerald81.dpdns.org#%40rxv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%40rxv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#%40rxv2ray
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&amp;encryption=none&amp;host=barayeiran-mahsang.taraneh.dpdns.org&amp;type=ws#%40rxv2ray
