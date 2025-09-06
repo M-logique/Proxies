@@ -20,7 +20,6 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3F
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&amp;encryption=none&amp;pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=www.xinghuaequip.com&amp;sid=83#%40V2ray1_Ng
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=lease-17.access.name.ng&amp;fp=chrome&amp;type=ws&amp;sni=lease-17.access.name.ng#%40V2ray1_Ng
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
-vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=7195vless&amp;authority=&amp;mode=gun#V2
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=%2Fyfwhodws&amp;security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=%2Flmhdjfws&amp;security=tls&amp;encryption=none&amp;type=ws#%40NpvV2rayFilTer
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&amp;security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
@@ -77,7 +76,6 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3F
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&amp;encryption=none&amp;pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=www.xinghuaequip.com&amp;sid=83#%40V2ray1_Ng
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=lease-17.access.name.ng&amp;fp=chrome&amp;type=ws&amp;sni=lease-17.access.name.ng#%40V2ray1_Ng
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
-vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=7195vless&amp;authority=&amp;mode=gun#V2
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=%2Fyfwhodws&amp;security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=%2Flmhdjfws&amp;security=tls&amp;encryption=none&amp;type=ws#%40NpvV2rayFilTer
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&amp;security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
@@ -134,7 +132,6 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3F
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&amp;encryption=none&amp;pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=www.xinghuaequip.com&amp;sid=83#%40V2ray1_Ng
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=lease-17.access.name.ng&amp;fp=chrome&amp;type=ws&amp;sni=lease-17.access.name.ng#%40V2ray1_Ng
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
-vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=7195vless&amp;authority=&amp;mode=gun#V2
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=%2Fyfwhodws&amp;security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=%2Flmhdjfws&amp;security=tls&amp;encryption=none&amp;type=ws#%40NpvV2rayFilTer
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&amp;security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
@@ -191,7 +188,20 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3F
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&amp;encryption=none&amp;pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=www.xinghuaequip.com&amp;sid=83#%40V2ray1_Ng
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=lease-17.access.name.ng&amp;fp=chrome&amp;type=ws&amp;sni=lease-17.access.name.ng#%40V2ray1_Ng
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
-vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=7195vless&amp;authority=&amp;mode=gun#V2
+vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&amp;security=none&amp;encryption=none&amp;host=aio.loophole.Biz.iD&amp;type=ws#%40V2ray1_Ng
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40NpvV2rayFilTer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%40NpvV2rayFilTer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%40NpvV2rayFilTer
+vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJATnB2VjJyYXlGaWxUZXIiLCJzY3kiOiJhdXRvIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b7@91.98.79.239:443?mode=auto&amp;path=%2FJCG7HcKpCWxijB2m2wplj95x2yIWiU&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F138.0.0.0%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&amp;host=plaza.ir&amp;fp=chrome&amp;type=xhttp&amp;sni=plaza.ir#%40NpvV2rayFilTer
+vless://82e684ea-ff0f-4d4e-bd09-9dffe5466bcd@top.fxgoldensignals.com:8443?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%40NpvV2rayFilTer
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b7@91.98.79.239:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&amp;sni=plaza.ir#%40NpvV2rayFilTer
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&amp;encryption=none&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d#%40NpvV2rayFilTer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY%3D@5.188.168.230:31348#%40NpvV2rayFilTer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%40NpvV2rayFilTer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%40NpvV2rayFilTer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%40NpvV2rayFilTer
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40V2ray1_Ng
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&amp;security=tls&amp;encryption=none&amp;type=ws#%40NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%40V2ray1_Ng
