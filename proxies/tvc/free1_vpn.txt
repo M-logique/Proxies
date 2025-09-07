@@ -164,6 +164,7 @@ vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;host=vl.hongkong6.qzz.io&amp;fp=chrome&amp;type=ws&amp;sni=vl.hongkong6.qzz.io#%40V2ray1_Ng
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&amp;security=tls&amp;encryption=none&amp;type=ws#%40V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel-رایگان-نامحدودچ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel-رایگان-نامحدودچ
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&amp;encryption=none&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d#%40V2ray1_Ng
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40NpvV2rayFilTer
