@@ -13,3 +13,6 @@ vless://70465717-66ae-4756-b28a-ec5899e08b17@104.26.6.89:2095?path=%2F%3Fed%3D20
 vless://bfa513e1-40af-4863-91d6-692f9a0270fd@45.136.5.57:70?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Artemisvpn1
 vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40Artemisvpn1
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.26.6.89:2095?path=%2F%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=ns.teHRantOlIdI.Ir&amp;type=httpupgrade#%40Artemisvpn1
+vless://bfa513e1-40af-4863-91d6-692f9a0270fd@45.136.5.57:70?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Artemisvpn1
+vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40Artemisvpn1
+vless://70465717-66ae-4756-b28a-ec5899e08b17@104.26.6.89:2095?path=%2F%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=ns.teHRantOlIdI.Ir&amp;type=httpupgrade#%40Artemisvpn1
