@@ -1,6 +1,3 @@
-vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@dl2.kuckenpq.ir:45001?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%40Cyber_Ta%20%F0%9F%8C%90
-vless://e80d64b5-2e44-4395-a4a4-74aed7ffd939@212.86.94.250:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Cyber_Ta%20%F0%9F%8C%90
-vless://9b6dc8a1-e4ef-45ca-a697-6451f15f297e@212.86.94.250:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Cyber_Ta%20%F0%9F%8C%90
 vless://069b511d-3ebc-4b1a-9b57-eb9ece724aa3@pishgam.sdcards.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=amir.pmme.top&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Cyber_Ta%20%F0%9F%8C%90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDelEwSXJrZGQ0V0RVd0JR@admin.c4.havij.co:443#%40Cyber_Ta%20%F0%9F%8C%90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40Cyber_Ta%20%F0%9F%8C%90
@@ -19,6 +16,13 @@ vless://0aa0515e-9d6b-426a-bd0f-ef5b431f4abc@route2.france-learns.ir:80?mode=aut
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=br.presskiwi.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=br.presskiwi.dpdns.org#%40Cyber_Ta%20%F0%9F%8C%90
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#%40Cyber_Ta%20%F0%9F%8C%90
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#%40Cyber_Ta%20%F0%9F%8C%90
+vless://c29ec2b7-331b-4d6e-88a1-0398d510c9da@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=Aeza.net&amp;type=ws#Cyber_Ta%E2%9C%85
+vmess://eyJhZGQiOiJ4dm9uLmZhc3QuaG9zdGluZy1pcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRvZG9sa2FyYWpqeW91ci1uYW1lLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldCIsImlkIjoiZDlhMDVhYTktNDQxZi00ZTk0LTg0MTItYWVhNDc2MDE3NzVmIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiL3dzP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoiQ3liZXJfVGHinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vless://7dc82d22-354b-4b90-babf-eb37932e7366@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=Aeza.net&amp;type=ws#Cyber_Ta%E2%9C%85
+vless://12ae514f-156f-4f4b-8bf0-261fec0ed82f@digi.atlasdn.click:2085?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#Cyber_Ta%E2%9C%85
+vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@h2.tikmarket1.site:2095?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#CyberTa%E2%9C%85
+vless://af12cac7-9f92-4970-ac75-2cf6b2cac373@main.oneplus2online.com:24963?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#CyberTa%E2%9C%85
+vless://ed48fcd3-7a1b-48a6-ab43-299be2221f2f@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=moshakspeed-r.global.ssl.fastly.net&amp;type=xhttp#CyberTa%E2%9C%85
 vless://c29ec2b7-331b-4d6e-88a1-0398d510c9da@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=Aeza.net&amp;type=ws#Cyber_Ta%E2%9C%85
 vmess://eyJhZGQiOiJ4dm9uLmZhc3QuaG9zdGluZy1pcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRvZG9sa2FyYWpqeW91ci1uYW1lLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldCIsImlkIjoiZDlhMDVhYTktNDQxZi00ZTk0LTg0MTItYWVhNDc2MDE3NzVmIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiL3dzP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoiQ3liZXJfVGHinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vless://7dc82d22-354b-4b90-babf-eb37932e7366@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=Aeza.net&amp;type=ws#Cyber_Ta%E2%9C%85
