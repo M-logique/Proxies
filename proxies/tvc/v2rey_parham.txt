@@ -1,4 +1,5 @@
-vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&amp;encryption=none&amp;pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20MAX
+vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoiei5sb29sb29sb29sb28uY29tIiwiaWQiOiIxOC10ZWxlZ3JhbS1pZC0tLXZwbmYyMiIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWd…»
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub2.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%89%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%88%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%202
@@ -8,7 +9,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=g
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://turboo-server@server.turbooo-server.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoiei5sb29sb29sb29sb28uY29tIiwiaWQiOiIxOC10ZWxlZ3JhbS1pZC0tLXZwbmYyMiIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWd…»
-vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&amp;encryption=none&amp;pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20MAX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub2.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%89%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%88%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%202
@@ -18,7 +19,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=g
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://turboo-server@server.turbooo-server.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoiei5sb29sb29sb29sb28uY29tIiwiaWQiOiIxOC10ZWxlZ3JhbS1pZC0tLXZwbmYyMiIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWd…»
-vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&amp;encryption=none&amp;pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20MAX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub2.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%89%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%88%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%202
@@ -28,7 +29,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=g
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://turboo-server@server.turbooo-server.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoiei5sb29sb29sb29sb28uY29tIiwiaWQiOiIxOC10ZWxlZ3JhbS1pZC0tLXZwbmYyMiIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWd…»
-vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&amp;encryption=none&amp;pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20MAX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub2.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%89%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 vless://3c3003d4-ac5e-415e-94f6-9559759c339d@vip-sub.serverfreedom.com:770?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=parsabr.com#%E2%92%88%F0%9F%87%AE%F0%9F%87%B7%E2%8A%B0djdiej%E2%8A%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%202
@@ -38,7 +39,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=g
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://turboo-server@server.turbooo-server.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoiei5sb29sb29sb29sb28uY29tIiwiaWQiOiIxOC10ZWxlZ3JhbS1pZC0tLXZwbmYyMiIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWd…»
-vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&amp;encryption=none&amp;pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20MAX
 vless://ca02d5fc-6179-47d7-919f-ac14d7b5bd43@www.speedtest.net:443?path=%2FeyJqdW5rIjoiYmtndHJYdHdhbFRCQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=odbj9gfnz2ubdb4870lfm2m7qf4ouy2a.gfquouw1x1.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=odbj9gfNz2UBdb4870lfM2M7qF4ouy2A.GFQUOuW1X1.WOrkers.dev#pahram%20pakg
 vmess://eyJhZGQiOiIxMDQuMjAuNjIuNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im0yMzcuaW5hb25laG9yc2VvcGVuc2xlaWdoLmNvbSIsImlkIjoiNTE0YzMzYzctMTdkYy00ZWRkLWIyYjEtZWY5Y2IxNjUzNzQwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3I4NDkwMTEwMDE0IiwicG9ydCI6IjQ0MyIsInBzIjoi2b7YsdmH2KfZhdmAIiwic2N5IjoiYXV0byIsInNuaSI6Im0yMzcuaW5hb25laG9yc2VvcGVuc2xlaWdoLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://YJW2O7zU12@mahsa2379r7a.mahsaaminivpn.com:34316?security=tls&amp;headerType=none&amp;type=tcp#%F0%9F%8C%8E%20%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
@@ -48,4 +48,3 @@ vless://6035325d-399a-5148-9126-29cedfd5966a@195.54.170.75:443?security=reality&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A7%F0%9F%87%B7%20%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86
 vless://e74a22b6-2a0c-4d60-b93d-9c6e966cfa96@188.114.97.113:443?path=%2Fv8490110014&amp;security=tls&amp;encryption=none&amp;host=m237.inaonehorseopensleigh.com&amp;type=ws&amp;sni=m237.inaonehorseopensleigh.com#8490110014
 vmess://eyJhZGQiOiIxMDMuMTg2LjExNy4yMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmUyNTdmOWMtZmEwZS00NDJmLWY1M2MtNmE0NTI5MjRjMGMyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTQ5NyIsInBzIjoi2obZhtmEINqv2YbaryDZhdin8J+SlSA6IHBhcmhhbV92MnJleUAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli
