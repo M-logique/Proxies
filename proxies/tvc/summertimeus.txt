@@ -1,4 +1,3 @@
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40summertimeus
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40summertimeus
 vless://eec58f80-ae24-4754-8697-c03a67d43553@g.gpty999qed.ir:13157?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%20%40summertimeus
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#free
@@ -10,6 +9,8 @@ vless://7a711d4e-6606-4e1c-b228-7979511a8459@172.66.40.99:8080?path=%2Ftelegram-
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiIuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%40summertimeus
 vmess://eyJhZGQiOiIxODYuMTkwLjIxNS4xOTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQHN1bW1lcnRpbWV1cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=iran.akcovufun.ir&amp;fp=chrome&amp;type=ws&amp;sni=iran.akcovufun.ir#%40summertimeus
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40summertimeus
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40summertimeus
 vless://eec58f80-ae24-4754-8697-c03a67d43553@g.gpty999qed.ir:13157?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%20%40summertimeus
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#free
