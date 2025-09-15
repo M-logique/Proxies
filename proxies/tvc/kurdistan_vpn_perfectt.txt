@@ -2,7 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&amp;encryption=none&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni…
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&amp;encryption=none&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=telewebion.com&amp;sid=5fab0deb#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#Kurdistan_…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
@@ -56,6 +55,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&amp;encryption=none&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni…
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&amp;encryption=none&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=telewebion.com&amp;sid=5fab0deb#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&amp;encryption=none&amp;pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=telewebion.com&amp;sid=5fab0deb#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?path=%2Faioproxybot%2F129.150.49.58-18650&amp;security=tls&amp;encryption=none&amp;host=aio.xtradata.dpdns.org&amp;type=ws&amp;sni=aio.xtradata.dpdns.org#Kurdistan_vpn%F0%9F%87%A9%F0%9F%87%AA
