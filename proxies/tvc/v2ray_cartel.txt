@@ -8,8 +8,6 @@ vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?flow=xtls-rprx-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?type=grpc&amp;mode=gun&amp;security=none#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@v2ray_cartel
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@v2ray_cartel
-vmess://eyJwYXRoIjoiIiwibmV0IjoidGNwIiwicG…
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#Channel%20:%20@v2ray_cartel%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@V2ray_cartel
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@V2ray_cartel
@@ -47,6 +45,8 @@ vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?flow=xtls-rprx-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?type=grpc&amp;mode=gun&amp;security=none#@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@v2ray_cartel
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@v2ray_cartel
+vmess://eyJwYXRoIjoiIiwibmV0IjoidGNwIiwicG…
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#Channel%20:%20@v2ray_cartel%20%F0%9F%8F%B4%F0%9F%8F%B3
 vmess://eyJwYXRoIjoiIiwibmV0IjoidGNwIiwicG…
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#Channel%20:%20@v2ray_cartel%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
