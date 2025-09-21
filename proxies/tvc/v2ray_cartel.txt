@@ -10,10 +10,6 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@V2ray_cartel
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@V2ray_cartel
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16…
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@V2ray_cartel
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@V2ray_cartel
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&amp;host=net2026.…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?type=ws&amp;host=aio.loophole.Biz.iD&amp;path=/aioproxybot/8.215.59.6-443&amp;security=none#@V2ray_cartel
@@ -48,6 +44,10 @@ vmess://eyJwYXRoIjoiIiwibmV0IjoidGNwIiwicG9ydCI6IjE1MzYxIiwic2N5IjoiYXV0byIsImFk
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#Channel%20:%20@v2ray_cartel%20%F0%9F%8F%B4%F0%9F%8F%B3
 vmess://eyJpZCI6IjVkN2JmOWUzLTQ…
 vless://d36f457f-17a9-4891-a113-322ec6792917@m24a.vip784.com:33801?type=tcp&amp;headerType=http&amp;host=varzesh3.ir&amp;security=none#Channel%20:%20@v2ray_cartel%20%F0%9F%8F%B4%F0%9F%8F%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@V2ray_cartel
+vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@V2ray_cartel
+vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@V2ray_cartel
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@V2ray_cartel
