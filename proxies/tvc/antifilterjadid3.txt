@@ -6,3 +6,5 @@ vless://354646e5-8e84-4672-8670-efc9cafcd2cc@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@207.90.239.80:808#Los%20Angeles
 vless://354646e5-8e84-4672-8670-efc9cafcd2cc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=flux.hostinshop.com&amp;fp=chrome&amp;type=ws&amp;sni=flux.hostinshop.com#C-Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@207.90.239.80:808#Los%20Angeles
+vless://354646e5-8e84-4672-8670-efc9cafcd2cc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=flux.hostinshop.com&amp;fp=chrome&amp;type=ws&amp;sni=flux.hostinshop.com#C-Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@207.90.239.80:808#Los%20Angeles
