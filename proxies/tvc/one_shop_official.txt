@@ -24,8 +24,6 @@ vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:3
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&amp;security=none&amp;encryption=none&amp;host=aio.loophole.Biz.iD&amp;type=ws#%40one_shop_official
 vless://93491e84-f8ec-463b-a43a-e5465f3fe056@164.138.202.139:10777?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40one_shop_official
 vless://bbacaf6d-292c-463a-ac31-98b02685e6b5@m78a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40one_shop_official
-vless://db410b91-9b50-47da-b73d-7283ff41e5cf@www.sp…
-vless://678a8311-6184-4a1f-a651-84be3cc82e37@ula347.tiri-viri.com:21275?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ula347.tiri-viri.com&amp;fp=chrome&amp;type=ws&amp;sni=ula347.tiri-viri.com#%40one_shop_official
 vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40one_shop_official%F0%9F%9A%80%F0%9F%A7%A1
 vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40one_shop_official%F0%9F%9A%80%F0%9F%A7%A1
 vless://a8fe5626-9930-43ad-a233-cfb7cf478441@164.138.202.139:10777?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%DB%8C%20%D9%BE%DB%8C%20%D8%A7%D9%86%3A%20%40one_shop_official_bot
@@ -42,6 +40,8 @@ vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:3
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&amp;security=none&amp;encryption=none&amp;host=aio.loophole.Biz.iD&amp;type=ws#%40one_shop_official
 vless://93491e84-f8ec-463b-a43a-e5465f3fe056@164.138.202.139:10777?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40one_shop_official
 vless://bbacaf6d-292c-463a-ac31-98b02685e6b5@m78a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40one_shop_official
+vless://db410b91-9b50-47da-b73d-7283ff41e5cf@www.sp…
+vless://678a8311-6184-4a1f-a651-84be3cc82e37@ula347.tiri-viri.com:21275?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ula347.tiri-viri.com&amp;fp=chrome&amp;type=ws&amp;sni=ula347.tiri-viri.com#%40one_shop_official
 vless://db410b91-9b50-47da-b73d-7283ff41e5cf@www.sp…
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@ula347.tiri-viri.com:21275?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ula347.tiri-viri.com&amp;fp=chrome&amp;type=ws&amp;sni=ula347.tiri-viri.com#%40one_shop_official
 vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWRiNDEzY2QtNDk2ZS00NjhlLWE2OGYtM2ZiYTBkYTRiN2M0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoiQG9uZV9zaG9wX29mZmljaWFsIiwic2N5IjoiYXV0byIsInN…
