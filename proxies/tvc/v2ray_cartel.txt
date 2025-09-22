@@ -2,10 +2,6 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@V2ray_cartel
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@V2ray_cartel
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16…
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.46.139:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@V2ray_cartel
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=ru.sfasti.ru&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;sid=16895459a2c7768d#@V2ray_cartel
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&amp;host=net2026.…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?type=ws&amp;host=aio.loophole.Biz.iD&amp;path=/aioproxybot/8.215.59.6-443&amp;security=none#@V2ray_cartel
@@ -65,6 +61,10 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?type=ws&amp;host=
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&amp;host=ftm2.gerlemondns.info&amp;path=/hjgfdws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&amp;security=tls&amp;fp=chrome&amp;sni=ftm2.gerlemondns.info#@v2ray_cartel%20%F0%9F%92%9C
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?type=tcp&amp;headerType=http&amp;host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none#@v2ray_cartel%20%F0%9F%92%99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348?type=tcp#@v2ray_cartel%20%F0%9F%92%99
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#All%D9%80@v2ray_cartel
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?type=xhttp&amp;mode=stream-one&amp;path=/sc&amp;security=none#wi-fi-@v2ray_cartel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#All%D9%80@v2ray_cartel
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?type=xhttp&amp;mode=stream-one&amp;path=/sc&amp;security=none#wi-fi-@v2ray_cartel
