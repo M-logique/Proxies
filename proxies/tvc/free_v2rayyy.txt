@@ -1,1 +1,4 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&amp;encryption=none&amp;type=grpc#با
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&amp;encryption=none&amp;type=grpc#با
+vless://a7e23700-cae4-4c3a-b128-7763ab72e544@cache.torplay.ir:443?security=tls&amp;encryption=none&amp;type=tcp&amp;host=uptvs.com&amp;path=/&amp;sni=thumbnails-01.torplay.ir&amp;fp=chrome&amp;headerType=http&amp;alpn=h2,h3,http/1.1#Channel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&amp;encryption=none&amp;type=grpc#با
