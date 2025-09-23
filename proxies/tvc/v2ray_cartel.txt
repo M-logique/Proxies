@@ -12,9 +12,6 @@ vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?type=ws&amp;host=a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#@V2ray_cartel
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&amp;host=net2026.zanddynastyofpersia.org&amp;path=/eJsVXFVZ6iavNx1EFxOyH861WH&amp;security=tls&amp;fp=chrome&amp;sni=net2026.zanddynastyofpersia.org#@V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#All%D9%80@v2ray_cartel
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?type=xhttp&amp;mode=stream-one&amp;path=/sc&amp;security=none#wi-fi-@v2ray_cartel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&amp;host=net2026.…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?type=ws&amp;host=aio.loophole.Biz.iD&amp;path=/aioproxybot/8.215.59.6-443&amp;security=none#@V2ray_cartel
@@ -23,6 +20,9 @@ vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a…
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348?type=tcp#@v2ray_cartel%20%F0%9F%92%99
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#All%D9%80@v2ray_cartel
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?type=xhttp&amp;mode=stream-one&amp;path=/sc&amp;security=none#wi-fi-@v2ray_cartel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#@V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?type=tcp#All%D9%80@v2ray_cartel
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?type=xhttp&amp;mode=stream-one&amp;path=/sc&amp;security=none#wi-fi-@v2ray_cartel
