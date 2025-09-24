@@ -30,14 +30,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.171:8080#%40rxv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#%40rxv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%40rxv2ray
+vless://b1a6f6aa-28d2-4493-93c6-862212a47c98@gem.talashit.com:8282?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.net.&amp;type=ws#%40rxv2ray
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.147.22:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.net.&amp;type=ws#%40rxv2ray
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%40rxv2ray
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
-vless://b1a6f6aa-28d2-4493-93c6-862212a47c98@gem.talashit.com:8282?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://7e794f8d-3438-4277-a77a-ffdfd1374ca4@185.146.173.39:2052?path=%2Fwsmmad&amp;security=none&amp;encryption=none&amp;host=Fn.lemoex.ir.&amp;type=ws#%40rxv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%40rxv2ray
