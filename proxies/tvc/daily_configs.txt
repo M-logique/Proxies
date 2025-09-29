@@ -1,12 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#%40Daily_Configs
-vless://1539d20f-1f6d-4cb1-bd8d-52d8bd85b493@zmaoz.faculty.ucdavis.edu:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=xiliunlimited.global.ssl.fastly.net&amp;type=xhttp#%40Daily_Configs
-vless://f94374aa-4781-4185-ac19-bee614d8d1f3@seminarsinmcb.faculty.ucdavis.edu:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=xiliunlimited.global.ssl.fastly.net&amp;type=xhttp#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=grpc#%40Daily_Configs
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@84.200.205.232:223?security=reality&amp;encryption=none&amp;pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=e41865e506628f44#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Daily_Configs
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss11957.tas-bazi.com:443?mode=stream-one&amp;path=%2Fsc&amp;security=none&amp;encryption=none&amp;type=xhttp#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?encryption=none&amp;security=none&amp;type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?encryption=none&amp;security=none&amp;fp=chrome&amp;type=grpc#%40Daily_Configs
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?encryption=none&amp;security=tls&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;type=ws&amp;path=%2F#%40Daily_Configs
@@ -97,6 +88,14 @@ vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?path=%2Fvless%2F&a
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%40Daily_Configs
 vmess://eyJhZGQiOiI5MS4xMzQuOC45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQERhaWx5X0NvbmZpZ3MiLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Daily_Configs
+vless://d4437242-7039-4e88-b83b-f383fa5ffda2@m57a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40Daily_Configs
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&amp;encryption=none&amp;pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e41865e506628f44#%40Daily_Configs
+vless://1fefef5b-39ab-4380-c5ed-fc87212f4f8e@154.9.254.63:25677?path=1fefef5b-39ab%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@500770.xyz:34074?security=reality&amp;encryption=none&amp;pbk=zimSAAs4SyUKAR-MTMaw08PuI7skyi1U5Peb6VGJwjY&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.ucla.edu&amp;sid=061cca24#%40Daily_Configs
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@176.126.111.10:1443?security=reality&amp;encryption=none&amp;pbk=QHkMTl1hdagEIqAb-o0UubqxctDrBUUYKQ2jawa6oX4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%40Daily_Configs
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@192.142.18.40:2589?security=reality&amp;encryption=none&amp;pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e41865e506628f44#%40Daily_Configs
+vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
+vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&amp;security=tls&amp;encryption=none&amp;type=ws#%40Daily_Configs
 vless://d4437242-7039-4e88-b83b-f383fa5ffda2@m57a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40Daily_Configs
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&amp;encryption=none&amp;pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e41865e506628f44#%40Daily_Configs
 vless://1fefef5b-39ab-4380-c5ed-fc87212f4f8e@154.9.254.63:25677?path=1fefef5b-39ab%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40Daily_Configs
