@@ -1,3 +1,5 @@
+vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir%2F&amp;headerType=http&amp;type=tcp#%40rxv2ray
+vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vless://FreakConfig@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://1526c286-123e-48b5-8c1f-ceb8ac28496b@104.16.3.245:8443?path=%2F15970%2FNextlife&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=n1wapp5.clockdeny2.eu&amp;fp=chrome&amp;type=ws#%40rxv2ray
@@ -35,8 +37,8 @@ vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQHJ4djJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@18.162.146.85:8313#%40rxv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%40rxv2ray
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=007.xingfu.qzz.io&amp;fp=random&amp;type=ws&amp;sni=007.xingfu.qzz.io#%40rxv2ray
+vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir%2F&amp;headerType=http&amp;type=tcp#%40rxv2ray
+vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vless://FreakConfig@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://1526c286-123e-48b5-8c1f-ceb8ac28496b@104.16.3.245:8443?path=%2F15970%2FNextlife&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=n1wapp5.clockdeny2.eu&amp;fp=chrome&amp;type=ws#%40rxv2ray
@@ -74,8 +76,8 @@ vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQHJ4djJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@18.162.146.85:8313#%40rxv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%40rxv2ray
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=007.xingfu.qzz.io&amp;fp=random&amp;type=ws&amp;sni=007.xingfu.qzz.io#%40rxv2ray
+vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir%2F&amp;headerType=http&amp;type=tcp#%40rxv2ray
+vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vless://FreakConfig@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://1526c286-123e-48b5-8c1f-ceb8ac28496b@104.16.3.245:8443?path=%2F15970%2FNextlife&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=n1wapp5.clockdeny2.eu&amp;fp=chrome&amp;type=ws#%40rxv2ray
@@ -113,8 +115,8 @@ vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQHJ4djJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@18.162.146.85:8313#%40rxv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%40rxv2ray
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=007.xingfu.qzz.io&amp;fp=random&amp;type=ws&amp;sni=007.xingfu.qzz.io#%40rxv2ray
+vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir%2F&amp;headerType=http&amp;type=tcp#%40rxv2ray
+vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vless://FreakConfig@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
 vless://1526c286-123e-48b5-8c1f-ceb8ac28496b@104.16.3.245:8443?path=%2F15970%2FNextlife&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=n1wapp5.clockdeny2.eu&amp;fp=chrome&amp;type=ws#%40rxv2ray
@@ -152,8 +154,8 @@ vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40rxv2ray
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQHJ4djJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@18.162.146.85:8313#%40rxv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%40rxv2ray
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=007.xingfu.qzz.io&amp;fp=random&amp;type=ws&amp;sni=007.xingfu.qzz.io#%40rxv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949279865777517.brussels-prx-dnraacr.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&amp;fp=chrome&amp;type=ws&amp;sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#%40rxv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://807b0166-9e81-45fe-bac9-e14b7f67e8bf@91.99.185.197:443?path=%2Flinkws%3Fed&amp;security=none&amp;encryption=none&amp;host=91.99.185.197&amp;type=ws#%40rxv2ray
@@ -192,5 +194,3 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&amp;secu
 vless://77b3bda7-4ee3-4c99-bad1-a935f7e027c8@deu316.unlocknet.org:443?security=reality&amp;encryption=none&amp;pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.bing.com#%40rxv2ray
 vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&amp;encryption=none&amp;pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.sfasti.ru&amp;sid=16895459a2c7768d#%40rxv2ray
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40rxv2ray
-vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir%2F&amp;headerType=http&amp;type=tcp#%40rxv2ray
-vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&amp;host=freakconfig.snapfood.org&amp;fp=firefox&amp;spx=%2F&amp;type=xhttp&amp;sni=refersion.com&amp;sid=6993f143e90756#%40rxv2ray
