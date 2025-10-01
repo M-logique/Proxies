@@ -2,7 +2,6 @@ vless://cf556419-247c-4d04-969e-8742b836f364@netherlanda.motorbazan.com:8443?sec
 vless://cf556419-247c-4d04-969e-8742b836f364@netherlanda.motorbazan.com:8443?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=stackoverflow.com&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;headerType=none#Telegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&amp;encryption=none&amp;type=grpc#با
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=fl.v2bazzar.ir&amp;sni=fl.v2bazzar.ir&amp;fp=#Telegram:@free_v2rayyy
-vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=fl.v2bazzar.ir&amp;sni=fl.v2bazzar.ir&amp;fp=#Telegram:@free_v2rayyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#Telegram:@free_v2rayyy
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&amp;security=&amp;encryption=none&amp;host=%2F%3F%40&amp;type=ws#Telegram:@free_v2rayyy
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&amp;security=&amp;encryption=none&amp;host=%2F%3F%40&amp;type=ws#Telegram:@free_v2rayyy
@@ -14,6 +13,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&a
 vless://cf556419-247c-4d04-969e-8742b836f364@netherlanda.motorbazan.com:8443?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=stackoverflow.com&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;headerType=none#Telegram…
 vless://cf556419-247c-4d04-969e-8742b836f364@netherlanda.motorbazan.com:8443?security=reality&amp;encryption=none&amp;type=tcp&amp;sni=stackoverflow.com&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;headerType=none#Telegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&amp;encryption=none&amp;type=grpc#با
+vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=fl.v2bazzar.ir&amp;sni=fl.v2bazzar.ir&amp;fp=#Telegram:@free_v2rayyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#Telegram:@free_v2rayyy
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&amp;security=&amp;encryption=none&amp;host=%2F%3F%40&amp;type=ws#Telegram:@free_v2rayyy
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&amp;security=&amp;encryption=none&amp;host=%2F%3F%40&amp;type=ws#Telegram:@free_v2rayyy
