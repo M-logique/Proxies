@@ -43,7 +43,6 @@ vless://063ce04e-6852-4d79-9bbb-0bd2fcad08bc@de.camdvt.com:2052?headerType=http&
 vless://063ce04e-6852-4d79-9bbb-0bd2fcad08bc@de.camdvt.com:2052?headerType=http&amp;host=telewebion.com&amp;path=%2F&amp;security=none&amp;type=tcp#Telegram:@free_v2rayyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg%3D@62.60.233.233:443#Telegram:@free_v2rayyy
 vless://b1db6b35-f446-4c7f-bd7b-335147c7d7de@melodybuy.shop:47470?encryption=none&amp;security=none&amp;type=tcp#Telegram:@free_v2rayyy
-vless://b1db6b35-f446-4c7f-bd7b-335147c7d7de@melodybuy.shop:47470?encryption=none&amp;security=none&amp;type=tcp#Telegram:@free_v2rayyy
 vless://turboo-server@95.111.204.150:8443?path=%2FTurboo-Server&amp;security=none&amp;encryption=none&amp;type=ws#Telegram:@free_v2rayyy
 vless://turboo-server@95.111.204.150:8443?path=%2FTurboo-Server&amp;security=none&amp;encryption=none&amp;type=ws#Telegram:@free_v2rayyy
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=D0dTpVg4Z3.sOlEnTrAa.InFo&amp;fp=chrome&amp;type=ws&amp;sni=D0dTpVg4Z3.sOlEnTrAa.InFo#Channel:@free_v2rayyy
