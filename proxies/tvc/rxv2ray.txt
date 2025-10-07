@@ -1,3 +1,5 @@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40rxv2ray
+vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&amp;path=%2Frty&amp;security=none&amp;encryption=none&amp;type=xhttp#%40rxv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://4deaf1e4-06fe-48ab-b1fc-2852eb52abf8@46.101.184.50:24558?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
@@ -35,8 +37,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.bahareh.dpdns.org&amp;type=ws#%40rxv2ray
 vless://14b4a97c-0fd8-4ea0-9939-d9d7c8a2cd8b@dash.mamadpanelnew.ir:443?security=reality&amp;encryption=none&amp;pbk=r-Ds91L4Oo0czhcGYVhEQEffz4xft_VacMeoPJr9TnU&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=a5796b8c43f718#%40rxv2ray
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xMjgxNDAxMTIyMy5raGFzdGVobmFiYXNoaS5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9OQVNORVQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IkByeHYycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40rxv2ray
+vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&amp;path=%2Frty&amp;security=none&amp;encryption=none&amp;type=xhttp#%40rxv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://4deaf1e4-06fe-48ab-b1fc-2852eb52abf8@46.101.184.50:24558?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
@@ -74,8 +76,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.bahareh.dpdns.org&amp;type=ws#%40rxv2ray
 vless://14b4a97c-0fd8-4ea0-9939-d9d7c8a2cd8b@dash.mamadpanelnew.ir:443?security=reality&amp;encryption=none&amp;pbk=r-Ds91L4Oo0czhcGYVhEQEffz4xft_VacMeoPJr9TnU&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=a5796b8c43f718#%40rxv2ray
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xMjgxNDAxMTIyMy5raGFzdGVobmFiYXNoaS5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9OQVNORVQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IkByeHYycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40rxv2ray
+vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&amp;path=%2Frty&amp;security=none&amp;encryption=none&amp;type=xhttp#%40rxv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://4deaf1e4-06fe-48ab-b1fc-2852eb52abf8@46.101.184.50:24558?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
@@ -113,8 +115,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.bahareh.dpdns.org&amp;type=ws#%40rxv2ray
 vless://14b4a97c-0fd8-4ea0-9939-d9d7c8a2cd8b@dash.mamadpanelnew.ir:443?security=reality&amp;encryption=none&amp;pbk=r-Ds91L4Oo0czhcGYVhEQEffz4xft_VacMeoPJr9TnU&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=a5796b8c43f718#%40rxv2ray
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xMjgxNDAxMTIyMy5raGFzdGVobmFiYXNoaS5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9OQVNORVQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IkByeHYycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40rxv2ray
+vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&amp;path=%2Frty&amp;security=none&amp;encryption=none&amp;type=xhttp#%40rxv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://4deaf1e4-06fe-48ab-b1fc-2852eb52abf8@46.101.184.50:24558?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40rxv2ray
@@ -152,8 +154,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiranmahsang.bahareh.dpdns.org&amp;type=ws#%40rxv2ray
 vless://14b4a97c-0fd8-4ea0-9939-d9d7c8a2cd8b@dash.mamadpanelnew.ir:443?security=reality&amp;encryption=none&amp;pbk=r-Ds91L4Oo0czhcGYVhEQEffz4xft_VacMeoPJr9TnU&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=a5796b8c43f718#%40rxv2ray
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xMjgxNDAxMTIyMy5raGFzdGVobmFiYXNoaS5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9OQVNORVQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IkByeHYycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJAcnh2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434434528.neyshabur-drc-tusacaf.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40rxv2ray
 vless://5b9fb1fe-f919-426b-763c-55a5d9139e0e@khabar.motionbetter.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mimi-god.com.&amp;type=ws#%40rxv2ray
 vless://5b9fb1fe-f919-426b-763c-55a5d9139e0e@khabar.motionbetter.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mimi-god.com.&amp;type=ws#%40rxv2ray
 vless://5b9fb1fe-f919-426b-763c-55a5d9139e0e@khabar.motionbetter.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=mimi-god.com.&amp;type=ws#%40rxv2ray
@@ -192,5 +194,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&amp;s
 vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?path=%2Ffree&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=khtls.armin-website.com&amp;fp=chrome&amp;type=ws&amp;sni=khtls.armin-website.com#%40rxv2ray
 vless://031fe63c-f7da-40b7-960d-1101df6eda60@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&amp;security=none&amp;encryption=none&amp;host=Gn8656.io&amp;type=ws#%40rxv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#%40rxv2ray
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40rxv2ray
-vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%40rxv2ray
