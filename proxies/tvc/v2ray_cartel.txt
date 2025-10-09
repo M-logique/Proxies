@@ -59,6 +59,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=varzesh3.ir/?BIA_TELEGRAM@v2rayCartel&amp;security=none#@v2ray_cartel%20%F0%9F%A9%B5
 vless://78bce666-8294-4029-96d0-a54b8260d0b2@m38a.vip784.com:33801?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=varzesh3.ir/?BIA_TELEGRAM@v2rayCartel&amp;security=none#@v2ray_cartel%20%F0%9F%87%A7%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;authority=/?BIA_TELEGRAM@v2rayCartel&amp;security=none#@v2ray_cartel%20%F0%9F%A9%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#IR-@v2ray_cartel
+vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?encryption=none&amp;type=xhttp&amp;mode=auto&amp;path=/#V2ray_cartel
+vmess://eyJwYXRoIjoibGlua3Z3cyIsInBzIjoiTUNJLSU0MHYycmF5X2NhcnRlbCIsInNjeSI6ImF1dG8iLCJwb3J0IjoiNDQzIiwidGxzIjoidGxzIiwiaG9zdCI6ImthbXBvbmcub3JnIiwibmV0Ijoid3MiLCJhZGQiOiI1Ny4xMjkuMjguMjE0Iiwic25pIjoia2FtcG9uZy5vcmciLCJhbHBuIjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEifQ==
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?encryption=none&amp;type=ws&amp;path=/&amp;security=none#IR-@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#IR-@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080?type=tcp#IR-@v2ray_cartel
