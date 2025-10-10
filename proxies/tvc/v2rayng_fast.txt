@@ -12,7 +12,6 @@ vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;p
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&amp;encryption=none&amp;pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dl.google.com&amp;sid=0ecc2c1392#%F0%9F%87%AE%F0%9F%87%B9%40%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%D8%AF
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=cloudflare.com&amp;sid=354b9cbe48#%40
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&amp;encryption=none&amp;type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%40
@@ -27,7 +26,6 @@ vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;p
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&amp;encryption=none&amp;pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dl.google.com&amp;sid=0ecc2c1392#%F0%9F%87%AE%F0%9F%87%B9%40%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%D8%AF
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=cloudflare.com&amp;sid=354b9cbe48#%40
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&amp;encryption=none&amp;type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%40
@@ -42,7 +40,6 @@ vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;p
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&amp;encryption=none&amp;pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dl.google.com&amp;sid=0ecc2c1392#%F0%9F%87%AE%F0%9F%87%B9%40%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%D8%AF
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=cloudflare.com&amp;sid=354b9cbe48#%40
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&amp;encryption=none&amp;type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%40
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#%40
@@ -57,7 +54,7 @@ vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;p
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&amp;encryption=none&amp;pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dl.google.com&amp;sid=0ecc2c1392#%F0%9F%87%AE%F0%9F%87%B9%40%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%D8%AF
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=cloudflare.com&amp;sid=354b9cbe48#%40
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
+vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40
 vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%40
