@@ -19,6 +19,9 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#All--@v2ray_cartel
 vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?encryption=none&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=chess.com&amp;pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&amp;sid=4d01fba3#MCI-@v2ray_cartel
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#All--@v2ray_cartel
+vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?encryption=none&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=chess.com&amp;pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&amp;sid=4d01fba3#MCI-@v2ray_cartel
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#IR-@v2ray_cartel
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;type=ws&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=mooz.rtxiran.info&amp;alpn=h2,http/1.1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20@V2ray_cartel
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
@@ -48,9 +51,6 @@ vmess://eyJzY3kiOiJhdXRvIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#All--@v2ray_cartel
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#All--@v2ray_cartel
-vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?encryption=none&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=chess.com&amp;pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&amp;sid=4d01fba3#MCI-@v2ray_cartel
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#All--@v2ray_cartel
 vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?encryption=none&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=chrome&amp;sni=chess.com&amp;pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&amp;sid=4d01fba3#MCI-@v2ray_cartel
