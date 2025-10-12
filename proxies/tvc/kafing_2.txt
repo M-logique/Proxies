@@ -55,6 +55,12 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mod
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@KAFING_2
+vless://d36f457f-17a9-4891-a113-322ec6792917@m24a.vip784.com:33801?type=tcp&amp;headerType=http&amp;host=varzesh3.ir&amp;security=none#@KAFING_2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
@@ -100,12 +106,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?type=ws&amp;host=c
 vless://3f042483-c71c-40cc-a4b7-d79f80db4253@91.107.243.238:2025?type=grpc&amp;mode=gun&amp;serviceName=Telegram%20:%20@PouRia_Cheat&amp;security=reality&amp;fp=chrome&amp;sni=www.cloudflare.com&amp;pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&amp;sid=8d9c20be72b4#@KAFING_2
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?type=tcp&amp;headerType=none&amp;security=none#@KAFING_2
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&amp;host=zoomgov.vipren.biz.id&amp;path=/193.123.81.105%3D443&amp;security=none#@KAFING_2
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?type=xhttp&amp;mode=stream-one&amp;path=/rf&amp;security=none#@KAFING_2
-vless://d36f457f-17a9-4891-a113-322ec6792917@m24a.vip784.com:33801?type=tcp&amp;headerType=http&amp;host=varzesh3.ir&amp;security=none#@KAFING_2
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#@KAFING_2
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&amp;mode=gun&amp;authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&amp;security=none#@KAFING_2
