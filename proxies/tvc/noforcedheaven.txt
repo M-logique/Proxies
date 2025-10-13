@@ -55,7 +55,7 @@ vless://ed8e4525-2d90-4a22-aa04-6d08efa0041a@151.101.3.8:80?mode=auto&amp;path=%
 vless://0b4e0f6a-98a2-468a-910f-4a0b3fbeec36@151.101.3.8:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=hopeforall.com.global.prod.fastly.net&amp;type=xhttp#%40NoForcedHeaven3
 vless://c10a3651-7fbc-4bb0-877d-edf83de02492@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=hopeforall.com.global.prod.fastly.net&amp;type=xhttp#%40NoForcedHeaven2
 vless://8abcc779-f492-4961-a2c4-e6798317335f@151.101.3.8:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=hopeforall.com.global.prod.fastly.net&amp;type=xhttp#%40NoForcedHeaven
-vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=android&amp;type=tcp&amp;sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7
+vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7
 vless://9cf69f8e-893e-4a99-aa5f-a9d330f97b06@23.94.206.70:8080?path=%2FFasSoortbhhPssnvfsgnq%40ed%3D2560&amp;security=&amp;encryption=none&amp;type=ws#%40NoForcedHeaven%F0%9F%87%BA%F0%9F%87%B8
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=android&amp;type=tcp#%40NoForcedHeaven%F0%9F%87%B3%F0%9F%87%B1
 vless://49ac7381-1c06-4d80-9b57-e0484c2607b0@194.116.216.21:8080?type=xhttp&amp;encryption=none&amp;path=%2FrwtjhkOSFVOgw&amp;host=&amp;mode=auto&amp;security=none#%40NoForcedHeaven
