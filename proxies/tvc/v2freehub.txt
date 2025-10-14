@@ -114,6 +114,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.194:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
+vless://ef7a4002007343778d561fd6ba07d46c@104.21.10.181:443?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&amp;security=tls&amp;encryption=none&amp;host=gamang.gpj1.dpdns.org&amp;type=ws&amp;sni=gamang.gpj1.dpdns.org#%5B%40v2FreeHub%5D%20%F0%9F%87%A9%F0%9F%87%AA%20-%20WS%20TLS
+vless://ef7a4002007343778d561fd6ba07d46c@104.21.10.181:80?path=%2FFree-VPN-Geo-Project%2F80.66.85.115-2053&amp;security=none&amp;encryption=none&amp;host=gamang.gpj1.dpdns.org&amp;type=ws#%5B%40v2FreeHub%5D%20%F0%9F%87%A9%F0%9F%87%AA%20-%20WS%20NTLS
 vless://5f4523e4e0144ec9ac007962af134841@172.67.190.194:443?path=%2FFree-VPN-Geo-Project%2F85.237.211.59-8443&amp;security=tls&amp;encryption=none&amp;host=gamang.gpj1.dpdns.org&amp;type=ws&amp;sni=gamang.gpj1.dpdns.org#%5B%40v2FreeHub%5D%20%F0%9F%87%A6%F0%9F%87%AA%20-%20WS%20TLS
 vless://5f4523e4e0144ec9ac007962af134841@172.67.190.194:80?path=%2FFree-VPN-Geo-Project%2F85.237.211.59-8443&amp;security=none&amp;encryption=none&amp;host=gamang.gpj1.dpdns.org&amp;type=ws#%5B%40v2FreeHub%5D%20%F0%9F%87%A6%F0%9F%87%AA%20-%20WS%20NTLS
 vless://28510bf1234f41f38e09db76a9f2c471@104.21.10.181:80?path=%2FFree-VPN-Geo-Project%2F181.214.208.46-8010&amp;security=none&amp;encryption=none&amp;host=gamang.gpj1.dpdns.org&amp;type=ws#%5B%40v2FreeHub%5D%20%F0%9F%87%B3%F0%9F%87%B1%20-%20WS%20NTLS
