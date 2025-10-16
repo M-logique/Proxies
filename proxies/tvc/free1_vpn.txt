@@ -368,6 +368,7 @@ vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&amp
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=GgGgr.PaGES.dEV&amp;fp=chrome&amp;type=ws&amp;sni=GgGgr.PaGES.dEV#%40V2ray1_Ng
 vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.85.29:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=sni.aizrf.com&amp;fp=chrome&amp;type=ws&amp;sni=sni.aizrf.com#%40V2ray1_Ng
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#%40V2ray1_Ng
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=edc32e3b.bpb-panel-en-87s.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=edc32e3b.bpb-panel-en-87s.pages.dev#%40V2ray1_Ng
