@@ -106,6 +106,7 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&amp;type=ws&amp;host=crazy-identity.oneeat.co&amp;path=/&amp;security=none#MCI-@v2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#IR-@v2ray_cartel
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;type=ws&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=mooz.rtxiran.info&amp;alpn=h2,http/1.1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20@V2ray_cartel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel
 vmess://eyJ0eXBlIjoiaHR0cCIsIm5ldCI6InRjcCIsImFkZCI6IjQ2LjYyLjIxNC4yMjgiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiJcLyIsImlkIjoiYzk1ZTcwMWYtMGY0NS00MGRkLTlmZDYtYmU1ZTQ1ZWY2Mjc1Iiwic2N5IjoiYXV0byIsInBvcnQiOiI4MDgxIiwicHMiOiIlNDB2MnJheV9jYXJ0ZWwifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUnJ5cjVVdU5sc0lwUkVRclNKUVNR@46.62.214.228:1080?type=tcp#@v2ray_cartel
 vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?encryption=none&amp;type=ws&amp;path=/&amp;security=tls&amp;sni=cyrus.v2bazzar.ir#@v2ray_cartel
