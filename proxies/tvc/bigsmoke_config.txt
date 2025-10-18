@@ -1,7 +1,7 @@
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#🇩🇪All⁴
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h3&amp;host=vless10-9sc.pages.dev&amp;fp=chrome&amp;allowinsecure=0&amp;type=ws&amp;sni=vless10-9sc.pages.dev#🇩🇪All⁴
-vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇩🇪All²
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#🇩🇪All¹
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=kawaiifreevpn-7ds.pages.dev&amp;fp=random&amp;allowinsecure=0&amp;type=ws&amp;sni=kawaiifreevpn-7ds.pages.dev#🇩🇪All⁴
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#🇩🇪All³
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#🇩🇪All²
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#I🇩🇪All¹
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?path=%2FFree-CF-Proxy-AE19&amp;security=tls&amp;encryption=none&amp;host=freexxx.xhamster.biz.id&amp;allowinsecure=0&amp;type=ws&amp;sni=freexxx.xhamster.biz.id#🇩🇪All⁴
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇩🇪All³
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=%2FKvNugxSUpljMOjgF%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=invincible.fafa20.shop&amp;fp=randomized&amp;allowinsecure=0&amp;type=ws&amp;sni=InviNCIble.FAfA20.shOP#🇩🇪All²
